@@ -1,6 +1,6 @@
 # Continuous Delivery Foundation Landscape
 
-![CDF Landscape Logo](https://raw.githubusercontent.com/cdfoundation/artwork/master/cdf/icon/color/cdf-icon-color.svg)
+![CDF Landscape Logo](https://github.com/cdfoundation/artwork/raw/master/cdf/stacked/color/cdf-stacked-color.png)
 
 - [CDF Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
