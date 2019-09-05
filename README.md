@@ -86,7 +86,7 @@ The update server enhances the source data with the fetched data and saves the r
 As explained at https://bestpractices.coreinfrastructure.org/:
 >The Linux Foundation (LF) Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice. The CII Best Practices Badge is inspired by the many badges available to projects on GitHub. Consumers of the badge can quickly assess which FLOSS projects are following best practices and as a result are more likely to produce higher-quality secure software.
 
-The interactive landscape displays the status (or non-existence) of a badge for each open-source project. There's also a feature not available through the filter bar to see all items [with](https://landscape.lfdl.io/bestpractices=yes) and [without](https://landscape.lfai.foundation/bestpractices=no) badges. Note that a passing badge is a requirement for projects to [graduate](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) in the CNCF.
+The interactive landscape displays the status (or non-existence) of a badge for each open-source project. There's also a feature not available through the filter bar to see all items [with](https://landscape.cd.foundation/bestpractices=yes) and [without](https://landscape.cd.foundation/bestpractices=no) badges. Note that a passing badge is a requirement for projects to [graduate](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) in the CDF.
 
 ## Non-Updated Items
 
@@ -104,18 +104,18 @@ Everything else is under the Apache License, Version 2.0, except for project and
 
 ## Formats
 
-The LFAI Landscape is available in these formats:
+The CDF Landscape is available in these formats:
 
-* [PNG](https://landscape.lfai.foundation/images/landscape.png)
-* [PDF](https://landscape.lfai.foundation/images/landscape.pdf)
+* [PNG](https://landscape.cd.foundation/images/landscape.png)
+* [PDF](https://landscape.cd.foundation/images/landscape.pdf)
 
 ## Installation
 
 You can install and run locally with the [install directions](INSTALL.md). It's not necessary to install locally if you just want to edit [landscape.yml](landscape.yml). You can do so via the GitHub web interface.
 
-## Vulnerability reporting
+## Issue and Vulnerability reporting
 
-Please open an [issue](https://github.com/cncf/landscape/issues/new) or, for sensitive information, email info@cncf.io.
+Please open an [issue](https://github.com/cdf/landscape/issues/new) or, for sensitive information, email info@cncf.io.
 
 ## Adjusting the Landscape View
 The file src/components/MainContent2.js describes the key elements of a
