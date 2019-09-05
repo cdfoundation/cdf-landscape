@@ -1,0 +1,239 @@
+global:
+  name: Continuous Delivery Interactive Landscape
+  short_name: CDF
+  repo: cdfoundation/landscape
+  website: 'https://landscape.cd.foundation'
+  short_domain: l.cd.foundation
+  company_url: 'https://cd.foundation'
+  email: info@cd.foundation
+  meta:
+    title: Continuous Delivery Landscape
+    fb_admin: alex.contini.94
+    description: 'Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets'
+    twitter: '@CDeliveryFdn'
+    google_site_verification: x3QPMhFwxg1ZMS9tlhhgwIJKokbEkt1zByMLMXiqnds
+    ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
+  flags:
+    cncf_sandbox: false
+    companies: CDF Member Company
+twitter:
+  search: landscape.cd.foundation
+  url: 'https://landscape.cd.foundation'
+  text: CDF Landscape from @CDeliveryFdn
+relation:
+  label: CDF Relation
+  url: lfai
+  values:
+    - id: hosted
+      label: CDF Projects
+      children:
+        - id: graduated
+          label: Graduated CDF Projects
+          prefix: CDF
+          tag: Graduated
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: CDF Graduated
+          big_picture_color: 'rgb(24,54,114)'
+        - id: incubating
+          label: Incubating CDF Projects
+          prefix: CDF
+          tag: Incubating
+          color: '#00cbff'
+          big_picture_order: 2
+          big_picture_label: CDF Incubating
+          big_picture_color: 'rgb(83, 113, 189)'
+    - id: company
+      label: CDF Members
+      tag: Company
+      big_picture_order: 3
+    - id: member
+      label: CDF Member Products/Projects
+      tag: CDF Member
+    - id: false
+      label: Non-CDF Member Products/Projects
+      url: 'no'
+membership:
+  premier:
+    name: CDF
+    label: Premier Member
+    funding: Premier
+  general:
+    name: CDF
+    label: Member
+    funding: General
+  'false':
+    funding: 'No'
+home:
+  header: >
+    <h1>Continuous Delivery Foundation Interactive Landscape</h1> The Continuous Delivery Foundation landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
+    href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a href="http://landscape.cncf.io">CNCF landscape</a> and based
+    on the same open source code.
+  footer: |
+    Crunchbase data is used under license from Crunchbase to CNCF.
+ads:
+  - url: 'https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/?utm_source=lfdl_landscape&utm_medium=web&utm_campaign=kccncna19'
+    image: /images/info1.jpg
+  - url: 'https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/?utm_source=cncf_landscape&utm_medium=web&utm_campaign=kccnceu20'
+    image: /images/info2.jpg
+presets:
+  - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
+    label: Open source cards by age
+  - url: /license=apache-license-2-0
+    label: Apache-2.0 landscape
+  - url: /format=card-mode&grouping=category
+    label: Cards in categories
+  - url: /format=card-mode&grouping=no&sort=stars
+    label: Cards by stars
+  - url: /format=card-mode&grouping=headquarters
+    label: Group by location
+  - url: /format=card-mode&grouping=no&sort=amount
+    label: Cards by MCap/Funding
+big_picture:
+  main:
+    tab_index: -1
+    url: landscape
+    name: Landscape
+    title: Linux Foundation CI/CD Landscape
+    fullscreen_header: See the interactive landscape at l.cd.foundation
+    method: getGroupedItemsForCncfBigPicture
+    size:
+      width: 1115
+      height: 770
+    fullscreen_size:
+      width: 1155
+      height: 840
+    elements:
+      - type: HorizontalCategory
+        category: Machine Learning
+        rows: 3
+        width: 380
+        height: 160
+        top: 0
+        left: 0
+        color: 'rgb(78,171,207)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Deep Learning
+        rows: 3
+        width: 425
+        height: 160
+        top: 0
+        left: 400
+        color: 'rgb(104, 145, 145)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Notebook Environment
+        rows: 3
+        width: 125
+        height: 160
+        top: 0
+        left: 845
+        color: 'rgb(43, 142, 136)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Reinforcement Learning
+        rows: 4
+        width: 125
+        height: 160
+        top: 0
+        left: 990
+        color: 'rgb(124, 200, 182)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Distributed Computing
+        rows: 3
+        width: 300
+        height: 160
+        top: 190
+        left: 0
+        color: 'rgb(64, 89, 163)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Data
+        rows: 3
+        width: 795
+        height: 160
+        top: 190
+        left: 320
+        color: 'rgb(74, 131, 104)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: AI Ethics & Fairness
+        rows: 3
+        width: 155
+        height: 160
+        top: 380
+        left: 0
+        color: 'rgb(142, 209, 216)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Natural Language Processing
+        rows: 4
+        width: 200
+        height: 160
+        top: 380
+        left: 175
+        color: 'rgb(64, 89, 163)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Model
+        rows: 4
+        width: 720
+        height: 160
+        top: 380
+        left: 395
+        color: 'rgb(108, 135, 75)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: CDF Member Company
+        rows: 6
+        width: 730
+        height: 200
+        top: 570
+        left: 0
+        color: 'rgb(124, 200, 182)'
+        fit_width: true
+      - type: LandscapeInfo
+        width: 365
+        height: 200
+        top: 570
+        left: 750
+        children:
+          - type: text
+            text: >
+              This landscape is intended as a map to explore open source CI/CD projects,
+              and also shows the member companies of the CD Foundation.
+            top: 45
+            left: 100
+            right: 120
+            font_size: 10
+          - type: image
+            image: qr.svg
+            top: 40
+            left: 5
+            width: 90
+            height: 90
+          - type: title
+            title: l.cd.foundation
+            top: 129
+            left: 9
+            font_size: 12
+          - type: image
+            image: left-logo.svg
+            width: 110
+            right: 5
+            top: 45
+          - type: image
+            image: right-logo.svg
+            width: 109
+            right: 5
+            top: 85
+test:
+  header: Continuous Delivery Foundation Interactive Landscape
+  section: Graduated CDF Projects
+  logo: acumos.svg
+update_server:
+  ip: 147.75.106.211
+  update_hour: 0
+  update_minute: 0
