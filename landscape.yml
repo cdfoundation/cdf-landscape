@@ -1,7 +1,8 @@
 landscape:
  - category:
    name: Continuous Delivery Pipeline Orchestration
-    - subcategory
+   subcategories:
+    - subcategory:
       name: Traditional
       items: 
           - item:
@@ -37,7 +38,7 @@ landscape:
             logo: jfrog.svg
             twitter: 'https://twitter.com/beshippable'
             crunchbase: 'https://www.crunchbase.com/organization/jfrog-ltd'
-    - subcategory
+    - subcategory:
       name: Cloud Native
       items: 
           - item:
@@ -45,7 +46,7 @@ landscape:
             homepage_url: 'https://www.armory.io/'
             logo: 'https://www.cncf.io/wp-content/uploads/2018/08/armory.svg'
             crunchbase: 'https://www.crunchbase.com/organization/armory'
-            - item:
+          - item:
             name: OpsMX (member)
             homepage_url: 'https://www.opsmx.com'
             logo: opsmx.svg
@@ -67,7 +68,7 @@ landscape:
  - category:
    name: Continuous Delivery Automation
    subcategories:
-    - subcategory
+    - subcategory:
       name: Continuous Integration
       items: 
           - item:
@@ -84,7 +85,7 @@ landscape:
             logo: jenkins-x.svg
             twitter: 'https://twitter.com/jenkinsxio'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
-    - subcategory
+    - subcategory:
       name: Test Automation
       items:
         - item:
@@ -93,7 +94,7 @@ landscape:
           logo: ibm-cloud.svg
           twitter: 'https://twitter.com/IBMcloud'
           crunchbase: 'https://www.crunchbase.com/organization/ibm'
-    - subcategory
+    - subcategory:
       name: Release Automation
       items: 
         - item:
@@ -120,7 +121,7 @@ landscape:
           logo:  ibm-cloud.svg           
           twitter: 'https://twitter.com/IBMcloud'
           crunchbase: 'https://www.crunchbase.com/organization/ibm'
-    - subcategory
+    - subcategory:
       name: Build Automation  
       items:
         - item: 
@@ -132,7 +133,7 @@ landscape:
  - category:
    name: Component Sharing and Library Management
    subcategories:
-    - subcategory
+    - subcategory:
       name: Componet Sharing
       items: 
        - item:
@@ -140,8 +141,8 @@ landscape:
          homepage_url: 'https://www.deployhub.com/'
          logo: deploy-hub.svg
          twitter: 'https://twitter.com/DeployHubProj'
-          crunchbase: 'https://www.crunchbase.com/organization/deployhub' 
-    - subcategory
+         crunchbase: 'https://www.crunchbase.com/organization/deployhub' 
+    - subcategory:
       name: Library Management
       items: 
         - item:
@@ -158,6 +159,7 @@ landscape:
           crunchbase: 'https://www.crunchbase.com/organization/sonatype'
  - category:
    name: Infrastructure Deployments, Container Registry, Application Definition and Image Build
+   subcategories:
     - subcategory:
       name: Infrastrucutre Deployments
       items:
@@ -218,20 +220,20 @@ landscape:
     - subcategory:
       name: Application Definition and Image Build
       items:
-         - item:
+          - item:
             name: DeployHub (member)
             homepage_url: 'https://www.deployhub.com/'
             logo: deploy-hub.svg
             twitter: 'https://twitter.com/DeployHubProj'
             crunchbase: 'https://www.crunchbase.com/organization/deployhub'
-         - item:
+          - item:
             name: Docker Compose
             homepage_url: 'https://docs.docker.com/compose/'
             repo_url: 'https://github.com/docker/compose'
             logo: docker-compose.svg
             twitter: 'https://twitter.com/moby'
             crunchbase: 'https://www.crunchbase.com/organization/docker'
-        - item:
+          - item:
             name: Helm
             homepage_url: 'https://helm.sh/'
             project: incubating
@@ -241,10 +243,11 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
  - category:
    name: DevSecOps
+   subcategories:
      - subcategory:
        name: DevSecOps     
        items:
-         - item:
+          - item:
             name: Anchore (member)
             homepage_url: 'https://anchore.com/enterprise/'
             repo_url: 'https://github.com/anchore/anchore-engine'
@@ -257,7 +260,7 @@ landscape:
             logo: snyk.svg
             twitter: 'https://twitter.com/snyksec'
             crunchbase: 'https://www.crunchbase.com/organization/snyk'
-         - item:
+          - item:
             name: Sumo Logic (member)
             homepage_url: 'https://www.sumologic.com/'
             logo: sumologic.svg
@@ -267,7 +270,7 @@ landscape:
             homepage_url: 'https://sysdig.com'
             logo: 'https://www.cncf.io/wp-content/uploads/2016/09/sysdig-1.svg'
             crunchbase: 'https://www.crunchbase.com/organization/sysdig'
-         - item:
+          - item:
             name: WhiteSource (member)
             homepage_url: 'https://www.whitesourcesoftware.com/'
             logo: whitesource.svg
