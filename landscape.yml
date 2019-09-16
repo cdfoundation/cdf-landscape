@@ -156,6 +156,12 @@ landscape:
           logo: sonatype.svg
           twitter: 'https://twitter.com/sonatype'
           crunchbase: 'https://www.crunchbase.com/organization/sonatype'
+        - item:
+          name: WhiteSource (member)
+          homepage_url: 'https://www.whitesourcesoftware.com/'
+          logo: whitesource.svg
+          twitter: 'https://twitter.com/WhiteSourceSoft'
+          crunchbase: 'https://www.crunchbase.com/organization/white-source'
  - category:
    name: Infrastructure Deployments, Container Registry, Application Definition and Image Build
     - subcategory:
@@ -240,9 +246,9 @@ landscape:
             twitter: 'https://twitter.com/helmpack'
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
  - category:
-   name: DevSecOps
+   name: DevSecOps, Analytics and Monitoring
      - subcategory:
-       name: DevSecOps     
+       name: Container Security    
        items:
          - item:
             name: Anchore (member)
@@ -251,28 +257,25 @@ landscape:
             logo: anchore.svg
             twitter: 'https://twitter.com/anchore'
             crunchbase: 'https://www.crunchbase.com/organization/anchore-inc'
-          - item:
+         - item:
             name: Snyk (member)
             homepage_url: 'https://snyk.io/'
             logo: snyk.svg
             twitter: 'https://twitter.com/snyksec'
             crunchbase: 'https://www.crunchbase.com/organization/snyk'
          - item:
-            name: Sumo Logic (member)
-            homepage_url: 'https://www.sumologic.com/'
-            logo: sumologic.svg
-            crunchbase: 'https://www.crunchbase.com/organization/sumo-logic'
-          - item:
             name: Sysdig (member)
             homepage_url: 'https://sysdig.com'
             logo: 'https://www.cncf.io/wp-content/uploads/2016/09/sysdig-1.svg'
             crunchbase: 'https://www.crunchbase.com/organization/sysdig'
+     - subcategory:
+       name: Analytics and Monitoring    
+       items:
          - item:
-            name: WhiteSource (member)
-            homepage_url: 'https://www.whitesourcesoftware.com/'
-            logo: whitesource.svg
-            twitter: 'https://twitter.com/WhiteSourceSoft'
-            crunchbase: 'https://www.crunchbase.com/organization/white-source'
+            name: Sumo Logic (member)
+            homepage_url: 'https://www.sumologic.com/'
+            logo: sumologic.svg
+            crunchbase: 'https://www.crunchbase.com/organization/sumo-logic'  
  - category:
    name: CDF Members
    subcategories:
