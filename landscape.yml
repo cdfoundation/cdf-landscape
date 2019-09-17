@@ -7,7 +7,7 @@ landscape:
           - item:
             name: CircleCI (member)
             homepage_url: 'https://circleci.com/'
-            logo: circle-ci.svg
+            logo: circleci.svg
             twitter: 'https://twitter.com/circleci'
             crunchbase: 'https://www.crunchbase.com/organization/circle-ci'
           - item:
@@ -43,7 +43,7 @@ landscape:
           - item:
             name: Armory (member)
             homepage_url: 'https://www.armory.io/'
-            logo: 'https://www.cncf.io/wp-content/uploads/2018/08/armory.svg'
+            logo: armory.svg
             crunchbase: 'https://www.crunchbase.com/organization/armory'
             - item:
             name: OpsMX (member)
@@ -147,7 +147,7 @@ landscape:
         - item:
           name: JFrog Artifactory (member)
           homepage_url: 'https://jfrog.com/artifactory/'
-          logo: j-frog-artifactory.svg
+          logo: jfrog.svg
           twitter: 'https://twitter.com/jfrog'
           crunchbase: 'https://www.crunchbase.com/organization/jfrog-ltd'
         - item:
@@ -175,7 +175,7 @@ landscape:
           - item:
             name: Alibaba Cloud (member)
             homepage_url: 'https://us.alibabacloud.com/'
-            logo: 'https://www.cncf.io/wp-content/uploads/2017/06/alibaba-cloud-01.svg'
+            logo: alibaba.svg
             crunchbase: 'https://www.crunchbase.com/organization/alibaba-cloud'
           - item:
             name: Ansible (member)
@@ -204,7 +204,7 @@ landscape:
           - item:
             name: Rancher Labs (member)
             homepage_url: 'https://rancher.com'
-            logo: 'https://www.cncf.io/wp-content/uploads/2016/09/rancher.svg'
+            logo: rancher.svg
             crunchbase: 'https://www.crunchbase.com/organization/rancher-labs'
     - subcategory:
       name: Container Registry
@@ -212,7 +212,7 @@ landscape:
           - item:
             name: JFrog Artifactory (member)
             homepage_url: 'https://jfrog.com/artifactory/'
-            logo: j-frog-artifactory.svg
+            logo: jfrog.svg
             twitter: 'https://twitter.com/jfrog'
             crunchbase: 'https://www.crunchbase.com/organization/jfrog-ltd'
           - item:
@@ -227,7 +227,7 @@ landscape:
          - item:
             name: DeployHub (member)
             homepage_url: 'https://www.deployhub.com/'
-            logo: deploy-hub.svg
+            logo: deployhub.svg
             twitter: 'https://twitter.com/DeployHubProj'
             crunchbase: 'https://www.crunchbase.com/organization/deployhub'
          - item:
@@ -245,6 +245,11 @@ landscape:
             logo: helm.svg
             twitter: 'https://twitter.com/helmpack'
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+        - item:
+            name: RedHat (member)
+            homepage_url: 'https://www.redhat.com/en'
+            logo: redhat.svg
+            crunchbase: 'https://www.crunchbase.com/organization/red-hat'
  - category:
    name: DevSecOps, Analytics and Monitoring
      - subcategory:
@@ -266,7 +271,7 @@ landscape:
          - item:
             name: Sysdig (member)
             homepage_url: 'https://sysdig.com'
-            logo: 'https://www.cncf.io/wp-content/uploads/2016/09/sysdig-1.svg'
+            logo: sysdig.svg
             crunchbase: 'https://www.crunchbase.com/organization/sysdig'
      - subcategory:
        name: Analytics and Monitoring    
@@ -291,12 +296,12 @@ landscape:
          - item:
            name: CircleCI (member)
            homepage_url: 'https://circleci.com/'
-           logo: 'https://www.cncf.io/wp-content/uploads/2018/06/circleci.svg'
+           logo: circleci.svg
            crunchbase: 'https://www.crunchbase.com/organization/circle-ci'
          - item:
            name: CloudBees (member)
            homepage_url: 'https://www.cloudbees.com/'
-           logo: 'https://www.cncf.io/wp-content/uploads/2018/02/cloudbees.svg'
+           logo: cloudbees.svg
            crunchbase: 'https://www.crunchbase.com/organization/cloudbees'
          - item:
            name: Google Cloud (member)
@@ -343,7 +348,7 @@ landscape:
         - item:
           name: Alibaba Cloud (member)
           homepage_url: 'https://us.alibabacloud.com/'
-          logo: 'https://www.cncf.io/wp-content/uploads/2017/06/alibaba-cloud-01.svg'
+          logo: alibaba.svg
           crunchbase: 'https://www.crunchbase.com/organization/alibaba-cloud'
         - item:
           name: Anchore (member)
@@ -353,7 +358,7 @@ landscape:
         - item:
           name: Armory (member)
           homepage_url: 'https://www.armory.io/'
-          logo: 'https://www.cncf.io/wp-content/uploads/2018/08/armory.svg'
+          logo: armory.svg
           crunchbase: 'https://www.crunchbase.com/organization/armory'
         - item:
           name: Cycloid (member)
@@ -368,17 +373,17 @@ landscape:
         - item:
           name: DeployHub (member)
           homepage_url: 'https://www.deployhub.com'
-          logo: 'https://www.cncf.io/wp-content/uploads/2018/01/deployhub.svg'
+          logo: deployhub.svg
           crunchbase: 'https://www.crunchbase.com/organization/deployhub'
         - item:
           name: GitLab (member)
           homepage_url: 'https://about.gitlab.com'
-          logo: 'https://www.cncf.io/wp-content/uploads/2017/09/gitlab.svg'
+          logo: gitlab.svg
           crunchbase: 'https://www.crunchbase.com/organization/gitlab-com'
         - item:
           name: Harness (member)
           homepage_url: 'https://harness.io'
-          logo: 'https://www.cncf.io/wp-content/uploads/2019/03/harness.svg'
+          logo: harness.svg
           crunchbase: 'https://www.crunchbase.com/organization/harness-512d'
         - item:
           name: OpsMX (member)
@@ -388,12 +393,12 @@ landscape:
         - item:
           name: Puppet (member)
           homepage_url: 'https://puppet.com'
-          logo: 'https://www.cncf.io/wp-content/uploads/2018/08/puppet.svg'
+          logo: puppet.svg
           crunchbase: 'https://www.crunchbase.com/organization/puppet-labs'
         - item:
           name: Rancher Labs (member)
           homepage_url: 'https://rancher.com'
-          logo: 'https://www.cncf.io/wp-content/uploads/2016/09/rancher.svg'
+          logo: rancher.svg
           crunchbase: 'https://www.crunchbase.com/organization/rancher-labs'
         - item:
           name: RedHat (member)
@@ -413,7 +418,7 @@ landscape:
         - item:
           name: Sysdig (member)
           homepage_url: 'https://sysdig.com'
-          logo: 'https://www.cncf.io/wp-content/uploads/2016/09/sysdig-1.svg'
+          logo: sysdig.svg
           crunchbase: 'https://www.crunchbase.com/organization/sysdig'
         - item:
           name: WhiteSource (member)
@@ -440,13 +445,13 @@ landscape:
          - item:
             name: eBay (member)
             homepage_url: 'https://www.ebay.com'
-            logo: 'https://www.cncf.io/wp-content/uploads/2016/09/ebay.svg'
+            logo: ebay.svg
             enduser: true
             crunchbase: 'https://www.crunchbase.com/organization/ebay'
          - item:
             name: HSBC (member)
             homepage_url: 'https://www.hsbc.com/'
-            logo: HSBC
+            logo: HSBC.svg
             enduser: true
             crunchbase: 'https://www.crunchbase.com/organization/hsbc'
          - item:
@@ -458,7 +463,7 @@ landscape:
          - item:
             name: SAP (member)
             homepage_url: 'https://www.sap.com'
-            logo: sap.svg
+            logo: SAP.svg
             enduser: true
             crunchbase: 'https://www.crunchbase.com/organization/sap'
            
