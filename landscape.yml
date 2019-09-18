@@ -1,7 +1,8 @@
 landscape:
  - category:
    name: Continuous Delivery Pipeline Orchestration
-    - subcategory
+   subcategories:
+    - subcategory:
       name: Traditional
       items: 
           - item:
@@ -37,7 +38,7 @@ landscape:
             logo: jfrog.svg
             twitter: 'https://twitter.com/beshippable'
             crunchbase: 'https://www.crunchbase.com/organization/jfrog-ltd'
-    - subcategory
+    - subcategory:
       name: Cloud Native
       items: 
           - item:
@@ -67,7 +68,7 @@ landscape:
  - category:
    name: Continuous Delivery Automation
    subcategories:
-    - subcategory
+    - subcategory:
       name: Continuous Integration
       items: 
           - item:
@@ -84,7 +85,7 @@ landscape:
             logo: jenkins-x.svg
             twitter: 'https://twitter.com/jenkinsxio'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
-    - subcategory
+    - subcategory:
       name: Test Automation
       items:
         - item:
@@ -93,7 +94,7 @@ landscape:
           logo: ibm-cloud.svg
           twitter: 'https://twitter.com/IBMcloud'
           crunchbase: 'https://www.crunchbase.com/organization/ibm'
-    - subcategory
+    - subcategory:
       name: Release Automation
       items: 
         - item:
@@ -120,7 +121,7 @@ landscape:
           logo:  ibm-cloud.svg           
           twitter: 'https://twitter.com/IBMcloud'
           crunchbase: 'https://www.crunchbase.com/organization/ibm'
-    - subcategory
+    - subcategory:
       name: Build Automation  
       items:
         - item: 
@@ -132,7 +133,7 @@ landscape:
  - category:
    name: Component Sharing and Library Management
    subcategories:
-    - subcategory
+    - subcategory:
       name: Componet Sharing
       items: 
        - item:
@@ -140,8 +141,8 @@ landscape:
          homepage_url: 'https://www.deployhub.com/'
          logo: deploy-hub.svg
          twitter: 'https://twitter.com/DeployHubProj'
-          crunchbase: 'https://www.crunchbase.com/organization/deployhub' 
-    - subcategory
+         crunchbase: 'https://www.crunchbase.com/organization/deployhub' 
+    - subcategory:
       name: Library Management
       items: 
         - item:
@@ -164,6 +165,7 @@ landscape:
           crunchbase: 'https://www.crunchbase.com/organization/white-source'
  - category:
    name: Infrastructure Deployments, Container Registry, Application Definition and Image Build
+   subcategories:
     - subcategory:
       name: Infrastrucutre Deployments
       items:
@@ -247,6 +249,7 @@ landscape:
            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
  - category:
    name: DevSecOps, Analytics and Monitoring
+   subcategories:
      - subcategory:
        name: Container Security    
        items:
