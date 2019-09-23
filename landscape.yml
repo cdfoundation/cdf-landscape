@@ -1,24 +1,25 @@
 landscape:
  - category:
    name: Continuous Delivery Pipeline Orchestration
-    - subcategory
+   subcategories:
+    - subcategory:
       name: Traditional
       items: 
           - item:
-            name: CircleCI (member)
+            name: CircleCI
             homepage_url: 'https://circleci.com/'
-            logo: circle-ci.svg
+            logo: circleci.svg
             twitter: 'https://twitter.com/circleci'
             crunchbase: 'https://www.crunchbase.com/organization/circle-ci'
           - item:
-            name: Cloudbees Codeship (member)
+            name: Cloudbees Codeship
             description: Ship faster with CI/CD as a Service
             homepage_url: 'https://www.cloudbees.com/products/cloudbees-codeship'
             logo: cloudbees.svg
             twitter: 'https://twitter.com/CloudBees'
             crunchbase: 'https://www.crunchbase.com/organization/cloudbees'
           - item:
-            name: GitLab (member)
+            name: GitLab
             homepage_url: 'https://about.gitlab.com/'
             repo_url: 'https://github.com/gitlabhq/gitlabhq'
             url_for_bestpractices: 'https://gitlab.com/gitlab-org/gitlab-ce'
@@ -26,39 +27,39 @@ landscape:
             twitter: 'https://twitter.com/gitlab'
             crunchbase: 'https://www.crunchbase.com/organization/gitlab-com'
           - item:
-            name: Harness.io (member)
+            name: Harness.io
             homepage_url: 'https://harness.io'
             logo: harness.svg
             twitter: 'https://twitter.com/harnessio'
             crunchbase: 'https://www.crunchbase.com/organization/harness-512d'
           - item:
-            name: JFrog Shippable (member)
+            name: JFrog Shippable
             homepage_url: 'https://jfrog.com/partner/shippable/'
             logo: jfrog.svg
             twitter: 'https://twitter.com/beshippable'
             crunchbase: 'https://www.crunchbase.com/organization/jfrog-ltd'
-    - subcategory
+    - subcategory:
       name: Cloud Native
       items: 
           - item:
-            name: Armory (member)
+            name: Armory
             homepage_url: 'https://www.armory.io/'
-            logo: 'https://www.cncf.io/wp-content/uploads/2018/08/armory.svg'
+            logo: armory.svg
             crunchbase: 'https://www.crunchbase.com/organization/armory'
-            - item:
-            name: OpsMX (member)
+          - item:
+            name: OpsMX
             homepage_url: 'https://www.opsmx.com'
             logo: opsmx.svg
             crunchbase: 'https://www.crunchbase.com/organization/opsmx'
           - item:
-            name: Spinnaker (member)
+            name: Spinnaker
             homepage_url: 'https://www.spinnaker.io/'
             repo_url: 'https://github.com/spinnaker/spinnaker'
             logo: spinnaker.svg
             twitter: 'https://twitter.com/spinnakerio'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
           - item:
-            name: Tekton Pipelines (member)
+            name: Tekton Pipelines
             homepage_url: 'https://tekton.dev/'
             repo_url: 'https://github.com/tektoncd/pipeline'
             logo: tekton.svg
@@ -67,60 +68,48 @@ landscape:
  - category:
    name: Continuous Delivery Automation
    subcategories:
-    - subcategory
+    - subcategory:
       name: Continuous Integration
       items: 
           - item:
-            name: Jenkins (member)
+            name: Jenkins
             homepage_url: 'https://jenkins.io/'
             repo_url: 'https://github.com/jenkinsci/jenkins'
             logo: jenkins.svg
             twitter: 'https://twitter.com/jenkinsci'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
           - item:
-            name: JenkinsX (member)
+            name: JenkinsX
             homepage_url: 'https://jenkins.io/'
             repo_url: 'https://github.com/jenkins-x/jx'
             logo: jenkins-x.svg
             twitter: 'https://twitter.com/jenkinsxio'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
-    - subcategory
+    - subcategory:
       name: Test Automation
       items:
         - item:
-          name: IBM Rational Functional Tester  (member)
+          name: IBM Rational Functional Tester 
           homepage_url: 'https://www.ibm.com/cloud'
           logo: ibm-cloud.svg
           twitter: 'https://twitter.com/IBMcloud'
           crunchbase: 'https://www.crunchbase.com/organization/ibm'
-    - subcategory
+    - subcategory:
       name: Release Automation
       items: 
         - item:
-          name: Cloudbees Flow (member)
+          name: Cloudbees Flow
           homepage_url: 'https://www.cloudbees.com/products/cloudbees-flow'
           logo: cloudbees.svg
           twitter: 'https://twitter.com/CloudBees'
-          crunchbase: 'https://www.crunchbase.com/organization/cloudbees' 
+          crunchbase: 'https://www.crunchbase.com/organization/cloudbees'            
         - item:
-          name: DeployHub (member)
-          homepage_url: 'https://www.deployhub.com/'
-          logo: deploy-hub.svg
-          twitter: 'https://twitter.com/DeployHubProj'
-          crunchbase: 'https://www.crunchbase.com/organization/deployhub' 
-        - item:
-          name: Harness.io (member)
-          homepage_url: 'https://harness.io'
-          logo: harness.svg
-          twitter: 'https://twitter.com/harnessio'
-          crunchbase: 'https://www.crunchbase.com/organization/harness-512d'            
-        - item:
-          name: IBM UDeploy and URelease (member)
+          name: IBM UDeploy and URelease
           homepage_url: 'https://developer.ibm.com/urbancode/products/urbancode-deploy/'
           logo:  ibm-cloud.svg           
           twitter: 'https://twitter.com/IBMcloud'
           crunchbase: 'https://www.crunchbase.com/organization/ibm'
-    - subcategory
+    - subcategory:
       name: Build Automation  
       items:
         - item: 
@@ -132,22 +121,22 @@ landscape:
  - category:
    name: Component Sharing and Library Management
    subcategories:
-    - subcategory
+    - subcategory:
       name: Componet Sharing
       items: 
        - item:
-         name: DeployHub (member)
+         name: DeployHub
          homepage_url: 'https://www.deployhub.com/'
-         logo: deploy-hub.svg
+         logo: deployhub.svg
          twitter: 'https://twitter.com/DeployHubProj'
-          crunchbase: 'https://www.crunchbase.com/organization/deployhub' 
-    - subcategory
+         crunchbase: 'https://www.crunchbase.com/organization/deployhub' 
+    - subcategory:
       name: Library Management
       items: 
         - item:
-          name: JFrog Artifactory (member)
+          name: JFrog Artifactory
           homepage_url: 'https://jfrog.com/artifactory/'
-          logo: j-frog-artifactory.svg
+          logo: jfrog.svg
           twitter: 'https://twitter.com/jfrog'
           crunchbase: 'https://www.crunchbase.com/organization/jfrog-ltd'
         - item:
@@ -157,64 +146,54 @@ landscape:
           twitter: 'https://twitter.com/sonatype'
           crunchbase: 'https://www.crunchbase.com/organization/sonatype'
         - item:
-          name: WhiteSource (member)
+          name: WhiteSource
           homepage_url: 'https://www.whitesourcesoftware.com/'
           logo: whitesource.svg
           twitter: 'https://twitter.com/WhiteSourceSoft'
           crunchbase: 'https://www.crunchbase.com/organization/white-source'
  - category:
    name: Infrastructure Deployments, Container Registry, Application Definition and Image Build
+   subcategories:
     - subcategory:
       name: Infrastrucutre Deployments
       items:
           - item:
-            name: Alauda.cn (member)
+            name: Alauda.cn
             homepage_url: 'http://www.alauda.cn'
             logo: Alauda.svg
             crunchbase: 'https://www.crunchbase.com/organization/alauda'
           - item:
-            name: Alibaba Cloud (member)
+            name: Alibaba Cloud
             homepage_url: 'https://us.alibabacloud.com/'
-            logo: 'https://www.cncf.io/wp-content/uploads/2017/06/alibaba-cloud-01.svg'
+            logo: alibabacloud.svg
             crunchbase: 'https://www.crunchbase.com/organization/alibaba-cloud'
           - item:
-            name: Ansible (member)
+            name: Ansible
             homepage_url: 'https://www.ansible.com/'
             repo_url: 'https://github.com/ansible/ansible'
             logo: ansible.svg
             twitter: 'https://twitter.com/ansible'
             crunchbase: 'https://www.crunchbase.com/organization/red-hat'
           - item:
-            name: Cycloid (member)
-            homepage_url: 'https://www.cycloid.io/'
-            logo: cycloid.svg
-            crunchbase: 'https://www.crunchbase.com/organization/cycloid'
-          - item:
-            name: Dell Boomi (member)
+            name: Dell Boomi
             homepage_url: 'https://boomi.com/'
             logo: dellboomi.svg
             crunchbase: 'https://www.crunchbase.com/organization/boomi'
           - item:
-            name: Puppet (member)
+            name: Puppet
             homepage_url: 'https://puppet.com/'
             repo_url: 'https://github.com/puppetlabs/puppet'
             logo: puppet.svg
             twitter: 'https://twitter.com/puppetize'
             crunchbase: 'https://www.crunchbase.com/organization/puppet-labs'
           - item:
-            name: Rancher Labs (member)
+            name: Rancher Labs
             homepage_url: 'https://rancher.com'
-            logo: 'https://www.cncf.io/wp-content/uploads/2016/09/rancher.svg'
+            logo: rancher.svg
             crunchbase: 'https://www.crunchbase.com/organization/rancher-labs'
     - subcategory:
       name: Container Registry
       items:
-          - item:
-            name: JFrog Artifactory (member)
-            homepage_url: 'https://jfrog.com/artifactory/'
-            logo: j-frog-artifactory.svg
-            twitter: 'https://twitter.com/jfrog'
-            crunchbase: 'https://www.crunchbase.com/organization/jfrog-ltd'
           - item:
             name: Quay
             description: 'Ensure your apps are stored privately, with access that you control. Quay is teamwork optimized, with powerful access controls.'
@@ -225,57 +204,52 @@ landscape:
       name: Application Definition and Image Build
       items:
          - item:
-            name: DeployHub (member)
-            homepage_url: 'https://www.deployhub.com/'
-            logo: deploy-hub.svg
-            twitter: 'https://twitter.com/DeployHubProj'
-            crunchbase: 'https://www.crunchbase.com/organization/deployhub'
+           name: Docker Compose
+           homepage_url: 'https://docs.docker.com/compose/'
+           repo_url: 'https://github.com/docker/compose'
+           logo: docker-compose.svg
+           twitter: 'https://twitter.com/moby'            
+           crunchbase: 'https://www.crunchbase.com/organization/docker'
          - item:
-            name: Docker Compose
-            homepage_url: 'https://docs.docker.com/compose/'
-            repo_url: 'https://github.com/docker/compose'
-            logo: docker-compose.svg
-            twitter: 'https://twitter.com/moby'
-            crunchbase: 'https://www.crunchbase.com/organization/docker'
-        - item:
-            name: Helm
-            homepage_url: 'https://helm.sh/'
-            project: incubating
-            repo_url: 'https://github.com/helm/helm'
-            logo: helm.svg
-            twitter: 'https://twitter.com/helmpack'
-            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+           name: Helm
+           homepage_url: 'https://helm.sh/'
+           project: incubating
+           repo_url: 'https://github.com/helm/helm'
+           logo: helm.svg
+           twitter: 'https://twitter.com/helmpack'
+           crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
  - category:
    name: DevSecOps, Analytics and Monitoring
+   subcategories:
      - subcategory:
        name: Container Security    
        items:
          - item:
-            name: Anchore (member)
-            homepage_url: 'https://anchore.com/enterprise/'
-            repo_url: 'https://github.com/anchore/anchore-engine'
-            logo: anchore.svg
-            twitter: 'https://twitter.com/anchore'
-            crunchbase: 'https://www.crunchbase.com/organization/anchore-inc'
+           name: Anchore
+           homepage_url: 'https://anchore.com/enterprise/'
+           repo_url: 'https://github.com/anchore/anchore-engine'
+           logo: anchore.svg
+           twitter: 'https://twitter.com/anchore'            
+           crunchbase: 'https://www.crunchbase.com/organization/anchore-inc'
          - item:
-            name: Snyk (member)
-            homepage_url: 'https://snyk.io/'
-            logo: snyk.svg
-            twitter: 'https://twitter.com/snyksec'
-            crunchbase: 'https://www.crunchbase.com/organization/snyk'
+           name: Snyk
+           homepage_url: 'https://snyk.io/'
+           logo: snyk.svg
+           twitter: 'https://twitter.com/snyksec'
+           crunchbase: 'https://www.crunchbase.com/organization/snyk'
          - item:
-            name: Sysdig (member)
-            homepage_url: 'https://sysdig.com'
-            logo: 'https://www.cncf.io/wp-content/uploads/2016/09/sysdig-1.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/sysdig'
+           name: Sysdig
+           homepage_url: 'https://sysdig.com'
+           logo: sysdig.svg
+           crunchbase: 'https://www.crunchbase.com/organization/sysdig'
      - subcategory:
        name: Analytics and Monitoring    
        items:
          - item:
-            name: Sumo Logic (member)
-            homepage_url: 'https://www.sumologic.com/'
-            logo: sumologic.svg
-            crunchbase: 'https://www.crunchbase.com/organization/sumo-logic'  
+           name: Sumo Logic
+           homepage_url: 'https://www.sumologic.com/'
+           logo: sumologic.svg
+           crunchbase: 'https://www.crunchbase.com/organization/sumo-logic'  
  - category:
    name: CDF Members
    subcategories:
@@ -291,12 +265,12 @@ landscape:
          - item:
            name: CircleCI (member)
            homepage_url: 'https://circleci.com/'
-           logo: 'https://www.cncf.io/wp-content/uploads/2018/06/circleci.svg'
+           logo: circleci.svg
            crunchbase: 'https://www.crunchbase.com/organization/circle-ci'
          - item:
            name: CloudBees (member)
            homepage_url: 'https://www.cloudbees.com/'
-           logo: 'https://www.cncf.io/wp-content/uploads/2018/02/cloudbees.svg'
+           logo: cloudbees.svg
            crunchbase: 'https://www.crunchbase.com/organization/cloudbees'
          - item:
            name: Google Cloud (member)
@@ -343,7 +317,7 @@ landscape:
         - item:
           name: Alibaba Cloud (member)
           homepage_url: 'https://us.alibabacloud.com/'
-          logo: 'https://www.cncf.io/wp-content/uploads/2017/06/alibaba-cloud-01.svg'
+          logo: alibabacloud.svg
           crunchbase: 'https://www.crunchbase.com/organization/alibaba-cloud'
         - item:
           name: Anchore (member)
@@ -353,13 +327,8 @@ landscape:
         - item:
           name: Armory (member)
           homepage_url: 'https://www.armory.io/'
-          logo: 'https://www.cncf.io/wp-content/uploads/2018/08/armory.svg'
+          logo: armory.svg
           crunchbase: 'https://www.crunchbase.com/organization/armory'
-        - item:
-          name: Cycloid (member)
-          homepage_url: 'https://www.cycloid.io/'
-          logo: cycloid.svg
-          crunchbase: 'https://www.crunchbase.com/organization/cycloid'
         - item:
           name: Dell Boomi (member)
           homepage_url: 'https://boomi.com/'
@@ -368,17 +337,17 @@ landscape:
         - item:
           name: DeployHub (member)
           homepage_url: 'https://www.deployhub.com'
-          logo: 'https://www.cncf.io/wp-content/uploads/2018/01/deployhub.svg'
+          logo: deployhub.svg
           crunchbase: 'https://www.crunchbase.com/organization/deployhub'
         - item:
           name: GitLab (member)
           homepage_url: 'https://about.gitlab.com'
-          logo: 'https://www.cncf.io/wp-content/uploads/2017/09/gitlab.svg'
+          logo: gitlab.svg
           crunchbase: 'https://www.crunchbase.com/organization/gitlab-com'
         - item:
           name: Harness (member)
           homepage_url: 'https://harness.io'
-          logo: 'https://www.cncf.io/wp-content/uploads/2019/03/harness.svg'
+          logo: harness.svg
           crunchbase: 'https://www.crunchbase.com/organization/harness-512d'
         - item:
           name: OpsMX (member)
@@ -388,12 +357,12 @@ landscape:
         - item:
           name: Puppet (member)
           homepage_url: 'https://puppet.com'
-          logo: 'https://www.cncf.io/wp-content/uploads/2018/08/puppet.svg'
+          logo: puppet.svg
           crunchbase: 'https://www.crunchbase.com/organization/puppet-labs'
         - item:
           name: Rancher Labs (member)
           homepage_url: 'https://rancher.com'
-          logo: 'https://www.cncf.io/wp-content/uploads/2016/09/rancher.svg'
+          logo: rancher.svg
           crunchbase: 'https://www.crunchbase.com/organization/rancher-labs'
         - item:
           name: RedHat (member)
@@ -413,7 +382,7 @@ landscape:
         - item:
           name: Sysdig (member)
           homepage_url: 'https://sysdig.com'
-          logo: 'https://www.cncf.io/wp-content/uploads/2016/09/sysdig-1.svg'
+          logo: sysdig.svg
           crunchbase: 'https://www.crunchbase.com/organization/sysdig'
         - item:
           name: WhiteSource (member)
@@ -421,44 +390,37 @@ landscape:
           logo: whitesource.svg
           crunchbase: 'https://www.crunchbase.com/organization/white-source'
      - subcategory:
-       name: Academic
-       items:
-          - item:
-            name: DevOps Institute (member)
-            homepage_url: 'https://devopsinstitute.com/'
-            logo: devopsinstitute.svg
-            crunchbase: 'https://www.crunchbase.com/organization/devops-institute'
-     - subcategory:
        name: End User Supporter
        items:
          - item:
-            name: Autodesk (member)
-            homepage_url: 'https://www.autodesk.com/'
-            logo: autodesk.svg
-            enduser: true
-            crunchbase: 'https://www.crunchbase.com/organization/autodesk'
+           name: Autodesk (member)
+           homepage_url: 'https://www.autodesk.com/'
+           logo: autodesk.svg
+           enduser: true
+           crunchbase: 'https://www.crunchbase.com/organization/autodesk'
          - item:
-            name: eBay (member)
-            homepage_url: 'https://www.ebay.com'
-            logo: 'https://www.cncf.io/wp-content/uploads/2016/09/ebay.svg'
-            enduser: true
-            crunchbase: 'https://www.crunchbase.com/organization/ebay'
+           name: eBay (member)
+           homepage_url: 'https://www.ebay.com'
+           logo: ebay.svg
+           enduser: true
+           crunchbase: 'https://www.crunchbase.com/organization/ebay'
+         - item:            
+           name: HSBC (member)
+           homepage_url: 'https://www.hsbc.com/'
+           logo: HSBC.svg
+           enduser: true
+           stock_ticker: HSBC
+           crunchbase: 'https://www.crunchbase.com/organization/hsbc'
          - item:
-            name: HSBC (member)
-            homepage_url: 'https://www.hsbc.com/'
-            logo: HSBC
-            enduser: true
-            crunchbase: 'https://www.crunchbase.com/organization/hsbc'
+           name: JP Morgan Chase (member)
+           homepage_url: 'https://www.jpmorganchase.com/'
+           logo: jpmorgan.svg
+           enduser: true
+           crunchbase: 'https://www.crunchbase.com/organization/jpmorgan-chase-co'
          - item:
-            name: JP Morgan Chase (member)
-            homepage_url: 'https://www.jpmorganchase.com/'
-            logo: JPMorgan.svg
-            enduser: true
-            crunchbase: 'https://www.crunchbase.com/organization/jpmorgan-chase-co'
-         - item:
-            name: SAP (member)
-            homepage_url: 'https://www.sap.com'
-            logo: sap.svg
-            enduser: true
-            crunchbase: 'https://www.crunchbase.com/organization/sap'
+           name: SAP (member)
+           homepage_url: 'https://www.sap.com'
+           logo: sap.svg
+           enduser: true
+           crunchbase: 'https://www.crunchbase.com/organization/sap'
            
