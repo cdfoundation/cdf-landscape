@@ -56,6 +56,7 @@ landscape:
             homepage_url: 'https://www.spinnaker.io/'
             repo_url: 'https://github.com/spinnaker/spinnaker'
             logo: spinnaker.svg
+            project: incubating
             twitter: 'https://twitter.com/spinnakerio'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
           - item:
@@ -63,6 +64,7 @@ landscape:
             homepage_url: 'https://tekton.dev/'
             repo_url: 'https://github.com/tektoncd/pipeline'
             logo: tekton.svg
+            project: incubating
             twitter: 'https://twitter.com/tektoncd'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
  - category:
@@ -76,6 +78,7 @@ landscape:
             homepage_url: 'https://jenkins.io/'
             repo_url: 'https://github.com/jenkinsci/jenkins'
             logo: jenkins.svg
+            project: incubating
             twitter: 'https://twitter.com/jenkinsci'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
           - item:
@@ -83,6 +86,7 @@ landscape:
             homepage_url: 'https://jenkins.io/'
             repo_url: 'https://github.com/jenkins-x/jx'
             logo: jenkins-x.svg
+            project: incubating
             twitter: 'https://twitter.com/jenkinsxio'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
     - subcategory:
@@ -213,7 +217,6 @@ landscape:
          - item:
            name: Helm
            homepage_url: 'https://helm.sh/'
-           project: incubating
            repo_url: 'https://github.com/helm/helm'
            logo: helm.svg
            twitter: 'https://twitter.com/helmpack'
