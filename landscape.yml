@@ -1,6 +1,6 @@
 landscape:
  - category:
-   name: Continuous Integration and Pipeline Orchestration
+   name: CI & Pipeline Orchestration
    subcategories:
     - subcategory:
       name: Pipeline Orchestration
@@ -120,7 +120,7 @@ landscape:
           twitter: 'https://twitter.com/openmake'
           crunchbase: 'https://www.crunchbase.com/organization/openmake-software'       
  - category:
-   name: Configuration and Library Management
+   name: Configuration & Library Management
    subcategories:
     - subcategory:
       name: Configuration Management
@@ -173,49 +173,49 @@ landscape:
             homepage_url: 'https://boomi.com/'
             logo: dellboomi.svg
             crunchbase: 'https://www.crunchbase.com/organization/boomi'
-         - item:
+          - item:
             name: Rancher Labs
             homepage_url: 'https://rancher.com'
             logo: rancher.svg
             crunchbase: 'https://www.crunchbase.com/organization/rancher-labs'
-   - subcategory:
+    - subcategory:
       name: Traditional
       items:
       - item:
-            name: Puppet
-            homepage_url: 'https://puppet.com/'
-            repo_url: 'https://github.com/puppetlabs/puppet'
-            logo: puppet.svg
-            twitter: 'https://twitter.com/puppetize'
-            crunchbase: 'https://www.crunchbase.com/organization/puppet-labs'
-  - category:
+        name: Puppet
+        homepage_url: 'https://puppet.com/'
+        repo_url: 'https://github.com/puppetlabs/puppet'
+        logo: puppet.svg
+        twitter: 'https://twitter.com/puppetize'
+        crunchbase: 'https://www.crunchbase.com/organization/puppet-labs'
+ - category:
    name: Container Registry, and Image Build
    subcategories:
-    - subcategory:
-      name: Container Registry
-      items:
-          - item:
-            name: Quay
-            description: 'Ensure your apps are stored privately, with access that you control. Quay is teamwork optimized, with powerful access controls.'
-            homepage_url: 'https://quay.io/'
-            logo: quay.svg
-            crunchbase: 'https://www.crunchbase.com/organization/quay-io'   
+     - subcategory:
+       name: Container Registry
+       items:
+         - item:
+           name: Quay
+           description: 'Ensure your apps are stored privately, with access that you control. Quay is teamwork optimized, with powerful access controls.'
+           homepage_url: 'https://quay.io/'
+           logo: quay.svg
+           crunchbase: 'https://www.crunchbase.com/organization/quay-io'   
          - item:
            name: DockerHub
            homepage_url: 'https://hub.docker.com/'
            logo: docker-compose.svg
            twitter: 'https://twitter.com/moby'            
            crunchbase: 'https://www.crunchbase.com/organization/docker'
-    - subcategory:
-      name: Image Build
-      items:
-          - item:
-            name: Ansible
-            homepage_url: 'https://www.ansible.com/'
-            repo_url: 'https://github.com/ansible/ansible'
-            logo: ansible.svg
-            twitter: 'https://twitter.com/ansible'
-            crunchbase: 'https://www.crunchbase.com/organization/red-hat'
+     - subcategory:
+       name: Image Build
+       items:
+         - item:
+           name: Ansible
+           homepage_url: 'https://www.ansible.com/'
+           repo_url: 'https://github.com/ansible/ansible'
+           logo: ansible.svg
+           twitter: 'https://twitter.com/ansible'
+           crunchbase: 'https://www.crunchbase.com/organization/red-hat'
          - item:
            name: Helm
            homepage_url: 'https://helm.sh/'

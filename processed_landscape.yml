@@ -1,10 +1,10 @@
 # THIS FILE IS GENERATED AUTOMATICALLY!
 landscape:
   - category:
-    name: Continuous Delivery Pipeline Orchestration
+    name: CI & Pipeline Orchestration
     subcategories:
       - subcategory:
-        name: Traditional
+        name: Pipeline Orchestration
         items:
           - item:
             name: CircleCI
@@ -158,9 +158,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-09-11T14:34:06.000Z
-      - subcategory:
-        name: Cloud Native
-        items:
           - item:
             name: Armory
             homepage_url: 'https://www.armory.io/'
@@ -291,9 +288,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-09-20T15:40:19.000Z
-  - category:
-    name: Continuous Delivery Automation
-    subcategories:
       - subcategory:
         name: Continuous Integration
         items:
@@ -377,6 +371,9 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-09-20T18:04:02.000Z
+  - category:
+    name: Continuous Automation
+    subcategories:
       - subcategory:
         name: Test Automation
         items:
@@ -503,10 +500,10 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-09-18T18:08:52.000Z
   - category:
-    name: Component Sharing and Library Management
+    name: Configuration & Library Management
     subcategories:
       - subcategory:
-        name: Componet Sharing
+        name: Configuration Management
         items:
           - item:
             name: DeployHub
@@ -622,10 +619,10 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-09-18T13:00:56.000Z
   - category:
-    name: 'Infrastructure Deployments, Container Registry, Application Definition and Image Build'
+    name: Infrastructure Deployments
     subcategories:
       - subcategory:
-        name: Infrastrucutre Deployments
+        name: Cloud Native
         items:
           - item:
             name: Alauda.cn
@@ -684,6 +681,163 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-09-20T09:29:43.000Z
           - item:
+            name: Dell Boomi
+            homepage_url: 'https://boomi.com/'
+            logo: dellboomi.svg
+            crunchbase: 'https://www.crunchbase.com/organization/boomi'
+            crunchbase_data:
+              name: Boomi
+              description: Boomi provides cloud integration solutions via a SaaS-based AtomSphere platform for providers to stay connected with their consumers.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'http://www.boomi.com'
+              city: Berwyn
+              region: Pennsylvania
+              country: United States
+              twitter: 'http://twitter.com/boomi'
+              linkedin: 'https://www.linkedin.com/company/boomi-inc-'
+              parents: []
+              kind: funding
+              funding: 4900000
+            image_data:
+              fileName: dell-boomi.svg
+              hash: LeoS5d5Jjl7Z18hgJLczcBKzhLd5nd54eqJ8smw6heY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-09-19T16:58:18.000Z
+          - item:
+            name: Rancher Labs
+            homepage_url: 'https://rancher.com'
+            logo: rancher.svg
+            crunchbase: 'https://www.crunchbase.com/organization/rancher-labs'
+            crunchbase_data:
+              name: Rancher Labs
+              description: A complete open source container management platform with everything you need to manage containers in production.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://rancher.com/'
+              city: Cupertino
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/rancher_labs'
+              linkedin: 'https://www.linkedin.com/company/rancher'
+              parents: []
+              kind: funding
+              funding: 55000000
+            image_data:
+              fileName: rancher-labs.svg
+              hash: xd0UiQ4dQDP4s9ynfT/UUfsAyf8CjrQl8QPXNeNsQ1A=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-09-19T21:07:35.000Z
+      - subcategory:
+        name: Traditional
+        items:
+          - item:
+            name: Puppet
+            homepage_url: 'https://puppet.com/'
+            repo_url: 'https://github.com/puppetlabs/puppet'
+            logo: puppet.svg
+            twitter: 'https://twitter.com/puppetize'
+            crunchbase: 'https://www.crunchbase.com/organization/puppet-labs'
+            crunchbase_data:
+              name: Puppet
+              description: Puppet is an information technology automation software company designed for system administrators.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: 'https://puppet.com/'
+              city: Portland
+              region: Oregon
+              country: United States
+              twitter: 'https://twitter.com/puppetize'
+              linkedin: 'https://www.linkedin.com/company/puppet-labs-inc'
+              parents: []
+              kind: funding
+              funding: 149500000
+            github_data:
+              stars: 5452
+              license: Apache License 2.0
+              description: Server automation framework and application
+              latest_commit_date: '2019-09-19T06:00:00.000Z'
+              latest_commit_link: /puppetlabs/puppet/commit/be8b5813df50972591912a866a2a887d8d759bb3
+              contributors_count: 521
+              contributors_link: 'https://github.com/puppetlabs/puppet/graphs/contributors'
+            image_data:
+              fileName: puppet.svg
+              hash: Znovog0WY2aZOKG1kkABO8naIc12UOXs/ETAizezdiQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-09-19T23:08:33.000Z
+  - category:
+    name: 'Container Registry, and Image Build'
+    subcategories:
+      - subcategory:
+        name: Container Registry
+        items:
+          - item:
+            name: Quay
+            description: 'Ensure your apps are stored privately, with access that you control. Quay is teamwork optimized, with powerful access controls.'
+            homepage_url: 'https://quay.io/'
+            logo: quay.svg
+            crunchbase: 'https://www.crunchbase.com/organization/quay-io'
+            crunchbase_data:
+              name: quay.io
+              description: Quay.io is a private hosted docker registry.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://quay.io/'
+              city: New York
+              region: New York
+              country: United States
+              twitter: 'http://twitter.com/quayio'
+              linkedin: null
+              parents: []
+            image_data:
+              fileName: quay.svg
+              hash: fXwScwHT4zsCjnZXBn2KGOw0u1Vnc3Vdyc6r7SFfgcA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-09-09T22:20:36.000Z
+          - item:
+            name: DockerHub
+            homepage_url: 'https://hub.docker.com/'
+            logo: docker-compose.svg
+            twitter: 'https://twitter.com/moby'
+            crunchbase: 'https://www.crunchbase.com/organization/docker'
+            crunchbase_data:
+              name: Docker
+              description: 'Docker develops an open platform for building, shipping, and running distributed applications.'
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'https://www.docker.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/docker'
+              linkedin: 'https://www.linkedin.com/company/docker'
+              parents: []
+              kind: funding
+              funding: 272855439
+            image_data:
+              fileName: docker-hub.svg
+              hash: tEEcV205aag5aJXfYZuvyfumU/58Wx/YNE0OQrXeoLI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-02-12T18:10:37.000Z
+      - subcategory:
+        name: Image Build
+        items:
+          - item:
             name: Ansible
             homepage_url: 'https://www.ansible.com/'
             repo_url: 'https://github.com/ansible/ansible'
@@ -728,168 +882,6 @@ landscape:
               percentage: 65
             twitter_data:
               latest_tweet_date: 2019-09-19T18:53:49.000Z
-          - item:
-            name: Dell Boomi
-            homepage_url: 'https://boomi.com/'
-            logo: dellboomi.svg
-            crunchbase: 'https://www.crunchbase.com/organization/boomi'
-            crunchbase_data:
-              name: Boomi
-              description: Boomi provides cloud integration solutions via a SaaS-based AtomSphere platform for providers to stay connected with their consumers.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: 'http://www.boomi.com'
-              city: Berwyn
-              region: Pennsylvania
-              country: United States
-              twitter: 'http://twitter.com/boomi'
-              linkedin: 'https://www.linkedin.com/company/boomi-inc-'
-              parents: []
-              kind: funding
-              funding: 4900000
-            image_data:
-              fileName: dell-boomi.svg
-              hash: LeoS5d5Jjl7Z18hgJLczcBKzhLd5nd54eqJ8smw6heY=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-09-19T16:58:18.000Z
-          - item:
-            name: Puppet
-            homepage_url: 'https://puppet.com/'
-            repo_url: 'https://github.com/puppetlabs/puppet'
-            logo: puppet.svg
-            twitter: 'https://twitter.com/puppetize'
-            crunchbase: 'https://www.crunchbase.com/organization/puppet-labs'
-            crunchbase_data:
-              name: Puppet
-              description: Puppet is an information technology automation software company designed for system administrators.
-              num_employees_min: 251
-              num_employees_max: 500
-              homepage: 'https://puppet.com/'
-              city: Portland
-              region: Oregon
-              country: United States
-              twitter: 'https://twitter.com/puppetize'
-              linkedin: 'https://www.linkedin.com/company/puppet-labs-inc'
-              parents: []
-              kind: funding
-              funding: 149500000
-            github_data:
-              stars: 5452
-              license: Apache License 2.0
-              description: Server automation framework and application
-              latest_commit_date: '2019-09-19T06:00:00.000Z'
-              latest_commit_link: /puppetlabs/puppet/commit/be8b5813df50972591912a866a2a887d8d759bb3
-              contributors_count: 521
-              contributors_link: 'https://github.com/puppetlabs/puppet/graphs/contributors'
-            image_data:
-              fileName: puppet.svg
-              hash: Znovog0WY2aZOKG1kkABO8naIc12UOXs/ETAizezdiQ=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-09-19T23:08:33.000Z
-          - item:
-            name: Rancher Labs
-            homepage_url: 'https://rancher.com'
-            logo: rancher.svg
-            crunchbase: 'https://www.crunchbase.com/organization/rancher-labs'
-            crunchbase_data:
-              name: Rancher Labs
-              description: A complete open source container management platform with everything you need to manage containers in production.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: 'http://rancher.com/'
-              city: Cupertino
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/rancher_labs'
-              linkedin: 'https://www.linkedin.com/company/rancher'
-              parents: []
-              kind: funding
-              funding: 55000000
-            image_data:
-              fileName: rancher-labs.svg
-              hash: xd0UiQ4dQDP4s9ynfT/UUfsAyf8CjrQl8QPXNeNsQ1A=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-09-19T21:07:35.000Z
-      - subcategory:
-        name: Container Registry
-        items:
-          - item:
-            name: Quay
-            description: 'Ensure your apps are stored privately, with access that you control. Quay is teamwork optimized, with powerful access controls.'
-            homepage_url: 'https://quay.io/'
-            logo: quay.svg
-            crunchbase: 'https://www.crunchbase.com/organization/quay-io'
-            crunchbase_data:
-              name: quay.io
-              description: Quay.io is a private hosted docker registry.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'https://quay.io/'
-              city: New York
-              region: New York
-              country: United States
-              twitter: 'http://twitter.com/quayio'
-              linkedin: null
-              parents: []
-            image_data:
-              fileName: quay.svg
-              hash: fXwScwHT4zsCjnZXBn2KGOw0u1Vnc3Vdyc6r7SFfgcA=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-09-09T22:20:36.000Z
-      - subcategory:
-        name: Application Definition and Image Build
-        items:
-          - item:
-            name: Docker Compose
-            homepage_url: 'https://docs.docker.com/compose/'
-            repo_url: 'https://github.com/docker/compose'
-            logo: docker-compose.svg
-            twitter: 'https://twitter.com/moby'
-            crunchbase: 'https://www.crunchbase.com/organization/docker'
-            crunchbase_data:
-              name: Docker
-              description: 'Docker develops an open platform for building, shipping, and running distributed applications.'
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: 'https://www.docker.com'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/docker'
-              linkedin: 'https://www.linkedin.com/company/docker'
-              parents: []
-              kind: funding
-              funding: 272855439
-            github_data:
-              stars: 17376
-              license: Apache License 2.0
-              description: Define and run multi-container applications with Docker
-              latest_commit_date: '2019-09-09T06:00:00.000Z'
-              latest_commit_link: /docker/compose/commit/d7c7e21921fba349f2fc2fa702c07d87166d80c9
-              release_date: '2019-08-07T13:34:20Z'
-              release_link: 'https://github.com/docker/compose/releases'
-              contributors_count: 314
-              contributors_link: 'https://github.com/docker/compose/graphs/contributors'
-            image_data:
-              fileName: docker-compose.svg
-              hash: tEEcV205aag5aJXfYZuvyfumU/58Wx/YNE0OQrXeoLI=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-02-12T18:10:37.000Z
           - item:
             name: Helm
             homepage_url: 'https://helm.sh/'
