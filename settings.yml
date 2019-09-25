@@ -136,56 +136,65 @@ big_picture:
       height: 840
     elements:
       - type: HorizontalCategory
-        category: Continuous Delivery Pipeline Orchestration
+        category: CI & Pipeline Orchestration
         rows: 3
-        width: 280
+        width: 500
         height: 160
         top: 0
         left: 0
         color: 'rgb(78,171,207)'
         fit_width: true
       - type: HorizontalCategory
-        category: Continuous Delivery Automation
+        category: Continuous Automation
         rows: 3
-        width: 460
+        width: 280
         height: 160
         top: 0
-        left: 300
+        left: 520
         color: 'rgb(104, 145, 145)'
         fit_width: true
       - type: HorizontalCategory
-        category: Component Sharing and Library Management
+        category: Configuration & Library Management
         rows: 3
-        width: 260
+        width: 280
         height: 160
-        top: 0
-        left: 780
+        top: 180
+        left: 0
         color: 'rgb(43, 142, 136)'
         fit_width: true
       - type: HorizontalCategory
-        category: Infrastructure Deployments, Container Registry, Application Definition and Image Build
+        category: Infrastructure Deployments
         rows: 3
-        width: 400
+        width: 280
         height: 160
-        top: 190
-        left: 0
+        top: 180
+        left: 300
         color: 'rgb(124, 200, 182)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Container Registry, and Image Build
+        rows: 3
+        width: 280
+        height: 160
+        top: 360
+        left: 0
+        color: 'rgb(64, 89, 163)'
         fit_width: true
       - type: HorizontalCategory
         category: DevSecOps, Analytics and Monitoring
         rows: 3
         width: 280
         height: 160
-        top: 190
-        left: 420
+        top: 360
+        left: 300
         color: 'rgb(64, 89, 163)'
-        fit_width: true
+        fit_width: true  
       - type: HorizontalCategory
         category: CDF Members
         rows: 8
         width: 1200
         height: 320
-        top: 380
+        top: 540
         left: 0
         color: 'rgb(74, 131, 104)'
         fit_width: true

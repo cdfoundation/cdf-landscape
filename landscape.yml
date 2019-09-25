@@ -1,9 +1,9 @@
 landscape:
  - category:
-   name: Continuous Delivery Pipeline Orchestration
+   name: CI & Pipeline Orchestration
    subcategories:
     - subcategory:
-      name: Traditional
+      name: Pipeline Orchestration
       items: 
           - item:
             name: CircleCI
@@ -38,9 +38,6 @@ landscape:
             logo: jfrog.svg
             twitter: 'https://twitter.com/beshippable'
             crunchbase: 'https://www.crunchbase.com/organization/jfrog-ltd'
-    - subcategory:
-      name: Cloud Native
-      items: 
           - item:
             name: Armory
             homepage_url: 'https://www.armory.io/'
@@ -56,6 +53,7 @@ landscape:
             homepage_url: 'https://www.spinnaker.io/'
             repo_url: 'https://github.com/spinnaker/spinnaker'
             logo: spinnaker.svg
+            project: incubating
             twitter: 'https://twitter.com/spinnakerio'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
           - item:
@@ -63,11 +61,9 @@ landscape:
             homepage_url: 'https://tekton.dev/'
             repo_url: 'https://github.com/tektoncd/pipeline'
             logo: tekton.svg
+            project: incubating
             twitter: 'https://twitter.com/tektoncd'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
- - category:
-   name: Continuous Delivery Automation
-   subcategories:
     - subcategory:
       name: Continuous Integration
       items: 
@@ -76,6 +72,7 @@ landscape:
             homepage_url: 'https://jenkins.io/'
             repo_url: 'https://github.com/jenkinsci/jenkins'
             logo: jenkins.svg
+            project: incubating
             twitter: 'https://twitter.com/jenkinsci'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
           - item:
@@ -83,8 +80,12 @@ landscape:
             homepage_url: 'https://jenkins.io/'
             repo_url: 'https://github.com/jenkins-x/jx'
             logo: jenkins-x.svg
+            project: incubating
             twitter: 'https://twitter.com/jenkinsxio'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
+ - category:
+   name: Continuous Automation
+   subcategories:
     - subcategory:
       name: Test Automation
       items:
@@ -119,10 +120,10 @@ landscape:
           twitter: 'https://twitter.com/openmake'
           crunchbase: 'https://www.crunchbase.com/organization/openmake-software'       
  - category:
-   name: Component Sharing and Library Management
+   name: Configuration & Library Management
    subcategories:
     - subcategory:
-      name: Componet Sharing
+      name: Configuration Management
       items: 
        - item:
          name: DeployHub
@@ -152,10 +153,10 @@ landscape:
           twitter: 'https://twitter.com/WhiteSourceSoft'
           crunchbase: 'https://www.crunchbase.com/organization/white-source'
  - category:
-   name: Infrastructure Deployments, Container Registry, Application Definition and Image Build
+   name: Infrastructure Deployments 
    subcategories:
     - subcategory:
-      name: Infrastrucutre Deployments
+      name: Cloud Native
       items:
           - item:
             name: Alauda
@@ -168,52 +169,56 @@ landscape:
             logo: alibabacloud.svg
             crunchbase: 'https://www.crunchbase.com/organization/alibaba-cloud'
           - item:
-            name: Ansible
-            homepage_url: 'https://www.ansible.com/'
-            repo_url: 'https://github.com/ansible/ansible'
-            logo: ansible.svg
-            twitter: 'https://twitter.com/ansible'
-            crunchbase: 'https://www.crunchbase.com/organization/red-hat'
-          - item:
             name: Dell Boomi
             homepage_url: 'https://boomi.com/'
             logo: dellboomi.svg
             crunchbase: 'https://www.crunchbase.com/organization/boomi'
-          - item:
-            name: Puppet
-            homepage_url: 'https://puppet.com/'
-            repo_url: 'https://github.com/puppetlabs/puppet'
-            logo: puppet.svg
-            twitter: 'https://twitter.com/puppetize'
-            crunchbase: 'https://www.crunchbase.com/organization/puppet-labs'
           - item:
             name: Rancher Labs
             homepage_url: 'https://rancher.com'
             logo: rancher.svg
             crunchbase: 'https://www.crunchbase.com/organization/rancher-labs'
     - subcategory:
-      name: Container Registry
+      name: Traditional
       items:
-          - item:
-            name: Quay
-            description: 'Ensure your apps are stored privately, with access that you control. Quay is teamwork optimized, with powerful access controls.'
-            homepage_url: 'https://quay.io/'
-            logo: quay.svg
-            crunchbase: 'https://www.crunchbase.com/organization/quay-io'   
-    - subcategory:
-      name: Application Definition and Image Build
-      items:
+      - item:
+        name: Puppet
+        homepage_url: 'https://puppet.com/'
+        repo_url: 'https://github.com/puppetlabs/puppet'
+        logo: puppet.svg
+        twitter: 'https://twitter.com/puppetize'
+        crunchbase: 'https://www.crunchbase.com/organization/puppet-labs'
+ - category:
+   name: Container Registry, and Image Build
+   subcategories:
+     - subcategory:
+       name: Container Registry
+       items:
          - item:
-           name: Docker Compose
-           homepage_url: 'https://docs.docker.com/compose/'
-           repo_url: 'https://github.com/docker/compose'
+           name: Quay
+           description: 'Ensure your apps are stored privately, with access that you control. Quay is teamwork optimized, with powerful access controls.'
+           homepage_url: 'https://quay.io/'
+           logo: quay.svg
+           crunchbase: 'https://www.crunchbase.com/organization/quay-io'   
+         - item:
+           name: DockerHub
+           homepage_url: 'https://hub.docker.com/'
            logo: docker-compose.svg
            twitter: 'https://twitter.com/moby'            
            crunchbase: 'https://www.crunchbase.com/organization/docker'
+     - subcategory:
+       name: Image Build
+       items:
+         - item:
+           name: Ansible
+           homepage_url: 'https://www.ansible.com/'
+           repo_url: 'https://github.com/ansible/ansible'
+           logo: ansible.svg
+           twitter: 'https://twitter.com/ansible'
+           crunchbase: 'https://www.crunchbase.com/organization/red-hat'
          - item:
            name: Helm
            homepage_url: 'https://helm.sh/'
-           project: incubating
            repo_url: 'https://github.com/helm/helm'
            logo: helm.svg
            twitter: 'https://twitter.com/helmpack'
