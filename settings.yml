@@ -198,6 +198,40 @@ big_picture:
         left: 0
         color: 'rgb(74, 131, 104)'
         fit_width: true
+      - type: LandscapeInfo
+        width: 365
+        height: 200
+        top: 180
+        left: 600
+        children:
+          - type: text
+            text: |
+              This landscape is intended as a map to explore the Continuous Delivery community, and also shows the member organizations of the Continous Delivery Foundation.
+            top: 45
+            left: 100
+            right: 120
+            font_size: 10
+          - type: image
+            image: qr.svg
+            top: 40
+            left: 5
+            width: 90
+            height: 90
+          - type: title
+            title: l.cd.foundation
+            top: 129
+            left: 19
+            font_size: 21
+          - type: image
+            image: left-logo.svg
+            width: 110
+            right: 5
+            top: 45
+          - type: image
+            image: right-logo.svg
+            width: 109
+            right: 5
+            top: 85
 test:
   header: Continuous Delivery Landscape
   section: CDF Members
