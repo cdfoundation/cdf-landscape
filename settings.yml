@@ -13,7 +13,7 @@ global:
     twitter: '@CDeliveryFdn'
     google_site_verification: x3QPMhFwxg1ZMS9tlhhgwIJKokbEkt1zByMLMXiqnds
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
-  membership: CNCF Members  
+  membership: CDF Members  
   flags:
     cncf_sandbox: false
     companies: CDF Members
@@ -56,34 +56,18 @@ relation:
       url: 'no'
 membership:
   Platinum:
-    name: CNCF
-    label: Platinum Member
-    end_user_label: Platinum End User Member
-    funding: Platinum
+    name: CDF
+    label: Premier Member
+    end_user_label: Premier End User Member
+    funding: Premier
     is_large: true
   General:
-    name: CNCF
+    name: CDF
     label: General Member
     end_user_label: General End User Member
     funding: General
-    is_large: true
-  Silver:
-    name: CNCF
-    label: Silver Member
-    end_user_label: Silver End User Member
-    funding: Silver
-  Academic:
-    name: CNCF
-    label: Academic Member
-    end_user_label: Academic End User Member
-    funding: Academic
-  Nonprofit:
-    name: CNCF
-    label: Nonprofit Member
-    end_user_label: Nonprofit End User Member
-    funding: Nonprofit
   End User Supporter:
-    name: CNCF
+    name: CDF
     label: End User Supporter
     funding: End User Supporter
   linux_foundation:
@@ -91,10 +75,10 @@ membership:
     label: Project
     funding: Linux Foundation
     crunchbase_and_children: 'https://www.crunchbase.com/organization/linux-foundation'
-  cncf:
-    name: CNCF
+  cdf:
+    name: CDF
     label: Project
-    funding: CNCF
+    funding: CDF
   'false':
     funding: 'No'
 home:
