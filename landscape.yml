@@ -4,7 +4,7 @@ landscape:
    subcategories:
     - subcategory:
       name: Pipeline Orchestration
-      items: 
+      items:
           - item:
             name: CircleCI
             homepage_url: 'https://circleci.com/'
@@ -53,7 +53,7 @@ landscape:
             homepage_url: 'https://www.spinnaker.io/'
             repo_url: 'https://github.com/spinnaker/spinnaker'
             logo: spinnaker.svg
-            project: incubating
+            project: graduated
             twitter: 'https://twitter.com/spinnakerio'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
           - item:
@@ -61,18 +61,18 @@ landscape:
             homepage_url: 'https://tekton.dev/'
             repo_url: 'https://github.com/tektoncd/pipeline'
             logo: tekton.svg
-            project: incubating
+            project: graduated
             twitter: 'https://twitter.com/tektoncd'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
     - subcategory:
       name: Continuous Integration
-      items: 
+      items:
           - item:
             name: Jenkins
             homepage_url: 'https://jenkins.io/'
             repo_url: 'https://github.com/jenkinsci/jenkins'
             logo: jenkins.svg
-            project: incubating
+            project: graduated
             twitter: 'https://twitter.com/jenkinsci'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
           - item:
@@ -80,7 +80,7 @@ landscape:
             homepage_url: 'https://jenkins.io/'
             repo_url: 'https://github.com/jenkins-x/jx'
             logo: jenkins-x.svg
-            project: incubating
+            project: graduated
             twitter: 'https://twitter.com/jenkinsxio'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
  - category:
@@ -90,50 +90,50 @@ landscape:
       name: Test Automation
       items:
         - item:
-          name: IBM Rational Functional Tester 
+          name: IBM Rational Functional Tester
           homepage_url: 'https://www.ibm.com/cloud'
           logo: ibm-cloud.svg
           twitter: 'https://twitter.com/IBMcloud'
           crunchbase: 'https://www.crunchbase.com/organization/ibm'
     - subcategory:
       name: Release Automation
-      items: 
+      items:
         - item:
           name: Cloudbees Flow
           homepage_url: 'https://www.cloudbees.com/products/cloudbees-flow'
           logo: cloudbees.svg
           twitter: 'https://twitter.com/CloudBees'
-          crunchbase: 'https://www.crunchbase.com/organization/cloudbees'            
+          crunchbase: 'https://www.crunchbase.com/organization/cloudbees'
         - item:
           name: IBM UDeploy and URelease
           homepage_url: 'https://developer.ibm.com/urbancode/products/urbancode-deploy/'
-          logo:  ibm-cloud.svg           
+          logo:  ibm-cloud.svg
           twitter: 'https://twitter.com/IBMcloud'
           crunchbase: 'https://www.crunchbase.com/organization/ibm'
     - subcategory:
-      name: Build Automation  
+      name: Build Automation
       items:
-        - item: 
+        - item:
           name: OpenMake Meister
           homepage_url:  'https://www.openmakesoftware.com/meister-build-automation/'
           logo:  openmakesoftware.svg
           twitter: 'https://twitter.com/openmake'
-          crunchbase: 'https://www.crunchbase.com/organization/openmake-software'       
+          crunchbase: 'https://www.crunchbase.com/organization/openmake-software'
  - category:
    name: Configuration & Library Management
    subcategories:
     - subcategory:
       name: Configuration Management
-      items: 
+      items:
        - item:
          name: DeployHub
          homepage_url: 'https://www.deployhub.com/'
          logo: deployhub.svg
          twitter: 'https://twitter.com/DeployHubProj'
-         crunchbase: 'https://www.crunchbase.com/organization/deployhub' 
+         crunchbase: 'https://www.crunchbase.com/organization/deployhub'
     - subcategory:
       name: Library Management
-      items: 
+      items:
         - item:
           name: JFrog Artifactory
           homepage_url: 'https://jfrog.com/artifactory/'
@@ -153,7 +153,7 @@ landscape:
           twitter: 'https://twitter.com/WhiteSourceSoft'
           crunchbase: 'https://www.crunchbase.com/organization/white-source'
  - category:
-   name: Infrastructure Deployments 
+   name: Infrastructure Deployments
    subcategories:
     - subcategory:
       name: Cloud Native
@@ -199,12 +199,12 @@ landscape:
            description: 'Ensure your apps are stored privately, with access that you control. Quay is teamwork optimized, with powerful access controls.'
            homepage_url: 'https://quay.io/'
            logo: quay.svg
-           crunchbase: 'https://www.crunchbase.com/organization/quay-io'   
+           crunchbase: 'https://www.crunchbase.com/organization/quay-io'
          - item:
            name: DockerHub
            homepage_url: 'https://hub.docker.com/'
            logo: docker-compose.svg
-           twitter: 'https://twitter.com/moby'            
+           twitter: 'https://twitter.com/moby'
            crunchbase: 'https://www.crunchbase.com/organization/docker'
      - subcategory:
        name: Image Build
@@ -227,14 +227,14 @@ landscape:
    name: DevSecOps, Analytics and Monitoring
    subcategories:
      - subcategory:
-       name: Container Security    
+       name: Container Security
        items:
          - item:
            name: Anchore
            homepage_url: 'https://anchore.com/enterprise/'
            repo_url: 'https://github.com/anchore/anchore-engine'
            logo: anchore.svg
-           twitter: 'https://twitter.com/anchore'            
+           twitter: 'https://twitter.com/anchore'
            crunchbase: 'https://www.crunchbase.com/organization/anchore-inc'
          - item:
            name: Snyk
@@ -248,13 +248,13 @@ landscape:
            logo: sysdig.svg
            crunchbase: 'https://www.crunchbase.com/organization/sysdig'
      - subcategory:
-       name: Analytics and Monitoring    
+       name: Analytics and Monitoring
        items:
          - item:
            name: Sumo Logic
            homepage_url: 'https://www.sumologic.com/'
            logo: sumologic.svg
-           crunchbase: 'https://www.crunchbase.com/organization/sumo-logic'  
+           crunchbase: 'https://www.crunchbase.com/organization/sumo-logic'
  - category:
    name: CDF Members
    subcategories:
@@ -409,7 +409,7 @@ landscape:
            logo: ebay.svg
            enduser: true
            crunchbase: 'https://www.crunchbase.com/organization/ebay'
-         - item:            
+         - item:
            name: HSBC (member)
            homepage_url: 'https://www.hsbc.com/'
            logo: hsbc.svg
@@ -428,4 +428,3 @@ landscape:
            logo: sap.svg
            enduser: true
            crunchbase: 'https://www.crunchbase.com/organization/sap'
-           
