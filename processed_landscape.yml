@@ -7,6 +7,33 @@ landscape:
         name: Pipeline Orchestration
         items:
           - item:
+            name: Armory
+            homepage_url: 'https://www.armory.io/'
+            logo: armory.svg
+            crunchbase: 'https://www.crunchbase.com/organization/armory'
+            crunchbase_data:
+              name: Armory
+              description: 'Armory allows continuous software delivery at enterprise scale to ship better software, faster.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.armory.io/'
+              city: San Mateo
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/cloudarmory'
+              linkedin: 'https://www.linkedin.com/company/armory.io/'
+              parents: []
+              kind: funding
+              funding: 42000000
+            image_data:
+              fileName: armory.svg
+              hash: AEW7wFXQc60IbcoEKDaJyvlF4GsgqMjT/nZ1WunBWLI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-09-24T21:12:32.000Z
+          - item:
             name: CircleCI
             homepage_url: 'https://circleci.com/'
             logo: circleci.svg
@@ -34,7 +61,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-20T16:27:02.000Z
+              latest_tweet_date: 2019-09-27T18:30:25.000Z
           - item:
             name: Cloudbees Codeship
             description: Ship faster with CI/CD as a Service
@@ -63,7 +90,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T17:33:35.000Z
+              latest_tweet_date: 2019-09-28T17:00:27.000Z
           - item:
             name: GitLab
             homepage_url: 'https://about.gitlab.com/'
@@ -87,12 +114,12 @@ landscape:
               kind: funding
               funding: 436200000
             github_data:
-              stars: 22008
+              stars: 22018
               license: Other
               description: GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-              latest_commit_date: '2019-09-20T06:00:00.000Z'
-              latest_commit_link: /gitlabhq/gitlabhq/commit/fc8c74fd0cbe7384038ead2dd2493f5c63d2b98d
-              contributors_count: 2005
+              latest_commit_date: '2019-09-28T18:06:28Z'
+              latest_commit_link: /gitlabhq/gitlabhq/commit/ce14080c6ff88bc1957c4edd31876ad3a661f6c3
+              contributors_count: 2006
               contributors_link: 'https://github.com/gitlabhq/gitlabhq/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /gitlabhq/gitlabhq/commit/93efff945215a4407afcaf0cba15ac601b56df0d
@@ -104,7 +131,7 @@ landscape:
               badge: 42
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2019-09-19T23:10:09.000Z
+              latest_tweet_date: 2019-09-27T18:50:02.000Z
           - item:
             name: Harness.io
             homepage_url: 'https://harness.io'
@@ -132,7 +159,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T17:05:00.000Z
+              latest_tweet_date: 2019-09-27T17:05:00.000Z
           - item:
             name: JFrog Shippable
             homepage_url: 'https://jfrog.com/partner/shippable/'
@@ -162,33 +189,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-09-11T14:34:06.000Z
           - item:
-            name: Armory
-            homepage_url: 'https://www.armory.io/'
-            logo: armory.svg
-            crunchbase: 'https://www.crunchbase.com/organization/armory'
-            crunchbase_data:
-              name: Armory
-              description: 'Armory allows continuous software delivery at enterprise scale to ship better software, faster.'
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'http://www.armory.io/'
-              city: San Mateo
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/cloudarmory'
-              linkedin: 'https://www.linkedin.com/company/armory.io/'
-              parents: []
-              kind: funding
-              funding: 42000000
-            image_data:
-              fileName: armory.svg
-              hash: AEW7wFXQc60IbcoEKDaJyvlF4GsgqMjT/nZ1WunBWLI=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-09-19T11:35:02.000Z
-          - item:
             name: OpsMX
             homepage_url: 'https://www.opsmx.com'
             logo: opsmx.svg
@@ -212,13 +212,13 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T23:11:07.000Z
+              latest_tweet_date: 2019-09-28T11:23:09.000Z
           - item:
             name: Spinnaker
             homepage_url: 'https://www.spinnaker.io/'
+            project: graduated
             repo_url: 'https://github.com/spinnaker/spinnaker'
             logo: spinnaker.svg
-            project: incubating
             twitter: 'https://twitter.com/spinnakerio'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
             crunchbase_data:
@@ -235,14 +235,14 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 6498
+              stars: 6523
               license: Apache License 2.0
               description: 'Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.'
-              latest_commit_date: '2019-09-18T06:00:00.000Z'
-              latest_commit_link: /spinnaker/spinnaker/commit/267cf7cf1ccbe23572f90c412495a94a68a85f5d
+              latest_commit_date: '2019-09-27T13:45:48Z'
+              latest_commit_link: /spinnaker/spinnaker/commit/99f3be2299941eb54c714338cc40342785b706b8
               release_date: '2017-12-19T18:01:54Z'
               release_link: 'https://github.com/spinnaker/spinnaker/releases'
-              contributors_count: 102
+              contributors_count: 103
               contributors_link: 'https://github.com/spinnaker/spinnaker/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /spinnaker/spinnaker/commit/2b3fac174db42aa7944d6e606a17d5ca1ae66715
@@ -258,9 +258,9 @@ landscape:
           - item:
             name: Tekton Pipelines
             homepage_url: 'https://tekton.dev/'
+            project: graduated
             repo_url: 'https://github.com/tektoncd/pipeline'
             logo: tekton.svg
-            project: incubating
             twitter: 'https://twitter.com/tektoncd'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
             crunchbase_data:
@@ -277,14 +277,14 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 3443
+              stars: 3507
               license: Apache License 2.0
               description: A K8s-native Pipeline resource.
-              latest_commit_date: '2019-09-20T06:00:00.000Z'
-              latest_commit_link: /tektoncd/pipeline/commit/c5dfdd873831d123d8c6c2552b4a87101fbb48e1
+              latest_commit_date: '2019-09-27T07:50:22Z'
+              latest_commit_link: /tektoncd/pipeline/commit/2bf801ec924389cf6ee06a97a38ea93cda812a05
               release_date: '2019-09-19T17:22:39Z'
               release_link: 'https://github.com/tektoncd/pipeline/releases'
-              contributors_count: 86
+              contributors_count: 87
               contributors_link: 'https://github.com/tektoncd/pipeline/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /tektoncd/pipeline/commit/301b41380e95382a18b391c2165fa3a6a3de93b0
@@ -296,16 +296,16 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-20T15:40:19.000Z
+              latest_tweet_date: 2019-09-28T17:31:35.000Z
       - subcategory:
         name: Continuous Integration
         items:
           - item:
             name: Jenkins
             homepage_url: 'https://jenkins.io/'
+            project: graduated
             repo_url: 'https://github.com/jenkinsci/jenkins'
             logo: jenkins.svg
-            project: incubating
             twitter: 'https://twitter.com/jenkinsci'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
             crunchbase_data:
@@ -322,14 +322,14 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 13878
+              stars: 13944
               license: MIT License
               description: Jenkins automation server
-              latest_commit_date: '2019-09-20T06:00:00.000Z'
-              latest_commit_link: /jenkinsci/jenkins/commit/d763b4cb11067262349554ff178649959d017f56
-              release_date: '2019-09-16T13:15:10Z'
+              latest_commit_date: '2019-09-28T15:13:42Z'
+              latest_commit_link: /jenkinsci/jenkins/commit/22222f4c699ea323291bc4af6288455a51f80f3b
+              release_date: '2019-09-23T05:50:52Z'
               release_link: 'https://github.com/jenkinsci/jenkins/releases'
-              contributors_count: 579
+              contributors_count: 581
               contributors_link: 'https://github.com/jenkinsci/jenkins/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /jenkinsci/jenkins/commit/8a0dc230f44e84e5a7f7920cf9a31f09a54999ac
@@ -341,13 +341,13 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-20T13:32:11.000Z
+              latest_tweet_date: 2019-09-27T16:53:18.000Z
           - item:
             name: JenkinsX
             homepage_url: 'https://jenkins.io/'
+            project: graduated
             repo_url: 'https://github.com/jenkins-x/jx'
             logo: jenkins-x.svg
-            project: incubating
             twitter: 'https://twitter.com/jenkinsxio'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
             crunchbase_data:
@@ -364,16 +364,16 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 3064
+              stars: 3074
               license: Apache License 2.0
               description: >-
                 Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Tekton, Knative, Prow, Skaffold and
                 Helm
-              latest_commit_date: '2019-09-20T06:00:00.000Z'
-              latest_commit_link: /jenkins-x/jx/commit/d8aa6c185bc4fef865e8e397dd25bacc50e46793
-              release_date: '2019-09-20T18:11:52Z'
+              latest_commit_date: '2019-09-25T12:09:43Z'
+              latest_commit_link: /jenkins-x/jx/commit/bfe9ee579094cb9ecc6d4352a047f47965e6c1b6
+              release_date: '2019-09-28T18:41:04Z'
               release_link: 'https://github.com/jenkins-x/jx/releases'
-              contributors_count: 145
+              contributors_count: 146
               contributors_link: 'https://github.com/jenkins-x/jx/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /jenkins-x/jx/commit/e255f7ea050c4a410a21183ec85a510c8e4ca8c6
@@ -382,10 +382,10 @@ landscape:
               fileName: jenkins-x.svg
               hash: +bDZsdrfz1O+H77iUB0d3eF8S0qLd9y9isM2GpaRlVc=
             best_practice_data:
-              badge: false
-              percentage: null
+              badge: 3213
+              percentage: 17
             twitter_data:
-              latest_tweet_date: 2019-09-20T18:04:02.000Z
+              latest_tweet_date: 2019-09-27T13:27:39.000Z
   - category:
     name: Continuous Automation
     subcategories:
@@ -409,11 +409,11 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/IBM'
               linkedin: 'https://www.linkedin.com/company/ibm/'
+              parents: []
               ticker: IBM
               kind: market_cap
-              parents: []
             yahoo_finance_data:
-              market_cap: 134202286080
+              market_cap: 126892744704
               effective_ticker: IBM
             image_data:
               fileName: ibm-rational-functional-tester.svg
@@ -422,7 +422,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T13:17:49.000Z
+              latest_tweet_date: 2019-09-27T08:17:37.000Z
       - subcategory:
         name: Release Automation
         items:
@@ -453,7 +453,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T17:33:35.000Z
+              latest_tweet_date: 2019-09-28T17:00:27.000Z
           - item:
             name: IBM UDeploy and URelease
             homepage_url: 'https://developer.ibm.com/urbancode/products/urbancode-deploy/'
@@ -471,11 +471,11 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/IBM'
               linkedin: 'https://www.linkedin.com/company/ibm/'
+              parents: []
               ticker: IBM
               kind: market_cap
-              parents: []
             yahoo_finance_data:
-              market_cap: 134202286080
+              market_cap: 126892744704
               effective_ticker: IBM
             image_data:
               fileName: ibm-u-deploy-and-u-release.svg
@@ -484,7 +484,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T13:17:49.000Z
+              latest_tweet_date: 2019-09-27T08:17:37.000Z
       - subcategory:
         name: Build Automation
         items:
@@ -508,7 +508,7 @@ landscape:
               parents: []
             image_data:
               fileName: open-make-meister.svg
-              hash: Gg2HMslIXJcap8XAYRAEmexnhNAwVjGXYhctt5BSjmk=
+              hash: xGuwpnwTIdVdydA6hq5rMnc14UG5Qf6NJBIaGE9xaSc=
             best_practice_data:
               badge: false
               percentage: null
@@ -545,7 +545,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T21:15:13.000Z
+              latest_tweet_date: 2019-09-27T18:02:20.000Z
       - subcategory:
         name: Library Management
         items:
@@ -576,7 +576,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T18:37:50.000Z
+              latest_tweet_date: 2019-09-28T02:01:00.000Z
           - item:
             name: Sonatype Nexus
             homepage_url: 'https://www.sonatype.com/'
@@ -604,7 +604,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T22:09:52.000Z
+              latest_tweet_date: 2019-09-27T23:31:53.000Z
           - item:
             name: WhiteSource
             homepage_url: 'https://www.whitesourcesoftware.com/'
@@ -632,7 +632,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-18T13:00:56.000Z
+              latest_tweet_date: 2019-09-27T13:02:07.000Z
   - category:
     name: Infrastructure Deployments
     subcategories:
@@ -685,7 +685,7 @@ landscape:
               ticker: BABA
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 474120355840
+              market_cap: 432140517376
               effective_ticker: BABA
             image_data:
               fileName: alibaba-cloud.svg
@@ -694,7 +694,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-20T09:29:43.000Z
+              latest_tweet_date: 2019-09-28T10:19:00.000Z
           - item:
             name: Dell Boomi
             homepage_url: 'https://boomi.com/'
@@ -721,7 +721,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T16:58:18.000Z
+              latest_tweet_date: 2019-09-29T00:53:01.000Z
           - item:
             name: Rancher Labs
             homepage_url: 'https://rancher.com'
@@ -748,7 +748,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T21:07:35.000Z
+              latest_tweet_date: 2019-09-28T23:04:59.000Z
       - subcategory:
         name: Traditional
         items:
@@ -774,12 +774,12 @@ landscape:
               kind: funding
               funding: 149500000
             github_data:
-              stars: 5452
+              stars: 5466
               license: Apache License 2.0
               description: Server automation framework and application
-              latest_commit_date: '2019-09-19T06:00:00.000Z'
-              latest_commit_link: /puppetlabs/puppet/commit/be8b5813df50972591912a866a2a887d8d759bb3
-              contributors_count: 521
+              latest_commit_date: '2019-09-26T23:35:54Z'
+              latest_commit_link: /puppetlabs/puppet/commit/e7f567d100821d911eefcc5673d8c6a30cc7ff76
+              contributors_count: 522
               contributors_link: 'https://github.com/puppetlabs/puppet/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /puppetlabs/puppet/commit/54e9b5e3561977ea063417da12c46aad2a4c1332
@@ -791,39 +791,13 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T23:08:33.000Z
+              latest_tweet_date: 2019-09-29T02:30:01.000Z
   - category:
     name: 'Container Registry, and Image Build'
     subcategories:
       - subcategory:
         name: Container Registry
         items:
-          - item:
-            name: Quay
-            description: 'Ensure your apps are stored privately, with access that you control. Quay is teamwork optimized, with powerful access controls.'
-            homepage_url: 'https://quay.io/'
-            logo: quay.svg
-            crunchbase: 'https://www.crunchbase.com/organization/quay-io'
-            crunchbase_data:
-              name: quay.io
-              description: Quay.io is a private hosted docker registry.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'https://quay.io/'
-              city: New York
-              region: New York
-              country: United States
-              twitter: 'http://twitter.com/quayio'
-              linkedin: null
-              parents: []
-            image_data:
-              fileName: quay.svg
-              hash: fXwScwHT4zsCjnZXBn2KGOw0u1Vnc3Vdyc6r7SFfgcA=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-09-09T22:20:36.000Z
           - item:
             name: DockerHub
             homepage_url: 'https://hub.docker.com/'
@@ -852,6 +826,32 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-02-12T18:10:37.000Z
+          - item:
+            name: Quay
+            description: 'Ensure your apps are stored privately, with access that you control. Quay is teamwork optimized, with powerful access controls.'
+            homepage_url: 'https://quay.io/'
+            logo: quay.svg
+            crunchbase: 'https://www.crunchbase.com/organization/quay-io'
+            crunchbase_data:
+              name: quay.io
+              description: Quay.io is a private hosted docker registry.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://quay.io/'
+              city: New York
+              region: New York
+              country: United States
+              twitter: 'http://twitter.com/quayio'
+              linkedin: null
+              parents: []
+            image_data:
+              fileName: quay.svg
+              hash: fXwScwHT4zsCjnZXBn2KGOw0u1Vnc3Vdyc6r7SFfgcA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-09-09T22:20:36.000Z
       - subcategory:
         name: Image Build
         items:
@@ -877,17 +877,17 @@ landscape:
               kind: market_cap
               parents: []
             github_data:
-              stars: 39397
+              stars: 39511
               license: GNU General Public License v3.0
               description: >-
                 Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom
                 code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on
                 remote systems. https://docs.ansible.com/ansible/
-              latest_commit_date: '2019-09-19T06:00:00.000Z'
-              latest_commit_link: /ansible/ansible/commit/cee55ab7187df23ffa3c577ab1cbe15334cb38fa
+              latest_commit_date: '2019-09-28T17:34:29Z'
+              latest_commit_link: /ansible/ansible/commit/75dfe6c88aee21b26e86b0aa03dacb07b627c80e
               release_date: '2018-02-09T06:51:40Z'
               release_link: 'https://github.com/ansible/ansible/releases'
-              contributors_count: 4646
+              contributors_count: 4662
               contributors_link: 'https://github.com/ansible/ansible/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /ansible/ansible/commit/f31421576b00f0b167cdbe61217c31c21a41ac02
@@ -902,7 +902,7 @@ landscape:
               badge: 2372
               percentage: 65
             twitter_data:
-              latest_tweet_date: 2019-09-19T18:53:49.000Z
+              latest_tweet_date: 2019-09-27T14:43:02.000Z
           - item:
             name: Helm
             homepage_url: 'https://helm.sh/'
@@ -921,16 +921,17 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/CloudNativeFdn'
               linkedin: 'https://www.linkedin.com/company/cloud-native-computing-foundation'
-              parents: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 13900
+              stars: 14037
               license: Apache License 2.0
               description: The Kubernetes Package Manager
-              latest_commit_date: '2019-09-19T06:00:00.000Z'
-              latest_commit_link: /helm/helm/commit/7d9a6509fa703185df7388ca1e04b99b11c69253
+              latest_commit_date: '2019-09-27T13:18:31Z'
+              latest_commit_link: /helm/helm/commit/01f775d03cb04fd84724da5b1db97c3b9c214c87
               release_date: '2019-09-05T20:59:50Z'
               release_link: 'https://github.com/helm/helm/releases'
-              contributors_count: 512
+              contributors_count: 516
               contributors_link: 'https://github.com/helm/helm/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /helm/helm/commit/94db53d0803034083a3a9b1c7a9a197c327eb6b0
@@ -942,7 +943,7 @@ landscape:
               badge: 3131
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2019-09-19T18:49:51.000Z
+              latest_tweet_date: 2019-09-28T00:00:10.000Z
   - category:
     name: 'DevSecOps, Analytics and Monitoring'
     subcategories:
@@ -971,13 +972,13 @@ landscape:
               kind: funding
               funding: 6000000
             github_data:
-              stars: 644
+              stars: 649
               license: Apache License 2.0
               description: >-
                 A service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and
                 certification
-              latest_commit_date: '2019-09-16T06:00:00.000Z'
-              latest_commit_link: /anchore/anchore-engine/commit/bb0faa76425a192e1ac5e451a13a7f4963d1e587
+              latest_commit_date: '2019-09-24T14:38:51Z'
+              latest_commit_link: /anchore/anchore-engine/commit/156836d3da3c9936f35b19f2ce7898d89d09c567
               contributors_count: 21
               contributors_link: 'https://github.com/anchore/anchore-engine/graphs/contributors'
             github_start_commit_data:
@@ -990,7 +991,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T22:15:56.000Z
+              latest_tweet_date: 2019-09-26T14:54:24.000Z
           - item:
             name: Snyk
             homepage_url: 'https://snyk.io/'
@@ -1019,7 +1020,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-20T16:08:03.000Z
+              latest_tweet_date: 2019-09-28T21:52:02.000Z
           - item:
             name: Sysdig
             homepage_url: 'https://sysdig.com'
@@ -1046,7 +1047,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T20:45:03.000Z
+              latest_tweet_date: 2019-09-28T06:30:04.000Z
       - subcategory:
         name: Analytics and Monitoring
         items:
@@ -1076,7 +1077,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T23:29:22.000Z
+              latest_tweet_date: 2019-09-28T13:47:05.000Z
   - category:
     name: CDF Members
     subcategories:
@@ -1104,7 +1105,7 @@ landscape:
               ticker: COF
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 43867955200
+              market_cap: 42960211968
               effective_ticker: COF
             image_data:
               fileName: capital-one-member.svg
@@ -1113,7 +1114,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T16:17:42.000Z
+              latest_tweet_date: 2019-09-28T14:39:25.000Z
           - item:
             name: CircleCI (member)
             homepage_url: 'https://circleci.com/'
@@ -1141,7 +1142,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-20T16:27:02.000Z
+              latest_tweet_date: 2019-09-27T18:30:25.000Z
           - item:
             name: CloudBees (member)
             homepage_url: 'https://www.cloudbees.com/'
@@ -1168,7 +1169,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T17:33:35.000Z
+              latest_tweet_date: 2019-09-28T17:00:27.000Z
           - item:
             name: Google Cloud (member)
             homepage_url: 'https://cloud.google.com/'
@@ -1186,11 +1187,12 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/google'
               linkedin: 'https://www.linkedin.com/company/google'
+              parents:
+                - 'https://www.crunchbase.com/organization/alphabet'
               ticker: GOOG
               kind: market_cap
-              parents: []
             yahoo_finance_data:
-              market_cap: 869548883968
+              market_cap: 849782439936
               effective_ticker: GOOG
             image_data:
               fileName: google-cloud-member.svg
@@ -1199,7 +1201,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T22:06:07.000Z
+              latest_tweet_date: 2019-09-29T03:31:00.000Z
           - item:
             name: Huawei (member)
             homepage_url: 'https://www.huaweicloud.com/en-us/about/about_us.html'
@@ -1225,7 +1227,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T10:08:58.000Z
+              latest_tweet_date: 2019-09-26T11:56:10.000Z
           - item:
             name: IBM (member)
             homepage_url: 'https://www.ibm.com/cloud'
@@ -1243,11 +1245,11 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/IBM'
               linkedin: 'https://www.linkedin.com/company/ibm/'
+              parents: []
               ticker: IBM
               kind: market_cap
-              parents: []
             yahoo_finance_data:
-              market_cap: 134202286080
+              market_cap: 126892744704
               effective_ticker: IBM
             image_data:
               fileName: ibm-member.svg
@@ -1256,7 +1258,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T13:17:49.000Z
+              latest_tweet_date: 2019-09-27T08:17:37.000Z
           - item:
             name: JFrog (member)
             homepage_url: 'https://jfrog.com/'
@@ -1283,7 +1285,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T18:37:50.000Z
+              latest_tweet_date: 2019-09-28T02:01:00.000Z
           - item:
             name: Netflix (member)
             homepage_url: 'https://www.netflix.com/'
@@ -1304,7 +1306,7 @@ landscape:
               ticker: NFLX
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 125483515904
+              market_cap: 115185631232
               effective_ticker: NFLX
             image_data:
               fileName: netflix-member.svg
@@ -1313,7 +1315,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T23:15:23.000Z
+              latest_tweet_date: 2019-09-28T20:07:10.000Z
           - item:
             name: Salesforce (member)
             homepage_url: 'https://www.salesforce.com/'
@@ -1331,11 +1333,11 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/salesforce'
               linkedin: 'https://www.linkedin.com/company/salesforce'
+              parents: []
               ticker: CRM
               kind: market_cap
-              parents: []
             yahoo_finance_data:
-              market_cap: 124597116928
+              market_cap: 130024013824
               effective_ticker: CRM
             image_data:
               fileName: salesforce-member.svg
@@ -1344,7 +1346,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T23:31:53.000Z
+              latest_tweet_date: 2019-09-28T22:00:16.000Z
       - subcategory:
         name: General
         items:
@@ -1394,7 +1396,7 @@ landscape:
               ticker: BABA
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 474120355840
+              market_cap: 432140517376
               effective_ticker: BABA
             image_data:
               fileName: alibaba-cloud-member.svg
@@ -1403,7 +1405,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-20T09:29:43.000Z
+              latest_tweet_date: 2019-09-28T10:19:00.000Z
           - item:
             name: Anchore (member)
             homepage_url: 'https://anchore.com/'
@@ -1430,7 +1432,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T22:15:56.000Z
+              latest_tweet_date: 2019-09-26T14:54:24.000Z
           - item:
             name: Armory (member)
             homepage_url: 'https://www.armory.io/'
@@ -1457,7 +1459,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T11:35:02.000Z
+              latest_tweet_date: 2019-09-24T21:12:32.000Z
           - item:
             name: Dell Boomi (member)
             homepage_url: 'https://boomi.com/'
@@ -1484,7 +1486,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T16:58:18.000Z
+              latest_tweet_date: 2019-09-29T00:53:01.000Z
           - item:
             name: DeployHub (member)
             homepage_url: 'https://www.deployhub.com'
@@ -1509,7 +1511,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T21:15:13.000Z
+              latest_tweet_date: 2019-09-27T18:02:20.000Z
           - item:
             name: GitLab (member)
             homepage_url: 'https://about.gitlab.com'
@@ -1536,7 +1538,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T23:10:09.000Z
+              latest_tweet_date: 2019-09-27T18:50:02.000Z
           - item:
             name: Harness (member)
             homepage_url: 'https://harness.io'
@@ -1563,7 +1565,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T17:05:00.000Z
+              latest_tweet_date: 2019-09-27T17:05:00.000Z
           - item:
             name: OpsMX (member)
             homepage_url: 'https://www.opsmx.com'
@@ -1588,7 +1590,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T23:11:07.000Z
+              latest_tweet_date: 2019-09-28T11:23:09.000Z
           - item:
             name: Puppet (member)
             homepage_url: 'https://puppet.com'
@@ -1615,7 +1617,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T23:08:33.000Z
+              latest_tweet_date: 2019-09-29T02:30:01.000Z
           - item:
             name: Rancher Labs (member)
             homepage_url: 'https://rancher.com'
@@ -1642,7 +1644,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T21:07:35.000Z
+              latest_tweet_date: 2019-09-28T23:04:59.000Z
           - item:
             name: RedHat (member)
             homepage_url: 'https://www.redhat.com/en'
@@ -1672,7 +1674,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-28T19:51:04.000Z
+              latest_tweet_date: 2019-09-28T20:00:06.000Z
           - item:
             name: Snyk (member)
             homepage_url: 'https://snyk.io/'
@@ -1700,7 +1702,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-20T16:08:03.000Z
+              latest_tweet_date: 2019-09-28T21:52:02.000Z
           - item:
             name: Sumo Logic (member)
             homepage_url: 'https://www.sumologic.com/'
@@ -1727,7 +1729,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T23:29:22.000Z
+              latest_tweet_date: 2019-09-28T13:47:05.000Z
           - item:
             name: Sysdig (member)
             homepage_url: 'https://sysdig.com'
@@ -1754,7 +1756,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T20:45:03.000Z
+              latest_tweet_date: 2019-09-28T06:30:04.000Z
           - item:
             name: WhiteSource (member)
             homepage_url: 'https://www.whitesourcesoftware.com/'
@@ -1781,7 +1783,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-18T13:00:56.000Z
+              latest_tweet_date: 2019-09-27T13:02:07.000Z
       - subcategory:
         name: End User Supporter
         items:
@@ -1806,7 +1808,7 @@ landscape:
               ticker: ADSK
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 33680408576
+              market_cap: 31881981952
               effective_ticker: ADSK
             image_data:
               fileName: autodesk-member.svg
@@ -1815,7 +1817,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T15:00:01.000Z
+              latest_tweet_date: 2019-09-28T19:46:00.000Z
           - item:
             name: eBay (member)
             homepage_url: 'https://www.ebay.com'
@@ -1837,7 +1839,7 @@ landscape:
               ticker: EBAY
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 33743898624
+              market_cap: 32183375872
               effective_ticker: EBAY
             image_data:
               fileName: e-bay-member.svg
@@ -1846,13 +1848,13 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T17:30:00.000Z
+              latest_tweet_date: 2019-09-28T19:29:00.000Z
           - item:
             name: HSBC (member)
             homepage_url: 'https://www.hsbc.com/'
+            stock_ticker: HSBC
             logo: hsbc.svg
             enduser: true
-            stock_ticker: HSBC
             crunchbase: 'https://www.crunchbase.com/organization/hsbc'
             crunchbase_data:
               name: HSBC
@@ -1869,7 +1871,7 @@ landscape:
               ticker: HSB
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 153821069312
+              market_cap: 155196997632
               effective_ticker: HSBC
             image_data:
               fileName: hsbc-member.svg
@@ -1878,7 +1880,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T16:02:56.000Z
+              latest_tweet_date: 2019-09-27T16:05:00.000Z
           - item:
             name: JP Morgan Chase (member)
             homepage_url: 'https://www.jpmorganchase.com/'
@@ -1900,7 +1902,7 @@ landscape:
               ticker: JPM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 381716332544
+              market_cap: 376408506368
               effective_ticker: JPM
             image_data:
               fileName: jp-morgan-chase-member.svg
@@ -1909,7 +1911,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T20:00:00.000Z
+              latest_tweet_date: 2019-09-27T17:00:00.000Z
           - item:
             name: SAP (member)
             homepage_url: 'https://www.sap.com'
@@ -1931,7 +1933,7 @@ landscape:
               ticker: SAP
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 148849541120
+              market_cap: 144352542720
               effective_ticker: SAP
             image_data:
               fileName: sap-member.svg
@@ -1940,7 +1942,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-19T21:38:32.000Z
+              latest_tweet_date: 2019-09-28T19:09:10.000Z
 twitter_options:
   count: 37
   since_id: '1141123500800823296'
