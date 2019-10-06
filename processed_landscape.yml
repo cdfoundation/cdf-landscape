@@ -90,7 +90,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-04T20:00:19.000Z
+              latest_tweet_date: 2019-10-05T19:00:32.000Z
           - item:
             name: GitLab
             homepage_url: 'https://about.gitlab.com/'
@@ -114,11 +114,11 @@ landscape:
               kind: funding
               funding: 436200000
             github_data:
-              stars: 22023
+              stars: 22022
               license: Other
               description: GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-              latest_commit_date: '2019-10-05T00:05:59Z'
-              latest_commit_link: /gitlabhq/gitlabhq/commit/7b871b34980ed6b21e080b4937860aaf898b7fa4
+              latest_commit_date: '2019-10-06T09:06:13Z'
+              latest_commit_link: /gitlabhq/gitlabhq/commit/7c21abab2ad1c87375b3172aaa92b1f9fc1175e4
               contributors_count: 2007
               contributors_link: 'https://github.com/gitlabhq/gitlabhq/graphs/contributors'
             github_start_commit_data:
@@ -131,7 +131,7 @@ landscape:
               badge: 42
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2019-10-04T21:32:03.000Z
+              latest_tweet_date: 2019-10-05T13:19:46.000Z
           - item:
             name: Harness.io
             homepage_url: 'https://harness.io'
@@ -235,14 +235,14 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 6538
+              stars: 6540
               license: Apache License 2.0
               description: 'Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.'
               latest_commit_date: '2019-10-02T13:35:19Z'
               latest_commit_link: /spinnaker/spinnaker/commit/62be7e5d874d903ef5152f7b0d6259ef33a47582
               release_date: '2017-12-19T18:01:54Z'
               release_link: 'https://github.com/spinnaker/spinnaker/releases'
-              contributors_count: 104
+              contributors_count: 0
               contributors_link: 'https://github.com/spinnaker/spinnaker/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /spinnaker/spinnaker/commit/2b3fac174db42aa7944d6e606a17d5ca1ae66715
@@ -277,7 +277,7 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 3543
+              stars: 3548
               license: Apache License 2.0
               description: A K8s-native Pipeline resource.
               latest_commit_date: '2019-09-30T15:45:21Z'
@@ -322,11 +322,11 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 13994
+              stars: 13997
               license: MIT License
               description: Jenkins automation server
-              latest_commit_date: '2019-10-05T07:18:25Z'
-              latest_commit_link: /jenkinsci/jenkins/commit/09c7a4b9ce3a33a85321dc3a86253a19896d992b
+              latest_commit_date: '2019-10-06T10:26:10Z'
+              latest_commit_link: /jenkinsci/jenkins/commit/188ca140eec08b0e234c528419a8de3e1bea24f9
               release_date: '2019-09-30T08:04:53Z'
               release_link: 'https://github.com/jenkinsci/jenkins/releases'
               contributors_count: 581
@@ -364,7 +364,7 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 3087
+              stars: 3089
               license: Apache License 2.0
               description: >-
                 Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Tekton, Knative, Prow, Skaffold and
@@ -385,7 +385,7 @@ landscape:
               badge: 3213
               percentage: 17
             twitter_data:
-              latest_tweet_date: 2019-10-05T03:22:38.000Z
+              latest_tweet_date: 2019-10-06T01:00:20.000Z
   - category:
     name: Continuous Automation
     subcategories:
@@ -453,7 +453,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-04T20:00:19.000Z
+              latest_tweet_date: 2019-10-05T19:00:32.000Z
           - item:
             name: IBM UDeploy and URelease
             homepage_url: 'https://developer.ibm.com/urbancode/products/urbancode-deploy/'
@@ -721,7 +721,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-04T14:07:02.000Z
+              latest_tweet_date: 2019-10-05T15:20:25.000Z
           - item:
             name: Rancher Labs
             homepage_url: 'https://rancher.com'
@@ -748,7 +748,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-03T22:02:28.000Z
+              latest_tweet_date: 2019-10-06T11:23:59.000Z
       - subcategory:
         name: Traditional
         items:
@@ -791,7 +791,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-04T21:00:17.000Z
+              latest_tweet_date: 2019-10-06T03:03:01.000Z
   - category:
     name: 'Container Registry, and Image Build'
     subcategories:
@@ -877,14 +877,14 @@ landscape:
               kind: market_cap
               parents: []
             github_data:
-              stars: 39651
+              stars: 39658
               license: GNU General Public License v3.0
               description: >-
                 Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom
                 code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on
                 remote systems. https://docs.ansible.com/ansible/
-              latest_commit_date: '2019-10-04T22:15:08Z'
-              latest_commit_link: /ansible/ansible/commit/2b6ee572eed1c622c82cafc2d28129448ef18d1c
+              latest_commit_date: '2019-10-06T08:21:15Z'
+              latest_commit_link: /ansible/ansible/commit/a99af710fbfb768745b214f1a4de2f0dd5d40551
               release_date: '2018-02-09T06:51:40Z'
               release_link: 'https://github.com/ansible/ansible/releases'
               contributors_count: 4670
@@ -924,7 +924,7 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 14123
+              stars: 14125
               license: Apache License 2.0
               description: The Kubernetes Package Manager
               latest_commit_date: '2019-10-04T23:57:31Z'
@@ -943,7 +943,7 @@ landscape:
               badge: 3131
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2019-10-05T01:00:11.000Z
+              latest_tweet_date: 2019-10-05T15:53:58.000Z
   - category:
     name: 'DevSecOps, Analytics and Monitoring'
     subcategories:
@@ -1020,7 +1020,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-05T10:07:01.000Z
+              latest_tweet_date: 2019-10-06T10:07:01.000Z
           - item:
             name: Sysdig
             homepage_url: 'https://sysdig.com'
@@ -1151,7 +1151,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-04T20:20:35.000Z
+              latest_tweet_date: 2019-10-05T23:14:28.000Z
           - item:
             name: CircleCI (member)
             homepage_url: 'https://circleci.com/'
@@ -1206,7 +1206,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-04T20:00:19.000Z
+              latest_tweet_date: 2019-10-05T19:00:32.000Z
           - item:
             name: Google Cloud (member)
             homepage_url: 'https://cloud.google.com/'
@@ -1238,7 +1238,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-05T08:27:08.000Z
+              latest_tweet_date: 2019-10-06T03:05:15.000Z
           - item:
             name: Huawei (member)
             homepage_url: 'https://www.huaweicloud.com/en-us/about/about_us.html'
@@ -1352,7 +1352,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-04T22:28:11.000Z
+              latest_tweet_date: 2019-10-05T21:03:02.000Z
           - item:
             name: Salesforce (member)
             homepage_url: 'https://www.salesforce.com/'
@@ -1383,7 +1383,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-04T22:45:24.000Z
+              latest_tweet_date: 2019-10-05T15:00:14.000Z
       - subcategory:
         name: General
         items:
@@ -1523,7 +1523,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-04T14:07:02.000Z
+              latest_tweet_date: 2019-10-05T15:20:25.000Z
           - item:
             name: DeployHub (member)
             homepage_url: 'https://www.deployhub.com'
@@ -1575,7 +1575,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-04T21:32:03.000Z
+              latest_tweet_date: 2019-10-05T13:19:46.000Z
           - item:
             name: Harness (member)
             homepage_url: 'https://harness.io'
@@ -1654,7 +1654,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-04T21:00:17.000Z
+              latest_tweet_date: 2019-10-06T03:03:01.000Z
           - item:
             name: Rancher Labs (member)
             homepage_url: 'https://rancher.com'
@@ -1681,7 +1681,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-03T22:02:28.000Z
+              latest_tweet_date: 2019-10-06T11:23:59.000Z
           - item:
             name: RedHat (member)
             homepage_url: 'https://www.redhat.com/en'
@@ -1711,7 +1711,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-04T21:55:11.000Z
+              latest_tweet_date: 2019-10-05T21:05:03.000Z
           - item:
             name: Snyk (member)
             homepage_url: 'https://snyk.io/'
@@ -1739,7 +1739,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-05T10:07:01.000Z
+              latest_tweet_date: 2019-10-06T10:07:01.000Z
           - item:
             name: Sumo Logic (member)
             homepage_url: 'https://www.sumologic.com/'
@@ -1854,7 +1854,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-04T15:00:01.000Z
+              latest_tweet_date: 2019-10-05T19:00:00.000Z
           - item:
             name: eBay (member)
             homepage_url: 'https://www.ebay.com'
@@ -1885,7 +1885,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-04T12:00:00.000Z
+              latest_tweet_date: 2019-10-05T19:53:00.000Z
           - item:
             name: HSBC (member)
             homepage_url: 'https://www.hsbc.com/'
@@ -1979,6 +1979,6 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-05T01:03:21.000Z
+              latest_tweet_date: 2019-10-05T19:00:36.000Z
 twitter_options:
   count: 0
