@@ -194,7 +194,7 @@ landscape:
             twitter: 'https://twitter.com/puppetize'
             crunchbase: 'https://www.crunchbase.com/organization/puppet-labs'
   - category:
-    name: 'Container Registry, and Image Build'
+    name: Container Registry, and Image Build
     subcategories:
       - subcategory:
         name: Container Registry
@@ -229,7 +229,7 @@ landscape:
             twitter: 'https://twitter.com/helmpack'
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
   - category:
-    name: 'DevSecOps, Analytics and Monitoring'
+    name: DevSecOps, Analytics and Monitoring
     subcategories:
       - subcategory:
         name: Container Security
@@ -261,16 +261,24 @@ landscape:
             logo: sumologic.svg
             crunchbase: 'https://www.crunchbase.com/organization/sumo-logic'
   - category:
-    name: 'SCM'
+    name: Change and Defect Management
     subcategories:
       - subcategory:
-        name: SCM
+        name: Version Control
         items:
           - item:
             name: GitHub
             homepage_url: 'https://github.com/'
             logo: github.svg
             crunchbase: 'https://www.crunchbase.com/organization/github'
+      - subcategory:
+        name: Issue Tracking
+        items:
+          - item:
+            name: Jira
+            homepage_url: 'https://www.atlassian.com/software/jira'
+            logo: jira.svg
+            crunchbase: 'https://www.crunchbase.com/organization/atlassian'
   - category:
     name: CDF Members
     subcategories:
