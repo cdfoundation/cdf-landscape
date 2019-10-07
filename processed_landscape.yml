@@ -90,7 +90,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-05T19:00:32.000Z
+              latest_tweet_date: 2019-10-06T18:00:28.000Z
           - item:
             name: GitLab
             homepage_url: 'https://about.gitlab.com/'
@@ -114,11 +114,11 @@ landscape:
               kind: funding
               funding: 436200000
             github_data:
-              stars: 22022
+              stars: 22023
               license: Other
               description: GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-              latest_commit_date: '2019-10-06T09:06:13Z'
-              latest_commit_link: /gitlabhq/gitlabhq/commit/7c21abab2ad1c87375b3172aaa92b1f9fc1175e4
+              latest_commit_date: '2019-10-07T06:06:10Z'
+              latest_commit_link: /gitlabhq/gitlabhq/commit/3900b8a0062113e11e600e4226426e4163ac5e2c
               contributors_count: 2007
               contributors_link: 'https://github.com/gitlabhq/gitlabhq/graphs/contributors'
             github_start_commit_data:
@@ -131,7 +131,7 @@ landscape:
               badge: 42
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2019-10-05T13:19:46.000Z
+              latest_tweet_date: 2019-10-06T11:34:59.000Z
           - item:
             name: Harness.io
             homepage_url: 'https://harness.io'
@@ -235,14 +235,14 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 6540
+              stars: 6541
               license: Apache License 2.0
               description: 'Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.'
               latest_commit_date: '2019-10-02T13:35:19Z'
               latest_commit_link: /spinnaker/spinnaker/commit/62be7e5d874d903ef5152f7b0d6259ef33a47582
               release_date: '2017-12-19T18:01:54Z'
               release_link: 'https://github.com/spinnaker/spinnaker/releases'
-              contributors_count: 0
+              contributors_count: 104
               contributors_link: 'https://github.com/spinnaker/spinnaker/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /spinnaker/spinnaker/commit/2b3fac174db42aa7944d6e606a17d5ca1ae66715
@@ -277,7 +277,7 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 3548
+              stars: 3552
               license: Apache License 2.0
               description: A K8s-native Pipeline resource.
               latest_commit_date: '2019-09-30T15:45:21Z'
@@ -322,11 +322,11 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 13997
+              stars: 14000
               license: MIT License
               description: Jenkins automation server
-              latest_commit_date: '2019-10-06T10:26:10Z'
-              latest_commit_link: /jenkinsci/jenkins/commit/188ca140eec08b0e234c528419a8de3e1bea24f9
+              latest_commit_date: '2019-10-06T23:55:07Z'
+              latest_commit_link: /jenkinsci/jenkins/commit/8e131f78f036eeff8265c99b25530a33abd37c5e
               release_date: '2019-09-30T08:04:53Z'
               release_link: 'https://github.com/jenkinsci/jenkins/releases'
               contributors_count: 581
@@ -364,7 +364,7 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 3089
+              stars: 3091
               license: Apache License 2.0
               description: >-
                 Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Tekton, Knative, Prow, Skaffold and
@@ -385,7 +385,7 @@ landscape:
               badge: 3213
               percentage: 17
             twitter_data:
-              latest_tweet_date: 2019-10-06T01:00:20.000Z
+              latest_tweet_date: 2019-10-07T01:00:00.000Z
   - category:
     name: Continuous Automation
     subcategories:
@@ -453,7 +453,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-05T19:00:32.000Z
+              latest_tweet_date: 2019-10-06T18:00:28.000Z
           - item:
             name: IBM UDeploy and URelease
             homepage_url: 'https://developer.ibm.com/urbancode/products/urbancode-deploy/'
@@ -748,7 +748,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-06T11:23:59.000Z
+              latest_tweet_date: 2019-10-06T13:13:59.000Z
       - subcategory:
         name: Traditional
         items:
@@ -774,7 +774,7 @@ landscape:
               kind: funding
               funding: 149500000
             github_data:
-              stars: 5475
+              stars: 5477
               license: Apache License 2.0
               description: Server automation framework and application
               latest_commit_date: '2019-10-04T12:50:26Z'
@@ -791,7 +791,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-06T03:03:01.000Z
+              latest_tweet_date: 2019-10-07T03:57:08.000Z
   - category:
     name: 'Container Registry, and Image Build'
     subcategories:
@@ -877,17 +877,17 @@ landscape:
               kind: market_cap
               parents: []
             github_data:
-              stars: 39658
+              stars: 39666
               license: GNU General Public License v3.0
               description: >-
                 Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom
                 code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on
                 remote systems. https://docs.ansible.com/ansible/
-              latest_commit_date: '2019-10-06T08:21:15Z'
-              latest_commit_link: /ansible/ansible/commit/a99af710fbfb768745b214f1a4de2f0dd5d40551
+              latest_commit_date: '2019-10-07T05:53:31Z'
+              latest_commit_link: /ansible/ansible/commit/0554b50eedae4e8a70fcc2e69d0297c4f5439b7f
               release_date: '2018-02-09T06:51:40Z'
               release_link: 'https://github.com/ansible/ansible/releases'
-              contributors_count: 4670
+              contributors_count: 4672
               contributors_link: 'https://github.com/ansible/ansible/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /ansible/ansible/commit/f31421576b00f0b167cdbe61217c31c21a41ac02
@@ -902,7 +902,7 @@ landscape:
               badge: 2372
               percentage: 65
             twitter_data:
-              latest_tweet_date: 2019-10-04T15:50:04.000Z
+              latest_tweet_date: 2019-10-06T16:58:00.000Z
           - item:
             name: Helm
             homepage_url: 'https://helm.sh/'
@@ -924,7 +924,7 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 14125
+              stars: 14131
               license: Apache License 2.0
               description: The Kubernetes Package Manager
               latest_commit_date: '2019-10-04T23:57:31Z'
@@ -972,7 +972,7 @@ landscape:
               kind: funding
               funding: 6000000
             github_data:
-              stars: 660
+              stars: 661
               license: Apache License 2.0
               description: >-
                 A service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and
@@ -1020,7 +1020,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-06T10:07:01.000Z
+              latest_tweet_date: 2019-10-07T06:24:02.000Z
           - item:
             name: Sysdig
             homepage_url: 'https://sysdig.com'
@@ -1151,7 +1151,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-05T23:14:28.000Z
+              latest_tweet_date: 2019-10-06T23:29:54.000Z
           - item:
             name: CircleCI (member)
             homepage_url: 'https://circleci.com/'
@@ -1206,7 +1206,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-05T19:00:32.000Z
+              latest_tweet_date: 2019-10-06T18:00:28.000Z
           - item:
             name: Google Cloud (member)
             homepage_url: 'https://cloud.google.com/'
@@ -1238,7 +1238,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-06T03:05:15.000Z
+              latest_tweet_date: 2019-10-07T06:55:39.000Z
           - item:
             name: Huawei (member)
             homepage_url: 'https://www.huaweicloud.com/en-us/about/about_us.html'
@@ -1575,7 +1575,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-05T13:19:46.000Z
+              latest_tweet_date: 2019-10-06T11:34:59.000Z
           - item:
             name: Harness (member)
             homepage_url: 'https://harness.io'
@@ -1654,7 +1654,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-06T03:03:01.000Z
+              latest_tweet_date: 2019-10-07T03:57:08.000Z
           - item:
             name: Rancher Labs (member)
             homepage_url: 'https://rancher.com'
@@ -1681,7 +1681,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-06T11:23:59.000Z
+              latest_tweet_date: 2019-10-06T13:13:59.000Z
           - item:
             name: RedHat (member)
             homepage_url: 'https://www.redhat.com/en'
@@ -1711,7 +1711,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-05T21:05:03.000Z
+              latest_tweet_date: 2019-10-06T19:24:01.000Z
           - item:
             name: Snyk (member)
             homepage_url: 'https://snyk.io/'
@@ -1739,7 +1739,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-06T10:07:01.000Z
+              latest_tweet_date: 2019-10-07T06:24:02.000Z
           - item:
             name: Sumo Logic (member)
             homepage_url: 'https://www.sumologic.com/'
@@ -1854,7 +1854,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-05T19:00:00.000Z
+              latest_tweet_date: 2019-10-07T06:13:33.000Z
           - item:
             name: eBay (member)
             homepage_url: 'https://www.ebay.com'
@@ -1885,7 +1885,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-05T19:53:00.000Z
+              latest_tweet_date: 2019-10-06T14:55:00.000Z
           - item:
             name: HSBC (member)
             homepage_url: 'https://www.hsbc.com/'
@@ -1979,6 +1979,6 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-05T19:00:36.000Z
+              latest_tweet_date: 2019-10-07T04:08:15.000Z
 twitter_options:
   count: 0
