@@ -56,16 +56,15 @@ landscape:
               funding: 115000000
             image_data:
               fileName: circle-ci.svg
-              hash: B4oZZEpJV5Epd/4tuDHdV/5UGfurGCg87RdOHppies0=
+              hash: H8lvsFywp6u/aOf00kg+1DcsgfR/Z7ysVabFkNfNMto=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-07T16:27:01.000Z
           - item:
-            name: Cloudbees Codeship
-            description: Ship faster with CI/CD as a Service
-            homepage_url: 'https://www.cloudbees.com/products/cloudbees-codeship'
+            name: Cloudbees
+            homepage_url: 'https://www.cloudbees.com/'
             logo: cloudbees.svg
             twitter: 'https://twitter.com/CloudBees'
             crunchbase: 'https://www.crunchbase.com/organization/cloudbees'
@@ -84,8 +83,8 @@ landscape:
               kind: funding
               funding: 121200000
             image_data:
-              fileName: cloudbees-codeship.svg
-              hash: 4jqLPl8vK2PrIQH5hNfVllIZaWpdWCIGSfYLlh3rmMw=
+              fileName: cloudbees.svg
+              hash: JW/7677Cy+OdGv8ETgXQMjgKtQE57C/FpO9jM+IcDec=
             best_practice_data:
               badge: false
               percentage: null
@@ -161,34 +160,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-10-07T18:05:00.000Z
           - item:
-            name: JFrog Shippable
-            homepage_url: 'https://jfrog.com/partner/shippable/'
-            logo: jfrog.svg
-            twitter: 'https://twitter.com/beshippable'
-            crunchbase: 'https://www.crunchbase.com/organization/jfrog-ltd'
-            crunchbase_data:
-              name: JFrog
-              description: JFrog provides software developers with a binary repository management solution.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: 'http://www.jfrog.com'
-              city: Sunnyvale
-              region: California
-              country: United States
-              twitter: 'http://twitter.com/jfrog'
-              linkedin: 'https://www.linkedin.com/company/455737'
-              parents: []
-              kind: funding
-              funding: 226500000
-            image_data:
-              fileName: j-frog-shippable.svg
-              hash: gaDE3Qj8S6uz25S5JyJ2B7lhoGhjjIAGUPLwv8KM0bM=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-09-11T14:34:06.000Z
-          - item:
             name: OpsMX
             homepage_url: 'https://www.opsmx.com'
             logo: opsmx.svg
@@ -207,7 +178,7 @@ landscape:
               parents: []
             image_data:
               fileName: ops-mx.svg
-              hash: 2X7pqBnLP97h77R/jL/V+G3jKR4u/71ClyNCEPSlsCk=
+              hash: aMFjuoEWvibB4BPZFhtMgL4NvHTgnw3YNIhiIgS/zzI=
             best_practice_data:
               badge: false
               percentage: null
@@ -291,7 +262,7 @@ landscape:
               start_date: '2018-08-29T18:21:56Z'
             image_data:
               fileName: tekton-pipelines.svg
-              hash: wpq4h0A5lpk+a84AUXXM1fKTRPgMN/1ptYIWkofddJ8=
+              hash: g6L1mfWTs5bsGhAEjaqTqxOaXEVNyHeDp3vm/RkmxKQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -380,7 +351,7 @@ landscape:
               start_date: '2018-01-05T15:46:09Z'
             image_data:
               fileName: jenkins-x.svg
-              hash: Ut1B8IboA3In0saj1BPTR3TSus4WWQ6NEwlVPWDGs3M=
+              hash: +bDZsdrfz1O+H77iUB0d3eF8S0qLd9y9isM2GpaRlVc=
             best_practice_data:
               badge: 3213
               percentage: 17
@@ -393,67 +364,35 @@ landscape:
         name: Test Automation
         items:
           - item:
-            name: IBM Rational Functional Tester
-            homepage_url: 'https://www.ibm.com/cloud'
-            logo: ibm-cloud.svg
-            twitter: 'https://twitter.com/IBMcloud'
-            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+            name: Selenium
+            homepage_url: 'https://www.seleniumhq.org'
+            logo: selenium.svg
+            crunchbase: 'https://www.crunchbase.com/organization/thoughtworks'
             crunchbase_data:
-              name: IBM
-              description: 'IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.ibm.com/'
-              city: Armonk
-              region: New York
+              name: Thoughtworks
+              description: 'Thoughtworks is a community of passionate individuals whose purpose is to revolutionize software design, creation and delivery.'
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'http://www.thoughtworks.com'
+              city: Chicago
+              region: Illinois
               country: United States
-              twitter: 'http://twitter.com/IBM'
-              linkedin: 'https://www.linkedin.com/company/ibm/'
+              twitter: 'http://twitter.com/thoughtworks'
+              linkedin: 'https://www.linkedin.com/company/thoughtworks'
               parents: []
-              ticker: IBM
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 127061303296
-              effective_ticker: IBM
+              kind: funding
+              funding: 28000000
             image_data:
-              fileName: ibm-rational-functional-tester.svg
-              hash: BmtwPP/HL5N+NvUf0EMu1/o6vnVheA7pPD/a4cWo6iA=
+              fileName: selenium.svg
+              hash: Pad9ImBzKdfC3/WNm23Qf9Ocb3iehOICVkAa/Zwm59E=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-08T11:11:39.000Z
+              latest_tweet_date: 2019-10-08T12:30:18.000Z
       - subcategory:
         name: Release Automation
         items:
-          - item:
-            name: Cloudbees Flow
-            homepage_url: 'https://www.cloudbees.com/products/cloudbees-flow'
-            logo: cloudbees.svg
-            twitter: 'https://twitter.com/CloudBees'
-            crunchbase: 'https://www.crunchbase.com/organization/cloudbees'
-            crunchbase_data:
-              name: CloudBees
-              description: CloudBees develops an end-to-end automated software delivery system that allows companies to balance governance and developer freedom.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: 'http://www.cloudbees.com'
-              city: San Jose
-              region: California
-              country: United States
-              twitter: 'http://twitter.com/CloudBees'
-              linkedin: 'https://www.linkedin.com/company/cloudbees'
-              parents: []
-              kind: funding
-              funding: 121200000
-            image_data:
-              fileName: cloudbees-flow.svg
-              hash: 4jqLPl8vK2PrIQH5hNfVllIZaWpdWCIGSfYLlh3rmMw=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-10-07T19:15:13.000Z
           - item:
             name: IBM UDeploy and URelease
             homepage_url: 'https://developer.ibm.com/urbancode/products/urbancode-deploy/'
@@ -479,7 +418,7 @@ landscape:
               effective_ticker: IBM
             image_data:
               fileName: ibm-u-deploy-and-u-release.svg
-              hash: BmtwPP/HL5N+NvUf0EMu1/o6vnVheA7pPD/a4cWo6iA=
+              hash: eZxIibwudBXqy3VKTpiGHKR9vnXpA0wXTm0/gOJDssc=
             best_practice_data:
               badge: false
               percentage: null
@@ -540,7 +479,7 @@ landscape:
               parents: []
             image_data:
               fileName: deploy-hub.svg
-              hash: Vc+JOd0wMCJKR0wjnYiHqhxQsBnWIdNuB2TuUXXk8gI=
+              hash: PXtJ13hsKJQUI5NehGlwAabyOP3OR0tbpGqOHJJI7fA=
             best_practice_data:
               badge: false
               percentage: null
@@ -571,7 +510,7 @@ landscape:
               funding: 226500000
             image_data:
               fileName: j-frog-artifactory.svg
-              hash: gaDE3Qj8S6uz25S5JyJ2B7lhoGhjjIAGUPLwv8KM0bM=
+              hash: 0wPdlXgvFgbTDoEX3uv+QpEcMprR2Yup2xZ1djpHWTI=
             best_practice_data:
               badge: false
               percentage: null
@@ -599,7 +538,7 @@ landscape:
               funding: 154707328
             image_data:
               fileName: sonatype-nexus.svg
-              hash: /XJ8uJs/DG95xQ/uDsLLW4kMV36mYj373uKR4GzFOT0=
+              hash: sNBjVcEZNpeq/XeD2E8ShVVSEm+HQD3w/d2RQ1R+17g=
             best_practice_data:
               badge: false
               percentage: null
@@ -627,7 +566,7 @@ landscape:
               funding: 46000000
             image_data:
               fileName: white-source.svg
-              hash: MVtC63e3xrc7at06zfCc2lfxE3UyVNL40mRBUqq/8LQ=
+              hash: 7m7UeEp865HIVD/ugiwzfkWk9T4kQh73peKJSkdGsJY=
             best_practice_data:
               badge: false
               percentage: null
@@ -660,7 +599,7 @@ landscape:
               funding: 15000000
             image_data:
               fileName: alauda.svg
-              hash: MFUOdLBn3JWekkByjldTKul9QzOP4/caXeh/KED8Ip0=
+              hash: 1e/0J2NoCAPiqz0MpC25HhHaYXIqhCOvWdszMJ2RwZs=
             best_practice_data:
               badge: false
               percentage: null
@@ -716,34 +655,7 @@ landscape:
               funding: 5053386
             image_data:
               fileName: cycloid.svg
-              hash: tn+/ecLEKyJT+NbVj6i3S6zT+Qny6qfcRSSJeXVIVvA=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-10-03T06:54:35.000Z
-          - item:
-            name: Cycloid
-            homepage_url: 'https://www.cycloid.io'
-            logo: cycloid.svg
-            crunchbase: 'https://www.crunchbase.com/organization/cycloid'
-            crunchbase_data:
-              name: Cycloid
-              description: 'Cycloid is a DevOps platform integrating a CI/CD pipeline for traditional, container and serverless applications'
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'https://www.cycloid.io'
-              city: Paris
-              region: Ile-de-France
-              country: France
-              twitter: 'https://twitter.com/cycloid_io'
-              linkedin: 'https://www.linkedin.com/company/cycloid'
-              parents: []
-              kind: funding
-              funding: 5053386
-            image_data:
-              fileName: cycloid.svg
-              hash: tn+/ecLEKyJT+NbVj6i3S6zT+Qny6qfcRSSJeXVIVvA=
+              hash: usKP2qoURN83TANFYbSDtqrK8y4t5KBXEiFxfyOB9Pg=
             best_practice_data:
               badge: false
               percentage: null
@@ -797,7 +709,7 @@ landscape:
               funding: 55000000
             image_data:
               fileName: rancher-labs.svg
-              hash: xd0UiQ4dQDP4s9ynfT/UUfsAyf8CjrQl8QPXNeNsQ1A=
+              hash: Kjo+o0HxVKsp7yuSXrArpDQD/YP3415nByXTf1EQqOA=
             best_practice_data:
               badge: false
               percentage: null
@@ -874,7 +786,7 @@ landscape:
               funding: 272855439
             image_data:
               fileName: docker-hub.svg
-              hash: tEEcV205aag5aJXfYZuvyfumU/58Wx/YNE0OQrXeoLI=
+              hash: uJVc+ZltcbnXJoTqE6Cg4vttcg9STs9dUbomInT6OYI=
             best_practice_data:
               badge: false
               percentage: null
@@ -992,7 +904,7 @@ landscape:
               start_date: '2015-11-02T23:52:56Z'
             image_data:
               fileName: helm.svg
-              hash: Xa6YkBi1QtGUVyMldGWGHgiWgapZrnCtFnjZ7UYD1vk=
+              hash: KhA6o4K6XUSqkzETQq1dSKGteJ7kc7vebZcpB96Rxww=
             best_practice_data:
               badge: 3131
               percentage: 100
@@ -1008,7 +920,7 @@ landscape:
             name: Anchore
             homepage_url: 'https://anchore.com/enterprise/'
             repo_url: 'https://github.com/anchore/anchore-engine'
-            logo: anchore.svg
+            logo: 'https://landscape.cncf.io/logos/anchore.svg'
             twitter: 'https://twitter.com/anchore'
             crunchbase: 'https://www.crunchbase.com/organization/anchore-inc'
             crunchbase_data:
@@ -1040,7 +952,6 @@ landscape:
               start_date: '2017-09-06T18:47:21Z'
             image_data:
               fileName: anchore.svg
-              hash: sWXkFW80NtyWySjiMrEl+CghsMqWjdUQbJ6M8HGhNOA=
             best_practice_data:
               badge: false
               percentage: null
@@ -1126,22 +1037,22 @@ landscape:
               funding: 340000000
             image_data:
               fileName: sumo-logic.svg
-              hash: wdndOy0qqklTepb95kOEJSSupxyUmtItlM0+fMIqCqI=
+              hash: IDXkWYHd8N+WBeS+fXxdWR76uEmmBUnL1jrTf6pnw9s=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-08T09:19:40.000Z
   - category:
-    name: SCM
+    name: Change and Defect Management
     subcategories:
       - subcategory:
-        name: SCM
+        name: Version Control
         items:
           - item:
             name: GitHub
             homepage_url: 'https://github.com/'
-            logo: github.svg
+            logo: 'https://landscape.cncf.io/logos/git-hub-member.svg'
             crunchbase: 'https://www.crunchbase.com/organization/github'
             crunchbase_data:
               name: GitHub
@@ -1163,12 +1074,44 @@ landscape:
               effective_ticker: MSFT
             image_data:
               fileName: git-hub.svg
-              hash: vITsTgtjrXkHz+1mh89d97p9+2WcSQ7hmh9C42sWSHc=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-07T21:00:11.000Z
+      - subcategory:
+        name: Issue Tracking
+        items:
+          - item:
+            name: Jira
+            homepage_url: 'https://www.atlassian.com/software/jira'
+            logo: jira.svg
+            crunchbase: 'https://www.crunchbase.com/organization/atlassian'
+            crunchbase_data:
+              name: Atlassian
+              description: 'Atlassian provides collaboration, development, and issue tracking software for teams.'
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'http://www.atlassian.com/'
+              city: Sydney
+              region: New South Wales
+              country: Australia
+              twitter: 'http://twitter.com/atlassian'
+              linkedin: 'https://www.linkedin.com/company/atlassian/'
+              parents: []
+              ticker: TEAM
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 30726232064
+              effective_ticker: TEAM
+            image_data:
+              fileName: jira.svg
+              hash: IRJoiOJKSFlCvQHHo7UWzbNQRSTg1FGjIAj8Zxy6FN0=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-08T12:52:34.000Z
   - category:
     name: CDF Members
     subcategories:
@@ -1200,7 +1143,7 @@ landscape:
               effective_ticker: COF
             image_data:
               fileName: capital-one-member.svg
-              hash: FqnJmTTKY7u5uHHvMRxqbc1T7cWAa+gh1m27qxgYbTU=
+              hash: KYeCDoBRZPxxAcwDpeTUvT6uJqXbEv2rAHXlAu3LHIc=
             best_practice_data:
               badge: false
               percentage: null
@@ -1228,7 +1171,7 @@ landscape:
               funding: 115000000
             image_data:
               fileName: circle-ci-member.svg
-              hash: B4oZZEpJV5Epd/4tuDHdV/5UGfurGCg87RdOHppies0=
+              hash: H8lvsFywp6u/aOf00kg+1DcsgfR/Z7ysVabFkNfNMto=
             best_practice_data:
               badge: false
               percentage: null
@@ -1255,7 +1198,7 @@ landscape:
               funding: 121200000
             image_data:
               fileName: cloud-bees-member.svg
-              hash: 4jqLPl8vK2PrIQH5hNfVllIZaWpdWCIGSfYLlh3rmMw=
+              hash: JW/7677Cy+OdGv8ETgXQMjgKtQE57C/FpO9jM+IcDec=
             best_practice_data:
               badge: false
               percentage: null
@@ -1287,7 +1230,7 @@ landscape:
               effective_ticker: GOOG
             image_data:
               fileName: google-cloud-member.svg
-              hash: hdLC4SucPSQo9MPKXVQH9KmN0TQUxJ+WexTmMpEC6AQ=
+              hash: E/EmsKBrxtrBLO+kpg+RmE6tFXyWRjW7aAp8aH6FrUc=
             best_practice_data:
               badge: false
               percentage: null
@@ -1344,7 +1287,7 @@ landscape:
               effective_ticker: IBM
             image_data:
               fileName: ibm-member.svg
-              hash: BmtwPP/HL5N+NvUf0EMu1/o6vnVheA7pPD/a4cWo6iA=
+              hash: eZxIibwudBXqy3VKTpiGHKR9vnXpA0wXTm0/gOJDssc=
             best_practice_data:
               badge: false
               percentage: null
@@ -1371,7 +1314,7 @@ landscape:
               funding: 226500000
             image_data:
               fileName: j-frog-member.svg
-              hash: gaDE3Qj8S6uz25S5JyJ2B7lhoGhjjIAGUPLwv8KM0bM=
+              hash: 0wPdlXgvFgbTDoEX3uv+QpEcMprR2Yup2xZ1djpHWTI=
             best_practice_data:
               badge: false
               percentage: null
@@ -1432,7 +1375,7 @@ landscape:
               effective_ticker: CRM
             image_data:
               fileName: salesforce-member.svg
-              hash: GsxAAK6ZBfJz6Lx3S32icAIE0OArZNxjSpbiibXHAZo=
+              hash: TFOyvD9pyozshRIB/YrV4HWJPDxB2FhAXTjnVQH/OWE=
             best_practice_data:
               badge: false
               percentage: null
@@ -1462,7 +1405,7 @@ landscape:
               funding: 15000000
             image_data:
               fileName: alauda-member.svg
-              hash: MFUOdLBn3JWekkByjldTKul9QzOP4/caXeh/KED8Ip0=
+              hash: 1e/0J2NoCAPiqz0MpC25HhHaYXIqhCOvWdszMJ2RwZs=
             best_practice_data:
               badge: false
               percentage: null
@@ -1500,7 +1443,7 @@ landscape:
           - item:
             name: Anchore (member)
             homepage_url: 'https://anchore.com/'
-            logo: anchore.svg
+            logo: 'https://landscape.cncf.io/logos/anchore.svg'
             crunchbase: 'https://www.crunchbase.com/organization/anchore-inc'
             crunchbase_data:
               name: Anchore
@@ -1518,7 +1461,6 @@ landscape:
               funding: 6000000
             image_data:
               fileName: anchore-member.svg
-              hash: sWXkFW80NtyWySjiMrEl+CghsMqWjdUQbJ6M8HGhNOA=
             best_practice_data:
               badge: false
               percentage: null
@@ -1551,6 +1493,33 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-07T20:45:04.000Z
+          - item:
+            name: Cycloid  (member)
+            homepage_url: 'https://www.cycloid.io'
+            logo: cycloid.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cycloid'
+            crunchbase_data:
+              name: Cycloid
+              description: 'Cycloid is a DevOps platform integrating a CI/CD pipeline for traditional, container and serverless applications'
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.cycloid.io'
+              city: Paris
+              region: Ile-de-France
+              country: France
+              twitter: 'https://twitter.com/cycloid_io'
+              linkedin: 'https://www.linkedin.com/company/cycloid'
+              parents: []
+              kind: funding
+              funding: 5053386
+            image_data:
+              fileName: cycloid-member.svg
+              hash: usKP2qoURN83TANFYbSDtqrK8y4t5KBXEiFxfyOB9Pg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-03T06:54:35.000Z
           - item:
             name: Dell Boomi (member)
             homepage_url: 'https://boomi.com/'
@@ -1597,7 +1566,7 @@ landscape:
               parents: []
             image_data:
               fileName: deploy-hub-member.svg
-              hash: Vc+JOd0wMCJKR0wjnYiHqhxQsBnWIdNuB2TuUXXk8gI=
+              hash: PXtJ13hsKJQUI5NehGlwAabyOP3OR0tbpGqOHJJI7fA=
             best_practice_data:
               badge: false
               percentage: null
@@ -1676,7 +1645,7 @@ landscape:
               parents: []
             image_data:
               fileName: ops-mx-member.svg
-              hash: 2X7pqBnLP97h77R/jL/V+G3jKR4u/71ClyNCEPSlsCk=
+              hash: aMFjuoEWvibB4BPZFhtMgL4NvHTgnw3YNIhiIgS/zzI=
             best_practice_data:
               badge: false
               percentage: null
@@ -1730,7 +1699,7 @@ landscape:
               funding: 55000000
             image_data:
               fileName: rancher-labs-member.svg
-              hash: xd0UiQ4dQDP4s9ynfT/UUfsAyf8CjrQl8QPXNeNsQ1A=
+              hash: Kjo+o0HxVKsp7yuSXrArpDQD/YP3415nByXTf1EQqOA=
             best_practice_data:
               badge: false
               percentage: null
@@ -1815,7 +1784,7 @@ landscape:
               funding: 340000000
             image_data:
               fileName: sumo-logic-member.svg
-              hash: wdndOy0qqklTepb95kOEJSSupxyUmtItlM0+fMIqCqI=
+              hash: IDXkWYHd8N+WBeS+fXxdWR76uEmmBUnL1jrTf6pnw9s=
             best_practice_data:
               badge: false
               percentage: null
@@ -1869,7 +1838,7 @@ landscape:
               funding: 46000000
             image_data:
               fileName: white-source-member.svg
-              hash: MVtC63e3xrc7at06zfCc2lfxE3UyVNL40mRBUqq/8LQ=
+              hash: 7m7UeEp865HIVD/ugiwzfkWk9T4kQh73peKJSkdGsJY=
             best_practice_data:
               badge: false
               percentage: null
@@ -2028,7 +1997,7 @@ landscape:
               effective_ticker: SAP
             image_data:
               fileName: sap-member.svg
-              hash: Oy9RFLqVtVKuqG/7WbMfzl/6CyVxnin166lRte9H7aA=
+              hash: BdDqecUn5wM+4XTdmZw/AIB/Iznt+m+68Sb2voIV1s4=
             best_practice_data:
               badge: false
               percentage: null
