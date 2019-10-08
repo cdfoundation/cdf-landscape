@@ -17,9 +17,8 @@ landscape:
             twitter: 'https://twitter.com/circleci'
             crunchbase: 'https://www.crunchbase.com/organization/circle-ci'
           - item:
-            name: Cloudbees Codeship
-            description: Ship faster with CI/CD as a Service
-            homepage_url: 'https://www.cloudbees.com/products/cloudbees-codeship'
+            name: Cloudbees 
+            homepage_url: 'https://www.cloudbees.com/'
             logo: cloudbees.svg
             twitter: 'https://twitter.com/CloudBees'
             crunchbase: 'https://www.crunchbase.com/organization/cloudbees'
@@ -37,12 +36,6 @@ landscape:
             logo: harness.svg
             twitter: 'https://twitter.com/harnessio'
             crunchbase: 'https://www.crunchbase.com/organization/harness-512d'
-          - item:
-            name: JFrog Shippable
-            homepage_url: 'https://jfrog.com/partner/shippable/'
-            logo: jfrog.svg
-            twitter: 'https://twitter.com/beshippable'
-            crunchbase: 'https://www.crunchbase.com/organization/jfrog-ltd'
           - item:
             name: OpsMX
             homepage_url: 'https://www.opsmx.com'
@@ -90,20 +83,13 @@ landscape:
         name: Test Automation
         items:
           - item:
-            name: IBM Rational Functional Tester
-            homepage_url: 'https://www.ibm.com/cloud'
-            logo: ibm-cloud.svg
-            twitter: 'https://twitter.com/IBMcloud'
-            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+            name: Selenium
+            homepage_url: 'https://www.seleniumhq.org'
+            logo: selenium.svg
+            crunchbase: 'https://www.crunchbase.com/organization/thoughtworks'
       - subcategory:
         name: Release Automation
         items:
-          - item:
-            name: Cloudbees Flow
-            homepage_url: 'https://www.cloudbees.com/products/cloudbees-flow'
-            logo: cloudbees.svg
-            twitter: 'https://twitter.com/CloudBees'
-            crunchbase: 'https://www.crunchbase.com/organization/cloudbees'
           - item:
             name: IBM UDeploy and URelease
             homepage_url: 'https://developer.ibm.com/urbancode/products/urbancode-deploy/'
@@ -169,6 +155,11 @@ landscape:
             logo: alibabacloud.svg
             crunchbase: 'https://www.crunchbase.com/organization/alibaba-cloud'
           - item:
+            name: Cycloid
+            homepage_url: 'https://www.cycloid.io'
+            logo: cycloid.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cycloid'
+          - item:
             name: Dell Boomi
             homepage_url: 'https://boomi.com/'
             logo: dellboomi.svg
@@ -189,7 +180,7 @@ landscape:
             twitter: 'https://twitter.com/puppetize'
             crunchbase: 'https://www.crunchbase.com/organization/puppet-labs'
   - category:
-    name: 'Container Registry, and Image Build'
+    name: Container Registry, and Image Build
     subcategories:
       - subcategory:
         name: Container Registry
@@ -224,7 +215,7 @@ landscape:
             twitter: 'https://twitter.com/helmpack'
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
   - category:
-    name: 'DevSecOps, Analytics and Monitoring'
+    name: DevSecOps, Analytics and Monitoring
     subcategories:
       - subcategory:
         name: Container Security
@@ -256,16 +247,24 @@ landscape:
             logo: sumologic.svg
             crunchbase: 'https://www.crunchbase.com/organization/sumo-logic'
   - category:
-    name: SCM
+    name: Change and Defect Management
     subcategories:
       - subcategory:
-        name: SCM
+        name: Version Control
         items:
           - item:
             name: GitHub
             homepage_url: 'https://github.com/'
             logo: github.svg
             crunchbase: 'https://www.crunchbase.com/organization/github'
+      - subcategory:
+        name: Issue Tracking
+        items:
+          - item:
+            name: Jira
+            homepage_url: 'https://www.atlassian.com/software/jira'
+            logo: jira.svg
+            crunchbase: 'https://www.crunchbase.com/organization/atlassian'
   - category:
     name: CDF Members
     subcategories:
@@ -345,6 +344,11 @@ landscape:
             homepage_url: 'https://www.armory.io/'
             logo: armory.svg
             crunchbase: 'https://www.crunchbase.com/organization/armory'
+          - item:
+            name: Cycloid  (member)
+            homepage_url: 'https://www.cycloid.io'
+            logo: cycloid.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cycloid'
           - item:
             name: Dell Boomi (member)
             homepage_url: 'https://boomi.com/'
