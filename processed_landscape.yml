@@ -485,6 +485,54 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-07T19:02:07.000Z
+          - item:
+            name: Ansible
+            homepage_url: 'https://www.ansible.com/'
+            repo_url: 'https://github.com/ansible/ansible'
+            logo: ansible.svg
+            twitter: 'https://twitter.com/ansible'
+            crunchbase: 'https://www.crunchbase.com/organization/red-hat'
+            crunchbase_data:
+              name: Red Hat
+              description: Red Hat is a multinational software company engaged in providing open-source software products to the enterprise community.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: 'http://www.redhat.com'
+              city: Raleigh
+              region: North Carolina
+              country: United States
+              twitter: 'http://twitter.com/redhat'
+              linkedin: 'https://www.linkedin.com/company/red-hat'
+              ticker: RHT
+              kind: market_cap
+              parents: []
+            github_data:
+              stars: 39681
+              license: GNU General Public License v3.0
+              description: >-
+                Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom
+                code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on
+                remote systems. https://docs.ansible.com/ansible/
+              latest_commit_date: '2019-10-08T07:36:55Z'
+              latest_commit_link: /ansible/ansible/commit/5fcaefc01221e851f9d7a5332eb925e10d0d3ac1
+              release_date: '2018-02-09T06:51:40Z'
+              release_link: 'https://github.com/ansible/ansible/releases'
+              contributors_count: 4673
+              contributors_link: 'https://github.com/ansible/ansible/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /ansible/ansible/commit/f31421576b00f0b167cdbe61217c31c21a41ac02
+              start_date: '2012-02-23T19:17:24Z'
+            yahoo_finance_data:
+              market_cap: 33429835776
+              effective_ticker: RHT
+            image_data:
+              fileName: ansible.svg
+              hash: XHYuAuMuTK2RwU2sPPE/griyO0uifBKF5Dz1ve/alng=
+            best_practice_data:
+              badge: 2372
+              percentage: 65
+            twitter_data:
+              latest_tweet_date: 2019-10-08T09:14:53.000Z
       - subcategory:
         name: Library Management
         items:
@@ -821,54 +869,6 @@ landscape:
       - subcategory:
         name: Image Build
         items:
-          - item:
-            name: Ansible
-            homepage_url: 'https://www.ansible.com/'
-            repo_url: 'https://github.com/ansible/ansible'
-            logo: ansible.svg
-            twitter: 'https://twitter.com/ansible'
-            crunchbase: 'https://www.crunchbase.com/organization/red-hat'
-            crunchbase_data:
-              name: Red Hat
-              description: Red Hat is a multinational software company engaged in providing open-source software products to the enterprise community.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: 'http://www.redhat.com'
-              city: Raleigh
-              region: North Carolina
-              country: United States
-              twitter: 'http://twitter.com/redhat'
-              linkedin: 'https://www.linkedin.com/company/red-hat'
-              ticker: RHT
-              kind: market_cap
-              parents: []
-            github_data:
-              stars: 39681
-              license: GNU General Public License v3.0
-              description: >-
-                Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom
-                code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on
-                remote systems. https://docs.ansible.com/ansible/
-              latest_commit_date: '2019-10-08T07:36:55Z'
-              latest_commit_link: /ansible/ansible/commit/5fcaefc01221e851f9d7a5332eb925e10d0d3ac1
-              release_date: '2018-02-09T06:51:40Z'
-              release_link: 'https://github.com/ansible/ansible/releases'
-              contributors_count: 4673
-              contributors_link: 'https://github.com/ansible/ansible/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /ansible/ansible/commit/f31421576b00f0b167cdbe61217c31c21a41ac02
-              start_date: '2012-02-23T19:17:24Z'
-            yahoo_finance_data:
-              market_cap: 33429835776
-              effective_ticker: RHT
-            image_data:
-              fileName: ansible.svg
-              hash: XHYuAuMuTK2RwU2sPPE/griyO0uifBKF5Dz1ve/alng=
-            best_practice_data:
-              badge: 2372
-              percentage: 65
-            twitter_data:
-              latest_tweet_date: 2019-10-08T09:14:53.000Z
           - item:
             name: Helm
             homepage_url: 'https://helm.sh/'
@@ -1443,7 +1443,7 @@ landscape:
           - item:
             name: Anchore (member)
             homepage_url: 'https://anchore.com/'
-            logo: 'https://landscape.cncf.io/logos/anchore.svg'
+            logo: 'https://events19.linuxfoundation.org/wp-content/uploads/2018/01/anchore-01.svg'
             crunchbase: 'https://www.crunchbase.com/organization/anchore-inc'
             crunchbase_data:
               name: Anchore
