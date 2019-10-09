@@ -17,7 +17,7 @@ landscape:
             twitter: 'https://twitter.com/circleci'
             crunchbase: 'https://www.crunchbase.com/organization/circle-ci'
           - item:
-            name: Cloudbees 
+            name: Cloudbees
             homepage_url: 'https://www.cloudbees.com/'
             logo: cloudbees.svg
             twitter: 'https://twitter.com/CloudBees'
@@ -37,6 +37,14 @@ landscape:
             twitter: 'https://twitter.com/harnessio'
             crunchbase: 'https://www.crunchbase.com/organization/harness-512d'
           - item:
+            name: JenkinsX
+            homepage_url: 'https://jenkins.io/'
+            project: graduated
+            repo_url: 'https://github.com/jenkins-x/jx'
+            logo: jenkins-x.svg
+            twitter: 'https://twitter.com/jenkinsxio'
+            crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
+          - item:
             name: OpsMX
             homepage_url: 'https://www.opsmx.com'
             logo: opsmx.svg
@@ -48,14 +56,6 @@ landscape:
             repo_url: 'https://github.com/spinnaker/spinnaker'
             logo: spinnaker.svg
             twitter: 'https://twitter.com/spinnakerio'
-            crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
-          - item:
-            name: JenkinsX
-            homepage_url: 'https://jenkins.io/'
-            project: graduated
-            repo_url: 'https://github.com/jenkins-x/jx'
-            logo: jenkins-x.svg
-            twitter: 'https://twitter.com/jenkinsxio'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
       - subcategory:
         name: Continuous Integration
@@ -112,18 +112,18 @@ landscape:
         name: Configuration Management
         items:
           - item:
-            name: DeployHub
-            homepage_url: 'https://www.deployhub.com/'
-            logo: deployhub.svg
-            twitter: 'https://twitter.com/DeployHubProj'
-            crunchbase: 'https://www.crunchbase.com/organization/deployhub'
-          - item:
             name: Ansible
             homepage_url: 'https://www.ansible.com/'
             repo_url: 'https://github.com/ansible/ansible'
             logo: ansible.svg
             twitter: 'https://twitter.com/ansible'
             crunchbase: 'https://www.crunchbase.com/organization/red-hat'
+          - item:
+            name: DeployHub
+            homepage_url: 'https://www.deployhub.com/'
+            logo: deployhub.svg
+            twitter: 'https://twitter.com/DeployHubProj'
+            crunchbase: 'https://www.crunchbase.com/organization/deployhub'
       - subcategory:
         name: Library Management
         items:
@@ -187,7 +187,7 @@ landscape:
             twitter: 'https://twitter.com/puppetize'
             crunchbase: 'https://www.crunchbase.com/organization/puppet-labs'
   - category:
-    name: Container Registry, and Image Build
+    name: 'Container Registry, and Image Build'
     subcategories:
       - subcategory:
         name: Container Registry
@@ -215,7 +215,7 @@ landscape:
             twitter: 'https://twitter.com/helmpack'
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
   - category:
-    name: DevSecOps, Analytics and Monitoring
+    name: 'DevSecOps, Analytics and Monitoring'
     subcategories:
       - subcategory:
         name: Container Security
