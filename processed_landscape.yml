@@ -89,7 +89,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-18T19:00:29.000Z
+              latest_tweet_date: 2019-10-19T16:10:10.000Z
           - item:
             name: GitLab
             homepage_url: 'https://about.gitlab.com/'
@@ -113,11 +113,11 @@ landscape:
               kind: funding
               funding: 436200000
             github_data:
-              stars: 22031
+              stars: 22032
               license: Other
               description: GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-              latest_commit_date: '2019-10-19T03:06:19Z'
-              latest_commit_link: /gitlabhq/gitlabhq/commit/ca9530a73b95eeb5fac76f9d543c2a3a550a5b76
+              latest_commit_date: '2019-10-19T09:06:01Z'
+              latest_commit_link: /gitlabhq/gitlabhq/commit/5fe23e59a703eb3531d42b6dfdebaf51521dd969
               contributors_count: 2006
               contributors_link: 'https://github.com/gitlabhq/gitlabhq/graphs/contributors'
             github_start_commit_data:
@@ -181,14 +181,14 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 3125
+              stars: 3126
               license: Apache License 2.0
               description: >-
                 Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Tekton, Knative, Prow, Skaffold and
                 Helm
-              latest_commit_date: '2019-10-18T19:01:57Z'
-              latest_commit_link: /jenkins-x/jx/commit/645adc6ff610f8ab0ab3faecbd581d84beb50687
-              release_date: '2019-10-18T21:27:04Z'
+              latest_commit_date: '2019-10-18T16:09:35Z'
+              latest_commit_link: /jenkins-x/jx/commit/991827b963b8b0d86ea657b8f76aa3bfbd70bfa0
+              release_date: '2019-10-19T12:31:49Z'
               release_link: 'https://github.com/jenkins-x/jx/releases'
               contributors_count: 151
               contributors_link: 'https://github.com/jenkins-x/jx/graphs/contributors'
@@ -202,7 +202,7 @@ landscape:
               badge: 3213
               percentage: 17
             twitter_data:
-              latest_tweet_date: 2019-10-19T02:32:45.000Z
+              latest_tweet_date: 2019-10-19T22:50:13.000Z
           - item:
             name: OpsMX
             homepage_url: 'https://www.opsmx.com'
@@ -295,11 +295,11 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 14097
+              stars: 14105
               license: MIT License
               description: Jenkins automation server
-              latest_commit_date: '2019-10-18T09:47:17Z'
-              latest_commit_link: /jenkinsci/jenkins/commit/11c1146d0dc30e948ade8d1636ae01345c294291
+              latest_commit_date: '2019-10-19T13:25:17Z'
+              latest_commit_link: /jenkinsci/jenkins/commit/3de4d8faa29316199faa4dbeece223300254dce8
               release_date: '2019-10-16T11:26:32Z'
               release_link: 'https://github.com/jenkinsci/jenkins/releases'
               contributors_count: 586
@@ -337,7 +337,7 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 3638
+              stars: 3639
               license: Apache License 2.0
               description: A K8s-native Pipeline resource.
               latest_commit_date: '2019-10-17T11:41:22Z'
@@ -389,7 +389,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T04:30:09.000Z
+              latest_tweet_date: 2019-10-19T22:30:11.000Z
       - subcategory:
         name: Release Automation
         items:
@@ -481,17 +481,17 @@ landscape:
               kind: market_cap
               parents: []
             github_data:
-              stars: 39838
+              stars: 39850
               license: GNU General Public License v3.0
               description: >-
                 Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom
                 code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on
                 remote systems. https://docs.ansible.com/ansible/
-              latest_commit_date: '2019-10-19T06:06:16Z'
-              latest_commit_link: /ansible/ansible/commit/df0e7478992b568189623c8b52175b884d23c049
+              latest_commit_date: '2019-10-20T07:06:50Z'
+              latest_commit_link: /ansible/ansible/commit/331d51fb16b05f09d3d24d6d6f8d705fa0db4ba7
               release_date: '2018-02-09T06:51:40Z'
               release_link: 'https://github.com/ansible/ansible/releases'
-              contributors_count: 4695
+              contributors_count: 4696
               contributors_link: 'https://github.com/ansible/ansible/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /ansible/ansible/commit/f31421576b00f0b167cdbe61217c31c21a41ac02
@@ -762,7 +762,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T01:29:59.000Z
+              latest_tweet_date: 2019-10-19T23:17:59.000Z
       - subcategory:
         name: Traditional
         items:
@@ -805,7 +805,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-18T16:00:26.000Z
+              latest_tweet_date: 2019-10-20T03:30:02.000Z
   - category:
     name: 'Container Registry, and Image Build'
     subcategories:
@@ -890,7 +890,7 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 14342
+              stars: 14355
               license: Apache License 2.0
               description: The Kubernetes Package Manager
               latest_commit_date: '2019-10-18T13:29:13Z'
@@ -938,7 +938,7 @@ landscape:
               kind: funding
               funding: 6000000
             github_data:
-              stars: 678
+              stars: 679
               license: Apache License 2.0
               description: >-
                 A service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and
@@ -986,7 +986,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-18T21:52:02.000Z
+              latest_tweet_date: 2019-10-19T21:52:01.000Z
           - item:
             name: Sysdig
             homepage_url: 'https://sysdig.com'
@@ -1013,7 +1013,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T01:10:24.000Z
+              latest_tweet_date: 2019-10-19T23:09:00.000Z
       - subcategory:
         name: Analytics and Monitoring
         items:
@@ -1112,7 +1112,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-18T18:11:03.000Z
+              latest_tweet_date: 2019-10-19T12:20:03.000Z
   - category:
     name: CDF Members
     subcategories:
@@ -1204,7 +1204,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-18T19:00:29.000Z
+              latest_tweet_date: 2019-10-19T16:10:10.000Z
           - item:
             name: Google Cloud (member)
             homepage_url: 'https://cloud.google.com/'
@@ -1236,7 +1236,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T03:11:25.000Z
+              latest_tweet_date: 2019-10-19T19:57:57.000Z
           - item:
             name: Huawei (member)
             homepage_url: 'https://www.huaweicloud.com/en-us/about/about_us.html'
@@ -1350,7 +1350,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-18T23:31:13.000Z
+              latest_tweet_date: 2019-10-19T18:13:28.000Z
           - item:
             name: Salesforce (member)
             homepage_url: 'https://www.salesforce.com/'
@@ -1381,7 +1381,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-18T23:03:30.000Z
+              latest_tweet_date: 2019-10-19T22:32:00.000Z
       - subcategory:
         name: General
         items:
@@ -1679,7 +1679,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-18T16:00:26.000Z
+              latest_tweet_date: 2019-10-20T03:30:02.000Z
           - item:
             name: Rancher Labs (member)
             homepage_url: 'https://rancher.com'
@@ -1706,7 +1706,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T01:29:59.000Z
+              latest_tweet_date: 2019-10-19T23:17:59.000Z
           - item:
             name: RedHat (member)
             homepage_url: 'https://www.redhat.com/en'
@@ -1736,7 +1736,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-18T21:22:06.000Z
+              latest_tweet_date: 2019-10-19T21:13:03.000Z
           - item:
             name: Snyk (member)
             homepage_url: 'https://snyk.io/'
@@ -1764,7 +1764,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-18T21:52:02.000Z
+              latest_tweet_date: 2019-10-19T21:52:01.000Z
           - item:
             name: Sumo Logic (member)
             homepage_url: 'https://www.sumologic.com/'
@@ -1818,7 +1818,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T01:10:24.000Z
+              latest_tweet_date: 2019-10-19T23:09:00.000Z
           - item:
             name: WhiteSource (member)
             homepage_url: 'https://www.whitesourcesoftware.com/'
@@ -1879,7 +1879,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-18T15:00:01.000Z
+              latest_tweet_date: 2019-10-19T19:23:00.000Z
           - item:
             name: eBay (member)
             homepage_url: 'https://www.ebay.com'
@@ -1910,7 +1910,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T00:23:00.000Z
+              latest_tweet_date: 2019-10-19T21:26:00.000Z
           - item:
             name: HSBC (member)
             homepage_url: 'https://www.hsbc.com/'
@@ -2004,6 +2004,6 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T01:13:06.000Z
+              latest_tweet_date: 2019-10-19T19:01:32.000Z
 twitter_options:
   count: 0
