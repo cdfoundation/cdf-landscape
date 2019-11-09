@@ -17,7 +17,6 @@ global:
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
   membership: CDF Members
   flags:
-    cncf_sandbox: false
     companies: CDF Members
 twitter:
   search: landscape.cd.foundation
@@ -72,6 +71,7 @@ membership:
     name: CDF
     label: End User Supporter
     funding: End User Supporter
+    enduser: true
   linux_foundation:
     name: LF
     label: Project
@@ -113,7 +113,6 @@ big_picture:
     name: Landscape
     title: Linux Foundation CI/CD Landscape
     fullscreen_header: See the interactive landscape at l.cd.foundation
-    method: getGroupedItemsForCncfBigPicture
     size:
       width: 1115
       height: 770
