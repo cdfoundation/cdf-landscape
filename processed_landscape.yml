@@ -87,7 +87,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-29T19:00:57.000Z
+              latest_tweet_date: 2019-12-01T00:04:16.000Z
           - item:
             name: GitLab
             homepage_url: 'https://about.gitlab.com/'
@@ -112,7 +112,7 @@ landscape:
             github_data:
               languages:
                 - name: Ruby
-                  value: 25014113
+                  value: 25021015
                   color: '#701516'
                 - name: JavaScript
                   value: 5496270
@@ -136,14 +136,14 @@ landscape:
                   value: 79
                   color: '#db5855'
               contributions: >-
-                476;364;346;126;303;367;382;396;285;368;347;343;376;465;367;301;395;544;454;317;317;346;358;298;444;434;561;537;480;543;565;452;476;447;404;402;373;431;509;461;327;49;66;50;46;49;50;61;45;47;55;55
-              firstWeek: 2018-12-02Z
-              stars: 22068
+                493;348;349;124;303;366;381;394;285;366;358;333;389;453;367;309;390;542;451;319;316;350;361;293;441;438;561;543;472;541;571;447;478;451;401;405;372;434;509;458;321;47;67;49;47;50;52;58;45;50;51;55
+              firstWeek: 2018-12-09Z
+              stars: 22071
               license: Other
               description: GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-              latest_commit_date: '2019-11-30T00:06:03Z'
-              latest_commit_link: /gitlabhq/gitlabhq/commit/7ddd5846999029916b2b6d8560b5b0f02ec0f6ea
-              contributors_count: 2008
+              latest_commit_date: '2019-12-01T06:06:11Z'
+              latest_commit_link: /gitlabhq/gitlabhq/commit/864475536355651a9f7caa5b1606aa5640424ec3
+              contributors_count: 2009
               contributors_link: 'https://github.com/gitlabhq/gitlabhq/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /gitlabhq/gitlabhq/commit/93efff945215a4407afcaf0cba15ac601b56df0d
@@ -236,8 +236,8 @@ landscape:
                   value: 290
                   color: '#384d54'
               contributions: >-
-                164;88;104;8;26;147;184;166;216;156;109;143;136;103;27;59;183;179;91;65;39;28;31;56;50;26;40;45;38;98;142;80;53;65;48;37;32;42;67;68;93;38;45;62;60;56;35;45;54;31;30;42
-              firstWeek: 2018-12-02Z
+                167;85;102;7;26;154;211;132;230;145;107;151;132;101;25;64;186;183;78;65;44;24;32;63;41;31;46;34;41;96;146;76;54;68;43;37;32;47;62;73;88;40;43;63;64;51;36;52;49;28;31;41
+              firstWeek: 2018-12-09Z
               stars: 3224
               license: Apache License 2.0
               description: 'Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Prow, Skaffold and Helm'
@@ -319,8 +319,8 @@ landscape:
                 - name: Shell
                   value: 81
                   color: '#89e051'
-              contributions: 6;1;6;0;1;2;1;1;6;9;4;4;2;9;14;5;6;1;2;4;4;3;5;4;4;0;6;2;2;3;2;1;5;4;0;0;0;0;3;5;2;4;6;4;4;7;3;2;0;4;7;5
-              firstWeek: 2018-12-02Z
+              contributions: 6;1;6;0;1;2;1;1;6;9;4;4;2;10;13;5;6;1;2;4;4;3;5;4;4;0;6;2;2;3;2;1;5;4;0;0;0;0;3;5;2;4;6;4;4;7;3;2;0;4;7;5
+              firstWeek: 2018-12-09Z
               stars: 749
               license: Other
               description: An open source build platform designed for continuous delivery.
@@ -390,9 +390,9 @@ landscape:
                 - name: Makefile
                   value: 363
                   color: '#427819'
-              contributions: 0;7;6;0;7;3;5;1;2;1;5;3;2;9;3;11;3;4;1;2;3;1;7;2;1;0;1;2;5;2;1;0;1;4;0;2;1;2;2;6;5;6;2;10;2;3;1;2;3;2;8;2
-              firstWeek: 2018-12-02Z
-              stars: 6708
+              contributions: 0;7;6;0;7;3;5;1;2;1;5;3;2;9;3;12;2;4;1;2;3;1;7;2;1;0;1;2;5;2;1;0;1;4;0;2;1;2;2;6;5;6;2;10;2;3;1;2;3;2;8;2
+              firstWeek: 2018-12-09Z
+              stars: 6710
               license: Apache License 2.0
               description: 'Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.'
               latest_commit_date: '2019-11-26T16:15:09Z'
@@ -474,9 +474,9 @@ landscape:
                   value: 1023
                   color: '#C1F12E'
               contributions: >-
-                37;56;32;5;24;53;46;23;43;33;20;67;19;20;9;18;41;35;65;18;22;12;29;28;10;15;5;19;13;17;36;27;26;7;12;8;31;18;33;19;37;16;24;41;26;39;28;18;19;40;14;12
-              firstWeek: 2018-12-02Z
-              stars: 14433
+                38;54;32;5;27;51;46;22;43;34;20;70;19;18;7;21;38;38;64;18;21;15;32;22;14;11;4;24;12;13;36;28;25;11;8;8;35;16;32;21;35;18;26;42;34;34;20;20;17;41;12;12
+              firstWeek: 2018-12-09Z
+              stars: 14437
               license: MIT License
               description: Jenkins automation server
               latest_commit_date: '2019-11-29T10:17:34Z'
@@ -534,9 +534,9 @@ landscape:
                   value: 622
                   color: '#384d54'
               contributions: >-
-                37;22;10;2;9;28;14;43;21;35;33;27;29;19;15;31;28;23;19;18;19;10;23;21;15;23;16;13;5;15;10;17;21;20;18;17;18;15;7;16;8;30;13;18;22;10;27;14;17;19;8;16
-              firstWeek: 2018-12-02Z
-              stars: 3947
+                30;22;10;3;8;30;12;43;28;28;35;25;29;19;15;31;28;24;19;17;19;16;17;22;14;23;16;13;5;15;10;17;21;20;19;16;18;15;7;17;8;29;13;18;22;11;26;14;17;19;9;15
+              firstWeek: 2018-12-09Z
+              stars: 3949
               license: Apache License 2.0
               description: A K8s-native Pipeline resource.
               latest_commit_date: '2019-11-28T18:42:01Z'
@@ -588,7 +588,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-30T04:30:08.000Z
+              latest_tweet_date: 2019-11-30T22:30:14.000Z
       - subcategory:
         name: Release Automation
         items:
@@ -682,7 +682,7 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 68554857
+                  value: 68561376
                   color: '#3572A5'
                 - name: PowerShell
                   value: 1472928
@@ -727,16 +727,16 @@ landscape:
                   value: 54
                   color: '#e34c26'
               contributions: >-
-                148;135;163;16;63;108;127;151;134;114;272;284;177;238;190;203;208;156;173;71;91;85;91;107;116;99;124;141;133;141;79;115;112;131;125;151;145;373;306;116;126;137;54;72;80;102;108;84;117;103;94;63
-              firstWeek: 2018-12-02Z
-              stars: 40646
+                147;135;164;17;60;109;132;150;146;98;277;286;168;249;187;198;214;151;169;73;90;87;95;105;112;101;127;137;134;141;78;119;106;131;129;151;155;368;302;112;130;138;50;70;84;114;93;86;118;109;89;60
+              firstWeek: 2018-12-09Z
+              stars: 40648
               license: GNU General Public License v3.0
               description: >-
                 Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom
                 code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on
                 remote systems. https://docs.ansible.com/ansible/
-              latest_commit_date: '2019-11-29T17:16:40Z'
-              latest_commit_link: /ansible/ansible/commit/38193f6b60caa2e3725cb987376a80074821a950
+              latest_commit_date: '2019-11-30T19:50:30Z'
+              latest_commit_link: /ansible/ansible/commit/2acfa0e08cf27400282f87e6b1b1cfdbcbc103a3
               release_date: '2018-02-09T06:51:40Z'
               release_link: 'https://github.com/ansible/ansible/releases'
               contributors_count: 4791
@@ -810,7 +810,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-30T05:54:51.000Z
+              latest_tweet_date: 2019-12-01T05:48:20.000Z
           - item:
             name: Sonatype Nexus
             homepage_url: 'https://www.sonatype.com/'
@@ -838,7 +838,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-29T17:53:02.000Z
+              latest_tweet_date: 2019-11-30T21:13:08.000Z
           - item:
             name: WhiteSource
             homepage_url: 'https://www.whitesourcesoftware.com/'
@@ -1008,7 +1008,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-29T12:21:59.000Z
+              latest_tweet_date: 2019-11-30T12:23:59.000Z
       - subcategory:
         name: Traditional
         items:
@@ -1062,9 +1062,9 @@ landscape:
                   value: 229
                   color: '#c065db'
               contributions: >-
-                42;53;17;0;16;35;24;27;22;14;43;27;25;55;35;34;23;75;33;15;57;37;38;24;18;80;40;51;30;21;20;19;39;46;24;25;28;26;19;21;37;22;42;43;27;17;16;51;30;78;17;14
-              firstWeek: 2018-12-02Z
-              stars: 5566
+                39;53;17;0;20;31;26;27;23;11;45;25;25;55;37;34;25;72;32;15;57;37;38;24;18;83;38;50;31;23;17;21;38;45;24;25;32;26;15;21;39;20;42;43;27;17;16;51;35;73;18;13
+              firstWeek: 2018-12-09Z
+              stars: 5567
               license: Apache License 2.0
               description: Server automation framework and application
               latest_commit_date: '2019-11-28T20:41:40Z'
@@ -1081,7 +1081,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-30T00:30:02.000Z
+              latest_tweet_date: 2019-12-01T01:00:03.000Z
   - category:
     name: 'Container Registry, and Image Build'
     subcategories:
@@ -1176,9 +1176,9 @@ landscape:
                 - name: Makefile
                   value: 4594
                   color: '#427819'
-              contributions: 2;2;3;0;0;6;4;0;4;11;8;0;2;17;20;16;10;16;7;2;10;8;25;22;9;5;16;13;7;6;12;9;15;29;31;37;26;10;24;24;10;13;35;42;80;39;28;48;14;20;3;14
-              firstWeek: 2018-12-02Z
-              stars: 15155
+              contributions: 4;0;3;0;0;7;3;0;5;11;7;0;2;17;20;16;10;16;7;2;11;7;25;22;9;5;16;13;7;6;12;10;16;28;30;37;28;8;24;28;7;12;35;47;76;38;28;48;15;19;3;14
+              firstWeek: 2018-12-09Z
+              stars: 15166
               license: Apache License 2.0
               description: The Kubernetes Package Manager
               latest_commit_date: '2019-11-28T17:59:01Z'
@@ -1241,9 +1241,9 @@ landscape:
                 - name: Makefile
                   value: 671
                   color: '#427819'
-              contributions: 10;2;7;0;1;15;5;13;2;8;3;5;1;3;2;7;22;18;14;25;13;10;2;15;7;1;4;16;4;1;7;4;3;0;17;9;17;5;12;6;17;1;1;3;6;0;1;9;4;3;0;3
-              firstWeek: 2018-12-02Z
-              stars: 712
+              contributions: 8;2;7;0;2;15;4;13;2;10;1;5;1;3;2;7;24;16;15;25;12;10;2;16;6;1;4;16;4;1;7;4;3;0;17;10;16;6;14;4;16;1;1;3;6;0;1;9;5;2;0;4
+              firstWeek: 2018-12-09Z
+              stars: 713
               license: Apache License 2.0
               description: >-
                 A service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and
@@ -1290,7 +1290,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-29T22:52:02.000Z
+              latest_tweet_date: 2019-11-30T22:52:02.000Z
           - item:
             name: Sysdig Secure
             description: 'Sysdig Secure embeds security and compliance into the build, run and respond stages of the Kubernetes lifecycle.'
@@ -1348,7 +1348,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-30T03:18:10.000Z
+              latest_tweet_date: 2019-12-01T07:09:27.000Z
   - category:
     name: Change and Defect Management
     subcategories:
@@ -1417,7 +1417,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-29T20:30:13.000Z
+              latest_tweet_date: 2019-11-30T20:30:10.000Z
   - category:
     name: CDF Members
     subcategories:
@@ -1509,7 +1509,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-29T19:00:57.000Z
+              latest_tweet_date: 2019-12-01T00:04:16.000Z
           - item:
             name: Fujitsu (member)
             homepage_url: 'https://www.fujitsu.com/global/'
@@ -1540,7 +1540,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-30T07:05:03.000Z
+              latest_tweet_date: 2019-11-30T09:05:01.000Z
           - item:
             name: Google Cloud (member)
             homepage_url: 'https://cloud.google.com/'
@@ -1572,7 +1572,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-30T06:06:24.000Z
+              latest_tweet_date: 2019-12-01T06:56:07.000Z
           - item:
             name: Huawei (member)
             homepage_url: 'https://www.huaweicloud.com/en-us/about/about_us.html'
@@ -1656,7 +1656,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-30T05:54:51.000Z
+              latest_tweet_date: 2019-12-01T05:48:20.000Z
           - item:
             name: Netflix (member)
             homepage_url: 'https://www.netflix.com/'
@@ -1686,7 +1686,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-30T02:50:27.000Z
+              latest_tweet_date: 2019-12-01T01:39:26.000Z
           - item:
             name: Salesforce (member)
             homepage_url: 'https://www.salesforce.com/'
@@ -1717,7 +1717,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-29T23:33:00.000Z
+              latest_tweet_date: 2019-12-01T00:00:09.000Z
       - subcategory:
         name: General
         items:
@@ -2015,7 +2015,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-30T00:30:02.000Z
+              latest_tweet_date: 2019-12-01T01:00:03.000Z
           - item:
             name: Rancher Labs (member)
             homepage_url: 'https://rancher.com'
@@ -2042,7 +2042,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-29T12:21:59.000Z
+              latest_tweet_date: 2019-11-30T12:23:59.000Z
           - item:
             name: RedHat (member)
             homepage_url: 'https://www.redhat.com/en'
@@ -2072,7 +2072,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-29T22:14:00.000Z
+              latest_tweet_date: 2019-11-30T21:31:00.000Z
           - item:
             name: Snyk (member)
             homepage_url: 'https://snyk.io/'
@@ -2100,7 +2100,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-29T22:52:02.000Z
+              latest_tweet_date: 2019-11-30T22:52:02.000Z
           - item:
             name: Sumo Logic (member)
             homepage_url: 'https://www.sumologic.com/'
@@ -2127,7 +2127,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-30T03:18:10.000Z
+              latest_tweet_date: 2019-12-01T07:09:27.000Z
           - item:
             name: Sysdig (member)
             homepage_url: 'https://sysdig.com'
@@ -2215,7 +2215,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-29T20:00:24.000Z
+              latest_tweet_date: 2019-11-30T20:00:00.000Z
           - item:
             name: eBay (member)
             homepage_url: 'https://www.ebay.com'
@@ -2246,7 +2246,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-30T02:00:49.000Z
+              latest_tweet_date: 2019-12-01T00:13:00.000Z
           - item:
             name: HSBC (member)
             homepage_url: 'https://www.hsbc.com/'
@@ -2340,7 +2340,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-11-30T02:36:48.000Z
+              latest_tweet_date: 2019-11-30T20:16:06.000Z
 twitter_options:
   count: 3
   since_id: '1196489904672235520'
