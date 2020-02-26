@@ -22,6 +22,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/cloudarmory'
               linkedin: 'https://www.linkedin.com/company/armory.io/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 42000000
@@ -32,7 +33,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T17:39:57.000Z
+              latest_tweet_date: 2020-02-25T23:53:28.000Z
           - item:
             name: CircleCI
             homepage_url: 'https://circleci.com/'
@@ -49,6 +50,12 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/circleci'
               linkedin: 'https://www.linkedin.com/company/circleci/'
+              acquisitions:
+                - price:
+                  date: '2014-12-17'
+                  acquiree:
+                    name: Distiller
+                    permalink: distiller-3
               parents: []
               kind: funding
               funding: 115000000
@@ -59,7 +66,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T17:54:50.000Z
+              latest_tweet_date: 2020-02-25T19:27:02.000Z
           - item:
             name: Cloudbees
             homepage_url: 'https://www.cloudbees.com/'
@@ -76,6 +83,37 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/CloudBees'
               linkedin: 'https://www.linkedin.com/company/cloudbees'
+              acquisitions:
+                - price:
+                  date: '2019-06-11'
+                  acquiree:
+                    name: Rollout.io
+                    permalink: rollout-io-2
+                - price:
+                  date: '2019-04-18'
+                  acquiree:
+                    name: Electric Cloud
+                    permalink: electric-cloud
+                - price:
+                  date: '2018-02-06'
+                  acquiree:
+                    name: Codeship
+                    permalink: codeship
+                - price:
+                  date: '2013-07-24'
+                  acquiree:
+                    name: FoxWeave
+                    permalink: foxweave
+                - price:
+                  date: '2010-12-14'
+                  acquiree:
+                    name: Stax Networks
+                    permalink: stax-networks
+                - price:
+                  date: '2010-11-09'
+                  acquiree:
+                    name: InfraDNA
+                    permalink: infradna
               parents: []
               kind: funding
               funding: 121200000
@@ -86,7 +124,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T20:01:03.000Z
+              latest_tweet_date: 2020-02-25T21:00:33.000Z
           - item:
             name: GitLab
             homepage_url: 'https://about.gitlab.com/'
@@ -105,25 +143,41 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/gitlab'
               linkedin: 'https://www.linkedin.com/company/5101804'
+              acquisitions:
+                - price:
+                  date: '2018-01-30'
+                  acquiree:
+                    name: Gemnasium (acquired by Gitlab)
+                    permalink: gemnasium
+                - price:
+                  date: '2017-03-15'
+                  acquiree:
+                    name: Gitter
+                    permalink: gitter
+                - price:
+                  date: '2015-05-03'
+                  acquiree:
+                    name: Gitorious
+                    permalink: gitorious
               parents: []
               kind: funding
               funding: 436200000
             github_data:
               languages:
                 - name: Ruby
-                  value: 27462065
+                  value: 27491855
                   color: '#701516'
                 - name: JavaScript
-                  value: 6053120
+                  value: 6088453
                   color: '#f1e05a'
                 - name: Vue
-                  value: 1648122
+                  value: 1649654
                   color: '#2c3e50'
                 - name: HTML
-                  value: 1528075
+                  value: 1528723
                   color: '#e34c26'
                 - name: CSS
-                  value: 728761
+                  value: 729540
                   color: '#563d7c'
                 - name: Shell
                   value: 57082
@@ -138,13 +192,13 @@ landscape:
                   value: 79
                   color: '#db5855'
               contributions: >-
-                408;418;345;344;393;566;401;297;364;418;251;369;414;459;528;611;415;626;465;468;471;467;416;373;375;459;506;441;241;52;64;50;47;47;55;56;44;54;46;56;47;52;45;26;31;47;43;48;50;46;50;48
+                411;439;315;375;417;550;377;277;383;444;173;439;411;456;528;619;413;625;491;466;430;455;417;393;362;481;500;445;155;53;65;49;46;50;66;42;43;56;62;41;43;54;43;26;33;47;45;49;47;46;50;48
               firstWeek: 2019-03-03Z
-              stars: 22161
+              stars: 22165
               license: Other
               description: GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-              latest_commit_date: '2020-02-25T03:08:49Z'
-              latest_commit_link: /gitlabhq/gitlabhq/commit/a8c82a6395ed62380b9061a26d92e41d46c2877e
+              latest_commit_date: '2020-02-26T03:09:07Z'
+              latest_commit_link: /gitlabhq/gitlabhq/commit/d393deba773bb1fab09273850fe5d5986066d76d
               contributors_count: 2009
               contributors_link: 'https://github.com/gitlabhq/gitlabhq/graphs/contributors'
             github_start_commit_data:
@@ -157,7 +211,7 @@ landscape:
               badge: 42
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2020-02-24T23:24:00.000Z
+              latest_tweet_date: 2020-02-26T01:40:15.000Z
           - item:
             name: Harness.io
             homepage_url: 'https://harness.io'
@@ -174,6 +228,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/harnessio'
               linkedin: 'https://www.linkedin.com/company/18249313'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 80000000
@@ -184,7 +239,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T00:30:00.000Z
+              latest_tweet_date: 2020-02-25T23:00:00.000Z
           - item:
             name: JenkinsX
             homepage_url: 'https://jenkins.io/'
@@ -205,12 +260,13 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/CDeliveryFdn'
               linkedin: null
+              acquisitions: []
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
               languages:
                 - name: Go
-                  value: 7544627
+                  value: 7553293
                   color: '#00ADD8'
                 - name: Shell
                   value: 56289
@@ -242,14 +298,14 @@ landscape:
                   value: 290
                   color: '#384d54'
               contributions: >-
-                136;83;40;72;189;160;90;46;49;23;38;64;32;39;42;34;42;119;130;78;55;58;41;42;29;45;78;67;87;34;48;74;48;46;38;59;40;30;42;53;30;28;19;1;16;32;41;25;42;11;4;9
+                123;70;43;116;161;159;94;35;39;27;40;58;32;39;49;33;42;150;102;76;60;53;49;29;37;41;87;69;74;35;62;60;49;45;42;55;38;33;50;45;31;26;11;1;19;45;30;40;23;10;6;13
               firstWeek: 2019-03-03Z
-              stars: 3345
+              stars: 3348
               license: Apache License 2.0
               description: 'Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Prow, Skaffold and Helm'
-              latest_commit_date: '2020-02-25T01:36:49Z'
-              latest_commit_link: /jenkins-x/jx/commit/ebdd877f21aa6eaef359683717fc67069eb31aea
-              release_date: '2020-02-24T10:19:31Z'
+              latest_commit_date: '2020-02-25T22:57:44Z'
+              latest_commit_link: /jenkins-x/jx/commit/210ef6a9cc52a8b224d579e5e083ca2c7a3ce6e7
+              release_date: '2020-02-25T23:21:25Z'
               release_link: 'https://github.com/jenkins-x/jx/releases'
               contributors_count: 167
               contributors_link: 'https://github.com/jenkins-x/jx/graphs/contributors'
@@ -263,7 +319,7 @@ landscape:
               badge: 3237
               percentage: 98
             twitter_data:
-              latest_tweet_date: 2020-02-24T17:00:05.000Z
+              latest_tweet_date: 2020-02-25T17:00:48.000Z
           - item:
             name: OpsMX
             homepage_url: 'https://www.opsmx.com'
@@ -280,6 +336,7 @@ landscape:
               country: United States
               twitter: 'https://www.twitter.com/ops_mx'
               linkedin: null
+              acquisitions: []
               parents: []
             image_data:
               fileName: ops-mx.svg
@@ -308,6 +365,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/CDeliveryFdn'
               linkedin: null
+              acquisitions: []
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
@@ -324,9 +382,9 @@ landscape:
                 - name: Shell
                   value: 81
                   color: '#89e051'
-              contributions: 1;15;9;5;5;1;3;4;3;4;4;4;4;2;5;1;2;3;2;1;5;4;0;0;0;1;2;7;0;6;5;5;3;6;3;2;1;4;7;5;7;1;2;0;3;6;4;2;5;3;6;3
+              contributions: 2;16;9;5;3;2;3;5;1;6;2;6;2;4;3;2;3;1;3;4;1;4;0;0;0;2;1;7;0;8;3;6;3;5;5;0;1;4;9;3;7;1;2;0;7;2;4;2;7;1;6;3
               firstWeek: 2019-03-03Z
-              stars: 778
+              stars: 779
               license: Other
               description: An open source build platform designed for continuous delivery.
               latest_commit_date: '2020-02-21T21:54:43Z'
@@ -365,6 +423,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/CDeliveryFdn'
               linkedin: null
+              acquisitions: []
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
@@ -386,9 +445,9 @@ landscape:
                 - name: Python
                   value: 582
                   color: '#3572A5'
-              contributions: 4;7;2;13;2;3;2;1;3;4;4;2;1;0;1;4;4;1;1;1;0;4;0;3;0;3;1;9;3;5;6;6;3;3;0;2;3;2;9;1;2;1;2;0;1;0;1;20;1;5;0;0
+              contributions: 4;7;4;10;3;3;2;0;3;4;4;2;1;1;2;2;4;1;1;1;1;3;0;3;2;1;3;7;6;2;9;3;3;3;0;4;2;4;7;0;2;2;1;0;1;0;1;21;0;5;0;0
               firstWeek: 2019-03-03Z
-              stars: 6908
+              stars: 6909
               license: Apache License 2.0
               description: 'Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.'
               latest_commit_date: '2020-02-07T20:31:12Z'
@@ -430,12 +489,13 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/CDeliveryFdn'
               linkedin: null
+              acquisitions: []
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
               languages:
                 - name: Java
-                  value: 10545772
+                  value: 10543409
                   color: '#b07219'
                 - name: HTML
                   value: 979798
@@ -470,13 +530,13 @@ landscape:
                   value: 1023
                   color: '#C1F12E'
               contributions: >-
-                23;15;5;30;37;46;51;18;20;17;29;22;14;8;8;23;11;16;37;32;17;10;8;7;36;27;27;20;34;28;31;46;32;33;24;21;22;43;16;13;25;12;20;7;38;42;33;40;9;30;31;37
+                17;15;10;40;31;56;33;20;18;21;25;22;15;7;10;21;10;37;18;35;13;9;10;20;21;29;27;36;18;27;40;40;29;36;20;26;28;32;19;17;24;7;20;11;36;57;24;35;7;30;41;30
               firstWeek: 2019-03-03Z
-              stars: 14959
+              stars: 14973
               license: MIT License
               description: Jenkins automation server
-              latest_commit_date: '2020-02-24T15:19:08Z'
-              latest_commit_link: /jenkinsci/jenkins/commit/450d87491df16598409d26511bcad02978eaa8bb
+              latest_commit_date: '2020-02-25T18:39:38Z'
+              latest_commit_link: /jenkinsci/jenkins/commit/d66f19f93354761fa82a24b68327320da8d16bbf
               release_date: '2020-02-24T12:50:32Z'
               release_link: 'https://github.com/jenkinsci/jenkins/releases'
               contributors_count: 603
@@ -491,7 +551,7 @@ landscape:
               badge: 3538
               percentage: 80
             twitter_data:
-              latest_tweet_date: 2020-02-24T14:29:31.000Z
+              latest_tweet_date: 2020-02-25T15:33:39.000Z
           - item:
             name: Tekton Pipelines
             homepage_url: 'https://tekton.dev/'
@@ -511,15 +571,16 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/CDeliveryFdn'
               linkedin: null
+              acquisitions: []
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
               languages:
                 - name: Go
-                  value: 1928572
+                  value: 1946871
                   color: '#00ADD8'
                 - name: Shell
-                  value: 26780
+                  value: 26808
                   color: '#89e051'
                 - name: Python
                   value: 6930
@@ -530,13 +591,13 @@ landscape:
                   value: 662
                   color: '#384d54'
               contributions: >-
-                32;19;12;34;29;29;13;16;20;14;19;19;16;22;18;11;4;15;13;13;23;20;21;14;21;11;7;16;24;15;17;15;20;15;23;15;17;21;13;23;27;28;16;2;12;28;24;25;21;28;15;6
+                34;17;15;36;24;28;15;16;17;15;21;20;18;19;19;6;9;11;15;24;13;22;20;15;17;9;10;13;28;14;13;18;21;15;21;17;20;16;21;22;32;17;13;3;13;30;24;29;18;30;10;8
               firstWeek: 2019-03-03Z
-              stars: 4477
+              stars: 4491
               license: Apache License 2.0
               description: A K8s-native Pipeline resource.
-              latest_commit_date: '2020-02-24T16:38:42Z'
-              latest_commit_link: /tektoncd/pipeline/commit/5b50e28cb7d468a6c6c3e21037496d635d343db9
+              latest_commit_date: '2020-02-25T14:29:42Z'
+              latest_commit_link: /tektoncd/pipeline/commit/b0decbfcf24aa530e2fbcc90031d4dcb2d030b66
               release_date: '2020-01-30T07:11:45Z'
               release_link: 'https://github.com/tektoncd/pipeline/releases'
               contributors_count: 125
@@ -551,7 +612,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T14:45:50.000Z
+              latest_tweet_date: 2020-02-25T16:24:25.000Z
   - category:
     name: Continuous Automation
     subcategories:
@@ -574,6 +635,7 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/thoughtworks'
               linkedin: 'https://www.linkedin.com/company/thoughtworks'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 28000000
@@ -584,7 +646,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T04:30:23.000Z
+              latest_tweet_date: 2020-02-26T03:00:17.000Z
       - subcategory:
         name: Release Automation
         items:
@@ -605,11 +667,62 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/IBM'
               linkedin: 'https://www.linkedin.com/company/ibm/'
+              acquisitions:
+                - price:
+                  date: '2019-01-14'
+                  acquiree:
+                    name: T-Systems - Mainframe Services business
+                    permalink: t-systems-mainframe-services-business
+                - price: 34000000000
+                  date: '2018-10-28'
+                  acquiree:
+                    name: Red Hat
+                    permalink: red-hat
+                - price:
+                  date: '2018-06-15'
+                  acquiree:
+                    name: Oniqua Inc.
+                    permalink: oniqua-inc
+                - price:
+                  date: '2018-05-03'
+                  acquiree:
+                    name: Armanta
+                    permalink: armanta
+                - price:
+                  date: '2017-10-04'
+                  acquiree:
+                    name: Vivant
+                    permalink: vivant-2
+                - price:
+                  date: '2017-09-24'
+                  acquiree:
+                    name: Cloudigo
+                    permalink: cloudigo
+                - price:
+                  date: '2017-05-02'
+                  acquiree:
+                    name: Verizon - Cloud services
+                    permalink: verizon-cloud-services
+                - price:
+                  date: '2017-01-23'
+                  acquiree:
+                    name: Agile 3 Solutions
+                    permalink: agile-3-solutions
+                - price:
+                  date: '2016-11-01'
+                  acquiree:
+                    name: Expert Personal Shopper (XPS)
+                    permalink: expert-personal-shopper-xps
+                - price:
+                  date: '2016-10-27'
+                  acquiree:
+                    name: Sanovi Technologies
+                    permalink: sanovi-technologies
               parents: []
               ticker: IBM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 126732517376
+              market_cap: 125503627264
               effective_ticker: IBM
             image_data:
               fileName: ibm-u-deploy-and-u-release.svg
@@ -618,7 +731,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T12:45:43.000Z
+              latest_tweet_date: 2020-02-25T12:00:07.000Z
       - subcategory:
         name: Build Automation
         items:
@@ -639,6 +752,7 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/OpenMake'
               linkedin: 'https://www.linkedin.com/company/openmake-software'
+              acquisitions: []
               parents: []
             image_data:
               fileName: open-make-meister.svg
@@ -678,7 +792,7 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 71158506
+                  value: 71253387
                   color: '#3572A5'
                 - name: PowerShell
                   value: 1627298
@@ -687,7 +801,7 @@ landscape:
                   value: 201971
                   color: '#178600'
                 - name: Shell
-                  value: 171323
+                  value: 171538
                   color: '#89e051'
                 - name: Makefile
                   value: 22684
@@ -723,19 +837,19 @@ landscape:
                   value: 54
                   color: '#e34c26'
               contributions: >-
-                192;219;174;206;211;148;161;67;92;86;95;108;108;117;134;126;129;133;77;122;122;119;140;155;174;356;265;128;127;126;60;68;88;117;84;97;110;114;94;56;99;84;71;25;39;91;68;62;98;72;158;106
+                211;201;192;201;189;159;142;65;99;85;97;108;116;104;143;128;124;130;79;124;122;123;134;168;220;353;226;106;137;113;59;67;90;120;86;109;97;112;102;44;109;76;63;19;55;84;72;75;85;89;151;99
               firstWeek: 2019-03-03Z
-              stars: 41923
+              stars: 41947
               license: GNU General Public License v3.0
               description: >-
                 Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom
                 code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on
                 remote systems. https://docs.ansible.com/ansible/
-              latest_commit_date: '2020-02-25T01:31:14Z'
-              latest_commit_link: /ansible/ansible/commit/4e571248a906bd461a547ab50e64573a644834b6
+              latest_commit_date: '2020-02-26T03:27:18Z'
+              latest_commit_link: /ansible/ansible/commit/a19ae28326ce861c0eeae803e939050b5bcd64bd
               release_date: '2018-02-09T06:51:40Z'
               release_link: 'https://github.com/ansible/ansible/releases'
-              contributors_count: 4944
+              contributors_count: 4946
               contributors_link: 'https://github.com/ansible/ansible/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /ansible/ansible/commit/f31421576b00f0b167cdbe61217c31c21a41ac02
@@ -750,7 +864,7 @@ landscape:
               badge: 2372
               percentage: 65
             twitter_data:
-              latest_tweet_date: 2020-02-24T18:31:47.000Z
+              latest_tweet_date: 2020-02-25T15:05:01.000Z
           - item:
             name: DeployHub
             homepage_url: 'https://www.deployhub.com/'
@@ -768,6 +882,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/@deployhubproj'
               linkedin: 'https://www.linkedin.com/company/dephub/'
+              acquisitions: []
               parents: []
             image_data:
               fileName: deploy-hub.svg
@@ -776,7 +891,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T18:42:40.000Z
+              latest_tweet_date: 2020-02-25T20:40:09.000Z
       - subcategory:
         name: Library Management
         items:
@@ -796,6 +911,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/getfossa'
               linkedin: 'https://www.linkedin.com/company/fossa/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 10700000
@@ -823,6 +939,32 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/jfrog'
               linkedin: 'https://www.linkedin.com/company/455737'
+              acquisitions:
+                - price:
+                  date: '2019-02-21'
+                  acquiree:
+                    name: Shippable
+                    permalink: shippable
+                - price:
+                  date: '2018-09-26'
+                  acquiree:
+                    name: Trainologic
+                    permalink: trainologic
+                - price:
+                  date: '2017-06-26'
+                  acquiree:
+                    name: CloudMunch
+                    permalink: cloudmunch
+                - price:
+                  date: '2017-05-25'
+                  acquiree:
+                    name: Dimon
+                    permalink: dimon
+                - price:
+                  date: '2016-11-17'
+                  acquiree:
+                    name: Conan
+                    permalink: conan-io
               parents: []
               kind: funding
               funding: 226500000
@@ -833,7 +975,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T00:20:20.000Z
+              latest_tweet_date: 2020-02-26T05:06:10.000Z
           - item:
             name: Sonatype Nexus
             homepage_url: 'https://www.sonatype.com/'
@@ -851,6 +993,12 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/Sonatype'
               linkedin: 'https://www.linkedin.com/company/sonatype'
+              acquisitions:
+                - price:
+                  date: '2017-06-29'
+                  acquiree:
+                    name: Vor Security
+                    permalink: vor-security
               parents: []
               kind: funding
               funding: 154707328
@@ -861,7 +1009,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T22:28:35.000Z
+              latest_tweet_date: 2020-02-25T21:25:03.000Z
           - item:
             name: WhiteSource
             homepage_url: 'https://www.whitesourcesoftware.com/'
@@ -878,6 +1026,12 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/WhiteSourceSoft'
               linkedin: 'https://www.linkedin.com/company/white-source'
+              acquisitions:
+                - price:
+                  date: '2019-11-13'
+                  acquiree:
+                    name: Renovate
+                    permalink: renovate
               parents: []
               kind: funding
               funding: 46000000
@@ -888,7 +1042,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T18:57:32.000Z
+              latest_tweet_date: 2020-02-26T02:31:40.000Z
   - category:
     name: Infrastructure Deployments
     subcategories:
@@ -911,6 +1065,7 @@ landscape:
               country: China
               twitter: null
               linkedin: 'https://www.linkedin.com/company/alauda-inc-/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 15000000
@@ -950,7 +1105,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-22T00:30:00.000Z
+              latest_tweet_date: 2020-02-25T13:12:16.000Z
           - item:
             name: Cycloid
             homepage_url: 'https://www.cycloid.io'
@@ -967,6 +1122,7 @@ landscape:
               country: France
               twitter: 'https://twitter.com/cycloid_io'
               linkedin: 'https://www.linkedin.com/company/cycloid'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 5053386
@@ -994,6 +1150,17 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/boomi'
               linkedin: 'https://www.linkedin.com/company/boomi-inc-'
+              acquisitions:
+                - price:
+                  date: '2019-12-17'
+                  acquiree:
+                    name: UNIFi Software
+                    permalink: unifi-software
+                - price:
+                  date: '2017-03-15'
+                  acquiree:
+                    name: ManyWho
+                    permalink: manywho
               parents: []
               kind: funding
               funding: 4900000
@@ -1004,7 +1171,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T03:49:04.000Z
+              latest_tweet_date: 2020-02-25T23:35:01.000Z
           - item:
             name: Rancher Labs
             homepage_url: 'https://rancher.com'
@@ -1021,6 +1188,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/rancher_labs'
               linkedin: 'https://www.linkedin.com/company/rancher'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 55000000
@@ -1031,7 +1199,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T16:06:05.000Z
+              latest_tweet_date: 2020-02-25T21:53:44.000Z
       - subcategory:
         name: Traditional
         items:
@@ -1052,13 +1220,34 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/puppetize'
               linkedin: 'https://www.linkedin.com/company/puppet-labs-inc'
+              acquisitions:
+                - price:
+                  date: '2018-06-07'
+                  acquiree:
+                    name: Reflect
+                    permalink: reflect-technologies
+                - price:
+                  date: '2017-09-20'
+                  acquiree:
+                    name: Distelli
+                    permalink: distelli-inc
+                - price:
+                  date: '2013-07-17'
+                  acquiree:
+                    name: Cloudsmith
+                    permalink: cloudsmith
+                - price:
+                  date: '2010-10-07'
+                  acquiree:
+                    name: The Marionette Collective
+                    permalink: the-marionette-collective
               parents: []
               kind: funding
               funding: 149500000
             github_data:
               languages:
                 - name: Ruby
-                  value: 12374180
+                  value: 12384499
                   color: '#701516'
                 - name: HTML
                   value: 99157
@@ -1085,14 +1274,14 @@ landscape:
                   value: 229
                   color: '#c065db'
               contributions: >-
-                33;46;39;32;36;66;28;14;61;37;40;19;14;88;38;57;21;28;13;24;39;48;20;29;27;26;14;23;42;19;52;42;24;15;23;56;35;69;26;19;51;32;16;1;25;39;36;26;35;38;33;17
+                38;42;38;27;52;56;27;9;62;41;40;20;16;96;34;49;23;25;16;21;44;42;22;33;25;25;12;28;41;14;62;41;20;13;26;52;53;55;23;26;45;30;12;1;39;28;36;29;39;43;18;24
               firstWeek: 2019-03-03Z
-              stars: 5671
+              stars: 5672
               license: Apache License 2.0
               description: Server automation framework and application
-              latest_commit_date: '2020-02-22T04:35:57Z'
-              latest_commit_link: /puppetlabs/puppet/commit/36d864cb8bed16aed6b58288862b2e140ad35555
-              contributors_count: 528
+              latest_commit_date: '2020-02-26T00:54:40Z'
+              latest_commit_link: /puppetlabs/puppet/commit/0b34e529019a917473f2448bbb81d57ee61a6ac9
+              contributors_count: 529
               contributors_link: 'https://github.com/puppetlabs/puppet/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /puppetlabs/puppet/commit/54e9b5e3561977ea063417da12c46aad2a4c1332
@@ -1104,7 +1293,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T02:00:09.000Z
+              latest_tweet_date: 2020-02-26T02:59:01.000Z
   - category:
     name: 'Container Registry, and Image Build'
     subcategories:
@@ -1128,6 +1317,47 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/docker'
               linkedin: 'https://www.linkedin.com/company/docker'
+              acquisitions:
+                - price:
+                  date: '2016-12-06'
+                  acquiree:
+                    name: Infinit
+                    permalink: infinit
+                - price:
+                  date: '2016-03-03'
+                  acquiree:
+                    name: Conductant
+                    permalink: conductant
+                - price:
+                  date: '2016-01-21'
+                  acquiree:
+                    name: Unikernel Systems
+                    permalink: unikernel-systems
+                - price:
+                  date: '2015-10-21'
+                  acquiree:
+                    name: Tutum
+                    permalink: tutumcloud
+                - price:
+                  date: '2015-03-12'
+                  acquiree:
+                    name: Kitematic
+                    permalink: kitematic
+                - price:
+                  date: '2015-03-04'
+                  acquiree:
+                    name: SocketPlane
+                    permalink: socketplane
+                - price:
+                  date: '2014-10-07'
+                  acquiree:
+                    name: Koality
+                    permalink: koality
+                - price:
+                  date: '2014-07-23'
+                  acquiree:
+                    name: Orchard
+                    permalink: orchard-2
               parents: []
               kind: funding
               funding: 307855439
@@ -1156,6 +1386,7 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/quayio'
               linkedin: null
+              acquisitions: []
               parents: []
             image_data:
               fileName: quay.svg
@@ -1186,12 +1417,23 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/CloudNativeFdn'
               linkedin: 'https://www.linkedin.com/company/cloud-native-computing-foundation'
+              acquisitions:
+                - price: 25000
+                  date: '2017-02-06'
+                  acquiree:
+                    name: RethinkDB
+                    permalink: rethinkdb
+                - price:
+                  date: '2016-03-10'
+                  acquiree:
+                    name: Kubernetes
+                    permalink: kubernetes
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
               languages:
                 - name: Go
-                  value: 1283416
+                  value: 1282372
                   color: '#00ADD8'
                 - name: Shell
                   value: 62863
@@ -1199,13 +1441,13 @@ landscape:
                 - name: Makefile
                   value: 6140
                   color: '#427819'
-              contributions: 4;18;25;9;13;14;6;2;11;7;24;26;5;8;17;10;6;7;14;11;19;29;22;47;23;12;15;30;5;19;39;52;68;35;41;46;12;24;19;9;23;17;28;2;14;27;30;11;20;36;19;23
+              contributions: 10;13;29;7;14;12;4;6;11;11;25;17;7;11;15;9;9;4;14;10;25;32;21;48;15;13;16;27;6;34;29;55;60;41;47;37;18;14;20;9;26;20;20;8;9;32;26;13;20;38;17;21
               firstWeek: 2019-03-03Z
-              stars: 16360
+              stars: 16375
               license: Apache License 2.0
               description: The Kubernetes Package Manager
-              latest_commit_date: '2020-02-24T19:20:18Z'
-              latest_commit_link: /helm/helm/commit/ec2e77cded2df2e7e31472674f182e7a00d7177a
+              latest_commit_date: '2020-02-25T20:33:48Z'
+              latest_commit_link: /helm/helm/commit/0e335c545fec37bfeb6c0293db6126c51f8fa6f1
               release_date: '2020-02-20T20:05:16Z'
               release_link: 'https://github.com/helm/helm/releases'
               contributors_count: 412
@@ -1220,7 +1462,7 @@ landscape:
               badge: 3131
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2020-02-21T01:00:46.000Z
+              latest_tweet_date: 2020-02-25T17:48:58.000Z
   - category:
     name: 'DevSecOps, Analytics and Monitoring'
     subcategories:
@@ -1244,6 +1486,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/anchore'
               linkedin: 'https://www.linkedin.com/company/anchore'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 29000000
@@ -1264,7 +1507,7 @@ landscape:
                 - name: Makefile
                   value: 671
                   color: '#427819'
-              contributions: 1;5;0;7;31;10;20;23;8;10;5;16;3;1;5;15;4;6;2;4;3;1;17;16;10;7;13;8;13;2;1;3;6;0;2;9;5;2;0;6;17;3;5;3;1;9;4;21;9;1;0;3
+              contributions: 1;5;4;4;35;6;24;20;10;6;7;15;2;4;7;12;3;6;2;5;1;4;14;18;9;7;13;10;10;3;0;6;3;0;5;7;4;2;2;11;10;5;3;3;1;11;13;10;9;1;0;3
               firstWeek: 2019-03-03Z
               stars: 793
               license: Apache License 2.0
@@ -1285,7 +1528,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T19:57:14.000Z
+              latest_tweet_date: 2020-02-25T14:30:31.000Z
           - item:
             name: Snyk
             homepage_url: 'https://snyk.io/'
@@ -1302,6 +1545,12 @@ landscape:
               country: United Kingdom
               twitter: 'https://www.twitter.com/snyksec'
               linkedin: 'https://www.linkedin.com/company/snyk'
+              acquisitions:
+                - price:
+                  date: '2019-07-24'
+                  acquiree:
+                    name: DevSecCon Limited
+                    permalink: devseccon-limited
               parents: []
               kind: funding
               funding: 252000000
@@ -1312,7 +1561,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T03:11:02.000Z
+              latest_tweet_date: 2020-02-26T01:35:46.000Z
           - item:
             name: Sysdig Secure
             description: 'Sysdig Secure embeds security and compliance into the build, run and respond stages of the Kubernetes lifecycle.'
@@ -1330,6 +1579,7 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/sysdig'
               linkedin: 'https://www.linkedin.com/company/sysdig'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 191500000
@@ -1340,7 +1590,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T21:53:24.000Z
+              latest_tweet_date: 2020-02-26T01:58:05.000Z
       - subcategory:
         name: Analytics and Monitoring
         items:
@@ -1360,6 +1610,17 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/sumologic'
               linkedin: 'https://www.linkedin.com/company/sumo-logic'
+              acquisitions:
+                - price:
+                  date: '2019-11-04'
+                  acquiree:
+                    name: JASK
+                    permalink: jask-labs-inc
+                - price:
+                  date: '2018-01-23'
+                  acquiree:
+                    name: FactorChain
+                    permalink: factorchain
               parents: []
               kind: funding
               funding: 340000000
@@ -1370,7 +1631,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T01:26:01.000Z
+              latest_tweet_date: 2020-02-26T02:33:01.000Z
   - category:
     name: Change and Defect Management
     subcategories:
@@ -1393,12 +1654,43 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/github'
               linkedin: 'https://www.linkedin.com/company/1418841'
+              acquisitions:
+                - price:
+                  date: '2019-09-18'
+                  acquiree:
+                    name: Semmle
+                    permalink: semmle
+                - price:
+                  date: '2019-06-17'
+                  acquiree:
+                    name: Pull Panda
+                    permalink: pull-panda
+                - price:
+                  date: '2019-05-23'
+                  acquiree:
+                    name: Dependabot
+                    permalink: dependabot
+                - price:
+                  date: '2018-11-30'
+                  acquiree:
+                    name: Spectrum
+                    permalink: spectrum-a286
+                - price:
+                  date: '2014-01-09'
+                  acquiree:
+                    name: Easel
+                    permalink: easel
+                - price:
+                  date: '2011-12-05'
+                  acquiree:
+                    name: Ordered List
+                    permalink: ordered-list
               parents:
                 - 'https://www.crunchbase.com/organization/microsoft'
               ticker: MSFT
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1243756232704
+              market_cap: 1278348886016
               effective_ticker: MSFT
             image_data:
               fileName: git-hub.svg
@@ -1406,7 +1698,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T18:51:05.000Z
+              latest_tweet_date: 2020-02-25T22:27:40.000Z
       - subcategory:
         name: Issue Tracking
         items:
@@ -1426,11 +1718,62 @@ landscape:
               country: Australia
               twitter: 'http://twitter.com/atlassian'
               linkedin: 'https://www.linkedin.com/company/atlassian/'
+              acquisitions:
+                - price:
+                  date: '2019-10-17'
+                  acquiree:
+                    name: Code Barrel
+                    permalink: code-barrel
+                - price:
+                  date: '2019-04-10'
+                  acquiree:
+                    name: Good Software
+                    permalink: good-software
+                - price: 166000000
+                  date: '2019-03-19'
+                  acquiree:
+                    name: AgileCraft
+                    permalink: agilecraft
+                - price: 295000000
+                  date: '2018-09-04'
+                  acquiree:
+                    name: OpsGenie
+                    permalink: opsgenie
+                - price: 425000000
+                  date: '2017-01-09'
+                  acquiree:
+                    name: Trello
+                    permalink: trello
+                - price:
+                  date: '2016-07-14'
+                  acquiree:
+                    name: StatusPage
+                    permalink: statuspage
+                - price: 20000000
+                  date: '2015-05-06'
+                  acquiree:
+                    name: Hall
+                    permalink: hall-com
+                - price:
+                  date: '2015-04-21'
+                  acquiree:
+                    name: BlueJimp
+                    permalink: bluejimp
+                - price: 7500000
+                  date: '2014-09-12'
+                  acquiree:
+                    name: doctape
+                    permalink: doctape
+                - price:
+                  date: '2014-09-11'
+                  acquiree:
+                    name: Wikidocs
+                    permalink: wikidocs
               parents: []
               ticker: TEAM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 36104765440
+              market_cap: 35459293184
               effective_ticker: TEAM
             image_data:
               fileName: jira.svg
@@ -1439,7 +1782,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T23:13:48.000Z
+              latest_tweet_date: 2020-02-26T00:42:06.000Z
   - category:
     name: CDF Members
     subcategories:
@@ -1463,11 +1806,62 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/CapitalOne'
               linkedin: 'https://www.linkedin.com/company/capital-one/'
+              acquisitions:
+                - price:
+                  date: '2019-08-19'
+                  acquiree:
+                    name: KippsDeSanto & Co.
+                    permalink: kippsdesanto-co
+                - price:
+                  date: '2019-08-16'
+                  acquiree:
+                    name: United Income
+                    permalink: united-income
+                - price:
+                  date: '2019-06-24'
+                  acquiree:
+                    name: BlueTarp Financial
+                    permalink: bluetarp-financial
+                - price:
+                  date: '2019-06-19'
+                  acquiree:
+                    name: Jewel Commerce
+                    permalink: jewel-commerce
+                - price:
+                  date: '2018-11-20'
+                  acquiree:
+                    name: Wikibuy
+                    permalink: wikibuy
+                - price:
+                  date: '2018-05-11'
+                  acquiree:
+                    name: Confyrm
+                    permalink: confyrm
+                - price:
+                  date: '2018-01-05'
+                  acquiree:
+                    name: 'Notch, Co.'
+                    permalink: notch-co
+                - price:
+                  date: '2016-10-06'
+                  acquiree:
+                    name: Paribus
+                    permalink: paribus
+                - price:
+                  date: '2016-03-10'
+                  acquiree:
+                    name: Critical Stack
+                    permalink: critical-stack
+                - price:
+                  date: '2015-07-08'
+                  acquiree:
+                    name: Monsoon Company
+                    permalink: monsoon-company
               parents: []
               ticker: COF
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 44856381440
+              market_cap: 42411872256
               effective_ticker: COF
             image_data:
               fileName: capital-one-member.svg
@@ -1476,7 +1870,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T20:14:31.000Z
+              latest_tweet_date: 2020-02-25T21:03:56.000Z
           - item:
             name: CircleCI (member)
             homepage_url: 'https://circleci.com/'
@@ -1493,6 +1887,12 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/circleci'
               linkedin: 'https://www.linkedin.com/company/circleci/'
+              acquisitions:
+                - price:
+                  date: '2014-12-17'
+                  acquiree:
+                    name: Distiller
+                    permalink: distiller-3
               parents: []
               kind: funding
               funding: 115000000
@@ -1503,7 +1903,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T17:54:50.000Z
+              latest_tweet_date: 2020-02-25T19:27:02.000Z
           - item:
             name: CloudBees (member)
             homepage_url: 'https://www.cloudbees.com/'
@@ -1520,6 +1920,37 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/CloudBees'
               linkedin: 'https://www.linkedin.com/company/cloudbees'
+              acquisitions:
+                - price:
+                  date: '2019-06-11'
+                  acquiree:
+                    name: Rollout.io
+                    permalink: rollout-io-2
+                - price:
+                  date: '2019-04-18'
+                  acquiree:
+                    name: Electric Cloud
+                    permalink: electric-cloud
+                - price:
+                  date: '2018-02-06'
+                  acquiree:
+                    name: Codeship
+                    permalink: codeship
+                - price:
+                  date: '2013-07-24'
+                  acquiree:
+                    name: FoxWeave
+                    permalink: foxweave
+                - price:
+                  date: '2010-12-14'
+                  acquiree:
+                    name: Stax Networks
+                    permalink: stax-networks
+                - price:
+                  date: '2010-11-09'
+                  acquiree:
+                    name: InfraDNA
+                    permalink: infradna
               parents: []
               kind: funding
               funding: 121200000
@@ -1530,7 +1961,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T20:01:03.000Z
+              latest_tweet_date: 2020-02-25T21:00:33.000Z
           - item:
             name: Fujitsu (member)
             homepage_url: 'https://www.fujitsu.com/global/'
@@ -1548,11 +1979,62 @@ landscape:
               country: Japan
               twitter: 'http://twitter.com/Fujitsu_Global'
               linkedin: 'https://www.linkedin.com/company/1374'
+              acquisitions:
+                - price:
+                  date: '2016-08-01'
+                  acquiree:
+                    name: Symfoni ESM
+                    permalink: symfoni-esm
+                - price:
+                  date: '2016-07-27'
+                  acquiree:
+                    name: TrueNet Communications
+                    permalink: truenet-communications
+                - price:
+                  date: '2015-11-17'
+                  acquiree:
+                    name: UShareSoft
+                    permalink: usharesoft
+                - price:
+                  date: '2015-08-27'
+                  acquiree:
+                    name: ACT (Applied Card Technologies)
+                    permalink: act-applied-card-technologies
+                - price:
+                  date: '2014-05-02'
+                  acquiree:
+                    name: GlobeRanger
+                    permalink: globeranger
+                - price:
+                  date: '2013-04-08'
+                  acquiree:
+                    name: RunMyProcess
+                    permalink: runmyprocess
+                - price:
+                  date: '2010-01-29'
+                  acquiree:
+                    name: PFU Limited
+                    permalink: pfu-limited
+                - price:
+                  date: '2009-05-01'
+                  acquiree:
+                    name: KAZ Group
+                    permalink: kaz-group
+                - price:
+                  date: '2008-02-05'
+                  acquiree:
+                    name: Intélec Géomatique
+                    permalink: intelec-geomatique
+                - price:
+                  date: '2007-11-28'
+                  acquiree:
+                    name: Mandator
+                    permalink: mandator
               parents: []
               ticker: '6702'
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 22045390848
+              market_cap: 22711894016
               effective_ticker: FJTSY
             image_data:
               fileName: fujitsu-member.svg
@@ -1579,12 +2061,63 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/google'
               linkedin: 'https://www.linkedin.com/company/google'
+              acquisitions:
+                - price:
+                  date: '2020-01-15'
+                  acquiree:
+                    name: AppSheet
+                    permalink: appsheet
+                - price: 163000000
+                  date: '2020-01-14'
+                  acquiree:
+                    name: Pointy
+                    permalink: pointy
+                - price:
+                  date: '2019-12-12'
+                  acquiree:
+                    name: Typhoon Studios
+                    permalink: typhoon-studios
+                - price: 2100000000
+                  date: '2019-11-01'
+                  acquiree:
+                    name: Fitbit
+                    permalink: fitbit
+                - price:
+                  date: '2019-08-17'
+                  acquiree:
+                    name: Socratic
+                    permalink: socratic
+                - price:
+                  date: '2019-07-09'
+                  acquiree:
+                    name: Elastifile
+                    permalink: elastifile
+                - price: 2600000000
+                  date: '2019-06-06'
+                  acquiree:
+                    name: Looker
+                    permalink: looker
+                - price:
+                  date: '2019-02-19'
+                  acquiree:
+                    name: Alooma
+                    permalink: alooma
+                - price:
+                  date: '2018-12-20'
+                  acquiree:
+                    name: DevOps Research and Assessment
+                    permalink: devops-research-and-assessment
+                - price:
+                  date: '2018-12-10'
+                  acquiree:
+                    name: Where Is My Train
+                    permalink: where-is-my-train
               parents:
                 - 'https://www.crunchbase.com/organization/alphabet'
               ticker: GOOG
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 976491577344
+              market_cap: 953677709312
               effective_ticker: GOOG
             image_data:
               fileName: google-cloud-member.svg
@@ -1593,7 +2126,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T03:01:12.000Z
+              latest_tweet_date: 2020-02-26T03:08:01.000Z
           - item:
             name: Huawei (member)
             homepage_url: 'https://www.huaweicloud.com/en-us/about/about_us.html'
@@ -1611,6 +2144,52 @@ landscape:
               country: China
               twitter: 'https://twitter.com/Huawei'
               linkedin: 'https://www.linkedin.com/company/huawei/'
+              acquisitions:
+                - price:
+                  date: '2019-06-04'
+                  acquiree:
+                    name: Vocord
+                    permalink: vocord
+                - price: 50000000
+                  date: '2019-06-03'
+                  acquiree:
+                    name: Vokord Telekom Zao
+                    permalink: vokord-telekom-zao
+                - price: 42000000
+                  date: '2016-12-27'
+                  acquiree:
+                    name: HexaTier
+                    permalink: greensql
+                - price:
+                  date: '2016-12-07'
+                  acquiree:
+                    name: Toga Networks
+                    permalink: toga-networks
+                - price: 25000000
+                  date: '2014-09-22'
+                  acquiree:
+                    name: Neul
+                    permalink: neul
+                - price:
+                  date: '2012-01-26'
+                  acquiree:
+                    name: Centre for Integrated Photonics
+                    permalink: centre-for-integrated-photonics
+                - price:
+                  date: '2011-11-14'
+                  acquiree:
+                    name: Huawei Symantec Technologies
+                    permalink: huawei-symantec-technologies
+                - price:
+                  date: '2011-02-19'
+                  acquiree:
+                    name: 3Leaf
+                    permalink: 3leaf
+                - price:
+                  date: '2006-09-11'
+                  acquiree:
+                    name: Harbour Networks Holdings
+                    permalink: harbour-networks-holdings
               parents: []
             image_data:
               fileName: huawei-member.svg
@@ -1637,11 +2216,62 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/IBM'
               linkedin: 'https://www.linkedin.com/company/ibm/'
+              acquisitions:
+                - price:
+                  date: '2019-01-14'
+                  acquiree:
+                    name: T-Systems - Mainframe Services business
+                    permalink: t-systems-mainframe-services-business
+                - price: 34000000000
+                  date: '2018-10-28'
+                  acquiree:
+                    name: Red Hat
+                    permalink: red-hat
+                - price:
+                  date: '2018-06-15'
+                  acquiree:
+                    name: Oniqua Inc.
+                    permalink: oniqua-inc
+                - price:
+                  date: '2018-05-03'
+                  acquiree:
+                    name: Armanta
+                    permalink: armanta
+                - price:
+                  date: '2017-10-04'
+                  acquiree:
+                    name: Vivant
+                    permalink: vivant-2
+                - price:
+                  date: '2017-09-24'
+                  acquiree:
+                    name: Cloudigo
+                    permalink: cloudigo
+                - price:
+                  date: '2017-05-02'
+                  acquiree:
+                    name: Verizon - Cloud services
+                    permalink: verizon-cloud-services
+                - price:
+                  date: '2017-01-23'
+                  acquiree:
+                    name: Agile 3 Solutions
+                    permalink: agile-3-solutions
+                - price:
+                  date: '2016-11-01'
+                  acquiree:
+                    name: Expert Personal Shopper (XPS)
+                    permalink: expert-personal-shopper-xps
+                - price:
+                  date: '2016-10-27'
+                  acquiree:
+                    name: Sanovi Technologies
+                    permalink: sanovi-technologies
               parents: []
               ticker: IBM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 126732517376
+              market_cap: 125503627264
               effective_ticker: IBM
             image_data:
               fileName: ibm-member.svg
@@ -1650,7 +2280,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T12:45:43.000Z
+              latest_tweet_date: 2020-02-25T12:00:07.000Z
           - item:
             name: JFrog (member)
             homepage_url: 'https://jfrog.com/'
@@ -1667,6 +2297,32 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/jfrog'
               linkedin: 'https://www.linkedin.com/company/455737'
+              acquisitions:
+                - price:
+                  date: '2019-02-21'
+                  acquiree:
+                    name: Shippable
+                    permalink: shippable
+                - price:
+                  date: '2018-09-26'
+                  acquiree:
+                    name: Trainologic
+                    permalink: trainologic
+                - price:
+                  date: '2017-06-26'
+                  acquiree:
+                    name: CloudMunch
+                    permalink: cloudmunch
+                - price:
+                  date: '2017-05-25'
+                  acquiree:
+                    name: Dimon
+                    permalink: dimon
+                - price:
+                  date: '2016-11-17'
+                  acquiree:
+                    name: Conan
+                    permalink: conan-io
               parents: []
               kind: funding
               funding: 226500000
@@ -1677,7 +2333,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T00:20:20.000Z
+              latest_tweet_date: 2020-02-26T05:06:10.000Z
           - item:
             name: Netflix (member)
             homepage_url: 'https://www.netflix.com/'
@@ -1694,11 +2350,22 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/netflix'
               linkedin: 'https://www.linkedin.com/company/netflix'
+              acquisitions:
+                - price:
+                  date: '2019-05-09'
+                  acquiree:
+                    name: StoryBots
+                    permalink: storybots
+                - price:
+                  date: '2017-08-07'
+                  acquiree:
+                    name: Millarworld
+                    permalink: millarworld
               parents: []
               ticker: NFLX
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 161788149760
+              market_cap: 158010015744
               effective_ticker: NFLX
             image_data:
               fileName: netflix-member.svg
@@ -1707,7 +2374,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T02:30:46.000Z
+              latest_tweet_date: 2020-02-26T01:20:40.000Z
           - item:
             name: Salesforce (member)
             homepage_url: 'https://www.salesforce.com/'
@@ -1725,11 +2392,62 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/salesforce'
               linkedin: 'https://www.linkedin.com/company/salesforce'
+              acquisitions:
+                - price:
+                  date: '2020-02-03'
+                  acquiree:
+                    name: Evergage
+                    permalink: evergage
+                - price: 1350000000
+                  date: '2019-08-08'
+                  acquiree:
+                    name: ClickSoftware Technologies
+                    permalink: clicksoftware-technologies
+                - price: 15700000000
+                  date: '2019-06-10'
+                  acquiree:
+                    name: Tableau
+                    permalink: tableau
+                - price:
+                  date: '2019-05-06'
+                  acquiree:
+                    name: Bonobo AI
+                    permalink: bonobo-ai
+                - price: 213000000
+                  date: '2019-04-17'
+                  acquiree:
+                    name: MapAnything
+                    permalink: cloudbilt
+                - price: 300000000
+                  date: '2019-04-16'
+                  acquiree:
+                    name: Salesforce Foundation
+                    permalink: salesforce-org
+                - price:
+                  date: '2019-01-28'
+                  acquiree:
+                    name: Griddable
+                    permalink: griddable-io
+                - price:
+                  date: '2018-10-05'
+                  acquiree:
+                    name: Rebel
+                    permalink: rebelmail
+                - price: 800000000
+                  date: '2018-07-17'
+                  acquiree:
+                    name: Datorama
+                    permalink: datorama
+                - price: 6500000000
+                  date: '2018-03-20'
+                  acquiree:
+                    name: MuleSoft
+                    permalink: mulesoft
               parents: []
               ticker: CRM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 164928782336
+              market_cap: 160786497536
               effective_ticker: CRM
             image_data:
               fileName: salesforce-member.svg
@@ -1738,7 +2456,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T00:30:06.000Z
+              latest_tweet_date: 2020-02-26T01:25:41.000Z
       - subcategory:
         name: General
         items:
@@ -1758,6 +2476,7 @@ landscape:
               country: China
               twitter: null
               linkedin: 'https://www.linkedin.com/company/alauda-inc-/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 15000000
@@ -1797,7 +2516,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-22T00:30:00.000Z
+              latest_tweet_date: 2020-02-25T13:12:16.000Z
           - item:
             name: Anchore (member)
             homepage_url: 'https://anchore.com/'
@@ -1814,6 +2533,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/anchore'
               linkedin: 'https://www.linkedin.com/company/anchore'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 29000000
@@ -1824,7 +2544,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T19:57:14.000Z
+              latest_tweet_date: 2020-02-25T14:30:31.000Z
           - item:
             name: Armory (member)
             homepage_url: 'https://www.armory.io/'
@@ -1841,6 +2561,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/cloudarmory'
               linkedin: 'https://www.linkedin.com/company/armory.io/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 42000000
@@ -1851,7 +2572,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T17:39:57.000Z
+              latest_tweet_date: 2020-02-25T23:53:28.000Z
           - item:
             name: Cycloid  (member)
             homepage_url: 'https://www.cycloid.io'
@@ -1868,6 +2589,7 @@ landscape:
               country: France
               twitter: 'https://twitter.com/cycloid_io'
               linkedin: 'https://www.linkedin.com/company/cycloid'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 5053386
@@ -1895,6 +2617,17 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/boomi'
               linkedin: 'https://www.linkedin.com/company/boomi-inc-'
+              acquisitions:
+                - price:
+                  date: '2019-12-17'
+                  acquiree:
+                    name: UNIFi Software
+                    permalink: unifi-software
+                - price:
+                  date: '2017-03-15'
+                  acquiree:
+                    name: ManyWho
+                    permalink: manywho
               parents: []
               kind: funding
               funding: 4900000
@@ -1905,7 +2638,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T03:49:04.000Z
+              latest_tweet_date: 2020-02-25T23:35:01.000Z
           - item:
             name: DeployHub (member)
             homepage_url: 'https://www.deployhub.com'
@@ -1922,6 +2655,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/@deployhubproj'
               linkedin: 'https://www.linkedin.com/company/dephub/'
+              acquisitions: []
               parents: []
             image_data:
               fileName: deploy-hub-member.svg
@@ -1930,7 +2664,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T18:42:40.000Z
+              latest_tweet_date: 2020-02-25T20:40:09.000Z
           - item:
             name: GitLab (member)
             homepage_url: 'https://about.gitlab.com'
@@ -1947,6 +2681,22 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/gitlab'
               linkedin: 'https://www.linkedin.com/company/5101804'
+              acquisitions:
+                - price:
+                  date: '2018-01-30'
+                  acquiree:
+                    name: Gemnasium (acquired by Gitlab)
+                    permalink: gemnasium
+                - price:
+                  date: '2017-03-15'
+                  acquiree:
+                    name: Gitter
+                    permalink: gitter
+                - price:
+                  date: '2015-05-03'
+                  acquiree:
+                    name: Gitorious
+                    permalink: gitorious
               parents: []
               kind: funding
               funding: 436200000
@@ -1957,7 +2707,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T23:24:00.000Z
+              latest_tweet_date: 2020-02-26T01:40:15.000Z
           - item:
             name: Harness (member)
             homepage_url: 'https://harness.io'
@@ -1974,6 +2724,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/harnessio'
               linkedin: 'https://www.linkedin.com/company/18249313'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 80000000
@@ -1984,7 +2735,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T00:30:00.000Z
+              latest_tweet_date: 2020-02-25T23:00:00.000Z
           - item:
             name: OpsMX (member)
             homepage_url: 'https://www.opsmx.com'
@@ -2001,6 +2752,7 @@ landscape:
               country: United States
               twitter: 'https://www.twitter.com/ops_mx'
               linkedin: null
+              acquisitions: []
               parents: []
             image_data:
               fileName: ops-mx-member.svg
@@ -2026,6 +2778,27 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/puppetize'
               linkedin: 'https://www.linkedin.com/company/puppet-labs-inc'
+              acquisitions:
+                - price:
+                  date: '2018-06-07'
+                  acquiree:
+                    name: Reflect
+                    permalink: reflect-technologies
+                - price:
+                  date: '2017-09-20'
+                  acquiree:
+                    name: Distelli
+                    permalink: distelli-inc
+                - price:
+                  date: '2013-07-17'
+                  acquiree:
+                    name: Cloudsmith
+                    permalink: cloudsmith
+                - price:
+                  date: '2010-10-07'
+                  acquiree:
+                    name: The Marionette Collective
+                    permalink: the-marionette-collective
               parents: []
               kind: funding
               funding: 149500000
@@ -2036,7 +2809,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T02:00:09.000Z
+              latest_tweet_date: 2020-02-26T02:59:01.000Z
           - item:
             name: Rancher Labs (member)
             homepage_url: 'https://rancher.com'
@@ -2053,6 +2826,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/rancher_labs'
               linkedin: 'https://www.linkedin.com/company/rancher'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 55000000
@@ -2063,7 +2837,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T16:06:05.000Z
+              latest_tweet_date: 2020-02-25T21:53:44.000Z
           - item:
             name: RedHat (member)
             homepage_url: 'https://www.redhat.com/en'
@@ -2093,7 +2867,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T22:00:12.000Z
+              latest_tweet_date: 2020-02-25T22:00:08.000Z
           - item:
             name: SAP (member)
             homepage_url: 'https://www.sap.com'
@@ -2110,11 +2884,62 @@ landscape:
               country: Germany
               twitter: 'http://twitter.com/SAP'
               linkedin: 'https://www.linkedin.com/company/sap'
+              acquisitions:
+                - price:
+                  date: '2018-11-19'
+                  acquiree:
+                    name: Contextor
+                    permalink: contextor
+                - price: 8000000000
+                  date: '2018-11-10'
+                  acquiree:
+                    name: Qualtrics
+                    permalink: qualtrics
+                - price:
+                  date: '2018-06-05'
+                  acquiree:
+                    name: Coresystems
+                    permalink: coresystems
+                - price: 2400000000
+                  date: '2018-01-29'
+                  acquiree:
+                    name: CallidusCloud
+                    permalink: callidus-software
+                - price:
+                  date: '2018-01-22'
+                  acquiree:
+                    name: Recast.AI
+                    permalink: recast-ai
+                - price: 350000000
+                  date: '2017-09-24'
+                  acquiree:
+                    name: Gigya
+                    permalink: gigya
+                - price:
+                  date: '2016-12-14'
+                  acquiree:
+                    name: Abakus
+                    permalink: abakus
+                - price:
+                  date: '2016-09-28'
+                  acquiree:
+                    name: PLAT.ONE
+                    permalink: abo-data
+                - price: 125000000
+                  date: '2016-08-25'
+                  acquiree:
+                    name: Altiscale
+                    permalink: altiscale
+                - price:
+                  date: '2016-02-17'
+                  acquiree:
+                    name: Roambi
+                    permalink: mellmo
               parents: []
               ticker: SAP
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 160205488128
+              market_cap: 157548904448
               effective_ticker: SAP
             image_data:
               fileName: sap-member.svg
@@ -2123,7 +2948,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T03:01:50.000Z
+              latest_tweet_date: 2020-02-26T02:44:32.000Z
           - item:
             name: Snyk (member)
             homepage_url: 'https://snyk.io/'
@@ -2140,6 +2965,12 @@ landscape:
               country: United Kingdom
               twitter: 'https://www.twitter.com/snyksec'
               linkedin: 'https://www.linkedin.com/company/snyk'
+              acquisitions:
+                - price:
+                  date: '2019-07-24'
+                  acquiree:
+                    name: DevSecCon Limited
+                    permalink: devseccon-limited
               parents: []
               kind: funding
               funding: 252000000
@@ -2150,7 +2981,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T03:11:02.000Z
+              latest_tweet_date: 2020-02-26T01:35:46.000Z
           - item:
             name: Sumo Logic (member)
             homepage_url: 'https://www.sumologic.com/'
@@ -2167,6 +2998,17 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/sumologic'
               linkedin: 'https://www.linkedin.com/company/sumo-logic'
+              acquisitions:
+                - price:
+                  date: '2019-11-04'
+                  acquiree:
+                    name: JASK
+                    permalink: jask-labs-inc
+                - price:
+                  date: '2018-01-23'
+                  acquiree:
+                    name: FactorChain
+                    permalink: factorchain
               parents: []
               kind: funding
               funding: 340000000
@@ -2177,7 +3019,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T01:26:01.000Z
+              latest_tweet_date: 2020-02-26T02:33:01.000Z
           - item:
             name: Sysdig (member)
             homepage_url: 'https://sysdig.com'
@@ -2194,6 +3036,7 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/sysdig'
               linkedin: 'https://www.linkedin.com/company/sysdig'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 191500000
@@ -2204,7 +3047,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T21:53:24.000Z
+              latest_tweet_date: 2020-02-26T01:58:05.000Z
           - item:
             name: WhiteSource (member)
             homepage_url: 'https://www.whitesourcesoftware.com/'
@@ -2221,6 +3064,12 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/WhiteSourceSoft'
               linkedin: 'https://www.linkedin.com/company/white-source'
+              acquisitions:
+                - price:
+                  date: '2019-11-13'
+                  acquiree:
+                    name: Renovate
+                    permalink: renovate
               parents: []
               kind: funding
               funding: 46000000
@@ -2231,7 +3080,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T18:57:32.000Z
+              latest_tweet_date: 2020-02-26T02:31:40.000Z
       - subcategory:
         name: End User Supporter
         items:
@@ -2252,11 +3101,62 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/autodesk'
               linkedin: 'https://www.linkedin.com/company/autodesk'
+              acquisitions:
+                - price: 275000000
+                  date: '2018-12-20'
+                  acquiree:
+                    name: Buildingconnected
+                    permalink: buildingconnected
+                - price: 875000000
+                  date: '2018-11-20'
+                  acquiree:
+                    name: PlanGrid
+                    permalink: plangrid
+                - price:
+                  date: '2018-07-09'
+                  acquiree:
+                    name: Assemble Systems
+                    permalink: assemble-systems
+                - price:
+                  date: '2016-06-27'
+                  acquiree:
+                    name: CadSoft Computer GmbH
+                    permalink: cadsoft-computer-gmbh
+                - price:
+                  date: '2016-06-26'
+                  acquiree:
+                    name: EAGLE Software
+                    permalink: eagle-software
+                - price:
+                  date: '2016-04-18'
+                  acquiree:
+                    name: Solid Angle S. L.
+                    permalink: solid-angle-s-l
+                - price:
+                  date: '2015-09-24'
+                  acquiree:
+                    name: netfabb
+                    permalink: netfabb
+                - price:
+                  date: '2015-08-27'
+                  acquiree:
+                    name: SeeControl
+                    permalink: seecontrol
+                - price:
+                  date: '2015-04-01'
+                  acquiree:
+                    name: Synthicity
+                    permalink: synthicity
+                - price:
+                  date: '2015-03-19'
+                  acquiree:
+                    name: Modio
+                    permalink: modio
               parents: []
               ticker: ADSK
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 42767810560
+              market_cap: 41086758912
               effective_ticker: ADSK
             image_data:
               fileName: autodesk-member.svg
@@ -2265,7 +3165,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T01:56:44.000Z
+              latest_tweet_date: 2020-02-25T20:00:01.000Z
           - item:
             name: eBay (member)
             homepage_url: 'https://www.ebay.com'
@@ -2283,11 +3183,62 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/eBay'
               linkedin: 'https://www.linkedin.com/company/ebay'
+              acquisitions:
+                - price:
+                  date: '2019-12-19'
+                  acquiree:
+                    name: Cox Automotive
+                    permalink: coxautomotive
+                - price:
+                  date: '2018-10-19'
+                  acquiree:
+                    name: Motors.co.uk
+                    permalink: motors-co-uk
+                - price:
+                  date: '2018-02-27'
+                  acquiree:
+                    name: Giosis
+                    permalink: giosis
+                - price:
+                  date: '2017-12-13'
+                  acquiree:
+                    name: Terapeak
+                    permalink: terapeak
+                - price: 573000000
+                  date: '2017-07-20'
+                  acquiree:
+                    name: Qoo10
+                    permalink: qoo10-japanese
+                - price:
+                  date: '2016-10-05'
+                  acquiree:
+                    name: Corrigon
+                    permalink: corrigon
+                - price:
+                  date: '2016-07-14'
+                  acquiree:
+                    name: 'Ticket Utils, Inc.'
+                    permalink: ticket-utils
+                - price:
+                  date: '2016-07-11'
+                  acquiree:
+                    name: SalesPredict
+                    permalink: salespredict
+                - price: 165000000
+                  date: '2016-05-24'
+                  acquiree:
+                    name: Ticketbis
+                    permalink: ticketbis
+                - price:
+                  date: '2016-05-05'
+                  acquiree:
+                    name: Expertmaker
+                    permalink: expertmaker
               parents: []
               ticker: EBAY
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 29661978624
+              market_cap: 29025114112
               effective_ticker: EBAY
             image_data:
               fileName: e-bay-member.svg
@@ -2296,7 +3247,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T22:36:00.000Z
+              latest_tweet_date: 2020-02-25T22:38:00.000Z
           - item:
             name: JP Morgan Chase (member)
             homepage_url: 'https://www.jpmorganchase.com/'
@@ -2314,11 +3265,62 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/jpmorgan'
               linkedin: 'https://www.linkedin.com/company/jpmorgan-chase?trk=top_nav_home'
+              acquisitions:
+                - price:
+                  date: '2019-05-17'
+                  acquiree:
+                    name: InstaMed
+                    permalink: instamed
+                - price: 400000000
+                  date: '2017-10-17'
+                  acquiree:
+                    name: WePay
+                    permalink: wepay
+                - price:
+                  date: '2009-11-19'
+                  acquiree:
+                    name: J.P. Morgan Cazenove
+                    permalink: jp-morgan-cazenove
+                - price:
+                  date: '2008-09-26'
+                  acquiree:
+                    name: Washington Mutual
+                    permalink: washington-mutual
+                - price:
+                  date: '2008-03-17'
+                  acquiree:
+                    name: Bear Stearns
+                    permalink: bear-stearns
+                - price:
+                  date: '2008-03-01'
+                  acquiree:
+                    name: Xspand
+                    permalink: xspand
+                - price:
+                  date: '2005-12-15'
+                  acquiree:
+                    name: Collegiate Funding Services
+                    permalink: collegiate-funding-services
+                - price:
+                  date: '2005-06-23'
+                  acquiree:
+                    name: Neovest Holdings
+                    permalink: neovest-holdings
+                - price: 58000000000
+                  date: '2004-01-15'
+                  acquiree:
+                    name: Bank One
+                    permalink: bank-one
+                - price: 1350000000
+                  date: '1999-09-28'
+                  acquiree:
+                    name: Hambrecht & Quist
+                    permalink: hambrecht-quist
               parents: []
               ticker: JPM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 407581458432
+              market_cap: 389385846784
               effective_ticker: JPM
             image_data:
               fileName: jp-morgan-chase-member.svg
@@ -2327,7 +3329,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T12:30:17.000Z
+              latest_tweet_date: 2020-02-25T17:03:52.000Z
 twitter_options:
   count: 6
   since_id: '1225482014905659392'
