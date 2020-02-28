@@ -33,7 +33,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T18:37:07.000Z
+              latest_tweet_date: 2020-02-27T23:05:09.000Z
           - item:
             name: CircleCI
             homepage_url: 'https://circleci.com/'
@@ -51,11 +51,8 @@ landscape:
               twitter: 'https://twitter.com/circleci'
               linkedin: 'https://www.linkedin.com/company/circleci/'
               acquisitions:
-                - price:
-                  date: '2014-12-17'
-                  acquiree:
-                    name: Distiller
-                    permalink: distiller-3
+                - date: '2014-12-17'
+                  acquiree: Distiller
               parents: []
               kind: funding
               funding: 115000000
@@ -66,7 +63,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T18:27:02.000Z
+              latest_tweet_date: 2020-02-27T20:27:03.000Z
           - item:
             name: Cloudbees
             homepage_url: 'https://www.cloudbees.com/'
@@ -84,36 +81,18 @@ landscape:
               twitter: 'http://twitter.com/CloudBees'
               linkedin: 'https://www.linkedin.com/company/cloudbees'
               acquisitions:
-                - price:
-                  date: '2019-06-11'
-                  acquiree:
-                    name: Rollout.io
-                    permalink: rollout-io-2
-                - price:
-                  date: '2019-04-18'
-                  acquiree:
-                    name: Electric Cloud
-                    permalink: electric-cloud
-                - price:
-                  date: '2018-02-06'
-                  acquiree:
-                    name: Codeship
-                    permalink: codeship
-                - price:
-                  date: '2013-07-24'
-                  acquiree:
-                    name: FoxWeave
-                    permalink: foxweave
-                - price:
-                  date: '2010-12-14'
-                  acquiree:
-                    name: Stax Networks
-                    permalink: stax-networks
-                - price:
-                  date: '2010-11-09'
-                  acquiree:
-                    name: InfraDNA
-                    permalink: infradna
+                - date: '2019-06-11'
+                  acquiree: Rollout.io
+                - date: '2019-04-18'
+                  acquiree: Electric Cloud
+                - date: '2018-02-06'
+                  acquiree: Codeship
+                - date: '2013-07-24'
+                  acquiree: FoxWeave
+                - date: '2010-12-14'
+                  acquiree: Stax Networks
+                - date: '2010-11-09'
+                  acquiree: InfraDNA
               parents: []
               kind: funding
               funding: 121200000
@@ -124,7 +103,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T22:10:09.000Z
+              latest_tweet_date: 2020-02-27T20:01:05.000Z
           - item:
             name: GitLab
             homepage_url: 'https://about.gitlab.com/'
@@ -144,40 +123,31 @@ landscape:
               twitter: 'http://twitter.com/gitlab'
               linkedin: 'https://www.linkedin.com/company/5101804'
               acquisitions:
-                - price:
-                  date: '2018-01-30'
-                  acquiree:
-                    name: Gemnasium (acquired by Gitlab)
-                    permalink: gemnasium
-                - price:
-                  date: '2017-03-15'
-                  acquiree:
-                    name: Gitter
-                    permalink: gitter
-                - price:
-                  date: '2015-05-03'
-                  acquiree:
-                    name: Gitorious
-                    permalink: gitorious
+                - date: '2018-01-30'
+                  acquiree: Gemnasium (acquired by Gitlab)
+                - date: '2017-03-15'
+                  acquiree: Gitter
+                - date: '2015-05-03'
+                  acquiree: Gitorious
               parents: []
               kind: funding
               funding: 436200000
             github_data:
               languages:
                 - name: Ruby
-                  value: 27531484
+                  value: 27618865
                   color: '#701516'
                 - name: JavaScript
-                  value: 6092832
+                  value: 6096656
                   color: '#f1e05a'
                 - name: Vue
-                  value: 1649490
+                  value: 1650236
                   color: '#2c3e50'
                 - name: HTML
-                  value: 1528743
+                  value: 1531119
                   color: '#e34c26'
                 - name: CSS
-                  value: 729445
+                  value: 729488
                   color: '#563d7c'
                 - name: Shell
                   value: 57487
@@ -192,13 +162,13 @@ landscape:
                   value: 79
                   color: '#db5855'
               contributions: >-
-                414;439;316;385;430;542;369;268;376;408;197;470;421;487;545;575;411;645;465;453;467;412;418;387;393;481;492;429;90;54;68;46;46;52;62;45;42;56;63;40;45;51;39;24;40;47;45;49;46;47;50;46
+                492;363;300;404;471;497;357;277;372;372;236;481;436;545;484;546;474;619;452;463;456;404;399;397;409;510;453;410;46;57;62;46;49;49;62;45;45;53;61;41;49;47;34;27;44;46;45;51;44;49;48;46
               firstWeek: 2019-03-03Z
-              stars: 22166
+              stars: 22170
               license: Other
               description: GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-              latest_commit_date: '2020-02-27T03:08:49Z'
-              latest_commit_link: /gitlabhq/gitlabhq/commit/996c6bf06f602ada62e3f754c121c17051072892
+              latest_commit_date: '2020-02-28T03:09:04Z'
+              latest_commit_link: /gitlabhq/gitlabhq/commit/597a43f359c3096d845e764b90439743962e5961
               contributors_count: 2009
               contributors_link: 'https://github.com/gitlabhq/gitlabhq/graphs/contributors'
             github_start_commit_data:
@@ -211,7 +181,7 @@ landscape:
               badge: 42
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2020-02-26T20:36:58.000Z
+              latest_tweet_date: 2020-02-27T21:58:02.000Z
           - item:
             name: Harness.io
             homepage_url: 'https://harness.io'
@@ -239,7 +209,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T22:45:00.000Z
+              latest_tweet_date: 2020-02-27T22:30:00.000Z
           - item:
             name: JenkinsX
             homepage_url: 'https://jenkins.io/'
@@ -266,7 +236,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 7557296
+                  value: 7557351
                   color: '#00ADD8'
                 - name: Shell
                   value: 56256
@@ -298,14 +268,14 @@ landscape:
                   value: 290
                   color: '#384d54'
               contributions: >-
-                116;51;47;130;178;135;88;30;35;36;44;54;28;41;48;34;45;176;83;66;61;52;48;29;35;52;79;75;63;36;72;53;55;38;46;53;35;37;51;46;30;19;8;3;23;57;21;41;15;8;9;16
+                115;26;54;164;180;111;76;25;33;36;50;54;26;39;50;38;74;155;82;57;69;47;42;26;42;58;70;93;42;40;72;55;51;42;42;53;38;34;51;46;27;18;6;7;28;51;23;37;17;7;7;17
               firstWeek: 2019-03-03Z
-              stars: 3349
+              stars: 3354
               license: Apache License 2.0
               description: 'Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Prow, Skaffold and Helm'
-              latest_commit_date: '2020-02-26T20:20:54Z'
-              latest_commit_link: /jenkins-x/jx/commit/1976d34ff6ac7df0c8874c9f99c32586e6f3b524
-              release_date: '2020-02-26T20:51:50Z'
+              latest_commit_date: '2020-02-27T21:50:54Z'
+              latest_commit_link: /jenkins-x/jx/commit/ac1f4da1ef648fc5586598a9f6dbb76a52e8e52a
+              release_date: '2020-02-27T22:18:53Z'
               release_link: 'https://github.com/jenkins-x/jx/releases'
               contributors_count: 167
               contributors_link: 'https://github.com/jenkins-x/jx/graphs/contributors'
@@ -319,7 +289,7 @@ landscape:
               badge: 3237
               percentage: 98
             twitter_data:
-              latest_tweet_date: 2020-02-26T18:47:59.000Z
+              latest_tweet_date: 2020-02-27T17:00:01.000Z
           - item:
             name: OpsMX
             homepage_url: 'https://www.opsmx.com'
@@ -371,7 +341,7 @@ landscape:
             github_data:
               languages:
                 - name: JavaScript
-                  value: 1187030
+                  value: 1198338
                   color: '#f1e05a'
                 - name: Gherkin
                   value: 39944
@@ -382,13 +352,13 @@ landscape:
                 - name: Shell
                   value: 81
                   color: '#89e051'
-              contributions: 3;16;9;6;1;2;3;6;2;4;6;2;2;4;3;2;4;0;3;4;2;3;0;0;0;3;0;7;1;9;1;6;6;2;5;0;2;4;10;2;6;2;1;0;8;1;4;2;7;3;5;2
+              contributions: 2;17;8;6;1;3;2;6;3;4;5;4;0;5;2;2;4;2;1;5;4;0;0;0;0;3;4;3;4;6;4;3;6;3;4;0;3;6;7;4;4;3;0;0;9;3;3;2;5;6;3;3
               firstWeek: 2019-03-03Z
               stars: 780
               license: Other
               description: An open source build platform designed for continuous delivery.
-              latest_commit_date: '2020-02-21T21:54:43Z'
-              latest_commit_link: /screwdriver-cd/screwdriver/commit/3b3829a7c803f6457d6c68943fa29681cb1855f1
+              latest_commit_date: '2020-02-27T23:40:11Z'
+              latest_commit_link: /screwdriver-cd/screwdriver/commit/0a3e2862f389cb34c49dd1ef9d58d1db03bba482
               release_date: '2017-03-15T21:41:19Z'
               release_link: 'https://github.com/screwdriver-cd/screwdriver/releases'
               contributors_count: 61
@@ -403,7 +373,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-19T18:33:47.000Z
+              latest_tweet_date: 2020-02-28T00:51:01.000Z
           - item:
             name: Spinnaker
             homepage_url: 'https://www.spinnaker.io/'
@@ -445,9 +415,9 @@ landscape:
                 - name: Python
                   value: 582
                   color: '#3572A5'
-              contributions: 4;8;6;7;3;3;2;1;2;5;4;2;0;1;2;2;4;2;0;1;3;1;1;2;2;1;6;5;7;0;12;1;4;1;2;2;3;5;5;2;0;3;0;0;1;1;17;4;3;2;0;0
+              contributions: 7;5;7;6;4;2;2;3;1;6;2;2;0;1;2;2;5;1;0;1;4;0;2;1;2;1;6;6;6;1;11;1;4;1;2;3;2;7;3;2;1;2;0;1;0;1;19;2;3;2;0;0
               firstWeek: 2019-03-03Z
-              stars: 6916
+              stars: 6919
               license: Apache License 2.0
               description: 'Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.'
               latest_commit_date: '2020-02-07T20:31:12Z'
@@ -495,7 +465,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 10541429
+                  value: 10541645
                   color: '#b07219'
                 - name: HTML
                   value: 979798
@@ -530,13 +500,13 @@ landscape:
                   value: 1023
                   color: '#C1F12E'
               contributions: >-
-                15;14;13;45;33;54;25;25;14;25;27;16;16;6;10;20;10;40;16;37;12;7;13;18;22;30;28;32;20;29;45;33;35;35;14;25;39;23;17;21;20;8;19;11;38;57;32;26;11;25;49;23
+                13;16;16;43;33;63;21;19;13;28;25;14;16;5;14;19;11;38;25;31;8;12;7;20;26;30;24;37;16;32;43;30;40;33;22;16;40;22;17;19;20;10;16;15;35;56;39;21;18;23;48;18
               firstWeek: 2019-03-03Z
-              stars: 14980
+              stars: 14992
               license: MIT License
               description: Jenkins automation server
-              latest_commit_date: '2020-02-26T10:44:02Z'
-              latest_commit_link: /jenkinsci/jenkins/commit/28cad7f3170d8364dffb4fb77473baa5fec44c20
+              latest_commit_date: '2020-02-27T07:47:54Z'
+              latest_commit_link: /jenkinsci/jenkins/commit/47a0be9eda79a181e67d2c977ef767ff74a722fd
               release_date: '2020-02-24T12:50:32Z'
               release_link: 'https://github.com/jenkinsci/jenkins/releases'
               contributors_count: 603
@@ -551,7 +521,7 @@ landscape:
               badge: 3538
               percentage: 80
             twitter_data:
-              latest_tweet_date: 2020-02-25T15:33:39.000Z
+              latest_tweet_date: 2020-02-27T17:49:52.000Z
           - item:
             name: Tekton Pipelines
             homepage_url: 'https://tekton.dev/'
@@ -577,7 +547,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 1949334
+                  value: 1951680
                   color: '#00ADD8'
                 - name: Shell
                   value: 26999
@@ -591,13 +561,13 @@ landscape:
                   value: 662
                   color: '#384d54'
               contributions: >-
-                27;15;22;33;22;27;16;15;17;21;16;21;20;18;14;6;10;14;14;24;16;22;16;17;16;6;16;7;29;15;13;26;13;16;22;17;19;17;20;26;31;14;11;2;15;29;26;29;17;29;12;11
+                22;14;30;26;24;24;16;17;12;24;17;19;21;18;11;8;14;11;13;25;18;19;15;16;19;5;19;5;28;15;18;23;11;18;23;16;19;14;20;28;31;20;2;4;21;25;30;26;24;20;9;13
               firstWeek: 2019-03-03Z
-              stars: 4498
+              stars: 4504
               license: Apache License 2.0
               description: A K8s-native Pipeline resource.
-              latest_commit_date: '2020-02-26T21:09:42Z'
-              latest_commit_link: /tektoncd/pipeline/commit/6877e66286dc3460c46f77f2189b0f481ea6418d
+              latest_commit_date: '2020-02-27T14:06:46Z'
+              latest_commit_link: /tektoncd/pipeline/commit/9b1ec33f77d24afbeac27ea0d0b4aeeac65cdd2b
               release_date: '2020-01-30T07:11:45Z'
               release_link: 'https://github.com/tektoncd/pipeline/releases'
               contributors_count: 125
@@ -646,7 +616,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-27T03:30:08.000Z
+              latest_tweet_date: 2020-02-28T04:30:32.000Z
       - subcategory:
         name: Release Automation
         items:
@@ -668,61 +638,394 @@ landscape:
               twitter: 'http://twitter.com/IBM'
               linkedin: 'https://www.linkedin.com/company/ibm/'
               acquisitions:
-                - price:
-                  date: '2019-01-14'
-                  acquiree:
-                    name: T-Systems - Mainframe Services business
-                    permalink: t-systems-mainframe-services-business
-                - price: 34000000000
-                  date: '2018-10-28'
-                  acquiree:
-                    name: Red Hat
-                    permalink: red-hat
-                - price:
-                  date: '2018-06-15'
-                  acquiree:
-                    name: Oniqua Inc.
-                    permalink: oniqua-inc
-                - price:
-                  date: '2018-05-03'
-                  acquiree:
-                    name: Armanta
-                    permalink: armanta
-                - price:
-                  date: '2017-10-04'
-                  acquiree:
-                    name: Vivant
-                    permalink: vivant-2
-                - price:
-                  date: '2017-09-24'
-                  acquiree:
-                    name: Cloudigo
-                    permalink: cloudigo
-                - price:
-                  date: '2017-05-02'
-                  acquiree:
-                    name: Verizon - Cloud services
-                    permalink: verizon-cloud-services
-                - price:
-                  date: '2017-01-23'
-                  acquiree:
-                    name: Agile 3 Solutions
-                    permalink: agile-3-solutions
-                - price:
-                  date: '2016-11-01'
-                  acquiree:
-                    name: Expert Personal Shopper (XPS)
-                    permalink: expert-personal-shopper-xps
-                - price:
-                  date: '2016-10-27'
-                  acquiree:
-                    name: Sanovi Technologies
-                    permalink: sanovi-technologies
+                - date: '2019-01-14'
+                  acquiree: T-Systems - Mainframe Services business
+                - date: '2018-10-28'
+                  acquiree: Red Hat
+                  price: 34000000000
+                - date: '2018-06-15'
+                  acquiree: Oniqua Inc.
+                - date: '2018-05-03'
+                  acquiree: Armanta
+                - date: '2017-10-04'
+                  acquiree: Vivant
+                - date: '2017-09-24'
+                  acquiree: Cloudigo
+                - date: '2017-05-02'
+                  acquiree: Verizon - Cloud services
+                - date: '2017-01-23'
+                  acquiree: Agile 3 Solutions
+                - date: '2016-11-01'
+                  acquiree: Expert Personal Shopper (XPS)
+                - date: '2016-10-27'
+                  acquiree: Sanovi Technologies
+                - date: '2016-09-29'
+                  acquiree: Promontory Financial Group
+                - date: '2016-06-01'
+                  acquiree: EZSource
+                - date: '2016-03-30'
+                  acquiree: Bluewolf
+                  price: 200000000
+                - date: '2016-03-17'
+                  acquiree: Optevia
+                - date: '2016-02-29'
+                  acquiree: IBM Resilient
+                - date: '2016-02-18'
+                  acquiree: Truven Health Analytics
+                  price: 2600000000
+                - date: '2016-02-03'
+                  acquiree: Ecx.io
+                - date: '2016-02-02'
+                  acquiree: Aperto
+                - date: '2016-01-28'
+                  acquiree: Resource/Ammirati
+                - date: '2016-01-21'
+                  acquiree: Ustream
+                - date: '2016-01-15'
+                  acquiree: IRIS Analytics
+                - date: '2015-12-08'
+                  acquiree: Clearleap
+                - date: '2015-11-03'
+                  acquiree: Gravitant
+                - date: '2015-10-28'
+                  acquiree: The Weather Company
+                - date: '2015-10-05'
+                  acquiree: Cleversafe
+                  price: 1300000000
+                - date: '2015-09-28'
+                  acquiree: Meteorix
+                - date: '2015-09-10'
+                  acquiree: StrongLoop
+                - date: '2015-08-06'
+                  acquiree: Merge Healthcare
+                  price: 1000000000
+                - date: '2015-07-23'
+                  acquiree: Compose
+                - date: '2015-06-03'
+                  acquiree: Blue Box
+                - date: '2015-05-04'
+                  acquiree: Phytel
+                - date: '2015-04-16'
+                  acquiree: Explorys
+                - date: '2015-03-27'
+                  acquiree: Blekko
+                - date: '2015-03-04'
+                  acquiree: AlchemyAPI
+                - date: '2014-07-31'
+                  acquiree: CrossIdeas
+                - date: '2014-05-20'
+                  acquiree: Cognea
+                - date: '2014-04-10'
+                  acquiree: Silverpop
+                  price: 270000000
+                - date: '2014-02-24'
+                  acquiree: Cloudant
+                - date: '2013-12-19'
+                  acquiree: Aspera
+                - date: '2013-12-18'
+                  acquiree: Fiberlink
+                  price: 375000000
+                - date: '2013-10-29'
+                  acquiree: The Now Factory
+                - date: '2013-10-03'
+                  acquiree: Xtify
+                - date: '2013-09-19'
+                  acquiree: Daeja Image Systems
+                - date: '2013-08-15'
+                  acquiree: Trusteer
+                - date: '2013-07-10'
+                  acquiree: CSL International
+                - date: '2013-06-04'
+                  acquiree: SoftLayer
+                  price: 2000000000
+                - date: '2013-04-22'
+                  acquiree: Urbancode
+                - date: '2013-03-20'
+                  acquiree: Star Analytics
+                - date: '2013-02-07'
+                  acquiree: StoredIQ
+                - date: '2012-09-24'
+                  acquiree: Butterfly Software
+                - date: '2012-08-28'
+                  acquiree: Kenexa
+                - date: '2012-08-16'
+                  acquiree: Texas Memory Systems
+                - date: '2012-07-01'
+                  acquiree: Cibecs
+                - date: '2012-05-02'
+                  acquiree: Tealeaf
+                - date: '2012-04-25'
+                  acquiree: Vivisimo
+                - date: '2012-04-13'
+                  acquiree: Varicent Software
+                - date: '2012-01-31'
+                  acquiree: Worklight
+                  price: 70000000
+                - date: '2012-01-04'
+                  acquiree: Green Hat
+                - date: '2011-12-20'
+                  acquiree: Cúram Software
+                - date: '2011-12-15'
+                  acquiree: Emptoris
+                - date: '2011-12-08'
+                  acquiree: DemandTec
+                  price: 440000000
+                - date: '2011-10-11'
+                  acquiree: Platform Computing
+                - date: '2011-10-04'
+                  acquiree: Q1 Labs
+                - date: '2011-09-01'
+                  acquiree: Algorithmics
+                  price: 380200000
+                - date: '2011-08-31'
+                  acquiree: i2
+                - date: '2011-04-14'
+                  acquiree: TRIRIGA
+                - date: '2010-10-21'
+                  acquiree: Clarity Systems
+                - date: '2010-10-13'
+                  acquiree: PSS Systems
+                - date: '2010-09-27'
+                  acquiree: BLADE Network Technologies
+                - date: '2010-09-20'
+                  acquiree: Netezza
+                  price: 1800000000
+                - date: '2010-09-15'
+                  acquiree: OpenPages
+                - date: '2010-08-13'
+                  acquiree: Unica
+                  price: 480000000
+                - date: '2010-08-10'
+                  acquiree: Datacap
+                - date: '2010-07-01'
+                  acquiree: BigFix
+                - date: '2010-06-15'
+                  acquiree: Coremetrics
+                - date: '2010-06-14'
+                  acquiree: Storwize
+                  price: 140000000
+                - date: '2010-05-24'
+                  acquiree: Sterling Commerce
+                - date: '2010-05-03'
+                  acquiree: Cast Iron Systems
+                - date: '2010-02-16'
+                  acquiree: Intelliden
+                - date: '2010-02-03'
+                  acquiree: Initiate Systems
+                - date: '2010-01-20'
+                  acquiree: National Interest Security Company
+                - date: '2009-12-16'
+                  acquiree: Lombardi Software
+                - date: '2009-11-30'
+                  acquiree: Guardium
+                  price: 225000000
+                - date: '2009-09-22'
+                  acquiree: RedPill Solutions
+                - date: '2009-07-28'
+                  acquiree: Ounce Labs
+                - date: '2009-07-28'
+                  acquiree: SPSS
+                - date: '2009-05-05'
+                  acquiree: Exeros
+                - date: '2009-04-16'
+                  acquiree: Outblaze
+                - date: '2008-11-18'
+                  acquiree: Transitive
+                - date: '2008-07-28'
+                  acquiree: ILOG
+                - date: '2008-07-02'
+                  acquiree: Platform Solutions
+                - date: '2008-04-29'
+                  acquiree: InfoDyne Corporation
+                - date: '2008-04-22'
+                  acquiree: Diligent
+                - date: '2008-04-10'
+                  acquiree: FilesX
+                - date: '2008-03-12'
+                  acquiree: Encentuate
+                - date: '2008-01-31'
+                  acquiree: Cognos
+                - date: '2008-01-23'
+                  acquiree: AptSoft
+                - date: '2008-01-18'
+                  acquiree: Net Integration Technologies
+                - date: '2008-01-02'
+                  acquiree: XIV
+                - date: '2007-12-21'
+                  acquiree: Solid Information Technology
+                - date: '2007-12-06'
+                  acquiree: Arsenal Digital Solutions
+                - date: '2007-10-24'
+                  acquiree: NovusCG
+                - date: '2007-09-04'
+                  acquiree: DataMirror
+                - date: '2007-08-22'
+                  acquiree: Webdialogs
+                - date: '2007-08-03'
+                  acquiree: Princeton Softech
+                - date: '2007-07-23'
+                  acquiree: Watchfire
+                - date: '2007-06-11'
+                  acquiree: Telelogic
+                  price: 745000000
+                - date: '2007-04-20'
+                  acquiree: Unicible
+                - date: '2007-03-01'
+                  acquiree: Softek Storage Solutions
+                - date: '2007-02-14'
+                  acquiree: Vallent Corporation
+                - date: '2006-12-05'
+                  acquiree: Consul Risk Management International
+                - date: '2006-11-10'
+                  acquiree: Palisades Technology Partners
+                - date: '2006-10-20'
+                  acquiree: Internet Security Systems
+                - date: '2006-10-12'
+                  acquiree: FileNet Corporation
+                  price: 1600000000
+                - date: '2006-10-05'
+                  acquiree: MRO Software
+                - date: '2006-09-30'
+                  acquiree: Valchemy
+                - date: '2006-09-06'
+                  acquiree: Global Value Solutions
+                - date: '2006-08-02'
+                  acquiree: Webify
+                - date: '2006-05-18'
+                  acquiree: Rembo Technology
+                - date: '2006-05-08'
+                  acquiree: Unicorn Solutions
+                - date: '2006-05-02'
+                  acquiree: BuildForge
+                - date: '2006-03-16'
+                  acquiree: Language Analysis Systems
+                - date: '2006-02-08'
+                  acquiree: Viacore
+                - date: '2006-01-27'
+                  acquiree: ARGUS Semiconductor Software
+                - date: '2006-01-25'
+                  acquiree: CIMS Lab
+                - date: '2005-12-21'
+                  acquiree: Micromuse
+                - date: '2005-12-20'
+                  acquiree: Bowstreet
+                - date: '2005-11-16'
+                  acquiree: Collation
+                - date: '2005-11-09'
+                  acquiree: Network Solutions Private Limited
+                - date: '2005-11-01'
+                  acquiree: iPhrase Technologies
+                - date: '2005-10-18'
+                  acquiree: DataPower Technology
+                - date: '2005-08-05'
+                  acquiree: PureEdge Solutions
+                - date: '2005-08-02'
+                  acquiree: DWL
+                - date: '2005-07-27'
+                  acquiree: Isogon Corporation
+                - date: '2005-06-23'
+                  acquiree: Meiosys
+                - date: '2005-05-10'
+                  acquiree: Gluecode Software
+                - date: '2005-05-02'
+                  acquiree: Ascential Software
+                - date: '2005-02-02'
+                  acquiree: Equitant
+                - date: '2005-01-25'
+                  acquiree: Corio
+                  price: 182000000
+                - date: '2005-01-07'
+                  acquiree: SRD
+                - date: '2005-01-07'
+                  acquiree: Systems Research & Development
+                - date: '2004-12-13'
+                  acquiree: KeyMRO
+                - date: '2004-11-23'
+                  acquiree: Liberty Insurance Services
+                - date: '2004-10-12'
+                  acquiree: Systemcorp A.L.G.
+                - date: '2004-08-26'
+                  acquiree: Venetica
+                - date: '2004-08-17'
+                  acquiree: Maersk Data
+                - date: '2004-07-29'
+                  acquiree: Cyanea Systems
+                - date: '2004-07-14'
+                  acquiree: AlphaBlox
+                - date: '2004-06-07'
+                  acquiree: Candle Corporation
+                - date: '2004-04-07'
+                  acquiree: Daksh eServices
+                - date: '2004-04-07'
+                  acquiree: Daksh Infosoft
+                - date: '2004-03-09'
+                  acquiree: Trigo Technologies
+                - date: '2003-12-17'
+                  acquiree: Green Pasture Software
+                - date: '2003-11-13'
+                  acquiree: Productivity Solutions
+                - date: '2003-10-14'
+                  acquiree: CrossAccess
+                - date: '2003-07-15'
+                  acquiree: Presence Online
+                - date: '2003-05-14'
+                  acquiree: Think Dynamics
+                - date: '2003-02-20'
+                  acquiree: Rational Software
+                - date: '2002-11-04'
+                  acquiree: Tarian Software
+                - date: '2002-10-07'
+                  acquiree: EADS Matra Datavision
+                - date: '2002-10-02'
+                  acquiree: PwC Consulting
+                  price: 3500000000
+                - date: '2002-09-12'
+                  acquiree: HOLOSOFX
+                - date: '2002-09-03'
+                  acquiree: Access360
+                - date: '2002-08-29'
+                  acquiree: TrelliSoft
+                - date: '2002-06-25'
+                  acquiree: Metamerge
+                - date: '2002-01-14'
+                  acquiree: CrossWorlds Software
+                  price: 129000000
+                - date: '2001-06-07'
+                  acquiree: Mainspring
+                - date: '1999-09-22'
+                  acquiree: Dascom
+                - date: '1999-07-27'
+                  acquiree: Mylex
+                  price: 240000000
+                - date: '1999-07-12'
+                  acquiree: Sequent Computer Systems Inc
+                - date: '1996-02-01'
+                  acquiree: Tivoli Systems
+                  price: 743000000
+                - date: '1995-07-06'
+                  acquiree: Lotus Development Corporation
+                  price: 3500000000
+                - date: '1994-08-01'
+                  acquiree: Transarc
+                - date: '1984-09-26'
+                  acquiree: ROLM Corporation
+                - date: '1974-01-01'
+                  acquiree: Satellite Business Systems
+                - date: '1964-01-01'
+                  acquiree: Science Research Associates
+                - date: '1941-01-01'
+                  acquiree: Munitions Manufacturing Corporation
+                - date: '1932-01-01'
+                  acquiree: National Counting Scale Company
+                - date: '1930-01-01'
+                  acquiree: The Automatic Accounting Scale Company
+                - date: '1923-01-01'
+                  acquiree: Dehomag
               parents: []
               ticker: IBM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 124155019264
+              market_cap: 118255992832
               effective_ticker: IBM
             image_data:
               fileName: ibm-u-deploy-and-u-release.svg
@@ -731,7 +1034,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T19:36:00.000Z
+              latest_tweet_date: 2020-02-27T17:36:33.000Z
       - subcategory:
         name: Build Automation
         items:
@@ -792,16 +1095,16 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 72801026
+                  value: 73045154
                   color: '#3572A5'
                 - name: PowerShell
-                  value: 1627298
+                  value: 1886670
                   color: '#012456'
                 - name: 'C#'
-                  value: 201971
+                  value: 254115
                   color: '#178600'
                 - name: Shell
-                  value: 179643
+                  value: 181870
                   color: '#89e051'
                 - name: Makefile
                   value: 17354
@@ -834,19 +1137,19 @@ landscape:
                   value: 144
                   color: '#C1F12E'
               contributions: >-
-                218;195;196;216;168;171;113;81;88;83;96;115;117;108;138;122;131;121;88;114;137;126;136;162;223;380;196;104;153;77;67;71;82;125;85;118;89;119;83;64;94;81;50;19;64;90;65;79;87;95;152;93
+                225;192;202;211;167;179;91;77;93;84;101;114;108;120;138;114;136;110;102;117;127;125;142;153;335;351;125;116;138;70;59;83;86;115;84;117;97;110;73;84;93;78;33;25;82;75;72;86;74;100;149;93
               firstWeek: 2019-03-03Z
-              stars: 41968
+              stars: 41983
               license: GNU General Public License v3.0
               description: >-
                 Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom
                 code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on
                 remote systems. https://docs.ansible.com/ansible/
-              latest_commit_date: '2020-02-27T02:34:12Z'
-              latest_commit_link: /ansible/ansible/commit/10feb24870bee04d845c21367d695385f01885db
+              latest_commit_date: '2020-02-28T03:34:27Z'
+              latest_commit_link: /ansible/ansible/commit/b6c2056ea2f9f6d9e8a0a147e1acb29eef03a755
               release_date: '2018-02-09T06:51:40Z'
               release_link: 'https://github.com/ansible/ansible/releases'
-              contributors_count: 4946
+              contributors_count: 4948
               contributors_link: 'https://github.com/ansible/ansible/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /ansible/ansible/commit/f31421576b00f0b167cdbe61217c31c21a41ac02
@@ -861,7 +1164,7 @@ landscape:
               badge: 2372
               percentage: 65
             twitter_data:
-              latest_tweet_date: 2020-02-26T20:48:01.000Z
+              latest_tweet_date: 2020-02-27T21:15:23.000Z
           - item:
             name: DeployHub
             homepage_url: 'https://www.deployhub.com/'
@@ -888,7 +1191,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T20:59:12.000Z
+              latest_tweet_date: 2020-02-27T17:02:54.000Z
       - subcategory:
         name: Library Management
         items:
@@ -937,31 +1240,16 @@ landscape:
               twitter: 'http://twitter.com/jfrog'
               linkedin: 'https://www.linkedin.com/company/455737'
               acquisitions:
-                - price:
-                  date: '2019-02-21'
-                  acquiree:
-                    name: Shippable
-                    permalink: shippable
-                - price:
-                  date: '2018-09-26'
-                  acquiree:
-                    name: Trainologic
-                    permalink: trainologic
-                - price:
-                  date: '2017-06-26'
-                  acquiree:
-                    name: CloudMunch
-                    permalink: cloudmunch
-                - price:
-                  date: '2017-05-25'
-                  acquiree:
-                    name: Dimon
-                    permalink: dimon
-                - price:
-                  date: '2016-11-17'
-                  acquiree:
-                    name: Conan
-                    permalink: conan-io
+                - date: '2019-02-21'
+                  acquiree: Shippable
+                - date: '2018-09-26'
+                  acquiree: Trainologic
+                - date: '2017-06-26'
+                  acquiree: CloudMunch
+                - date: '2017-05-25'
+                  acquiree: Dimon
+                - date: '2016-11-17'
+                  acquiree: Conan
               parents: []
               kind: funding
               funding: 226500000
@@ -972,7 +1260,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T20:04:01.000Z
+              latest_tweet_date: 2020-02-28T04:01:01.000Z
           - item:
             name: Sonatype Nexus
             homepage_url: 'https://www.sonatype.com/'
@@ -991,11 +1279,8 @@ landscape:
               twitter: 'http://twitter.com/Sonatype'
               linkedin: 'https://www.linkedin.com/company/sonatype'
               acquisitions:
-                - price:
-                  date: '2017-06-29'
-                  acquiree:
-                    name: Vor Security
-                    permalink: vor-security
+                - date: '2017-06-29'
+                  acquiree: Vor Security
               parents: []
               kind: funding
               funding: 154707328
@@ -1006,7 +1291,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T22:56:58.000Z
+              latest_tweet_date: 2020-02-27T20:16:03.000Z
           - item:
             name: WhiteSource
             homepage_url: 'https://www.whitesourcesoftware.com/'
@@ -1024,11 +1309,8 @@ landscape:
               twitter: 'https://twitter.com/WhiteSourceSoft'
               linkedin: 'https://www.linkedin.com/company/white-source'
               acquisitions:
-                - price:
-                  date: '2019-11-13'
-                  acquiree:
-                    name: Renovate
-                    permalink: renovate
+                - date: '2019-11-13'
+                  acquiree: Renovate
               parents: []
               kind: funding
               funding: 46000000
@@ -1039,7 +1321,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T17:56:51.000Z
+              latest_tweet_date: 2020-02-27T19:59:04.000Z
   - category:
     name: Infrastructure Deployments
     subcategories:
@@ -1148,16 +1430,10 @@ landscape:
               twitter: 'http://twitter.com/boomi'
               linkedin: 'https://www.linkedin.com/company/boomi-inc-'
               acquisitions:
-                - price:
-                  date: '2019-12-17'
-                  acquiree:
-                    name: UNIFi Software
-                    permalink: unifi-software
-                - price:
-                  date: '2017-03-15'
-                  acquiree:
-                    name: ManyWho
-                    permalink: manywho
+                - date: '2019-12-17'
+                  acquiree: UNIFi Software
+                - date: '2017-03-15'
+                  acquiree: ManyWho
               parents: []
               kind: funding
               funding: 4900000
@@ -1168,7 +1444,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T21:53:01.000Z
+              latest_tweet_date: 2020-02-28T02:01:48.000Z
           - item:
             name: Rancher Labs
             homepage_url: 'https://rancher.com'
@@ -1196,7 +1472,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T16:11:11.000Z
+              latest_tweet_date: 2020-02-27T19:04:05.000Z
       - subcategory:
         name: Traditional
         items:
@@ -1218,26 +1494,14 @@ landscape:
               twitter: 'https://twitter.com/puppetize'
               linkedin: 'https://www.linkedin.com/company/puppet-labs-inc'
               acquisitions:
-                - price:
-                  date: '2018-06-07'
-                  acquiree:
-                    name: Reflect
-                    permalink: reflect-technologies
-                - price:
-                  date: '2017-09-20'
-                  acquiree:
-                    name: Distelli
-                    permalink: distelli-inc
-                - price:
-                  date: '2013-07-17'
-                  acquiree:
-                    name: Cloudsmith
-                    permalink: cloudsmith
-                - price:
-                  date: '2010-10-07'
-                  acquiree:
-                    name: The Marionette Collective
-                    permalink: the-marionette-collective
+                - date: '2018-06-07'
+                  acquiree: Reflect
+                - date: '2017-09-20'
+                  acquiree: Distelli
+                - date: '2013-07-17'
+                  acquiree: Cloudsmith
+                - date: '2010-10-07'
+                  acquiree: The Marionette Collective
               parents: []
               kind: funding
               funding: 149500000
@@ -1271,9 +1535,9 @@ landscape:
                   value: 229
                   color: '#c065db'
               contributions: >-
-                42;39;39;19;74;39;24;21;63;31;38;18;15;105;30;53;17;21;19;22;47;36;25;29;29;23;22;26;35;33;49;39;15;11;35;45;70;44;18;30;41;33;5;1;45;34;29;33;39;46;12;35
+                41;45;36;15;82;32;23;50;34;35;35;17;15;107;40;39;17;24;21;23;57;23;26;26;33;18;25;33;29;37;45;34;17;13;38;39;83;33;18;39;39;24;4;3;51;36;30;27;40;42;14;31
               firstWeek: 2019-03-03Z
-              stars: 5674
+              stars: 5676
               license: Apache License 2.0
               description: Server automation framework and application
               latest_commit_date: '2020-02-26T09:20:22Z'
@@ -1290,7 +1554,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T23:00:15.000Z
+              latest_tweet_date: 2020-02-27T23:22:02.000Z
   - category:
     name: 'Container Registry, and Image Build'
     subcategories:
@@ -1315,46 +1579,22 @@ landscape:
               twitter: 'https://twitter.com/docker'
               linkedin: 'https://www.linkedin.com/company/docker'
               acquisitions:
-                - price:
-                  date: '2016-12-06'
-                  acquiree:
-                    name: Infinit
-                    permalink: infinit
-                - price:
-                  date: '2016-03-03'
-                  acquiree:
-                    name: Conductant
-                    permalink: conductant
-                - price:
-                  date: '2016-01-21'
-                  acquiree:
-                    name: Unikernel Systems
-                    permalink: unikernel-systems
-                - price:
-                  date: '2015-10-21'
-                  acquiree:
-                    name: Tutum
-                    permalink: tutumcloud
-                - price:
-                  date: '2015-03-12'
-                  acquiree:
-                    name: Kitematic
-                    permalink: kitematic
-                - price:
-                  date: '2015-03-04'
-                  acquiree:
-                    name: SocketPlane
-                    permalink: socketplane
-                - price:
-                  date: '2014-10-07'
-                  acquiree:
-                    name: Koality
-                    permalink: koality
-                - price:
-                  date: '2014-07-23'
-                  acquiree:
-                    name: Orchard
-                    permalink: orchard-2
+                - date: '2016-12-06'
+                  acquiree: Infinit
+                - date: '2016-03-03'
+                  acquiree: Conductant
+                - date: '2016-01-21'
+                  acquiree: Unikernel Systems
+                - date: '2015-10-21'
+                  acquiree: Tutum
+                - date: '2015-03-12'
+                  acquiree: Kitematic
+                - date: '2015-03-04'
+                  acquiree: SocketPlane
+                - date: '2014-10-07'
+                  acquiree: Koality
+                - date: '2014-07-23'
+                  acquiree: Orchard
               parents: []
               kind: funding
               funding: 307855439
@@ -1415,22 +1655,17 @@ landscape:
               twitter: 'https://twitter.com/CloudNativeFdn'
               linkedin: 'https://www.linkedin.com/company/cloud-native-computing-foundation'
               acquisitions:
-                - price: 25000
-                  date: '2017-02-06'
-                  acquiree:
-                    name: RethinkDB
-                    permalink: rethinkdb
-                - price:
-                  date: '2016-03-10'
-                  acquiree:
-                    name: Kubernetes
-                    permalink: kubernetes
+                - date: '2017-02-06'
+                  acquiree: RethinkDB
+                  price: 25000
+                - date: '2016-03-10'
+                  acquiree: Kubernetes
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
               languages:
                 - name: Go
-                  value: 1282346
+                  value: 1282488
                   color: '#00ADD8'
                 - name: Shell
                   value: 62863
@@ -1439,16 +1674,16 @@ landscape:
                   value: 6140
                   color: '#427819'
               contributions: >-
-                11;21;20;6;15;11;5;5;12;12;33;10;6;12;13;10;8;10;8;12;24;36;22;43;13;20;21;17;8;36;28;61;57;39;57;22;25;8;18;14;24;20;18;10;21;22;24;13;24;32;18;21
+                14;19;18;6;21;7;3;7;11;14;33;9;4;12;18;5;8;10;10;12;27;34;26;38;11;20;26;12;10;37;40;66;54;31;54;18;23;9;25;14;21;21;14;12;22;26;18;21;22;27;26;14
               firstWeek: 2019-03-03Z
-              stars: 16395
+              stars: 16409
               license: Apache License 2.0
               description: The Kubernetes Package Manager
-              latest_commit_date: '2020-02-26T18:36:04Z'
-              latest_commit_link: /helm/helm/commit/4c55073da4576782b6e3d70489713e7d2f74ddb1
+              latest_commit_date: '2020-02-27T15:57:43Z'
+              latest_commit_link: /helm/helm/commit/53b6580bad30adc84f79a8127e060767e46e17fb
               release_date: '2020-02-20T20:05:16Z'
               release_link: 'https://github.com/helm/helm/releases'
-              contributors_count: 413
+              contributors_count: 414
               contributors_link: 'https://github.com/helm/helm/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /helm/helm/commit/94db53d0803034083a3a9b1c7a9a197c327eb6b0
@@ -1505,9 +1740,9 @@ landscape:
                 - name: Makefile
                   value: 671
                   color: '#427819'
-              contributions: 0;5;7;2;38;3;27;19;9;6;7;15;0;5;12;6;3;7;2;4;1;10;15;17;5;11;9;11;8;2;0;8;1;0;9;3;4;2;3;13;7;5;3;3;1;11;14;11;7;1;0;3
+              contributions: 3;2;7;17;23;10;23;17;12;2;8;14;1;4;16;4;1;7;4;3;0;14;12;16;5;14;6;12;7;2;1;8;0;0;9;5;2;2;3;19;4;2;3;3;1;11;18;11;3;1;1;2
               firstWeek: 2019-03-03Z
-              stars: 794
+              stars: 796
               license: Apache License 2.0
               description: >-
                 A service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and
@@ -1526,7 +1761,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-27T01:16:08.000Z
+              latest_tweet_date: 2020-02-27T19:15:36.000Z
           - item:
             name: Snyk
             homepage_url: 'https://snyk.io/'
@@ -1544,11 +1779,8 @@ landscape:
               twitter: 'https://www.twitter.com/snyksec'
               linkedin: 'https://www.linkedin.com/company/snyk'
               acquisitions:
-                - price:
-                  date: '2019-07-24'
-                  acquiree:
-                    name: DevSecCon Limited
-                    permalink: devseccon-limited
+                - date: '2019-07-24'
+                  acquiree: DevSecCon Limited
               parents: []
               kind: funding
               funding: 252000000
@@ -1559,7 +1791,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-27T03:11:02.000Z
+              latest_tweet_date: 2020-02-28T03:11:02.000Z
           - item:
             name: Sysdig Secure
             description: 'Sysdig Secure embeds security and compliance into the build, run and respond stages of the Kubernetes lifecycle.'
@@ -1588,7 +1820,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-27T01:07:12.000Z
+              latest_tweet_date: 2020-02-27T22:13:19.000Z
       - subcategory:
         name: Analytics and Monitoring
         items:
@@ -1609,16 +1841,10 @@ landscape:
               twitter: 'http://twitter.com/sumologic'
               linkedin: 'https://www.linkedin.com/company/sumo-logic'
               acquisitions:
-                - price:
-                  date: '2019-11-04'
-                  acquiree:
-                    name: JASK
-                    permalink: jask-labs-inc
-                - price:
-                  date: '2018-01-23'
-                  acquiree:
-                    name: FactorChain
-                    permalink: factorchain
+                - date: '2019-11-04'
+                  acquiree: JASK
+                - date: '2018-01-23'
+                  acquiree: FactorChain
               parents: []
               kind: funding
               funding: 340000000
@@ -1629,7 +1855,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-27T03:29:43.000Z
+              latest_tweet_date: 2020-02-28T03:50:00.000Z
   - category:
     name: Change and Defect Management
     subcategories:
@@ -1653,42 +1879,24 @@ landscape:
               twitter: 'http://twitter.com/github'
               linkedin: 'https://www.linkedin.com/company/1418841'
               acquisitions:
-                - price:
-                  date: '2019-09-18'
-                  acquiree:
-                    name: Semmle
-                    permalink: semmle
-                - price:
-                  date: '2019-06-17'
-                  acquiree:
-                    name: Pull Panda
-                    permalink: pull-panda
-                - price:
-                  date: '2019-05-23'
-                  acquiree:
-                    name: Dependabot
-                    permalink: dependabot
-                - price:
-                  date: '2018-11-30'
-                  acquiree:
-                    name: Spectrum
-                    permalink: spectrum-a286
-                - price:
-                  date: '2014-01-09'
-                  acquiree:
-                    name: Easel
-                    permalink: easel
-                - price:
-                  date: '2011-12-05'
-                  acquiree:
-                    name: Ordered List
-                    permalink: ordered-list
+                - date: '2019-09-18'
+                  acquiree: Semmle
+                - date: '2019-06-17'
+                  acquiree: Pull Panda
+                - date: '2019-05-23'
+                  acquiree: Dependabot
+                - date: '2018-11-30'
+                  acquiree: Spectrum
+                - date: '2014-01-09'
+                  acquiree: Easel
+                - date: '2011-12-05'
+                  acquiree: Ordered List
               parents:
                 - 'https://www.crunchbase.com/organization/microsoft'
               ticker: MSFT
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1294321451008
+              market_cap: 1203124961280
               effective_ticker: MSFT
             image_data:
               fileName: git-hub.svg
@@ -1696,7 +1904,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T22:03:30.000Z
+              latest_tweet_date: 2020-02-28T00:42:02.000Z
       - subcategory:
         name: Issue Tracking
         items:
@@ -1717,61 +1925,42 @@ landscape:
               twitter: 'http://twitter.com/atlassian'
               linkedin: 'https://www.linkedin.com/company/atlassian/'
               acquisitions:
-                - price:
-                  date: '2019-10-17'
-                  acquiree:
-                    name: Code Barrel
-                    permalink: code-barrel
-                - price:
-                  date: '2019-04-10'
-                  acquiree:
-                    name: Good Software
-                    permalink: good-software
-                - price: 166000000
-                  date: '2019-03-19'
-                  acquiree:
-                    name: AgileCraft
-                    permalink: agilecraft
-                - price: 295000000
-                  date: '2018-09-04'
-                  acquiree:
-                    name: OpsGenie
-                    permalink: opsgenie
-                - price: 425000000
-                  date: '2017-01-09'
-                  acquiree:
-                    name: Trello
-                    permalink: trello
-                - price:
-                  date: '2016-07-14'
-                  acquiree:
-                    name: StatusPage
-                    permalink: statuspage
-                - price: 20000000
-                  date: '2015-05-06'
-                  acquiree:
-                    name: Hall
-                    permalink: hall-com
-                - price:
-                  date: '2015-04-21'
-                  acquiree:
-                    name: BlueJimp
-                    permalink: bluejimp
-                - price: 7500000
-                  date: '2014-09-12'
-                  acquiree:
-                    name: doctape
-                    permalink: doctape
-                - price:
-                  date: '2014-09-11'
-                  acquiree:
-                    name: Wikidocs
-                    permalink: wikidocs
+                - date: '2019-10-17'
+                  acquiree: Code Barrel
+                - date: '2019-04-10'
+                  acquiree: Good Software
+                - date: '2019-03-19'
+                  acquiree: AgileCraft
+                  price: 166000000
+                - date: '2018-09-04'
+                  acquiree: OpsGenie
+                  price: 295000000
+                - date: '2017-01-09'
+                  acquiree: Trello
+                  price: 425000000
+                - date: '2016-07-14'
+                  acquiree: StatusPage
+                - date: '2015-05-06'
+                  acquiree: Hall
+                  price: 20000000
+                - date: '2015-04-21'
+                  acquiree: BlueJimp
+                - date: '2014-09-12'
+                  acquiree: doctape
+                  price: 7500000
+                - date: '2014-09-11'
+                  acquiree: Wikidocs
+                - date: '2012-03-07'
+                  acquiree: HipChat
+                - date: '2011-10-06'
+                  acquiree: SourceTree
+                - date: '2010-09-29'
+                  acquiree: Bitbucket
               parents: []
               ticker: TEAM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 35955056640
+              market_cap: 35096064000
               effective_ticker: TEAM
             image_data:
               fileName: jira.svg
@@ -1780,7 +1969,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T17:26:15.000Z
+              latest_tweet_date: 2020-02-27T22:34:40.000Z
   - category:
     name: CDF Members
     subcategories:
@@ -1805,61 +1994,62 @@ landscape:
               twitter: 'http://twitter.com/CapitalOne'
               linkedin: 'https://www.linkedin.com/company/capital-one/'
               acquisitions:
-                - price:
-                  date: '2019-08-19'
-                  acquiree:
-                    name: KippsDeSanto & Co.
-                    permalink: kippsdesanto-co
-                - price:
-                  date: '2019-08-16'
-                  acquiree:
-                    name: United Income
-                    permalink: united-income
-                - price:
-                  date: '2019-06-24'
-                  acquiree:
-                    name: BlueTarp Financial
-                    permalink: bluetarp-financial
-                - price:
-                  date: '2019-06-19'
-                  acquiree:
-                    name: Jewel Commerce
-                    permalink: jewel-commerce
-                - price:
-                  date: '2018-11-20'
-                  acquiree:
-                    name: Wikibuy
-                    permalink: wikibuy
-                - price:
-                  date: '2018-05-11'
-                  acquiree:
-                    name: Confyrm
-                    permalink: confyrm
-                - price:
-                  date: '2018-01-05'
-                  acquiree:
-                    name: 'Notch, Co.'
-                    permalink: notch-co
-                - price:
-                  date: '2016-10-06'
-                  acquiree:
-                    name: Paribus
-                    permalink: paribus
-                - price:
-                  date: '2016-03-10'
-                  acquiree:
-                    name: Critical Stack
-                    permalink: critical-stack
-                - price:
-                  date: '2015-07-08'
-                  acquiree:
-                    name: Monsoon Company
-                    permalink: monsoon-company
+                - date: '2019-08-19'
+                  acquiree: KippsDeSanto & Co.
+                - date: '2019-08-16'
+                  acquiree: United Income
+                - date: '2019-06-24'
+                  acquiree: BlueTarp Financial
+                - date: '2019-06-19'
+                  acquiree: Jewel Commerce
+                - date: '2018-11-20'
+                  acquiree: Wikibuy
+                - date: '2018-05-11'
+                  acquiree: Confyrm
+                - date: '2018-01-05'
+                  acquiree: 'Notch, Co.'
+                - date: '2016-10-06'
+                  acquiree: Paribus
+                - date: '2016-03-10'
+                  acquiree: Critical Stack
+                - date: '2015-07-08'
+                  acquiree: Monsoon Company
+                - date: '2015-01-12'
+                  acquiree: Level Money
+                - date: '2014-10-02'
+                  acquiree: Adaptive Path
+                - date: '2013-11-04'
+                  acquiree: Beech Street Capital
+                - date: '2012-11-30'
+                  acquiree: Bundle
+                - date: '2012-05-12'
+                  acquiree: Bankons
+                - date: '2012-02-17'
+                  acquiree: ING Direct
+                - date: '2009-02-27'
+                  acquiree: Chevy Chase Bank
+                - date: '2006-12-01'
+                  acquiree: North Fork Bancorporation
+                  price: 14600000000
+                - date: '2005-11-16'
+                  acquiree: Hibernia Corporation
+                - date: '2004-12-14'
+                  acquiree: eSmartloan
+                - date: '2004-11-03'
+                  acquiree: HFS Group
+                - date: '2004-09-22'
+                  acquiree: Onyx Acceptance Corporation
+                - date: '2001-09-21'
+                  acquiree: PeopleFirst.com
+                - date: '2001-05-09'
+                  acquiree: AmeriFee
+                - date: '1998-07-01'
+                  acquiree: Summit Acceptance Corp.
               parents: []
               ticker: COF
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 42430156800
+              market_cap: 40761659392
               effective_ticker: COF
             image_data:
               fileName: capital-one-member.svg
@@ -1868,7 +2058,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T20:25:18.000Z
+              latest_tweet_date: 2020-02-28T01:11:44.000Z
           - item:
             name: CircleCI (member)
             homepage_url: 'https://circleci.com/'
@@ -1886,11 +2076,8 @@ landscape:
               twitter: 'https://twitter.com/circleci'
               linkedin: 'https://www.linkedin.com/company/circleci/'
               acquisitions:
-                - price:
-                  date: '2014-12-17'
-                  acquiree:
-                    name: Distiller
-                    permalink: distiller-3
+                - date: '2014-12-17'
+                  acquiree: Distiller
               parents: []
               kind: funding
               funding: 115000000
@@ -1901,7 +2088,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T18:27:02.000Z
+              latest_tweet_date: 2020-02-27T20:27:03.000Z
           - item:
             name: CloudBees (member)
             homepage_url: 'https://www.cloudbees.com/'
@@ -1919,36 +2106,18 @@ landscape:
               twitter: 'http://twitter.com/CloudBees'
               linkedin: 'https://www.linkedin.com/company/cloudbees'
               acquisitions:
-                - price:
-                  date: '2019-06-11'
-                  acquiree:
-                    name: Rollout.io
-                    permalink: rollout-io-2
-                - price:
-                  date: '2019-04-18'
-                  acquiree:
-                    name: Electric Cloud
-                    permalink: electric-cloud
-                - price:
-                  date: '2018-02-06'
-                  acquiree:
-                    name: Codeship
-                    permalink: codeship
-                - price:
-                  date: '2013-07-24'
-                  acquiree:
-                    name: FoxWeave
-                    permalink: foxweave
-                - price:
-                  date: '2010-12-14'
-                  acquiree:
-                    name: Stax Networks
-                    permalink: stax-networks
-                - price:
-                  date: '2010-11-09'
-                  acquiree:
-                    name: InfraDNA
-                    permalink: infradna
+                - date: '2019-06-11'
+                  acquiree: Rollout.io
+                - date: '2019-04-18'
+                  acquiree: Electric Cloud
+                - date: '2018-02-06'
+                  acquiree: Codeship
+                - date: '2013-07-24'
+                  acquiree: FoxWeave
+                - date: '2010-12-14'
+                  acquiree: Stax Networks
+                - date: '2010-11-09'
+                  acquiree: InfraDNA
               parents: []
               kind: funding
               funding: 121200000
@@ -1959,7 +2128,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T22:10:09.000Z
+              latest_tweet_date: 2020-02-27T20:01:05.000Z
           - item:
             name: Fujitsu (member)
             homepage_url: 'https://www.fujitsu.com/global/'
@@ -1978,61 +2147,50 @@ landscape:
               twitter: 'http://twitter.com/Fujitsu_Global'
               linkedin: 'https://www.linkedin.com/company/1374'
               acquisitions:
-                - price:
-                  date: '2016-08-01'
-                  acquiree:
-                    name: Symfoni ESM
-                    permalink: symfoni-esm
-                - price:
-                  date: '2016-07-27'
-                  acquiree:
-                    name: TrueNet Communications
-                    permalink: truenet-communications
-                - price:
-                  date: '2015-11-17'
-                  acquiree:
-                    name: UShareSoft
-                    permalink: usharesoft
-                - price:
-                  date: '2015-08-27'
-                  acquiree:
-                    name: ACT (Applied Card Technologies)
-                    permalink: act-applied-card-technologies
-                - price:
-                  date: '2014-05-02'
-                  acquiree:
-                    name: GlobeRanger
-                    permalink: globeranger
-                - price:
-                  date: '2013-04-08'
-                  acquiree:
-                    name: RunMyProcess
-                    permalink: runmyprocess
-                - price:
-                  date: '2010-01-29'
-                  acquiree:
-                    name: PFU Limited
-                    permalink: pfu-limited
-                - price:
-                  date: '2009-05-01'
-                  acquiree:
-                    name: KAZ Group
-                    permalink: kaz-group
-                - price:
-                  date: '2008-02-05'
-                  acquiree:
-                    name: Intélec Géomatique
-                    permalink: intelec-geomatique
-                - price:
-                  date: '2007-11-28'
-                  acquiree:
-                    name: Mandator
-                    permalink: mandator
+                - date: '2016-08-01'
+                  acquiree: Symfoni ESM
+                - date: '2016-07-27'
+                  acquiree: TrueNet Communications
+                - date: '2015-11-17'
+                  acquiree: UShareSoft
+                - date: '2015-08-27'
+                  acquiree: ACT (Applied Card Technologies)
+                - date: '2014-05-02'
+                  acquiree: GlobeRanger
+                - date: '2013-04-08'
+                  acquiree: RunMyProcess
+                - date: '2010-01-29'
+                  acquiree: PFU Limited
+                - date: '2009-05-01'
+                  acquiree: KAZ Group
+                - date: '2008-02-05'
+                  acquiree: Intélec Géomatique
+                - date: '2007-11-28'
+                  acquiree: Mandator
+                - date: '2007-10-23'
+                  acquiree: Promaintech Novaxa
+                - date: '2007-10-01'
+                  acquiree: Infinity Solutions
+                - date: '2007-09-17'
+                  acquiree: OKERE
+                - date: '2006-12-11'
+                  acquiree: Fujitsu TDS GmbH
+                  price: 84023269
+                - date: '2002-02-07'
+                  acquiree: ICL
+                - date: '2000-04-04'
+                  acquiree: Fujitsu Glovia
+                - date: '1997-11-06'
+                  acquiree: Nexion
+                  price: 130000000
+                - date: '1997-07-31'
+                  acquiree: Amdahl Corporation
+                  price: 850000000
               parents: []
               ticker: '6702'
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 22611093504
+              market_cap: 21524975616
               effective_ticker: FJTSY
             image_data:
               fileName: fujitsu-member.svg
@@ -2041,7 +2199,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T15:00:41.000Z
+              latest_tweet_date: 2020-02-27T21:05:45.000Z
           - item:
             name: Google Cloud (member)
             homepage_url: 'https://cloud.google.com/'
@@ -2060,62 +2218,534 @@ landscape:
               twitter: 'https://twitter.com/google'
               linkedin: 'https://www.linkedin.com/company/google'
               acquisitions:
-                - price:
-                  date: '2020-01-15'
-                  acquiree:
-                    name: AppSheet
-                    permalink: appsheet
-                - price: 163000000
-                  date: '2020-01-14'
-                  acquiree:
-                    name: Pointy
-                    permalink: pointy
-                - price:
-                  date: '2019-12-12'
-                  acquiree:
-                    name: Typhoon Studios
-                    permalink: typhoon-studios
-                - price: 2100000000
-                  date: '2019-11-01'
-                  acquiree:
-                    name: Fitbit
-                    permalink: fitbit
-                - price:
-                  date: '2019-08-17'
-                  acquiree:
-                    name: Socratic
-                    permalink: socratic
-                - price:
-                  date: '2019-07-09'
-                  acquiree:
-                    name: Elastifile
-                    permalink: elastifile
-                - price: 2600000000
-                  date: '2019-06-06'
-                  acquiree:
-                    name: Looker
-                    permalink: looker
-                - price:
-                  date: '2019-02-19'
-                  acquiree:
-                    name: Alooma
-                    permalink: alooma
-                - price:
-                  date: '2018-12-20'
-                  acquiree:
-                    name: DevOps Research and Assessment
-                    permalink: devops-research-and-assessment
-                - price:
-                  date: '2018-12-10'
-                  acquiree:
-                    name: Where Is My Train
-                    permalink: where-is-my-train
+                - date: '2020-01-15'
+                  acquiree: AppSheet
+                - date: '2020-01-14'
+                  acquiree: Pointy
+                  price: 163000000
+                - date: '2019-12-12'
+                  acquiree: Typhoon Studios
+                - date: '2019-11-01'
+                  acquiree: Fitbit
+                  price: 2100000000
+                - date: '2019-08-17'
+                  acquiree: Socratic
+                - date: '2019-07-09'
+                  acquiree: Elastifile
+                - date: '2019-06-06'
+                  acquiree: Looker
+                  price: 2600000000
+                - date: '2019-02-19'
+                  acquiree: Alooma
+                - date: '2018-12-20'
+                  acquiree: DevOps Research and Assessment
+                - date: '2018-12-10'
+                  acquiree: Where Is My Train
+                - date: '2018-11-28'
+                  acquiree: Workbench Platform
+                - date: '2018-10-02'
+                  acquiree: Onward
+                - date: '2018-08-06'
+                  acquiree: GraphicsFuzz
+                - date: '2018-05-15'
+                  acquiree: Cask
+                - date: '2018-05-09'
+                  acquiree: Velostrata
+                - date: '2018-03-27'
+                  acquiree: Tenor Inc
+                - date: '2018-02-15'
+                  acquiree: Xively
+                  price: 50000000
+                - date: '2017-10-11'
+                  acquiree: 60dB
+                - date: '2017-10-09'
+                  acquiree: Relay Media
+                - date: '2017-09-21'
+                  acquiree: HTC - Pixel Phone Division
+                  price: 1100000000
+                - date: '2017-08-16'
+                  acquiree: AIMatter
+                - date: '2017-08-14'
+                  acquiree: Senosis Health
+                - date: '2017-08-06'
+                  acquiree: Redux ST
+                - date: '2017-07-12'
+                  acquiree: Halli Labs
+                - date: '2017-05-10'
+                  acquiree: Owlchemy Labs
+                - date: '2017-03-09'
+                  acquiree: AppBridge
+                - date: '2017-03-07'
+                  acquiree: Kaggle
+                - date: '2017-01-18'
+                  acquiree: Fastlane
+                - date: '2017-01-18'
+                  acquiree: Crashlytics
+                - date: '2017-01-06'
+                  acquiree: Limes Audio
+                - date: '2016-12-12'
+                  acquiree: Cronologics Corporation
+                - date: '2016-11-21'
+                  acquiree: Qwiklabs
+                - date: '2016-11-07'
+                  acquiree: LeapDroid
+                - date: '2016-10-24'
+                  acquiree: Eyefluence
+                - date: '2016-10-11'
+                  acquiree: FameBit
+                - date: '2016-10-01'
+                  acquiree: Undecidable Labs
+                - date: '2016-09-19'
+                  acquiree: Dialogflow
+                - date: '2016-09-15'
+                  acquiree: Urban Engines
+                - date: '2016-09-08'
+                  acquiree: Apigee
+                  price: 625000000
+                - date: '2016-08-08'
+                  acquiree: 'Orbitera, Inc.'
+                - date: '2016-07-27'
+                  acquiree: LaunchKit
+                - date: '2016-07-12'
+                  acquiree: Kifi
+                - date: '2016-07-07'
+                  acquiree: Anvato
+                - date: '2016-07-06'
+                  acquiree: Moodstocks
+                - date: '2016-06-22'
+                  acquiree: Webpass
+                - date: '2016-05-01'
+                  acquiree: Synergyse
+                - date: '2016-02-18'
+                  acquiree: Pie
+                - date: '2015-11-19'
+                  acquiree: Bebop
+                  price: 380200000
+                - date: '2015-11-06'
+                  acquiree: Fly Labs
+                - date: '2015-10-17'
+                  acquiree: Digisfera
+                - date: '2015-10-13'
+                  acquiree: Divshot
+                - date: '2015-09-30'
+                  acquiree: Jibe Mobile
+                - date: '2015-09-21'
+                  acquiree: Oyster
+                  price: 30000000
+                - date: '2015-07-21'
+                  acquiree: Pixate
+                - date: '2015-06-18'
+                  acquiree: Agawi Inc
+                - date: '2015-05-28'
+                  acquiree: Pulse.io
+                - date: '2015-05-04'
+                  acquiree: Timeful
+                - date: '2015-04-16'
+                  acquiree: Thrive Audio
+                - date: '2015-04-16'
+                  acquiree: Skillman & Hackett
+                - date: '2015-03-04'
+                  acquiree: Softcard
+                - date: '2015-03-01'
+                  acquiree: Apportable
+                - date: '2015-02-24'
+                  acquiree: Toro
+                - date: '2015-02-08'
+                  acquiree: Odysee
+                - date: '2015-02-03'
+                  acquiree: Launchpad Toys
+                - date: '2015-01-23'
+                  acquiree: Granata Decision Systems
+                - date: '2014-11-18'
+                  acquiree: RelativeWave
+                - date: '2014-10-23'
+                  acquiree: Dark Blue Labs
+                - date: '2014-10-23'
+                  acquiree: Vision Factory
+                - date: '2014-10-21'
+                  acquiree: Firebase
+                - date: '2014-09-11'
+                  acquiree: Lift Labs
+                - date: '2014-09-11'
+                  acquiree: Polar
+                - date: '2014-08-26'
+                  acquiree: Zync Render
+                - date: '2014-08-22'
+                  acquiree: Gecko Design Inc.
+                - date: '2014-08-15'
+                  acquiree: Jetpac
+                - date: '2014-08-06'
+                  acquiree: Emu Messenger
+                - date: '2014-08-01'
+                  acquiree: Directr
+                - date: '2014-07-23'
+                  acquiree: drawElements
+                - date: '2014-07-14'
+                  acquiree: CiiNOW
+                - date: '2014-07-02'
+                  acquiree: Songza
+                - date: '2014-06-25'
+                  acquiree: Appurify
+                - date: '2014-06-19'
+                  acquiree: mDialog
+                - date: '2014-06-19'
+                  acquiree: Alpental Technologies
+                - date: '2014-06-10'
+                  acquiree: Terra Bella
+                  price: 500000000
+                - date: '2014-05-20'
+                  acquiree: Divide
+                  price: 120000000
+                - date: '2014-05-16'
+                  acquiree: Quest Visual
+                - date: '2014-05-07'
+                  acquiree: Appetas
+                - date: '2014-05-07'
+                  acquiree: Stackdriver
+                - date: '2014-05-06'
+                  acquiree: Adometry By Google
+                - date: '2014-05-02'
+                  acquiree: Rangespan
+                - date: '2014-04-14'
+                  acquiree: Titan Aerospace
+                - date: '2014-03-12'
+                  acquiree: Green Throttle Games
+                - date: '2014-02-21'
+                  acquiree: Spider.io
+                - date: '2014-02-16'
+                  acquiree: SlickLogin
+                - date: '2014-01-26'
+                  acquiree: DeepMind
+                  price: 500000000
+                - date: '2014-01-16'
+                  acquiree: Impermium
+                - date: '2014-01-01'
+                  acquiree: Nest Labs
+                  price: 3200000000
+                - date: '2013-12-13'
+                  acquiree: Boston Dynamics
+                - date: '2013-12-08'
+                  acquiree: Autofuss
+                - date: '2013-12-07'
+                  acquiree: Bot & Dolly
+                - date: '2013-12-06'
+                  acquiree: Holomni
+                - date: '2013-12-05'
+                  acquiree: Meka Robotics
+                - date: '2013-12-04'
+                  acquiree: Redwood Robotics
+                - date: '2013-12-04'
+                  acquiree: Industrial Pereception Inc.
+                - date: '2013-12-02'
+                  acquiree: Schaft
+                  price: 20000000
+                - date: '2013-10-22'
+                  acquiree: FlexyCore
+                  price: 23000000
+                - date: '2013-10-02'
+                  acquiree: Flutter
+                - date: '2013-09-16'
+                  acquiree: Bump Technologies
+                  price: 30000000
+                - date: '2013-08-31'
+                  acquiree: WIMM Labs
+                - date: '2013-06-11'
+                  acquiree: Waze
+                  price: 1300000000
+                - date: '2013-04-24'
+                  acquiree: Wavii
+                  price: 30000000
+                - date: '2013-04-18'
+                  acquiree: Behavio
+                - date: '2013-03-15'
+                  acquiree: Talaria
+                - date: '2013-03-12'
+                  acquiree: DNNresearch
+                - date: '2013-02-06'
+                  acquiree: Channel Intelligence
+                - date: '2012-11-30'
+                  acquiree: BufferBox
+                - date: '2012-11-28'
+                  acquiree: Incentive Targeting
+                - date: '2012-09-17'
+                  acquiree: 'Nik Software, Inc.'
+                - date: '2012-09-07'
+                  acquiree: VirusTotal
+                - date: '2012-08-13'
+                  acquiree: Frommer's
+                - date: '2012-07-31'
+                  acquiree: Wildfire
+                  price: 350000000
+                - date: '2012-07-20'
+                  acquiree: Sparrow
+                - date: '2012-06-05'
+                  acquiree: Quickoffice
+                - date: '2012-06-04'
+                  acquiree: Meebo
+                  price: 100000000
+                - date: '2012-06-01'
+                  acquiree: KikScore
+                - date: '2012-05-22'
+                  acquiree: Motorola Mobility
+                  price: 12500000000
+                - date: '2012-04-02'
+                  acquiree: TxVia
+                - date: '2012-03-16'
+                  acquiree: Milk
+                - date: '2011-12-13'
+                  acquiree: Clever Sense
+                - date: '2011-12-09'
+                  acquiree: RightsFlow
+                - date: '2011-11-10'
+                  acquiree: Apture
+                - date: '2011-11-10'
+                  acquiree: Katango
+                - date: '2011-10-26'
+                  acquiree: Zagat
+                  price: 151000000
+                - date: '2011-10-10'
+                  acquiree: SocialGrapple
+                - date: '2011-09-19'
+                  acquiree: DailyDeal
+                - date: '2011-09-02'
+                  acquiree: Zave Networks
+                - date: '2011-08-01'
+                  acquiree: The Dealmap
+                - date: '2011-07-22'
+                  acquiree: PittPatt
+                - date: '2011-07-21'
+                  acquiree: Fridge
+                - date: '2011-07-20'
+                  acquiree: JustSpotted
+                - date: '2011-07-11'
+                  acquiree: Punchd
+                - date: '2011-06-19'
+                  acquiree: SageTV
+                - date: '2011-06-03'
+                  acquiree: PostRank
+                - date: '2011-06-01'
+                  acquiree: Admeld
+                  price: 411556083
+                - date: '2011-05-23'
+                  acquiree: Sparkbuy
+                - date: '2011-05-20'
+                  acquiree: modu
+                  price: 4900000
+                - date: '2011-04-25'
+                  acquiree: TalkBin
+                - date: '2011-04-25'
+                  acquiree: Numovis Inc
+                - date: '2011-04-13'
+                  acquiree: ITA Software
+                  price: 700000000
+                - date: '2011-04-08'
+                  acquiree: PushLife
+                - date: '2011-03-15'
+                  acquiree: Green Parrot Pictures
+                - date: '2011-03-07'
+                  acquiree: BeatThatQuote.com
+                  price: 61208155
+                - date: '2011-03-01'
+                  acquiree: zynamics
+                - date: '2011-01-25'
+                  acquiree: fflick
+                - date: '2011-01-12'
+                  acquiree: eBook Technologies
+                - date: '2010-12-03'
+                  acquiree: Widevine Technologies
+                  price: 160000000
+                - date: '2010-12-03'
+                  acquiree: Phonetic Arts
+                - date: '2010-10-01'
+                  acquiree: BlindType
+                - date: '2010-09-28'
+                  acquiree: Plannr
+                - date: '2010-09-14'
+                  acquiree: Quiksee
+                - date: '2010-09-12'
+                  acquiree: MentorWave Technologies
+                  price: 12000000
+                - date: '2010-08-30'
+                  acquiree: SocialDeck
+                - date: '2010-08-27'
+                  acquiree: Angstro
+                - date: '2010-08-20'
+                  acquiree: Like.com
+                - date: '2010-08-13'
+                  acquiree: Zetawire
+                - date: '2010-08-09'
+                  acquiree: Jambool
+                - date: '2010-08-06'
+                  acquiree: Slide
+                  price: 182000000
+                - date: '2010-08-04'
+                  acquiree: Instantiations
+                - date: '2010-07-16'
+                  acquiree: Metaweb Technologies
+                - date: '2010-07-16'
+                  acquiree: john kenneth rosel
+                - date: '2010-06-02'
+                  acquiree: Invite Media
+                  price: 81000000
+                - date: '2010-05-21'
+                  acquiree: Ruba
+                - date: '2010-05-20'
+                  acquiree: Simplify Media
+                - date: '2010-05-18'
+                  acquiree: Global IP Solutions
+                - date: '2010-05-02'
+                  acquiree: BumpTop
+                - date: '2010-04-27'
+                  acquiree: LabPixies
+                - date: '2010-04-20'
+                  acquiree: Agnilux
+                - date: '2010-04-12'
+                  acquiree: Plink Search
+                - date: '2010-04-12'
+                  acquiree: Plink Solutions
+                - date: '2010-04-02'
+                  acquiree: Episodic
+                - date: '2010-03-01'
+                  acquiree: Picnik
+                - date: '2010-02-17'
+                  acquiree: reMail
+                - date: '2010-02-11'
+                  acquiree: Aardvark
+                - date: '2010-01-25'
+                  acquiree: SayNow
+                - date: '2009-12-05'
+                  acquiree: DocVerse
+                - date: '2009-12-04'
+                  acquiree: AppJet
+                - date: '2009-11-23'
+                  acquiree: Teracent
+                - date: '2009-11-09'
+                  acquiree: AdMob
+                - date: '2009-11-09'
+                  acquiree: Gizmofive
+                  price: 30000000
+                - date: '2009-09-16'
+                  acquiree: reCAPTCHA
+                - date: '2009-02-19'
+                  acquiree: On2 Technologies
+                  price: 130000000
+                - date: '2008-09-12'
+                  acquiree: TNC
+                - date: '2008-07-30'
+                  acquiree: Omnisio
+                - date: '2008-07-18'
+                  acquiree: ZAO Begun
+                  price: 140000000
+                - date: '2008-03-11'
+                  acquiree: DoubleClick
+                - date: '2007-10-09'
+                  acquiree: Jaiku
+                  price: 12000000
+                - date: '2007-09-27'
+                  acquiree: Zingku
+                - date: '2007-08-20'
+                  acquiree: Tianya.cn
+                - date: '2007-07-20'
+                  acquiree: 'Image America, Inc.'
+                - date: '2007-07-09'
+                  acquiree: Postini
+                - date: '2007-07-01'
+                  acquiree: GrandCentral
+                  price: 60000000
+                - date: '2007-06-19'
+                  acquiree: Zenter
+                - date: '2007-06-05'
+                  acquiree: PeakStream
+                  price: 20300000
+                - date: '2007-05-31'
+                  acquiree: Panoramio
+                - date: '2007-05-29'
+                  acquiree: GreenBorder
+                - date: '2007-05-23'
+                  acquiree: FeedBurner
+                  price: 100000000
+                - date: '2007-04-19'
+                  acquiree: Marratech
+                - date: '2007-04-17'
+                  acquiree: Tonic Systems
+                - date: '2007-03-16'
+                  acquiree: Trendalyzer
+                - date: '2007-02-16'
+                  acquiree: Adscape
+                  price: 23000000
+                - date: '2006-12-18'
+                  acquiree: Endoxon
+                  price: 28000000
+                - date: '2006-10-31'
+                  acquiree: JotSpot
+                - date: '2006-10-01'
+                  acquiree: YouTube
+                  price: 1650000000
+                - date: '2006-08-15'
+                  acquiree: Neven Vision
+                - date: '2006-06-06'
+                  acquiree: 2Web Technologies
+                - date: '2006-04-09'
+                  acquiree: Orion
+                - date: '2006-03-14'
+                  acquiree: '@Last Software'
+                - date: '2006-03-09'
+                  acquiree: Upstartle
+                - date: '2006-02-14'
+                  acquiree: Measure Map
+                - date: '2006-01-01'
+                  acquiree: dMarc Broadcasting
+                  price: 102000000
+                - date: '2005-12-31'
+                  acquiree: bruNET
+                - date: '2005-12-31'
+                  acquiree: allPAY
+                - date: '2005-12-27'
+                  acquiree: Phatbits
+                - date: '2005-11-17'
+                  acquiree: Akwan Information Technologies
+                - date: '2005-11-09'
+                  acquiree: Skia
+                - date: '2005-08-16'
+                  acquiree: Android
+                  price: 50000000
+                - date: '2005-05-12'
+                  acquiree: Dodgeball
+                - date: '2005-03-28'
+                  acquiree: Urchin Software
+                - date: '2005-01-01'
+                  acquiree: Reqwireless
+                - date: '2004-10-27'
+                  acquiree: Keyhole Inc.
+                - date: '2004-10-09'
+                  acquiree: Where2
+                - date: '2004-09-10'
+                  acquiree: ZipDash
+                - date: '2004-05-10'
+                  acquiree: Ignite Logic
+                - date: '2003-10-23'
+                  acquiree: Sprinks
+                - date: '2003-10-07'
+                  acquiree: Genius Labs
+                - date: '2003-09-30'
+                  acquiree: Kaltix
+                - date: '2003-06-04'
+                  acquiree: Neotonic Software
+                - date: '2003-04-28'
+                  acquiree: Applied Semantics
+                  price: 102000000
+                - date: '2003-02-17'
+                  acquiree: Pyra Labs
+                - date: '2001-09-20'
+                  acquiree: Outride
+                - date: '2001-02-12'
+                  acquiree: Deja
               parents:
                 - 'https://www.crunchbase.com/organization/alphabet'
               ticker: GOOG
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 956773367808
+              market_cap: 905016377344
               effective_ticker: GOOG
             image_data:
               fileName: google-cloud-member.svg
@@ -2124,7 +2754,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-27T04:17:23.000Z
+              latest_tweet_date: 2020-02-28T05:00:00.000Z
           - item:
             name: Huawei (member)
             homepage_url: 'https://www.huaweicloud.com/en-us/about/about_us.html'
@@ -2143,51 +2773,27 @@ landscape:
               twitter: 'https://twitter.com/Huawei'
               linkedin: 'https://www.linkedin.com/company/huawei/'
               acquisitions:
-                - price:
-                  date: '2019-06-04'
-                  acquiree:
-                    name: Vocord
-                    permalink: vocord
-                - price: 50000000
-                  date: '2019-06-03'
-                  acquiree:
-                    name: Vokord Telekom Zao
-                    permalink: vokord-telekom-zao
-                - price: 42000000
-                  date: '2016-12-27'
-                  acquiree:
-                    name: HexaTier
-                    permalink: greensql
-                - price:
-                  date: '2016-12-07'
-                  acquiree:
-                    name: Toga Networks
-                    permalink: toga-networks
-                - price: 25000000
-                  date: '2014-09-22'
-                  acquiree:
-                    name: Neul
-                    permalink: neul
-                - price:
-                  date: '2012-01-26'
-                  acquiree:
-                    name: Centre for Integrated Photonics
-                    permalink: centre-for-integrated-photonics
-                - price:
-                  date: '2011-11-14'
-                  acquiree:
-                    name: Huawei Symantec Technologies
-                    permalink: huawei-symantec-technologies
-                - price:
-                  date: '2011-02-19'
-                  acquiree:
-                    name: 3Leaf
-                    permalink: 3leaf
-                - price:
-                  date: '2006-09-11'
-                  acquiree:
-                    name: Harbour Networks Holdings
-                    permalink: harbour-networks-holdings
+                - date: '2019-06-04'
+                  acquiree: Vocord
+                - date: '2019-06-03'
+                  acquiree: Vokord Telekom Zao
+                  price: 50000000
+                - date: '2016-12-27'
+                  acquiree: HexaTier
+                  price: 42000000
+                - date: '2016-12-07'
+                  acquiree: Toga Networks
+                - date: '2014-09-22'
+                  acquiree: Neul
+                  price: 25000000
+                - date: '2012-01-26'
+                  acquiree: Centre for Integrated Photonics
+                - date: '2011-11-14'
+                  acquiree: Huawei Symantec Technologies
+                - date: '2011-02-19'
+                  acquiree: 3Leaf
+                - date: '2006-09-11'
+                  acquiree: Harbour Networks Holdings
               parents: []
             image_data:
               fileName: huawei-member.svg
@@ -2196,7 +2802,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T08:07:08.000Z
+              latest_tweet_date: 2020-02-28T04:43:02.000Z
           - item:
             name: IBM (member)
             homepage_url: 'https://www.ibm.com/cloud'
@@ -2215,61 +2821,394 @@ landscape:
               twitter: 'http://twitter.com/IBM'
               linkedin: 'https://www.linkedin.com/company/ibm/'
               acquisitions:
-                - price:
-                  date: '2019-01-14'
-                  acquiree:
-                    name: T-Systems - Mainframe Services business
-                    permalink: t-systems-mainframe-services-business
-                - price: 34000000000
-                  date: '2018-10-28'
-                  acquiree:
-                    name: Red Hat
-                    permalink: red-hat
-                - price:
-                  date: '2018-06-15'
-                  acquiree:
-                    name: Oniqua Inc.
-                    permalink: oniqua-inc
-                - price:
-                  date: '2018-05-03'
-                  acquiree:
-                    name: Armanta
-                    permalink: armanta
-                - price:
-                  date: '2017-10-04'
-                  acquiree:
-                    name: Vivant
-                    permalink: vivant-2
-                - price:
-                  date: '2017-09-24'
-                  acquiree:
-                    name: Cloudigo
-                    permalink: cloudigo
-                - price:
-                  date: '2017-05-02'
-                  acquiree:
-                    name: Verizon - Cloud services
-                    permalink: verizon-cloud-services
-                - price:
-                  date: '2017-01-23'
-                  acquiree:
-                    name: Agile 3 Solutions
-                    permalink: agile-3-solutions
-                - price:
-                  date: '2016-11-01'
-                  acquiree:
-                    name: Expert Personal Shopper (XPS)
-                    permalink: expert-personal-shopper-xps
-                - price:
-                  date: '2016-10-27'
-                  acquiree:
-                    name: Sanovi Technologies
-                    permalink: sanovi-technologies
+                - date: '2019-01-14'
+                  acquiree: T-Systems - Mainframe Services business
+                - date: '2018-10-28'
+                  acquiree: Red Hat
+                  price: 34000000000
+                - date: '2018-06-15'
+                  acquiree: Oniqua Inc.
+                - date: '2018-05-03'
+                  acquiree: Armanta
+                - date: '2017-10-04'
+                  acquiree: Vivant
+                - date: '2017-09-24'
+                  acquiree: Cloudigo
+                - date: '2017-05-02'
+                  acquiree: Verizon - Cloud services
+                - date: '2017-01-23'
+                  acquiree: Agile 3 Solutions
+                - date: '2016-11-01'
+                  acquiree: Expert Personal Shopper (XPS)
+                - date: '2016-10-27'
+                  acquiree: Sanovi Technologies
+                - date: '2016-09-29'
+                  acquiree: Promontory Financial Group
+                - date: '2016-06-01'
+                  acquiree: EZSource
+                - date: '2016-03-30'
+                  acquiree: Bluewolf
+                  price: 200000000
+                - date: '2016-03-17'
+                  acquiree: Optevia
+                - date: '2016-02-29'
+                  acquiree: IBM Resilient
+                - date: '2016-02-18'
+                  acquiree: Truven Health Analytics
+                  price: 2600000000
+                - date: '2016-02-03'
+                  acquiree: Ecx.io
+                - date: '2016-02-02'
+                  acquiree: Aperto
+                - date: '2016-01-28'
+                  acquiree: Resource/Ammirati
+                - date: '2016-01-21'
+                  acquiree: Ustream
+                - date: '2016-01-15'
+                  acquiree: IRIS Analytics
+                - date: '2015-12-08'
+                  acquiree: Clearleap
+                - date: '2015-11-03'
+                  acquiree: Gravitant
+                - date: '2015-10-28'
+                  acquiree: The Weather Company
+                - date: '2015-10-05'
+                  acquiree: Cleversafe
+                  price: 1300000000
+                - date: '2015-09-28'
+                  acquiree: Meteorix
+                - date: '2015-09-10'
+                  acquiree: StrongLoop
+                - date: '2015-08-06'
+                  acquiree: Merge Healthcare
+                  price: 1000000000
+                - date: '2015-07-23'
+                  acquiree: Compose
+                - date: '2015-06-03'
+                  acquiree: Blue Box
+                - date: '2015-05-04'
+                  acquiree: Phytel
+                - date: '2015-04-16'
+                  acquiree: Explorys
+                - date: '2015-03-27'
+                  acquiree: Blekko
+                - date: '2015-03-04'
+                  acquiree: AlchemyAPI
+                - date: '2014-07-31'
+                  acquiree: CrossIdeas
+                - date: '2014-05-20'
+                  acquiree: Cognea
+                - date: '2014-04-10'
+                  acquiree: Silverpop
+                  price: 270000000
+                - date: '2014-02-24'
+                  acquiree: Cloudant
+                - date: '2013-12-19'
+                  acquiree: Aspera
+                - date: '2013-12-18'
+                  acquiree: Fiberlink
+                  price: 375000000
+                - date: '2013-10-29'
+                  acquiree: The Now Factory
+                - date: '2013-10-03'
+                  acquiree: Xtify
+                - date: '2013-09-19'
+                  acquiree: Daeja Image Systems
+                - date: '2013-08-15'
+                  acquiree: Trusteer
+                - date: '2013-07-10'
+                  acquiree: CSL International
+                - date: '2013-06-04'
+                  acquiree: SoftLayer
+                  price: 2000000000
+                - date: '2013-04-22'
+                  acquiree: Urbancode
+                - date: '2013-03-20'
+                  acquiree: Star Analytics
+                - date: '2013-02-07'
+                  acquiree: StoredIQ
+                - date: '2012-09-24'
+                  acquiree: Butterfly Software
+                - date: '2012-08-28'
+                  acquiree: Kenexa
+                - date: '2012-08-16'
+                  acquiree: Texas Memory Systems
+                - date: '2012-07-01'
+                  acquiree: Cibecs
+                - date: '2012-05-02'
+                  acquiree: Tealeaf
+                - date: '2012-04-25'
+                  acquiree: Vivisimo
+                - date: '2012-04-13'
+                  acquiree: Varicent Software
+                - date: '2012-01-31'
+                  acquiree: Worklight
+                  price: 70000000
+                - date: '2012-01-04'
+                  acquiree: Green Hat
+                - date: '2011-12-20'
+                  acquiree: Cúram Software
+                - date: '2011-12-15'
+                  acquiree: Emptoris
+                - date: '2011-12-08'
+                  acquiree: DemandTec
+                  price: 440000000
+                - date: '2011-10-11'
+                  acquiree: Platform Computing
+                - date: '2011-10-04'
+                  acquiree: Q1 Labs
+                - date: '2011-09-01'
+                  acquiree: Algorithmics
+                  price: 380200000
+                - date: '2011-08-31'
+                  acquiree: i2
+                - date: '2011-04-14'
+                  acquiree: TRIRIGA
+                - date: '2010-10-21'
+                  acquiree: Clarity Systems
+                - date: '2010-10-13'
+                  acquiree: PSS Systems
+                - date: '2010-09-27'
+                  acquiree: BLADE Network Technologies
+                - date: '2010-09-20'
+                  acquiree: Netezza
+                  price: 1800000000
+                - date: '2010-09-15'
+                  acquiree: OpenPages
+                - date: '2010-08-13'
+                  acquiree: Unica
+                  price: 480000000
+                - date: '2010-08-10'
+                  acquiree: Datacap
+                - date: '2010-07-01'
+                  acquiree: BigFix
+                - date: '2010-06-15'
+                  acquiree: Coremetrics
+                - date: '2010-06-14'
+                  acquiree: Storwize
+                  price: 140000000
+                - date: '2010-05-24'
+                  acquiree: Sterling Commerce
+                - date: '2010-05-03'
+                  acquiree: Cast Iron Systems
+                - date: '2010-02-16'
+                  acquiree: Intelliden
+                - date: '2010-02-03'
+                  acquiree: Initiate Systems
+                - date: '2010-01-20'
+                  acquiree: National Interest Security Company
+                - date: '2009-12-16'
+                  acquiree: Lombardi Software
+                - date: '2009-11-30'
+                  acquiree: Guardium
+                  price: 225000000
+                - date: '2009-09-22'
+                  acquiree: RedPill Solutions
+                - date: '2009-07-28'
+                  acquiree: Ounce Labs
+                - date: '2009-07-28'
+                  acquiree: SPSS
+                - date: '2009-05-05'
+                  acquiree: Exeros
+                - date: '2009-04-16'
+                  acquiree: Outblaze
+                - date: '2008-11-18'
+                  acquiree: Transitive
+                - date: '2008-07-28'
+                  acquiree: ILOG
+                - date: '2008-07-02'
+                  acquiree: Platform Solutions
+                - date: '2008-04-29'
+                  acquiree: InfoDyne Corporation
+                - date: '2008-04-22'
+                  acquiree: Diligent
+                - date: '2008-04-10'
+                  acquiree: FilesX
+                - date: '2008-03-12'
+                  acquiree: Encentuate
+                - date: '2008-01-31'
+                  acquiree: Cognos
+                - date: '2008-01-23'
+                  acquiree: AptSoft
+                - date: '2008-01-18'
+                  acquiree: Net Integration Technologies
+                - date: '2008-01-02'
+                  acquiree: XIV
+                - date: '2007-12-21'
+                  acquiree: Solid Information Technology
+                - date: '2007-12-06'
+                  acquiree: Arsenal Digital Solutions
+                - date: '2007-10-24'
+                  acquiree: NovusCG
+                - date: '2007-09-04'
+                  acquiree: DataMirror
+                - date: '2007-08-22'
+                  acquiree: Webdialogs
+                - date: '2007-08-03'
+                  acquiree: Princeton Softech
+                - date: '2007-07-23'
+                  acquiree: Watchfire
+                - date: '2007-06-11'
+                  acquiree: Telelogic
+                  price: 745000000
+                - date: '2007-04-20'
+                  acquiree: Unicible
+                - date: '2007-03-01'
+                  acquiree: Softek Storage Solutions
+                - date: '2007-02-14'
+                  acquiree: Vallent Corporation
+                - date: '2006-12-05'
+                  acquiree: Consul Risk Management International
+                - date: '2006-11-10'
+                  acquiree: Palisades Technology Partners
+                - date: '2006-10-20'
+                  acquiree: Internet Security Systems
+                - date: '2006-10-12'
+                  acquiree: FileNet Corporation
+                  price: 1600000000
+                - date: '2006-10-05'
+                  acquiree: MRO Software
+                - date: '2006-09-30'
+                  acquiree: Valchemy
+                - date: '2006-09-06'
+                  acquiree: Global Value Solutions
+                - date: '2006-08-02'
+                  acquiree: Webify
+                - date: '2006-05-18'
+                  acquiree: Rembo Technology
+                - date: '2006-05-08'
+                  acquiree: Unicorn Solutions
+                - date: '2006-05-02'
+                  acquiree: BuildForge
+                - date: '2006-03-16'
+                  acquiree: Language Analysis Systems
+                - date: '2006-02-08'
+                  acquiree: Viacore
+                - date: '2006-01-27'
+                  acquiree: ARGUS Semiconductor Software
+                - date: '2006-01-25'
+                  acquiree: CIMS Lab
+                - date: '2005-12-21'
+                  acquiree: Micromuse
+                - date: '2005-12-20'
+                  acquiree: Bowstreet
+                - date: '2005-11-16'
+                  acquiree: Collation
+                - date: '2005-11-09'
+                  acquiree: Network Solutions Private Limited
+                - date: '2005-11-01'
+                  acquiree: iPhrase Technologies
+                - date: '2005-10-18'
+                  acquiree: DataPower Technology
+                - date: '2005-08-05'
+                  acquiree: PureEdge Solutions
+                - date: '2005-08-02'
+                  acquiree: DWL
+                - date: '2005-07-27'
+                  acquiree: Isogon Corporation
+                - date: '2005-06-23'
+                  acquiree: Meiosys
+                - date: '2005-05-10'
+                  acquiree: Gluecode Software
+                - date: '2005-05-02'
+                  acquiree: Ascential Software
+                - date: '2005-02-02'
+                  acquiree: Equitant
+                - date: '2005-01-25'
+                  acquiree: Corio
+                  price: 182000000
+                - date: '2005-01-07'
+                  acquiree: SRD
+                - date: '2005-01-07'
+                  acquiree: Systems Research & Development
+                - date: '2004-12-13'
+                  acquiree: KeyMRO
+                - date: '2004-11-23'
+                  acquiree: Liberty Insurance Services
+                - date: '2004-10-12'
+                  acquiree: Systemcorp A.L.G.
+                - date: '2004-08-26'
+                  acquiree: Venetica
+                - date: '2004-08-17'
+                  acquiree: Maersk Data
+                - date: '2004-07-29'
+                  acquiree: Cyanea Systems
+                - date: '2004-07-14'
+                  acquiree: AlphaBlox
+                - date: '2004-06-07'
+                  acquiree: Candle Corporation
+                - date: '2004-04-07'
+                  acquiree: Daksh eServices
+                - date: '2004-04-07'
+                  acquiree: Daksh Infosoft
+                - date: '2004-03-09'
+                  acquiree: Trigo Technologies
+                - date: '2003-12-17'
+                  acquiree: Green Pasture Software
+                - date: '2003-11-13'
+                  acquiree: Productivity Solutions
+                - date: '2003-10-14'
+                  acquiree: CrossAccess
+                - date: '2003-07-15'
+                  acquiree: Presence Online
+                - date: '2003-05-14'
+                  acquiree: Think Dynamics
+                - date: '2003-02-20'
+                  acquiree: Rational Software
+                - date: '2002-11-04'
+                  acquiree: Tarian Software
+                - date: '2002-10-07'
+                  acquiree: EADS Matra Datavision
+                - date: '2002-10-02'
+                  acquiree: PwC Consulting
+                  price: 3500000000
+                - date: '2002-09-12'
+                  acquiree: HOLOSOFX
+                - date: '2002-09-03'
+                  acquiree: Access360
+                - date: '2002-08-29'
+                  acquiree: TrelliSoft
+                - date: '2002-06-25'
+                  acquiree: Metamerge
+                - date: '2002-01-14'
+                  acquiree: CrossWorlds Software
+                  price: 129000000
+                - date: '2001-06-07'
+                  acquiree: Mainspring
+                - date: '1999-09-22'
+                  acquiree: Dascom
+                - date: '1999-07-27'
+                  acquiree: Mylex
+                  price: 240000000
+                - date: '1999-07-12'
+                  acquiree: Sequent Computer Systems Inc
+                - date: '1996-02-01'
+                  acquiree: Tivoli Systems
+                  price: 743000000
+                - date: '1995-07-06'
+                  acquiree: Lotus Development Corporation
+                  price: 3500000000
+                - date: '1994-08-01'
+                  acquiree: Transarc
+                - date: '1984-09-26'
+                  acquiree: ROLM Corporation
+                - date: '1974-01-01'
+                  acquiree: Satellite Business Systems
+                - date: '1964-01-01'
+                  acquiree: Science Research Associates
+                - date: '1941-01-01'
+                  acquiree: Munitions Manufacturing Corporation
+                - date: '1932-01-01'
+                  acquiree: National Counting Scale Company
+                - date: '1930-01-01'
+                  acquiree: The Automatic Accounting Scale Company
+                - date: '1923-01-01'
+                  acquiree: Dehomag
               parents: []
               ticker: IBM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 124155019264
+              market_cap: 118255992832
               effective_ticker: IBM
             image_data:
               fileName: ibm-member.svg
@@ -2278,7 +3217,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T19:36:00.000Z
+              latest_tweet_date: 2020-02-27T17:36:33.000Z
           - item:
             name: JFrog (member)
             homepage_url: 'https://jfrog.com/'
@@ -2296,31 +3235,16 @@ landscape:
               twitter: 'http://twitter.com/jfrog'
               linkedin: 'https://www.linkedin.com/company/455737'
               acquisitions:
-                - price:
-                  date: '2019-02-21'
-                  acquiree:
-                    name: Shippable
-                    permalink: shippable
-                - price:
-                  date: '2018-09-26'
-                  acquiree:
-                    name: Trainologic
-                    permalink: trainologic
-                - price:
-                  date: '2017-06-26'
-                  acquiree:
-                    name: CloudMunch
-                    permalink: cloudmunch
-                - price:
-                  date: '2017-05-25'
-                  acquiree:
-                    name: Dimon
-                    permalink: dimon
-                - price:
-                  date: '2016-11-17'
-                  acquiree:
-                    name: Conan
-                    permalink: conan-io
+                - date: '2019-02-21'
+                  acquiree: Shippable
+                - date: '2018-09-26'
+                  acquiree: Trainologic
+                - date: '2017-06-26'
+                  acquiree: CloudMunch
+                - date: '2017-05-25'
+                  acquiree: Dimon
+                - date: '2016-11-17'
+                  acquiree: Conan
               parents: []
               kind: funding
               funding: 226500000
@@ -2331,7 +3255,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T20:04:01.000Z
+              latest_tweet_date: 2020-02-28T04:01:01.000Z
           - item:
             name: Netflix (member)
             homepage_url: 'https://www.netflix.com/'
@@ -2349,21 +3273,15 @@ landscape:
               twitter: 'http://twitter.com/netflix'
               linkedin: 'https://www.linkedin.com/company/netflix'
               acquisitions:
-                - price:
-                  date: '2019-05-09'
-                  acquiree:
-                    name: StoryBots
-                    permalink: storybots
-                - price:
-                  date: '2017-08-07'
-                  acquiree:
-                    name: Millarworld
-                    permalink: millarworld
+                - date: '2019-05-09'
+                  acquiree: StoryBots
+                - date: '2017-08-07'
+                  acquiree: Millarworld
               parents: []
               ticker: NFLX
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 166413172736
+              market_cap: 163108945920
               effective_ticker: NFLX
             image_data:
               fileName: netflix-member.svg
@@ -2372,7 +3290,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-27T00:27:54.000Z
+              latest_tweet_date: 2020-02-28T04:06:00.000Z
           - item:
             name: Salesforce (member)
             homepage_url: 'https://www.salesforce.com/'
@@ -2391,61 +3309,155 @@ landscape:
               twitter: 'http://twitter.com/salesforce'
               linkedin: 'https://www.linkedin.com/company/salesforce'
               acquisitions:
-                - price: 1330000000
-                  date: '2020-02-25'
-                  acquiree:
-                    name: Vlocity
-                    permalink: vlocity
-                - price:
-                  date: '2020-02-03'
-                  acquiree:
-                    name: Evergage
-                    permalink: evergage
-                - price: 1350000000
-                  date: '2019-08-08'
-                  acquiree:
-                    name: ClickSoftware Technologies
-                    permalink: clicksoftware-technologies
-                - price: 15700000000
-                  date: '2019-06-10'
-                  acquiree:
-                    name: Tableau
-                    permalink: tableau
-                - price:
-                  date: '2019-05-06'
-                  acquiree:
-                    name: Bonobo AI
-                    permalink: bonobo-ai
-                - price: 213000000
-                  date: '2019-04-17'
-                  acquiree:
-                    name: MapAnything
-                    permalink: cloudbilt
-                - price: 300000000
-                  date: '2019-04-16'
-                  acquiree:
-                    name: Salesforce Foundation
-                    permalink: salesforce-org
-                - price:
-                  date: '2019-01-28'
-                  acquiree:
-                    name: Griddable
-                    permalink: griddable-io
-                - price:
-                  date: '2018-10-05'
-                  acquiree:
-                    name: Rebel
-                    permalink: rebelmail
-                - price: 800000000
-                  date: '2018-07-17'
-                  acquiree:
-                    name: Datorama
-                    permalink: datorama
+                - date: '2020-02-25'
+                  acquiree: Vlocity
+                  price: 1330000000
+                - date: '2020-02-03'
+                  acquiree: Evergage
+                - date: '2019-08-08'
+                  acquiree: ClickSoftware Technologies
+                  price: 1350000000
+                - date: '2019-06-10'
+                  acquiree: Tableau
+                  price: 15700000000
+                - date: '2019-05-06'
+                  acquiree: Bonobo AI
+                - date: '2019-04-17'
+                  acquiree: MapAnything
+                  price: 213000000
+                - date: '2019-04-16'
+                  acquiree: Salesforce Foundation
+                  price: 300000000
+                - date: '2019-01-28'
+                  acquiree: Griddable
+                - date: '2018-10-05'
+                  acquiree: Rebel
+                - date: '2018-07-17'
+                  acquiree: Datorama
+                  price: 800000000
+                - date: '2018-03-20'
+                  acquiree: MuleSoft
+                  price: 6500000000
+                - date: '2018-03-13'
+                  acquiree: CloudCraze
+                - date: '2018-01-08'
+                  acquiree: Attic Labs
+                - date: '2017-01-25'
+                  acquiree: Sequence
+                - date: '2016-12-14'
+                  acquiree: Twin Prime
+                - date: '2016-10-03'
+                  acquiree: Krux
+                  price: 800000000
+                - date: '2016-09-30'
+                  acquiree: gravitytank
+                - date: '2016-09-07'
+                  acquiree: HeyWire
+                - date: '2016-08-15'
+                  acquiree: BeyondCore
+                  price: 110000000
+                - date: '2016-08-01'
+                  acquiree: Quip
+                  price: 750000000
+                - date: '2016-07-21'
+                  acquiree: Coolan
+                - date: '2016-06-01'
+                  acquiree: Demandware
+                  price: 2800000000
+                - date: '2016-05-09'
+                  acquiree: Implisit
+                - date: '2016-04-04'
+                  acquiree: MetaMind
+                  price: 32799999
+                - date: '2016-02-19'
+                  acquiree: PredictionIO
+                - date: '2016-01-22'
+                  acquiree: YOUR SL
+                - date: '2015-12-23'
+                  acquiree: SteelBrick
+                  price: 360000000
+                - date: '2015-12-14'
+                  acquiree: MinHash
+                - date: '2015-09-02'
+                  acquiree: AKTA
+                - date: '2015-07-31'
+                  acquiree: Kerensen Consulting
+                  price: 24200000
+                - date: '2015-05-29'
+                  acquiree: Tempo AI
+                - date: '2015-04-01'
+                  acquiree: Toopher
+                - date: '2014-07-11'
+                  acquiree: RelateIQ
+                  price: 390000000
+                - date: '2013-06-07'
+                  acquiree: EdgeSpring
+                - date: '2013-06-04'
+                  acquiree: ExactTarget
+                  price: 2500000000
+                - date: '2013-05-10'
+                  acquiree: Clipboard
+                  price: 20000000
+                - date: '2013-02-06'
+                  acquiree: EntropySoft
+                - date: '2012-11-23'
+                  acquiree: Prior Knowledge
+                - date: '2012-07-09'
+                  acquiree: GoInstant
+                - date: '2012-06-25'
+                  acquiree: Thinkfuse
+                - date: '2012-06-18'
+                  acquiree: ChoicePass
+                - date: '2012-06-04'
+                  acquiree: Buddy Media
+                  price: 649000000
+                - date: '2012-05-01'
+                  acquiree: Stypi
+                - date: '2011-12-15'
+                  acquiree: Rypple
+                - date: '2011-11-14'
+                  acquiree: Model Metrics
+                - date: '2011-09-21'
+                  acquiree: Desk.com
+                - date: '2011-08-26'
+                  acquiree: Navajo Systems
+                - date: '2011-05-01'
+                  acquiree: Zorap
+                - date: '2011-03-30'
+                  acquiree: Radian6
+                - date: '2011-02-01'
+                  acquiree: Manymoon
+                - date: '2011-01-06'
+                  acquiree: Dimdim
+                - date: '2010-12-21'
+                  acquiree: Etacts
+                - date: '2010-12-08'
+                  acquiree: Heroku
+                - date: '2010-09-24'
+                  acquiree: Activa Live
+                - date: '2010-05-28'
+                  acquiree: Sitemasher
+                - date: '2010-04-21'
+                  acquiree: Jigsaw
+                - date: '2009-12-31'
+                  acquiree: Informavores
+                - date: '2009-12-11'
+                  acquiree: GroupSwim
+                  price: 7000000
+                - date: '2008-08-19'
+                  acquiree: InStranet
+                  price: 31500000
+                - date: '2007-04-10'
+                  acquiree: Koral Technologies
+                - date: '2006-08-22'
+                  acquiree: Kieden
+                - date: '2006-04-11'
+                  acquiree: Sendia
               parents: []
               ticker: CRM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 158657691648
+              market_cap: 152697044992
               effective_ticker: CRM
             image_data:
               fileName: salesforce-member.svg
@@ -2454,7 +3466,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-27T01:30:08.000Z
+              latest_tweet_date: 2020-02-28T00:01:20.000Z
       - subcategory:
         name: General
         items:
@@ -2542,7 +3554,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-27T01:16:08.000Z
+              latest_tweet_date: 2020-02-27T19:15:36.000Z
           - item:
             name: Armory (member)
             homepage_url: 'https://www.armory.io/'
@@ -2570,7 +3582,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T18:37:07.000Z
+              latest_tweet_date: 2020-02-27T23:05:09.000Z
           - item:
             name: Cycloid  (member)
             homepage_url: 'https://www.cycloid.io'
@@ -2616,16 +3628,10 @@ landscape:
               twitter: 'http://twitter.com/boomi'
               linkedin: 'https://www.linkedin.com/company/boomi-inc-'
               acquisitions:
-                - price:
-                  date: '2019-12-17'
-                  acquiree:
-                    name: UNIFi Software
-                    permalink: unifi-software
-                - price:
-                  date: '2017-03-15'
-                  acquiree:
-                    name: ManyWho
-                    permalink: manywho
+                - date: '2019-12-17'
+                  acquiree: UNIFi Software
+                - date: '2017-03-15'
+                  acquiree: ManyWho
               parents: []
               kind: funding
               funding: 4900000
@@ -2636,7 +3642,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T21:53:01.000Z
+              latest_tweet_date: 2020-02-28T02:01:48.000Z
           - item:
             name: DeployHub (member)
             homepage_url: 'https://www.deployhub.com'
@@ -2662,7 +3668,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T20:59:12.000Z
+              latest_tweet_date: 2020-02-27T17:02:54.000Z
           - item:
             name: GitLab (member)
             homepage_url: 'https://about.gitlab.com'
@@ -2680,21 +3686,12 @@ landscape:
               twitter: 'http://twitter.com/gitlab'
               linkedin: 'https://www.linkedin.com/company/5101804'
               acquisitions:
-                - price:
-                  date: '2018-01-30'
-                  acquiree:
-                    name: Gemnasium (acquired by Gitlab)
-                    permalink: gemnasium
-                - price:
-                  date: '2017-03-15'
-                  acquiree:
-                    name: Gitter
-                    permalink: gitter
-                - price:
-                  date: '2015-05-03'
-                  acquiree:
-                    name: Gitorious
-                    permalink: gitorious
+                - date: '2018-01-30'
+                  acquiree: Gemnasium (acquired by Gitlab)
+                - date: '2017-03-15'
+                  acquiree: Gitter
+                - date: '2015-05-03'
+                  acquiree: Gitorious
               parents: []
               kind: funding
               funding: 436200000
@@ -2705,7 +3702,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T20:36:58.000Z
+              latest_tweet_date: 2020-02-27T21:58:02.000Z
           - item:
             name: Harness (member)
             homepage_url: 'https://harness.io'
@@ -2733,7 +3730,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T22:45:00.000Z
+              latest_tweet_date: 2020-02-27T22:30:00.000Z
           - item:
             name: OpsMX (member)
             homepage_url: 'https://www.opsmx.com'
@@ -2777,26 +3774,14 @@ landscape:
               twitter: 'https://twitter.com/puppetize'
               linkedin: 'https://www.linkedin.com/company/puppet-labs-inc'
               acquisitions:
-                - price:
-                  date: '2018-06-07'
-                  acquiree:
-                    name: Reflect
-                    permalink: reflect-technologies
-                - price:
-                  date: '2017-09-20'
-                  acquiree:
-                    name: Distelli
-                    permalink: distelli-inc
-                - price:
-                  date: '2013-07-17'
-                  acquiree:
-                    name: Cloudsmith
-                    permalink: cloudsmith
-                - price:
-                  date: '2010-10-07'
-                  acquiree:
-                    name: The Marionette Collective
-                    permalink: the-marionette-collective
+                - date: '2018-06-07'
+                  acquiree: Reflect
+                - date: '2017-09-20'
+                  acquiree: Distelli
+                - date: '2013-07-17'
+                  acquiree: Cloudsmith
+                - date: '2010-10-07'
+                  acquiree: The Marionette Collective
               parents: []
               kind: funding
               funding: 149500000
@@ -2807,7 +3792,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T23:00:15.000Z
+              latest_tweet_date: 2020-02-27T23:22:02.000Z
           - item:
             name: Rancher Labs (member)
             homepage_url: 'https://rancher.com'
@@ -2835,7 +3820,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T16:11:11.000Z
+              latest_tweet_date: 2020-02-27T19:04:05.000Z
           - item:
             name: RedHat (member)
             homepage_url: 'https://www.redhat.com/en'
@@ -2865,7 +3850,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T21:30:03.000Z
+              latest_tweet_date: 2020-02-27T22:11:08.000Z
           - item:
             name: SAP (member)
             homepage_url: 'https://www.sap.com'
@@ -2883,61 +3868,114 @@ landscape:
               twitter: 'http://twitter.com/SAP'
               linkedin: 'https://www.linkedin.com/company/sap'
               acquisitions:
-                - price:
-                  date: '2018-11-19'
-                  acquiree:
-                    name: Contextor
-                    permalink: contextor
-                - price: 8000000000
-                  date: '2018-11-10'
-                  acquiree:
-                    name: Qualtrics
-                    permalink: qualtrics
-                - price:
-                  date: '2018-06-05'
-                  acquiree:
-                    name: Coresystems
-                    permalink: coresystems
-                - price: 2400000000
-                  date: '2018-01-29'
-                  acquiree:
-                    name: CallidusCloud
-                    permalink: callidus-software
-                - price:
-                  date: '2018-01-22'
-                  acquiree:
-                    name: Recast.AI
-                    permalink: recast-ai
-                - price: 350000000
-                  date: '2017-09-24'
-                  acquiree:
-                    name: Gigya
-                    permalink: gigya
-                - price:
-                  date: '2016-12-14'
-                  acquiree:
-                    name: Abakus
-                    permalink: abakus
-                - price:
-                  date: '2016-09-28'
-                  acquiree:
-                    name: PLAT.ONE
-                    permalink: abo-data
-                - price: 125000000
-                  date: '2016-08-25'
-                  acquiree:
-                    name: Altiscale
-                    permalink: altiscale
-                - price:
-                  date: '2016-02-17'
-                  acquiree:
-                    name: Roambi
-                    permalink: mellmo
+                - date: '2018-11-19'
+                  acquiree: Contextor
+                - date: '2018-11-10'
+                  acquiree: Qualtrics
+                  price: 8000000000
+                - date: '2018-06-05'
+                  acquiree: Coresystems
+                - date: '2018-01-29'
+                  acquiree: CallidusCloud
+                  price: 2400000000
+                - date: '2018-01-22'
+                  acquiree: Recast.AI
+                - date: '2017-09-24'
+                  acquiree: Gigya
+                  price: 350000000
+                - date: '2016-12-14'
+                  acquiree: Abakus
+                - date: '2016-09-28'
+                  acquiree: PLAT.ONE
+                - date: '2016-08-25'
+                  acquiree: Altiscale
+                  price: 125000000
+                - date: '2016-02-17'
+                  acquiree: Roambi
+                - date: '2015-10-14'
+                  acquiree: Multiposting
+                - date: '2014-09-18'
+                  acquiree: SAP Concur
+                  price: 8300000000
+                - date: '2014-08-10'
+                  acquiree: OpTier
+                  price: 10000000
+                - date: '2014-05-20'
+                  acquiree: SeeWhy
+                - date: '2014-03-26'
+                  acquiree: Fieldglass
+                  price: 1000000000
+                - date: '2013-09-10'
+                  acquiree: KXEN
+                - date: '2013-06-06'
+                  acquiree: hybris
+                  price: 1400000000
+                - date: '2013-05-01'
+                  acquiree: Kms Software
+                - date: '2013-03-07'
+                  acquiree: Camilion Solutions
+                - date: '2013-02-22'
+                  acquiree: SmartOps
+                - date: '2013-01-31'
+                  acquiree: Ticket-Web
+                - date: '2012-05-22'
+                  acquiree: Ariba
+                  price: 4300000000
+                - date: '2012-04-10'
+                  acquiree: Syclo
+                - date: '2011-12-03'
+                  acquiree: SuccessFactors
+                  price: 3400000000
+                - date: '2011-09-20'
+                  acquiree: Crossgate
+                - date: '2011-09-06'
+                  acquiree: Right Hemisphere
+                - date: '2011-01-12'
+                  acquiree: SECUDE - Software Security Products and Assets
+                - date: '2010-05-12'
+                  acquiree: Sybase
+                  price: 5800000000
+                - date: '2009-07-23'
+                  acquiree: SAF
+                - date: '2009-05-11'
+                  acquiree: Clear Standards
+                - date: '2009-05-06'
+                  acquiree: Highdeal
+                - date: '2009-02-19'
+                  acquiree: Coghead
+                - date: '2008-06-17'
+                  acquiree: Visiprise
+                - date: '2007-10-07'
+                  acquiree: Business Objects
+                  price: 6800000000
+                - date: '2007-05-14'
+                  acquiree: Wicom Communications
+                - date: '2007-05-14'
+                  acquiree: MaXware
+                - date: '2007-05-08'
+                  acquiree: OutlookSoft
+                - date: '2007-02-14'
+                  acquiree: 'Pilot Software, Inc.'
+                - date: '2006-12-07'
+                  acquiree: Factory Logic
+                - date: '2006-05-17'
+                  acquiree: Frictionless Commerce
+                - date: '2006-04-05'
+                  acquiree: Virsa Systems
+                - date: '2005-11-30'
+                  acquiree: Khimetrics
+                - date: '2005-09-19'
+                  acquiree: Triversity
+                - date: '2005-06-22'
+                  acquiree: Lighthammer Software
+                - date: '2001-03-30'
+                  acquiree: TopTier Software
+                  price: 400000000
               parents: []
               ticker: SAP
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 157878845440
+              market_cap: 156101115904
               effective_ticker: SAP
             image_data:
               fileName: sap-member.svg
@@ -2946,7 +3984,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-27T01:24:19.000Z
+              latest_tweet_date: 2020-02-27T23:27:15.000Z
           - item:
             name: Snyk (member)
             homepage_url: 'https://snyk.io/'
@@ -2964,11 +4002,8 @@ landscape:
               twitter: 'https://www.twitter.com/snyksec'
               linkedin: 'https://www.linkedin.com/company/snyk'
               acquisitions:
-                - price:
-                  date: '2019-07-24'
-                  acquiree:
-                    name: DevSecCon Limited
-                    permalink: devseccon-limited
+                - date: '2019-07-24'
+                  acquiree: DevSecCon Limited
               parents: []
               kind: funding
               funding: 252000000
@@ -2979,7 +4014,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-27T03:11:02.000Z
+              latest_tweet_date: 2020-02-28T03:11:02.000Z
           - item:
             name: Sumo Logic (member)
             homepage_url: 'https://www.sumologic.com/'
@@ -2997,16 +4032,10 @@ landscape:
               twitter: 'http://twitter.com/sumologic'
               linkedin: 'https://www.linkedin.com/company/sumo-logic'
               acquisitions:
-                - price:
-                  date: '2019-11-04'
-                  acquiree:
-                    name: JASK
-                    permalink: jask-labs-inc
-                - price:
-                  date: '2018-01-23'
-                  acquiree:
-                    name: FactorChain
-                    permalink: factorchain
+                - date: '2019-11-04'
+                  acquiree: JASK
+                - date: '2018-01-23'
+                  acquiree: FactorChain
               parents: []
               kind: funding
               funding: 340000000
@@ -3017,7 +4046,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-27T03:29:43.000Z
+              latest_tweet_date: 2020-02-28T03:50:00.000Z
           - item:
             name: Sysdig (member)
             homepage_url: 'https://sysdig.com'
@@ -3045,7 +4074,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-27T01:07:12.000Z
+              latest_tweet_date: 2020-02-27T22:13:19.000Z
           - item:
             name: WhiteSource (member)
             homepage_url: 'https://www.whitesourcesoftware.com/'
@@ -3063,11 +4092,8 @@ landscape:
               twitter: 'https://twitter.com/WhiteSourceSoft'
               linkedin: 'https://www.linkedin.com/company/white-source'
               acquisitions:
-                - price:
-                  date: '2019-11-13'
-                  acquiree:
-                    name: Renovate
-                    permalink: renovate
+                - date: '2019-11-13'
+                  acquiree: Renovate
               parents: []
               kind: funding
               funding: 46000000
@@ -3078,7 +4104,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T17:56:51.000Z
+              latest_tweet_date: 2020-02-27T19:59:04.000Z
       - subcategory:
         name: End User Supporter
         items:
@@ -3100,61 +4126,161 @@ landscape:
               twitter: 'http://twitter.com/autodesk'
               linkedin: 'https://www.linkedin.com/company/autodesk'
               acquisitions:
-                - price: 275000000
-                  date: '2018-12-20'
-                  acquiree:
-                    name: Buildingconnected
-                    permalink: buildingconnected
-                - price: 875000000
-                  date: '2018-11-20'
-                  acquiree:
-                    name: PlanGrid
-                    permalink: plangrid
-                - price:
-                  date: '2018-07-09'
-                  acquiree:
-                    name: Assemble Systems
-                    permalink: assemble-systems
-                - price:
-                  date: '2016-06-27'
-                  acquiree:
-                    name: CadSoft Computer GmbH
-                    permalink: cadsoft-computer-gmbh
-                - price:
-                  date: '2016-06-26'
-                  acquiree:
-                    name: EAGLE Software
-                    permalink: eagle-software
-                - price:
-                  date: '2016-04-18'
-                  acquiree:
-                    name: Solid Angle S. L.
-                    permalink: solid-angle-s-l
-                - price:
-                  date: '2015-09-24'
-                  acquiree:
-                    name: netfabb
-                    permalink: netfabb
-                - price:
-                  date: '2015-08-27'
-                  acquiree:
-                    name: SeeControl
-                    permalink: seecontrol
-                - price:
-                  date: '2015-04-01'
-                  acquiree:
-                    name: Synthicity
-                    permalink: synthicity
-                - price:
-                  date: '2015-03-19'
-                  acquiree:
-                    name: Modio
-                    permalink: modio
+                - date: '2018-12-20'
+                  acquiree: Buildingconnected
+                  price: 275000000
+                - date: '2018-11-20'
+                  acquiree: PlanGrid
+                  price: 875000000
+                - date: '2018-07-09'
+                  acquiree: Assemble Systems
+                - date: '2016-06-27'
+                  acquiree: CadSoft Computer GmbH
+                - date: '2016-06-26'
+                  acquiree: EAGLE Software
+                - date: '2016-04-18'
+                  acquiree: Solid Angle S. L.
+                - date: '2015-09-24'
+                  acquiree: netfabb
+                - date: '2015-08-27'
+                  acquiree: SeeControl
+                - date: '2015-04-01'
+                  acquiree: Synthicity
+                - date: '2015-03-19'
+                  acquiree: Modio
+                - date: '2014-11-20'
+                  acquiree: Lagoa
+                  price: 60000000
+                - date: '2014-10-26'
+                  acquiree: Within Technologies
+                  price: 88500000
+                - date: '2014-07-11'
+                  acquiree: Topolabs
+                - date: '2014-06-27'
+                  acquiree: Shotgun Software
+                - date: '2014-06-09'
+                  acquiree: Bitsquid AB
+                - date: '2014-04-15'
+                  acquiree: HSMWorks Technology
+                - date: '2014-03-19'
+                  acquiree: COLOURlovers
+                - date: '2014-02-04'
+                  acquiree: Ilesfay Technology Group
+                - date: '2013-11-07'
+                  acquiree: Delcam
+                  price: 286000000
+                - date: '2013-10-02'
+                  acquiree: GRAITEC Group - Steel Products
+                - date: '2013-05-05'
+                  acquiree: Tinkercad
+                - date: '2013-03-19'
+                  acquiree: Firehole Composites
+                - date: '2013-02-01'
+                  acquiree: Allpoint Systems
+                - date: '2012-10-04'
+                  acquiree: Qontext
+                - date: '2012-08-28'
+                  acquiree: Inforbix
+                - date: '2012-07-16'
+                  acquiree: Socialcam
+                  price: 60000000
+                - date: '2012-06-09'
+                  acquiree: Vela Systems
+                - date: '2011-12-16'
+                  acquiree: Horizontal Systems
+                - date: '2011-11-06'
+                  acquiree: GRIP Entertainment
+                - date: '2011-10-31'
+                  acquiree: Meshmixer
+                - date: '2011-10-20'
+                  acquiree: Micro Application Packages Ltd
+                - date: '2011-08-25'
+                  acquiree: Numenus
+                - date: '2011-08-22'
+                  acquiree: Evolver
+                - date: '2011-08-01'
+                  acquiree: Instructables
+                  price: 30000000
+                - date: '2011-07-19'
+                  acquiree: Pixlr
+                - date: '2011-03-01'
+                  acquiree: Scaleform
+                  price: 36000000
+                - date: '2011-02-17'
+                  acquiree: Blue Ridge Numerics
+                - date: '2010-12-20'
+                  acquiree: Wild Pockets
+                - date: '2010-12-03'
+                  acquiree: Sim Ops Studios
+                - date: '2010-07-21'
+                  acquiree: Illuminate Labs
+                - date: '2009-12-17'
+                  acquiree: PlanPlatform
+                - date: '2008-12-29'
+                  acquiree: BIMWorld Assets
+                - date: '2008-12-17'
+                  acquiree: ALGOR
+                  price: 34000000
+                - date: '2008-10-23'
+                  acquiree: SoftImage
+                - date: '2008-10-15'
+                  acquiree: Elektro-CAE Software GmbH
+                - date: '2008-09-09'
+                  acquiree: 3D Geo
+                - date: '2008-06-26'
+                  acquiree: Ecotect
+                - date: '2008-05-06'
+                  acquiree: Realviz SA
+                - date: '2008-05-01'
+                  acquiree: Moldflow
+                - date: '2008-02-19'
+                  acquiree: Kynogon
+                - date: '2008-01-11'
+                  acquiree: Carmel Software Corp.
+                - date: '2007-10-16'
+                  acquiree: Skymatter
+                - date: '2007-08-27'
+                  acquiree: PlassoTech
+                - date: '2007-08-01'
+                  acquiree: Cumulate Labs
+                - date: '2007-06-06'
+                  acquiree: NavisWorks
+                  price: 26000000
+                - date: '2006-09-07'
+                  acquiree: Robobat
+                - date: '2006-02-10'
+                  acquiree: Constructware
+                - date: '2005-10-05'
+                  acquiree: Alias Systems
+                - date: '2005-03-31'
+                  acquiree: Compass Systems
+                - date: '2004-02-23'
+                  acquiree: MechSoft
+                - date: '2003-03-04'
+                  acquiree: Linius Technologies Ltd
+                - date: '2002-08-06'
+                  acquiree: Caice Software Corp
+                - date: '2002-02-21'
+                  acquiree: Revit Technology Corporation
+                  price: 133000000
+                - date: '2001-07-10'
+                  acquiree: Buzzsaw.com
+                - date: '2001-01-24'
+                  acquiree: Gentry Systems
+                - date: '1999-04-16'
+                  acquiree: Discreet Logic
+                - date: '1996-12-10'
+                  acquiree: Softdesk
+                  price: 72000000
+                - date: '1993-08-04'
+                  acquiree: Ithaca Software
+                - date: '1992-10-16'
+                  acquiree: Micro Engineering Solutions
               parents: []
               ticker: ADSK
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 41953689600
+              market_cap: 39748960256
               effective_ticker: ADSK
             image_data:
               fileName: autodesk-member.svg
@@ -3163,7 +4289,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T20:00:00.000Z
+              latest_tweet_date: 2020-02-27T20:00:00.000Z
           - item:
             name: eBay (member)
             homepage_url: 'https://www.ebay.com'
@@ -3182,61 +4308,158 @@ landscape:
               twitter: 'http://twitter.com/eBay'
               linkedin: 'https://www.linkedin.com/company/ebay'
               acquisitions:
-                - price:
-                  date: '2019-12-19'
-                  acquiree:
-                    name: Cox Automotive
-                    permalink: coxautomotive
-                - price:
-                  date: '2018-10-19'
-                  acquiree:
-                    name: Motors.co.uk
-                    permalink: motors-co-uk
-                - price:
-                  date: '2018-02-27'
-                  acquiree:
-                    name: Giosis
-                    permalink: giosis
-                - price:
-                  date: '2017-12-13'
-                  acquiree:
-                    name: Terapeak
-                    permalink: terapeak
-                - price: 573000000
-                  date: '2017-07-20'
-                  acquiree:
-                    name: Qoo10
-                    permalink: qoo10-japanese
-                - price:
-                  date: '2016-10-05'
-                  acquiree:
-                    name: Corrigon
-                    permalink: corrigon
-                - price:
-                  date: '2016-07-14'
-                  acquiree:
-                    name: 'Ticket Utils, Inc.'
-                    permalink: ticket-utils
-                - price:
-                  date: '2016-07-11'
-                  acquiree:
-                    name: SalesPredict
-                    permalink: salespredict
-                - price: 165000000
-                  date: '2016-05-24'
-                  acquiree:
-                    name: Ticketbis
-                    permalink: ticketbis
-                - price:
-                  date: '2016-05-05'
-                  acquiree:
-                    name: Expertmaker
-                    permalink: expertmaker
+                - date: '2019-12-19'
+                  acquiree: Cox Automotive
+                - date: '2018-10-19'
+                  acquiree: Motors.co.uk
+                - date: '2018-02-27'
+                  acquiree: Giosis
+                - date: '2017-12-13'
+                  acquiree: Terapeak
+                - date: '2017-07-20'
+                  acquiree: Qoo10
+                  price: 573000000
+                - date: '2016-10-05'
+                  acquiree: Corrigon
+                - date: '2016-07-14'
+                  acquiree: 'Ticket Utils, Inc.'
+                - date: '2016-07-11'
+                  acquiree: SalesPredict
+                - date: '2016-05-24'
+                  acquiree: Ticketbis
+                  price: 165000000
+                - date: '2016-05-05'
+                  acquiree: Expertmaker
+                - date: '2016-03-30'
+                  acquiree: Cargigi
+                - date: '2015-07-20'
+                  acquiree: Twice
+                - date: '2014-10-01'
+                  acquiree: Rumgr
+                - date: '2014-02-20'
+                  acquiree: PhiSix Fashion Labs
+                - date: '2013-10-22'
+                  acquiree: Shutl
+                - date: '2013-09-27'
+                  acquiree: Bureau Of Trade
+                - date: '2013-09-06'
+                  acquiree: Decide
+                - date: '2013-07-04'
+                  acquiree: 2ememain.be
+                - date: '2013-07-04'
+                  acquiree: 2dehands.be
+                - date: '2012-09-06'
+                  acquiree: Svpply
+                - date: '2012-02-23'
+                  acquiree: WHI Solution
+                - date: '2011-12-22'
+                  acquiree: BillSAFE
+                - date: '2011-11-21'
+                  acquiree: Hunch
+                  price: 80000000
+                - date: '2011-09-07'
+                  acquiree: The Gifts Project
+                - date: '2011-07-12'
+                  acquiree: alaMaula
+                - date: '2011-07-07'
+                  acquiree: Zong
+                  price: 240000000
+                - date: '2011-06-20'
+                  acquiree: GSI Commerce
+                  price: 2400000000
+                - date: '2011-06-06'
+                  acquiree: Magento Commerce
+                  price: 180000000
+                - date: '2011-05-02'
+                  acquiree: MissionFish
+                - date: '2011-04-20'
+                  acquiree: Where
+                  price: 135000000
+                - date: '2011-04-12'
+                  acquiree: GittiGidiyor
+                - date: '2010-12-20'
+                  acquiree: brands4friends
+                - date: '2010-12-15'
+                  acquiree: Critical Path Software
+                - date: '2010-12-02'
+                  acquiree: Milo
+                - date: '2010-06-23'
+                  acquiree: RedLaser
+                - date: '2009-01-08'
+                  acquiree: Positronic
+                - date: '2008-10-06'
+                  acquiree: Den Bla Avis
+                - date: '2008-10-06'
+                  acquiree: Bill Me Later
+                  price: 945000000
+                - date: '2008-08-13'
+                  acquiree: Gmarket
+                  price: 1200000000
+                - date: '2008-05-02'
+                  acquiree: Vuvox
+                - date: '2007-10-04'
+                  acquiree: ViA-Online
+                - date: '2007-05-30'
+                  acquiree: StumbleUpon
+                  price: 75000000
+                - date: '2007-05-19'
+                  acquiree: Gumtree
+                - date: '2007-03-30'
+                  acquiree: MicroPlace
+                - date: '2007-01-10'
+                  acquiree: StubHub
+                  price: 310000000
+                - date: '2006-04-24'
+                  acquiree: Tradera
+                  price: 48300000
+                - date: '2005-09-12'
+                  acquiree: Skype
+                  price: 2600000000
+                - date: '2005-06-02'
+                  acquiree: Shopping.com
+                - date: '2005-05-18'
+                  acquiree: Loquo
+                - date: '2005-01-13'
+                  acquiree: Kurant
+                - date: '2004-12-17'
+                  acquiree: Rent.com
+                  price: 415000000
+                - date: '2004-11-10'
+                  acquiree: Marktplaats.nl
+                - date: '2004-06-23'
+                  acquiree: Baazee
+                - date: '2004-01-27'
+                  acquiree: mobile.de
+                - date: '2003-07-16'
+                  acquiree: EachNet
+                - date: '2003-01-31'
+                  acquiree: CARad
+                - date: '2002-07-08'
+                  acquiree: PayPal
+                  price: 1500000000
+                - date: '2001-02-22'
+                  acquiree: iBazar
+                  price: 100000000
+                - date: '2001-02-21'
+                  acquiree: iBazar Group
+                - date: '2001-01-15'
+                  acquiree: Internet Auction Co.
+                - date: '2000-06-13'
+                  acquiree: Half.com
+                  price: 350000000
+                - date: '1999-06-22'
+                  acquiree: alando.de
+                - date: '1999-05-18'
+                  acquiree: Billpoint
+                - date: '1999-04-26'
+                  acquiree: Butterfield & Butterfield
+                - date: '1998-07-16'
+                  acquiree: Jump
               parents: []
               ticker: EBAY
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 29208211456
+              market_cap: 27894679552
               effective_ticker: EBAY
             image_data:
               fileName: e-bay-member.svg
@@ -3245,7 +4468,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T19:54:29.000Z
+              latest_tweet_date: 2020-02-27T22:38:00.000Z
           - item:
             name: JP Morgan Chase (member)
             homepage_url: 'https://www.jpmorganchase.com/'
@@ -3264,61 +4487,34 @@ landscape:
               twitter: 'https://twitter.com/jpmorgan'
               linkedin: 'https://www.linkedin.com/company/jpmorgan-chase?trk=top_nav_home'
               acquisitions:
-                - price:
-                  date: '2019-05-17'
-                  acquiree:
-                    name: InstaMed
-                    permalink: instamed
-                - price: 400000000
-                  date: '2017-10-17'
-                  acquiree:
-                    name: WePay
-                    permalink: wepay
-                - price:
-                  date: '2009-11-19'
-                  acquiree:
-                    name: J.P. Morgan Cazenove
-                    permalink: jp-morgan-cazenove
-                - price:
-                  date: '2008-09-26'
-                  acquiree:
-                    name: Washington Mutual
-                    permalink: washington-mutual
-                - price:
-                  date: '2008-03-17'
-                  acquiree:
-                    name: Bear Stearns
-                    permalink: bear-stearns
-                - price:
-                  date: '2008-03-01'
-                  acquiree:
-                    name: Xspand
-                    permalink: xspand
-                - price:
-                  date: '2005-12-15'
-                  acquiree:
-                    name: Collegiate Funding Services
-                    permalink: collegiate-funding-services
-                - price:
-                  date: '2005-06-23'
-                  acquiree:
-                    name: Neovest Holdings
-                    permalink: neovest-holdings
-                - price: 58000000000
-                  date: '2004-01-15'
-                  acquiree:
-                    name: Bank One
-                    permalink: bank-one
-                - price: 1350000000
-                  date: '1999-09-28'
-                  acquiree:
-                    name: Hambrecht & Quist
-                    permalink: hambrecht-quist
+                - date: '2019-05-17'
+                  acquiree: InstaMed
+                - date: '2017-10-17'
+                  acquiree: WePay
+                  price: 400000000
+                - date: '2009-11-19'
+                  acquiree: J.P. Morgan Cazenove
+                - date: '2008-09-26'
+                  acquiree: Washington Mutual
+                - date: '2008-03-17'
+                  acquiree: Bear Stearns
+                - date: '2008-03-01'
+                  acquiree: Xspand
+                - date: '2005-12-15'
+                  acquiree: Collegiate Funding Services
+                - date: '2005-06-23'
+                  acquiree: Neovest Holdings
+                - date: '2004-01-15'
+                  acquiree: Bank One
+                  price: 58000000000
+                - date: '1999-09-28'
+                  acquiree: Hambrecht & Quist
+                  price: 1350000000
               parents: []
               ticker: JPM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 390557761536
+              market_cap: 373088944128
               effective_ticker: JPM
             image_data:
               fileName: jp-morgan-chase-member.svg
@@ -3327,7 +4523,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-26T13:15:43.000Z
+              latest_tweet_date: 2020-02-27T17:38:25.000Z
 twitter_options:
   count: 6
   since_id: '1225482014905659392'
