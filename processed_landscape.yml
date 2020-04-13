@@ -1,3 +1,4 @@
+# THIS FILE IS GENERATED AUTOMATICALLY!
 landscape:
   - category:
     name: CI & Pipeline Orchestration
@@ -438,6 +439,93 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-04-10T03:55:11.000Z
+          - item:
+            name: Eiffel
+            homepage_url: 'https://eiffel-community.github.io/'
+            repo_url: 'https://github.com/eiffel-community/eiffel'
+            logo: eiffel.svg
+            github_data:
+              languages:
+                - name: Python
+                  value: 1241
+                  color: '#3572A5'
+              contributions: 0;0;1;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2019-04-21Z
+              stars: 71
+              license: Apache License 2.0
+              description: 'The Eiffel framework vocabulary, descriptions, guides and schemas along with links to relevant implementation repositories.'
+              latest_commit_date: '2020-01-07T08:27:09Z'
+              latest_commit_link: /eiffel-community/eiffel/commit/b8814dca8ea31fa5b12dd1d007e112a2bd34e2ec
+              release_date: '2019-04-29T08:45:35Z'
+              release_link: 'https://github.com/eiffel-community/eiffel/releases'
+              contributors_count: 14
+              contributors_link: 'https://github.com/eiffel-community/eiffel/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /eiffel-community/eiffel/commit/edd6654e576a9f7d9c1fc59efc209289d642338c
+              start_date: '2016-04-26T09:31:34Z'
+            image_data:
+              fileName: eiffel.svg
+              hash: eNdtgpfS+a+OqGRtEfUIuxpph0pyQh4hfMbmhryN9tc=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Keptn.sh
+            homepage_url: 'https://keptn.sh/'
+            repo_url: 'https://github.com/keptn/keptn'
+            logo: keptn.svg
+            twitter: 'https://twitter.com/keptnproject'
+            github_data:
+              languages:
+                - name: Go
+                  value: 707599
+                  color: '#00ADD8'
+                - name: Shell
+                  value: 92474
+                  color: '#89e051'
+                - name: TypeScript
+                  value: 83736
+                  color: '#2b7489'
+                - name: HTML
+                  value: 37077
+                  color: '#e34c26'
+                - name: Dockerfile
+                  value: 30654
+                  color: '#384d54'
+                - name: Smarty
+                  value: 24253
+                - name: JavaScript
+                  value: 11910
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 7017
+                  color: '#563d7c'
+                - name: Makefile
+                  value: 9
+                  color: '#427819'
+              contributions: >-
+                57;23;94;62;90;87;82;7;5;5;35;16;15;58;12;125;91;109;53;67;63;181;74;81;63;55;80;65;57;95;70;50;42;38;18;29;0;2;24;18;59;21;25;45;26;46;47;54;43;20;38;9
+              firstWeek: 2019-04-21Z
+              stars: 358
+              license: Apache License 2.0
+              description: Keptn is a message-driven control-plane for application delivery and automated operations
+              latest_commit_date: '2020-04-09T13:50:34Z'
+              latest_commit_link: /keptn/keptn/commit/17185edcbe3de46c1c867a101d25c060104cb736
+              release_date: '2020-03-17T13:09:35Z'
+              release_link: 'https://github.com/keptn/keptn/releases'
+              contributors_count: 20
+              contributors_link: 'https://github.com/keptn/keptn/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /keptn/keptn/commit/c49b4d65d4860fa7a5102093aac2633abdd94cf0
+              start_date: '2019-01-21T14:51:49Z'
+            image_data:
+              fileName: keptn-sh.svg
+              hash: gtWINlv6GYr9n4zF8+3/e0G/+ZTEnM3SgW7EkSsKg9E=
+            best_practice_data:
+              badge: 3588
+              percentage: 24
+            twitter_data:
+              latest_tweet_date: 2020-04-12T11:35:36.000Z
       - subcategory:
         name: Continuous Integration
         items:
