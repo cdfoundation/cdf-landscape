@@ -176,15 +176,6 @@ big_picture:
         color: 'rgb(193,83,21)'
         fit_width: true
       - type: HorizontalCategory
-        category: 'Protocols, Messaging, Encryption, Identity, and Connectors'
-        rows: 3
-        width: 280
-        height: 160
-        top: 360
-        left: 300
-        color: 'rgb(193, 193, 21)'
-        fit_width: true
-      - type: HorizontalCategory
         category: Change and Defect Management
         rows: 3
         width: 280
@@ -201,6 +192,15 @@ big_picture:
         top: 540
         left: 0
         color: 'rgb(179,60,133)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: 'Protocols, Messaging, Encryption, Identity, and Connectors'
+        rows: 3
+        width: 280
+        height: 160
+        top: 360
+        left: 900
+        color: 'rgb(193, 193, 21)'
         fit_width: true
       - type: LandscapeInfo
         width: 365
