@@ -194,6 +194,19 @@ landscape:
             logo: puppet.svg
             crunchbase: 'https://www.crunchbase.com/organization/puppet-labs'
   - category:
+    name: CI/CD Protocols
+    subcategories:
+      - subcategory:
+        name: Messaging
+        items:
+          - item:
+            name: Eiffel
+            description: 'Eiffel is a technology agnostic CI/CD event protocol'
+            homepage_url: 'https://eiffel-community.github.io'
+            repo_url: 'https://github.com/eiffel-community/eiffel'
+            logo: eiffel.svg
+            crunchbase: 'https://www.crunchbase.com/organization/eiffel-community'
+  - category:
     name: 'Container Registry, and Image Build'
     subcategories:
       - subcategory:
