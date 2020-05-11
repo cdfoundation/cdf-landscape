@@ -6,6 +6,17 @@ landscape:
         name: Pipeline Orchestration
         items:
           - item:
+            name: Agola
+            description: >-
+              Open Source CI/CD platform with advanced features and architecture. Powerful, reproducible and containerized workflows (called Runs), git
+              based workflow (integrates with all the primary git repositories like GitHub, GitLab, Gitea), restart Runs from failed tasks, user direct
+              runs (test your local changes to a remote Agola server with just one command), distributed and high available by design and runs everywhere
+              (Kubernetes, docker, IaaS, bare metal).
+            homepage_url: 'https://agola.io'
+            repo_url: 'https://github.com/agola-io/agola'
+            logo: agola.svg
+            crunchbase: 'https://www.crunchbase.com/organization/sorint-lab'
+          - item:
             name: Armory
             homepage_url: 'https://www.armory.io/'
             logo: armory.svg
