@@ -118,8 +118,8 @@ big_picture:
       - type: HorizontalCategory
         category: CI & Pipeline Orchestration
         rows: 3
-        width: 500
-        height: 160
+        width: 600
+        height: 100
         top: 0
         left: 0
         color: 'rgb(29,119,164)'
@@ -127,17 +127,17 @@ big_picture:
         category: Continuous Automation
         rows: 3
         width: 280
-        height: 160
+        height: 100
         top: 0
-        left: 520
+        left: 620
         color: 'rgb(19,105,73)'
         fit_width: true
       - type: HorizontalCategory
-        category: Configuration & Library Management
+        category: Config & Library Management
         rows: 3
         width: 280
-        height: 160
-        top: 180
+        height: 120
+        top: 120
         left: 0
         color: 'rgb(79,121,13)'
         fit_width: true
@@ -145,93 +145,93 @@ big_picture:
         category: Infrastructure Deployments
         rows: 3
         width: 280
-        height: 160
-        top: 180
+        height: 120
+        top: 120
         left: 300
         color: 'rgb(126,115,14)'
         fit_width: true
       - type: HorizontalCategory
         category: 'Container Registry, and Image Build'
         rows: 3
-        width: 280
-        height: 160
-        top: 360
+        width: 180
+        height: 140
+        top: 260
         left: 0
         color: 'rgb(87,43,10)'
         fit_width: true
       - type: HorizontalCategory
-        category: 'DevSecOps, Analytics and Monitoring'
+        category: DevSecOps & Monitoring
         rows: 3
-        width: 280
-        height: 160
-        top: 360
-        left: 300
+        width: 300
+        height: 140
+        top: 260
+        left: 200
         color: 'rgb(193,83,21)'
         fit_width: true
       - type: HorizontalCategory
         category: Change and Defect Management
         rows: 3
-        width: 280
-        height: 160
-        top: 360
-        left: 600
+        width: 180
+        height: 140
+        top: 260
+        left: 520
         color: 'rgb(185,33,66)'
         fit_width: true
       - type: HorizontalCategory
         category: Protocols and Messaging
         rows: 3
-        width: 280
-        height: 160
-        top: 360
-        left: 900
+        width: 180
+        height: 140
+        top: 260
+        left: 720
         color: 'rgb(193, 193, 21)'
         fit_width: true
       - type: HorizontalCategory
         category: CDF Members
         rows: 8
-        width: 1200
-        height: 320
-        top: 540
+        width: 900
+        height: 200
+        top: 420
         left: 0
         color: 'rgb(179,60,133)'
         fit_width: true
       - type: LandscapeInfo
-        width: 365
-        height: 180
-        top: 160
+        width: 305
+        height: 140
+        top: 100
         left: 595
         children:
           - type: text
             text: >
               This landscape is intended as a map to explore the Continuous Delivery community, and also shows the member organizations of the Continous
               Delivery Foundation.
-            top: 30
-            left: 100
-            right: 120
-            font_size: 10
+            top: 40
+            left: 110
+            right: 10
+            font_size: 9
           - type: image
             image: qr.svg
-            top: 30
-            left: 5
-            width: 90
-            height: 90
+            top: 10
+            left: 10
+            width: 80
+            height: 80
             title: QR Code
           - type: title
             title: l.cd.foundation
-            top: 129
-            left: 19
+            top: 90
+            left: 10
             font_size: 21
           - type: image
             image: left-logo.svg
-            width: 110
-            right: 5
-            top: 45
+            width: 100
+            right: 105
+            top: 5
             title: Landscape Logo
           - type: image
             image: right-logo.svg
-            width: 109
+            width: 100
             right: 5
-            top: 85
+            top: 10
             title: CD Foundation Logo
 test:
   header: Continuous Delivery Landscape
