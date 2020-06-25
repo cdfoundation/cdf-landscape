@@ -20,7 +20,7 @@
   * [Vulnerability reporting](#vulnerability-reporting)
   * [Adjusting the Landscape View](#adjusting-the-landscape-view)
 
-This landscape is intended as a map to explore various tools and services that support a continuous delivery-oriented software environment from individual process steps to full pipeline orchestration, and also shows the member companies of the LF Continuous Delivery Foundation. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code.
+This landscape is intended as a map to explore various tools and services that support a continuous delivery-oriented software environment from individual process steps to full pipeline orchestration, and also shows the member companies of the LF Continuous Delivery Foundation. It is modeled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code.
 
 ## Current Version
 
@@ -33,7 +33,7 @@ Please see [landscape.cd.foundation](https://landscape.cd.foundation).
 ## New Entries
 
 * Projects must be open source and hosted on or mirrored to GitHub.
-* CI/CD projects with at least 300 GitHub stars that clearly fit in an existing category are generally included. Put the project in the single category where it best fits.
+* CI/CD projects with at least 300 GitHub stars that clearly fit in an existing category are generally included. Put the project in a single category where it best fits.
 * We are unlikely to create a new category for projects as we'd rather find the best home with the current options.
 * Your project or company needs a logo and the logo needs to include the name.
 * Crunchbase organization should be the company or organization that controls the software. That is normally the owner of the trademark, whether or not a trademark has been formally filed.
@@ -50,7 +50,7 @@ The following rules will produce the most readable and attractive logos:
 1. When multiple variants exist, use stacked (not horizontal) logos. For example, we use the second column (stacked), not the first (horizontal), of CDF project [logos](https://github.com/cdfoundation/artwork).
 1. Don't use reversed logos (i.e., with a non-white, non-transparent background color). If you only have a reversed logo, create an issue with it attached and we'll produce a non-reversed version for you.
 1. Logos must include the company, product or project name in English. It's fine to also include words from another language. If you don't have a version of your logo with the name in it, please open an issue and we'll create one for you (and please specify the font).
-1. Match the item name to the English words in the logos. So an Acme Rocket logo that shows "Rocket" should have product name "Rocket", while if the logo shows "Acme Rocket", the product name should be "Acme Rocket". Otherwise, logos looks out of place when you sort alphabetically.
+1. Match the item name to the English words in the logos. So an Acme Rocket logo that shows "Rocket" should have product name "Rocket", while if the logo shows "Acme Rocket", the product name should be "Acme Rocket". Otherwise, logos look out of place when you sort alphabetically.
 1. Google images is often the best way to find a good version of the logo (but ensure it's the up-to-date version). Search for [grpc logo filetype:svg](https://www.google.com/search?q=grpc+logo&tbs=ift:svg,imgo:1&tbm=isch) but substitute your project or product name for grpc.
 1. You can either upload an SVG to the `hosted_logos` directory or put a URL as the value, and it will be fetched.
 
@@ -92,9 +92,9 @@ The interactive landscape displays the status (or non-existence) of a badge for 
 
 ## Non-Updated Items
 
-We generally remove open source projects that have not had a commit in over 3 months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is view of projects sorted by last update: https://landscape.cd.foundation/grouping=no&license=open-source&sort=latest-commit
+We generally remove open source projects that have not had a commit in over three months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is the view of projects sorted by the last update: https://landscape.cd.foundation/grouping=no&license=open-source&sort=latest-commit
 
-We generally remove closed source products when they have not tweeted in over 3 months. This doesn't apply to Chinese companies without Twitter accounts, since Twitter is blocked there. Here is a view of products sorted by last tweet: https://landscape.lfcdai.foundation/grouping=no&license=not-open-source&sort=latest-tweet
+We generally remove closed source products when they have not tweeted in over three months. This doesn't apply to Chinese companies without Twitter accounts, since Twitter is blocked there. Here is a view of products sorted by the last tweet: https://landscape.lfcdai.foundation/grouping=no&license=not-open-source&sort=latest-tweet
 
 Items that have been removed can apply to be re-added using the regular New Entries criteria above.
 
@@ -122,9 +122,9 @@ Please open an [issue](https://github.com/cdfoundation/cdf-landscape/issues/new)
 ## Adjusting the Landscape View
 The file src/components/MainContent2.js describes the key elements of a
 landscape big picture. It specifies where to put these sections: App Definition
-and Development, Orchesteration & Management, Runtime,  Provisioning, Cloud,
-    Platform, Observability and Analyzis, Special. Also it specifies where to
-    locate the link to the serverless preview and an info with a QR code.
+and Development, Orchestration & Management, Runtime,  Provisioning, Cloud, 
+Platform, Observability and Analysis, Special. Also it specifies where to
+locate the link to the serverless preview and an info with a QR code.
 
 All these elements should have `top`, `left`, `width` and `height` properties to
 position them. `rows` and `cols` specify how much columns or rows we expect in a
@@ -132,7 +132,7 @@ given horizontal or vertical section.
 
 When we see that those elements can not fit the sections, we need to either increase
 the width of all the horizontal sections, or increase height and amount of rows
-in a single horitzontal section and adjust the position of sections below.
+in a single horizontal section and adjust the position of sections below.
 
 Beside that, we have to adjust the width of a parent div (1620), the width in a
 `src/components/BigPicture/FullscreenLandscape.js` (1640) and the width in a
@@ -142,7 +142,7 @@ Sometimes the total height is changed too, then we need to adjust the height the
 same way as we adjust the width.
 
 We have an experimental `fitWidth` property, it is good when you want to get rid of
-an extra space on the right of a section.
+extra space on the right of a section.
 
 The best way to test that layout is ok, is to visit `/landscape`, and if it looks ok, run `PORT=3000 babel-node
 tools/renderLandscape` and see the rendered png files, they are in src/images folder.
