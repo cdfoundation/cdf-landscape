@@ -48,9 +48,9 @@ landscape:
                 - name: Shell
                   value: 496
                   color: '#89e051'
-              contributions: 18;21;20;2;3;1;12;16;10;9;25;4;6;11;16;11;22;8;5;7;0;0;0;0;0;5;5;6;0;10;5;4;19;8;1;2;0;0;0;0;0;0;0;0;3;0;1;0;0;0;0;0
+              contributions: 18;15;18;2;4;2;13;15;9;10;23;4;7;12;15;12;22;8;3;7;0;0;0;0;0;7;3;6;2;8;6;8;17;5;1;2;0;0;0;0;0;0;0;0;3;0;1;0;0;0;0;0
               firstWeek: 2019-07-21Z
-              stars: 600
+              stars: 601
               license: Apache License 2.0
               description: 'Agola: CI/CD Redefined'
               latest_commit_date: '2020-06-10T16:20:13Z'
@@ -61,7 +61,7 @@ landscape:
               contributors_link: 'https://github.com/agola-io/agola/graphs/contributors'
             repos:
               - url: 'https://github.com/agola-io/agola'
-                stars: 600
+                stars: 601
             github_start_commit_data:
               start_commit_link: /agola-io/agola/commit/686d7abedbcdf82fd78803160204c5ef5a179572
               start_date: '2019-02-21T14:56:50Z'
@@ -101,7 +101,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T22:11:43.000Z
+              latest_tweet_date: 2020-07-16T13:28:26.000Z
           - item:
             name: CircleCI
             homepage_url: 'https://circleci.com/'
@@ -132,7 +132,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T22:36:39.000Z
+              latest_tweet_date: 2020-07-16T20:58:46.000Z
           - item:
             name: Cloudbees
             homepage_url: 'https://www.cloudbees.com/'
@@ -173,7 +173,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T18:21:02.000Z
+              latest_tweet_date: 2020-07-16T18:33:59.000Z
           - item:
             name: GitLab
             homepage_url: 'https://about.gitlab.com/'
@@ -210,27 +210,27 @@ landscape:
             github_data:
               languages:
                 - name: Ruby
-                  value: 33014463
+                  value: 33140501
                   color: '#701516'
                 - name: JavaScript
-                  value: 8273022
+                  value: 8288118
                   color: '#f1e05a'
                 - name: Vue
-                  value: 2416976
+                  value: 2425708
                   color: '#2c3e50'
                 - name: HTML
-                  value: 1607147
+                  value: 1608796
                   color: '#e34c26'
                 - name: TSQL
-                  value: 943654
+                  value: 946919
                 - name: CSS
-                  value: 777298
+                  value: 777559
                   color: '#563d7c'
                 - name: Shell
-                  value: 67141
+                  value: 67216
                   color: '#89e051'
                 - name: Dockerfile
-                  value: 3249
+                  value: 3045
                   color: '#384d54'
                 - name: Makefile
                   value: 226
@@ -239,18 +239,18 @@ landscape:
                   value: 79
                   color: '#db5855'
               contributions: >-
-                467;412;418;387;393;481;492;429;90;54;68;46;46;52;62;45;42;56;63;40;45;51;39;24;40;47;45;49;46;47;50;46;50;50;44;46;50;45;44;19;44;49;45;52;50;49;51;39;47;50;47;47
+                456;404;399;397;409;510;453;410;46;57;62;46;49;49;62;45;45;53;61;41;49;47;34;27;44;46;45;51;44;49;48;46;51;49;44;48;48;45;41;22;48;45;45;54;50;48;50;39;48;49;48;46
               firstWeek: 2019-07-21Z
-              stars: 22289
+              stars: 22290
               license: Other
               description: GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-              latest_commit_date: '2020-07-16T00:09:17Z'
-              latest_commit_link: /gitlabhq/gitlabhq/commit/b0da29fca999ca9e042d99b556a7a69b7812dcfd
+              latest_commit_date: '2020-07-17T00:09:37Z'
+              latest_commit_link: /gitlabhq/gitlabhq/commit/d5cf5cf4f77eec07a04604b1a0298452029df16f
               contributors_count: 2999
               contributors_link: 'https://github.com/gitlabhq/gitlabhq/graphs/contributors'
             repos:
               - url: 'https://github.com/gitlabhq/gitlabhq'
-                stars: 22289
+                stars: 22290
             github_start_commit_data:
               start_commit_link: /gitlabhq/gitlabhq/commit/93efff945215a4407afcaf0cba15ac601b56df0d
               start_date: '2011-10-08T21:34:49Z'
@@ -290,7 +290,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T20:34:35.000Z
+              latest_tweet_date: 2020-07-16T18:56:37.000Z
           - item:
             name: JenkinsX
             homepage_url: 'https://jenkins.io/'
@@ -346,20 +346,21 @@ landscape:
                 - name: Dockerfile
                   value: 360
                   color: '#384d54'
-              contributions: 61;52;48;29;35;52;79;75;63;36;72;53;55;38;46;53;35;37;51;46;30;19;8;3;23;57;21;41;15;8;9;18;22;10;8;24;9;15;20;15;10;9;11;19;16;7;19;22;14;9;1;3
+              contributions: >-
+                69;47;42;26;42;58;70;93;42;40;72;55;51;42;42;53;38;34;51;46;27;18;6;7;28;51;23;37;17;7;7;22;20;10;6;27;7;17;19;13;14;8;15;13;18;12;14;20;15;7;1;3
               firstWeek: 2019-07-21Z
-              stars: 3566
+              stars: 3567
               license: Apache License 2.0
               description: 'Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Prow, Skaffold and Helm'
               latest_commit_date: '2020-07-14T12:43:21Z'
               latest_commit_link: /jenkins-x/jx/commit/33dc68aeeacc3c6319f336ba442e59df75cdaceb
               release_date: '2020-07-14T13:11:56Z'
               release_link: 'https://github.com/jenkins-x/jx/releases'
-              contributors_count: 208
+              contributors_count: 209
               contributors_link: 'https://github.com/jenkins-x/jx/graphs/contributors'
             repos:
               - url: 'https://github.com/jenkins-x/jx'
-                stars: 3566
+                stars: 3567
             github_start_commit_data:
               start_commit_link: /jenkins-x/jx/commit/e255f7ea050c4a410a21183ec85a510c8e4ca8c6
               start_date: '2018-01-05T15:46:09Z'
@@ -370,7 +371,7 @@ landscape:
               badge: 3237
               percentage: 98
             twitter_data:
-              latest_tweet_date: 2020-07-13T21:43:59.000Z
+              latest_tweet_date: 2020-07-16T16:39:46.000Z
           - item:
             name: Keptn
             homepage_url: 'https://keptn.sh'
@@ -400,19 +401,19 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 941760
+                  value: 944740
                   color: '#00ADD8'
                 - name: TypeScript
-                  value: 269367
+                  value: 269365
                   color: '#2b7489'
                 - name: Shell
-                  value: 126804
+                  value: 131428
                   color: '#89e051'
                 - name: HTML
-                  value: 55552
+                  value: 55648
                   color: '#e34c26'
                 - name: Dockerfile
-                  value: 29981
+                  value: 29982
                   color: '#384d54'
                 - name: CSS
                   value: 9914
@@ -420,31 +421,31 @@ landscape:
                 - name: Smarty
                   value: 9606
                 - name: JavaScript
-                  value: 6962
+                  value: 6839
                   color: '#f1e05a'
                 - name: Makefile
                   value: 9
                   color: '#427819'
               contributions: >-
-                16;108;65;160;27;74;57;140;122;53;96;56;67;81;48;82;86;53;44;31;21;35;9;0;13;21;49;26;30;46;24;47;42;64;34;26;21;36;17;16;37;19;18;41;7;28;45;27;24;52;46;23
+                18;114;73;139;44;61;73;167;88;62;88;50;77;65;65;80;78;57;39;38;11;33;6;0;16;23;54;19;35;44;24;47;49;54;36;27;26;28;15;36;25;15;20;34;30;13;37;38;18;65;32;30
               firstWeek: 2019-07-21Z
-              stars: 437
+              stars: 439
               license: Apache License 2.0
               description: Keptn is a message-driven control-plane for application delivery and automated operations
-              latest_commit_date: '2020-07-15T18:08:42Z'
-              latest_commit_link: /keptn/keptn/commit/895d00bee98ac60c523b9c1be08e80c7a9c4c497
+              latest_commit_date: '2020-07-16T15:14:53Z'
+              latest_commit_link: /keptn/keptn/commit/5b4a05510dc2057c160de3ea4eec974fe98a6247
               release_date: '2020-05-07T14:04:26Z'
               release_link: 'https://github.com/keptn/keptn/releases'
               contributors_count: 28
               contributors_link: 'https://github.com/keptn/keptn/graphs/contributors'
             repos:
               - url: 'https://github.com/keptn/keptn'
-                stars: 437
+                stars: 439
             github_start_commit_data:
               start_commit_link: /keptn/keptn/commit/c49b4d65d4860fa7a5102093aac2633abdd94cf0
               start_date: '2019-01-21T14:51:49Z'
             yahoo_finance_data:
-              market_cap: 11849905152
+              market_cap: 11358383104
               effective_ticker: DT
             image_data:
               fileName: keptn.svg
@@ -453,7 +454,7 @@ landscape:
               badge: 3588
               percentage: 86
             twitter_data:
-              latest_tweet_date: 2020-07-15T16:18:48.000Z
+              latest_tweet_date: 2020-07-16T15:09:19.000Z
           - item:
             name: OpsMX
             homepage_url: 'https://www.opsmx.com'
@@ -480,7 +481,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-16T00:20:21.000Z
+              latest_tweet_date: 2020-07-16T19:41:31.000Z
           - item:
             name: Screwdriver
             homepage_url: 'https://screwdriver.cd/'
@@ -518,7 +519,7 @@ landscape:
                 - name: Shell
                   value: 81
                   color: '#89e051'
-              contributions: 2;3;0;0;0;3;0;7;1;9;1;6;6;2;5;0;2;4;10;2;6;2;1;0;8;1;4;2;7;3;5;2;13;6;7;5;1;1;0;3;2;0;3;0;0;2;6;2;1;1;0;4
+              contributions: 4;0;0;0;0;3;4;3;4;6;4;3;6;3;4;0;3;6;7;4;4;3;0;0;9;3;3;2;5;6;3;3;12;7;6;5;0;1;0;3;2;0;3;0;1;1;7;1;1;1;2;2
               firstWeek: 2019-07-21Z
               stars: 821
               license: Other
@@ -585,9 +586,9 @@ landscape:
                 - name: Python
                   value: 582
                   color: '#3572A5'
-              contributions: 3;1;1;2;2;1;6;5;7;0;12;1;4;1;2;2;3;5;5;2;0;3;0;0;1;1;17;4;3;2;0;0;0;0;1;1;0;2;7;0;0;1;0;1;0;0;1;1;0;1;1;1
+              contributions: 4;0;2;1;2;1;6;6;6;1;11;1;4;1;2;3;2;7;3;2;1;2;0;1;0;1;19;2;3;2;0;0;0;1;0;1;0;3;6;0;0;1;0;1;0;0;1;1;0;1;1;1
               firstWeek: 2019-07-21Z
-              stars: 7218
+              stars: 7223
               license: Apache License 2.0
               description: 'Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.'
               latest_commit_date: '2020-07-15T11:51:44Z'
@@ -598,7 +599,7 @@ landscape:
               contributors_link: 'https://github.com/spinnaker/spinnaker/graphs/contributors'
             repos:
               - url: 'https://github.com/spinnaker/spinnaker'
-                stars: 7218
+                stars: 7223
             github_start_commit_data:
               start_commit_link: /spinnaker/spinnaker/commit/2b3fac174db42aa7944d6e606a17d5ca1ae66715
               start_date: '2014-09-07T09:01:23Z'
@@ -609,7 +610,7 @@ landscape:
               badge: 3941
               percentage: 35
             twitter_data:
-              latest_tweet_date: 2020-07-15T19:38:14.000Z
+              latest_tweet_date: 2020-07-16T22:47:54.000Z
       - subcategory:
         name: Continuous Integration
         items:
@@ -674,9 +675,9 @@ landscape:
                   value: 1023
                   color: '#C1F12E'
               contributions: >-
-                12;7;13;18;22;30;28;32;20;29;45;34;38;35;14;25;39;23;17;21;26;8;19;12;39;82;55;42;12;27;64;40;42;64;50;42;58;41;23;61;40;47;27;21;19;32;28;17;20;24;35;18
+                8;12;7;20;26;30;24;37;16;32;43;31;43;33;22;16;40;22;17;19;26;10;16;17;40;76;64;35;19;29;60;35;51;67;39;56;47;38;38;43;46;45;30;15;24;31;23;20;20;30;27;17
               firstWeek: 2019-07-21Z
-              stars: 15837
+              stars: 15843
               license: MIT License
               description: Jenkins automation server
               latest_commit_date: '2020-07-15T19:51:15Z'
@@ -687,7 +688,7 @@ landscape:
               contributors_link: 'https://github.com/jenkinsci/jenkins/graphs/contributors'
             repos:
               - url: 'https://github.com/jenkinsci/jenkins'
-                stars: 15837
+                stars: 15843
             github_start_commit_data:
               start_commit_link: /jenkinsci/jenkins/commit/8a0dc230f44e84e5a7f7920cf9a31f09a54999ac
               start_date: '2006-11-05T21:16:01Z'
@@ -725,7 +726,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 2920426
+                  value: 2922352
                   color: '#00ADD8'
                 - name: Shell
                   value: 22935
@@ -742,20 +743,20 @@ landscape:
                   value: 660
                   color: '#384d54'
               contributions: >-
-                16;22;16;17;16;6;16;7;29;15;13;26;13;16;22;17;19;17;20;26;31;14;11;2;15;29;26;29;17;29;20;17;42;32;11;28;21;21;26;29;21;33;30;24;15;22;26;8;18;13;18;7
+                18;19;15;16;19;5;19;5;28;15;18;23;11;18;23;16;19;14;20;28;31;20;2;4;21;25;30;26;24;20;17;19;46;28;20;22;17;26;29;28;18;44;16;24;16;24;26;10;12;15;19;6
               firstWeek: 2019-07-21Z
-              stars: 5220
+              stars: 5224
               license: Apache License 2.0
               description: A K8s-native Pipeline resource.
-              latest_commit_date: '2020-07-15T15:26:59Z'
-              latest_commit_link: /tektoncd/pipeline/commit/1b28720e32b8bae10c66e3cd15cf2b1dad747d7c
+              latest_commit_date: '2020-07-16T16:56:59Z'
+              latest_commit_link: /tektoncd/pipeline/commit/af583724b88759ae382fa892adf08b76038e35e7
               release_date: '2020-07-09T15:57:57Z'
               release_link: 'https://github.com/tektoncd/pipeline/releases'
               contributors_count: 163
               contributors_link: 'https://github.com/tektoncd/pipeline/graphs/contributors'
             repos:
               - url: 'https://github.com/tektoncd/pipeline'
-                stars: 5220
+                stars: 5224
             github_start_commit_data:
               start_commit_link: /tektoncd/pipeline/commit/301b41380e95382a18b391c2165fa3a6a3de93b0
               start_date: '2018-08-29T18:21:56Z'
@@ -793,7 +794,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-14T13:10:51.000Z
+              latest_tweet_date: 2020-07-16T16:32:20.000Z
   - category:
     name: Continuous Automation
     subcategories:
@@ -828,7 +829,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T18:00:33.000Z
+              latest_tweet_date: 2020-07-16T17:00:46.000Z
       - subcategory:
         name: Release Automation
         items:
@@ -1255,7 +1256,7 @@ landscape:
                 - name: Batchfile
                   value: 829
                   color: '#C1F12E'
-              contributions: 0;0;0;0;0;3;3;6;8;0;0;0;0;0;0;2;0;1;2;2;2;2;1;2;4;7;3;5;0;0;2;0;4;2;4;3;2;0;4;2;0;0;1;0;2;1;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;3;3;6;8;0;0;0;0;0;0;2;0;2;1;2;3;1;1;2;5;6;4;4;0;0;2;0;4;2;4;3;2;2;2;2;0;0;1;0;3;0;0;0;0;0;0;0
               firstWeek: 2019-07-21Z
               stars: 2
               license: MIT License
@@ -1271,7 +1272,7 @@ landscape:
               start_commit_link: /UrbanCode/UCADF-Core-Library/commit/6f3d7ce9d04730582304a2e290174929af0e47ba
               start_date: '2019-06-26T18:17:32Z'
             yahoo_finance_data:
-              market_cap: 108403867865
+              market_cap: 110296831580
               effective_ticker: IBM.SW
             image_data:
               fileName: urban-code-velocity.svg
@@ -1279,7 +1280,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-07T21:25:09.000Z
+              latest_tweet_date: 2020-07-16T20:20:13.000Z
       - subcategory:
         name: Build Automation
         items:
@@ -1396,7 +1397,7 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 10486146
+                  value: 10485227
                   color: '#3572A5'
                 - name: PowerShell
                   value: 789769
@@ -1405,7 +1406,7 @@ landscape:
                   value: 206209
                   color: '#178600'
                 - name: Shell
-                  value: 182267
+                  value: 182337
                   color: '#89e051'
                 - name: Makefile
                   value: 13557
@@ -1428,28 +1429,28 @@ landscape:
                   value: 144
                   color: '#C1F12E'
               contributions: >-
-                137;126;136;162;223;380;196;104;153;77;67;71;82;125;85;118;89;119;83;64;94;81;50;19;64;90;65;79;87;95;153;93;90;126;15;51;39;22;32;27;28;34;28;46;26;51;54;52;45;44;33;49
+                127;125;142;153;335;351;125;116;138;70;59;83;86;115;84;117;97;110;73;84;93;78;33;25;82;75;72;86;74;101;149;93;81;125;14;60;30;33;29;27;24;35;39;35;33;47;63;42;44;50;27;46
               firstWeek: 2019-07-21Z
-              stars: 43903
+              stars: 43917
               license: GNU General Public License v3.0
               description: >-
                 Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom
                 code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on
                 remote systems. https://docs.ansible.com/ansible/
-              latest_commit_date: '2020-07-15T23:45:44Z'
-              latest_commit_link: /ansible/ansible/commit/4a735adc215364f1519bfa64e79d8eec0592e2f7
+              latest_commit_date: '2020-07-17T00:57:47Z'
+              latest_commit_link: /ansible/ansible/commit/c616e54a6e23fa5616a1d56d243f69576164ef9b
               release_date: '2018-02-09T06:51:40Z'
               release_link: 'https://github.com/ansible/ansible/releases'
-              contributors_count: 6229
+              contributors_count: 6230
               contributors_link: 'https://github.com/ansible/ansible/graphs/contributors'
             repos:
               - url: 'https://github.com/ansible/ansible'
-                stars: 43903
+                stars: 43917
             github_start_commit_data:
               start_commit_link: /ansible/ansible/commit/f31421576b00f0b167cdbe61217c31c21a41ac02
               start_date: '2012-02-23T19:17:24Z'
             yahoo_finance_data:
-              market_cap: 108403867865
+              market_cap: 110296831580
               effective_ticker: IBM.SW
             image_data:
               fileName: ansible.svg
@@ -1458,7 +1459,7 @@ landscape:
               badge: 2372
               percentage: 65
             twitter_data:
-              latest_tweet_date: 2020-07-15T20:23:38.000Z
+              latest_tweet_date: 2020-07-16T19:35:17.000Z
           - item:
             name: Chef
             homepage_url: 'https://www.chef.io/'
@@ -1512,22 +1513,22 @@ landscape:
                   value: 64
                   color: '#0298c3'
               contributions: >-
-                40;22;31;42;15;18;27;55;33;30;54;50;40;28;22;57;44;83;10;21;44;38;8;23;7;29;60;88;76;37;28;78;77;95;79;89;75;96;78;122;201;115;100;53;54;70;80;132;68;76;66;81
+                41;20;57;16;14;29;26;46;38;30;62;41;38;23;30;51;56;75;4;31;43;29;9;22;11;40;57;101;74;29;24;73;80;102;73;84;91;91;81;119;206;135;72;51;62;67;87;124;67;79;56;77
               firstWeek: 2019-07-21Z
-              stars: 6283
+              stars: 6284
               license: Apache License 2.0
               description: >-
                 Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and
                 managed across any environment, at any scale
-              latest_commit_date: '2020-07-15T22:13:53Z'
-              latest_commit_link: /chef/chef/commit/614f512b7b269d80650efc9e98b009305cf76481
+              latest_commit_date: '2020-07-16T16:51:22Z'
+              latest_commit_link: /chef/chef/commit/b6d4990724237f58d0c6beb17eaf2268c894579e
               release_date: '2020-02-20T06:51:07Z'
               release_link: 'https://github.com/chef/chef/releases'
               contributors_count: 878
               contributors_link: 'https://github.com/chef/chef/graphs/contributors'
             repos:
               - url: 'https://github.com/chef/chef'
-                stars: 6283
+                stars: 6284
             github_start_commit_data:
               start_commit_link: /chef/chef/commit/b5117775e86cff40399187b6292c98fba9dc5034
               start_date: '2008-03-06T07:31:38Z'
@@ -1538,7 +1539,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T18:55:03.000Z
+              latest_tweet_date: 2020-07-16T21:11:01.000Z
           - item:
             name: DeployHub
             homepage_url: 'https://www.deployhub.com/'
@@ -1566,7 +1567,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T21:23:21.000Z
+              latest_tweet_date: 2020-07-16T21:10:12.000Z
       - subcategory:
         name: Library Management
         items:
@@ -1637,7 +1638,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-16T00:19:46.000Z
+              latest_tweet_date: 2020-07-16T23:46:39.000Z
           - item:
             name: Sonatype Nexus
             homepage_url: 'https://www.sonatype.com/'
@@ -1700,7 +1701,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T16:10:04.000Z
+              latest_tweet_date: 2020-07-16T17:15:09.000Z
   - category:
     name: Infrastructure Deployments
     subcategories:
@@ -1764,7 +1765,7 @@ landscape:
               stockExchange: null
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 679357933626
+              market_cap: 650809251069
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-cloud.svg
@@ -1773,7 +1774,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T16:00:00.000Z
+              latest_tweet_date: 2020-07-17T01:00:00.000Z
           - item:
             name: Cycloid
             homepage_url: 'https://www.cycloid.io'
@@ -1802,7 +1803,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T13:00:20.000Z
+              latest_tweet_date: 2020-07-16T13:59:00.000Z
           - item:
             name: Dell Boomi
             homepage_url: 'https://boomi.com/'
@@ -1835,7 +1836,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T21:35:01.000Z
+              latest_tweet_date: 2020-07-16T22:27:16.000Z
           - item:
             name: Rancher Labs
             homepage_url: 'https://rancher.com'
@@ -1864,7 +1865,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T20:32:07.000Z
+              latest_tweet_date: 2020-07-16T20:46:09.000Z
       - subcategory:
         name: Traditional
         items:
@@ -1901,7 +1902,7 @@ landscape:
             github_data:
               languages:
                 - name: Ruby
-                  value: 12720643
+                  value: 12721128
                   color: '#701516'
                 - name: HTML
                   value: 99157
@@ -1928,18 +1929,18 @@ landscape:
                   value: 229
                   color: '#c065db'
               contributions: >-
-                47;36;25;30;30;23;22;26;35;33;49;39;15;11;35;45;70;44;18;30;41;33;5;1;45;34;29;33;45;61;12;44;37;32;23;28;33;40;39;45;26;42;51;33;30;20;18;30;10;23;20;7
+                57;23;27;27;33;18;25;33;29;37;45;34;17;13;38;39;83;33;18;39;39;24;4;3;51;36;30;27;52;51;14;41;46;29;23;31;30;41;34;44;34;43;45;31;36;14;18;33;8;28;13;10
               firstWeek: 2019-07-21Z
-              stars: 5822
+              stars: 5823
               license: Apache License 2.0
               description: Server automation framework and application
-              latest_commit_date: '2020-07-15T09:10:11Z'
-              latest_commit_link: /puppetlabs/puppet/commit/4dc98500863876deb88b994d7942cbfa214b3348
+              latest_commit_date: '2020-07-16T07:56:20Z'
+              latest_commit_link: /puppetlabs/puppet/commit/07a73247b693f45393e440b711242391e2cacb46
               contributors_count: 763
               contributors_link: 'https://github.com/puppetlabs/puppet/graphs/contributors'
             repos:
               - url: 'https://github.com/puppetlabs/puppet'
-                stars: 5822
+                stars: 5823
             github_start_commit_data:
               start_commit_link: /puppetlabs/puppet/commit/54e9b5e3561977ea063417da12c46aad2a4c1332
               start_date: '2005-04-13T15:18:05Z'
@@ -1950,7 +1951,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T20:55:01.000Z
+              latest_tweet_date: 2020-07-17T01:00:09.000Z
   - category:
     name: Protocols and Messaging
     subcategories:
@@ -2119,7 +2120,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 1425752
+                  value: 1426022
                   color: '#00ADD8'
                 - name: Shell
                   value: 28354
@@ -2128,20 +2129,20 @@ landscape:
                   value: 6434
                   color: '#427819'
               contributions: >-
-                24;36;22;43;13;20;21;17;8;36;28;61;57;39;57;22;25;11;20;14;30;23;18;11;29;23;26;13;26;34;20;27;28;18;12;5;16;12;32;22;23;19;20;18;10;5;7;12;7;9;15;20
+                27;34;26;38;11;20;26;12;10;37;40;66;54;31;54;18;23;12;25;15;26;24;14;13;30;29;18;22;23;29;28;21;28;17;9;11;16;9;40;18;21;18;18;20;7;6;6;11;7;9;18;21
               firstWeek: 2019-07-21Z
-              stars: 17566
+              stars: 17576
               license: Apache License 2.0
               description: The Kubernetes Package Manager
-              latest_commit_date: '2020-07-14T16:12:31Z'
-              latest_commit_link: /helm/helm/commit/e31818f2efd3e1e0867d9c189507c25c8102264a
+              latest_commit_date: '2020-07-16T13:21:51Z'
+              latest_commit_link: /helm/helm/commit/6a536661fcf1dc0315798ece70bbf193e725945c
               release_date: '2020-07-07T18:16:08Z'
               release_link: 'https://github.com/helm/helm/releases'
               contributors_count: 519
               contributors_link: 'https://github.com/helm/helm/graphs/contributors'
             repos:
               - url: 'https://github.com/helm/helm'
-                stars: 17566
+                stars: 17576
             github_start_commit_data:
               start_commit_link: /helm/helm/commit/94db53d0803034083a3a9b1c7a9a197c327eb6b0
               start_date: '2015-11-02T23:52:56Z'
@@ -2198,7 +2199,7 @@ landscape:
                 - name: C
                   value: 3889
                   color: '#555555'
-              contributions: 1;10;15;17;5;11;9;11;8;2;0;8;1;0;9;3;4;2;3;13;7;5;3;3;1;11;15;11;7;1;3;4;3;4;33;38;22;8;27;34;14;4;2;1;11;32;3;12;4;19;9;6
+              contributions: 0;14;12;16;5;14;6;12;7;2;1;8;0;0;9;5;2;2;3;19;4;2;3;3;1;11;19;11;3;1;5;2;4;6;37;42;12;10;32;32;8;4;3;1;12;31;2;12;9;14;11;4
               firstWeek: 2019-07-21Z
               stars: 968
               license: Apache License 2.0
@@ -2222,7 +2223,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T17:19:59.000Z
+              latest_tweet_date: 2020-07-16T19:58:55.000Z
           - item:
             name: Snyk
             homepage_url: 'https://snyk.io/'
@@ -2253,7 +2254,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T13:54:58.000Z
+              latest_tweet_date: 2020-07-16T12:11:08.000Z
           - item:
             name: Sysdig Secure
             description: 'Sysdig Secure embeds security and compliance into the build, run and respond stages of the Kubernetes lifecycle.'
@@ -2283,7 +2284,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T21:11:03.000Z
+              latest_tweet_date: 2020-07-16T19:07:03.000Z
       - subcategory:
         name: Analytics & Monitoring
         items:
@@ -2316,7 +2317,7 @@ landscape:
               stockExchange: nasdaq
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 26489055232
+              market_cap: 25541521408
               effective_ticker: DDOG
             image_data:
               fileName: datadog.svg
@@ -2325,7 +2326,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T20:15:21.000Z
+              latest_tweet_date: 2020-07-16T16:04:45.000Z
           - item:
             name: Dynatrace
             homepage_url: 'https://www.dynatrace.com/'
@@ -2351,7 +2352,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 11849905152
+              market_cap: 11358383104
               effective_ticker: DT
             image_data:
               fileName: dynatrace.svg
@@ -2360,7 +2361,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T21:11:38.000Z
+              latest_tweet_date: 2020-07-16T21:46:08.000Z
           - item:
             name: Sumo Logic
             homepage_url: 'https://www.sumologic.com/'
@@ -2393,7 +2394,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T23:55:01.000Z
+              latest_tweet_date: 2020-07-17T00:17:00.000Z
   - category:
     name: Change and Defect Management
     subcategories:
@@ -2433,12 +2434,13 @@ landscape:
                   acquiree: npm
               parents:
                 - 'https://www.crunchbase.com/organization/microsoft'
+                - 'https://www.crunchbase.com/organization/snaptube-appz'
               ticker: MSFT
               funding: 350000000
               stockExchange: null
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1577658744832
+              market_cap: 1546414981120
               effective_ticker: MSFT
             image_data:
               fileName: git-hub.svg
@@ -2446,7 +2448,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T20:00:19.000Z
+              latest_tweet_date: 2020-07-16T20:17:26.000Z
       - subcategory:
         name: Issue Tracking
         items:
@@ -2506,7 +2508,7 @@ landscape:
               stockExchange: nasdaq
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 43028262912
+              market_cap: 42026921984
               effective_ticker: TEAM
             image_data:
               fileName: jira.svg
@@ -2515,7 +2517,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T19:14:38.000Z
+              latest_tweet_date: 2020-07-16T20:56:51.000Z
   - category:
     name: CDF Members
     subcategories:
@@ -2596,7 +2598,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 28994142208
+              market_cap: 28848443392
               effective_ticker: COF
             image_data:
               fileName: capital-one-member.svg
@@ -2636,7 +2638,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T22:36:39.000Z
+              latest_tweet_date: 2020-07-16T20:58:46.000Z
           - item:
             name: CloudBees (member)
             homepage_url: 'https://www.cloudbees.com/'
@@ -2677,7 +2679,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T18:21:02.000Z
+              latest_tweet_date: 2020-07-16T18:33:59.000Z
           - item:
             name: Fujitsu (member)
             homepage_url: 'https://www.fujitsu.com/global/'
@@ -2741,7 +2743,7 @@ landscape:
               stockExchange: tyo
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 24634504702
+              market_cap: 24977059785
               effective_ticker: 6702.T
             image_data:
               fileName: fujitsu-member.svg
@@ -2750,7 +2752,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T20:15:01.000Z
+              latest_tweet_date: 2020-07-16T16:05:04.000Z
           - item:
             name: Google Cloud (member)
             homepage_url: 'https://cloud.google.com/'
@@ -3301,7 +3303,7 @@ landscape:
               stockExchange: nasdaq
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1033337896960
+              market_cap: 1037343522816
               effective_ticker: GOOG
             image_data:
               fileName: google-cloud-member.svg
@@ -3310,7 +3312,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T21:00:33.000Z
+              latest_tweet_date: 2020-07-16T22:38:24.000Z
           - item:
             name: Huawei (member)
             homepage_url: 'https://www.huaweicloud.com/en-us/about/about_us.html'
@@ -3772,7 +3774,7 @@ landscape:
               stockExchange: swx
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 108403867865
+              market_cap: 110296831580
               effective_ticker: IBM.SW
             image_data:
               fileName: ibm-member.svg
@@ -3781,7 +3783,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T11:00:01.000Z
+              latest_tweet_date: 2020-07-16T13:35:12.000Z
           - item:
             name: JFrog (member)
             homepage_url: 'https://jfrog.com/'
@@ -3820,7 +3822,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-16T00:19:46.000Z
+              latest_tweet_date: 2020-07-16T23:46:39.000Z
           - item:
             name: Netflix (member)
             homepage_url: 'https://www.netflix.com/'
@@ -3848,7 +3850,7 @@ landscape:
               stockExchange: nasdaq
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 230131843072
+              market_cap: 231948238848
               effective_ticker: NFLX
             image_data:
               fileName: netflix-member.svg
@@ -3857,7 +3859,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T21:52:59.000Z
+              latest_tweet_date: 2020-07-16T22:17:20.000Z
           - item:
             name: Salesforce (member)
             homepage_url: 'https://www.salesforce.com/'
@@ -4028,7 +4030,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 169469083648
+              market_cap: 167144505344
               effective_ticker: CRM
             image_data:
               fileName: salesforce-member.svg
@@ -4037,7 +4039,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T21:00:12.000Z
+              latest_tweet_date: 2020-07-17T00:30:08.000Z
       - subcategory:
         name: General
         items:
@@ -4098,7 +4100,7 @@ landscape:
               stockExchange: null
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 679357933626
+              market_cap: 650809251069
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-cloud-member.svg
@@ -4107,7 +4109,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T16:00:00.000Z
+              latest_tweet_date: 2020-07-17T01:00:00.000Z
           - item:
             name: Anchore (member)
             homepage_url: 'https://anchore.com/'
@@ -4136,7 +4138,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T17:19:59.000Z
+              latest_tweet_date: 2020-07-16T19:58:55.000Z
           - item:
             name: Armory (member)
             homepage_url: 'https://www.armory.io/'
@@ -4165,7 +4167,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T22:11:43.000Z
+              latest_tweet_date: 2020-07-16T13:28:26.000Z
           - item:
             name: Cycloid  (member)
             homepage_url: 'https://www.cycloid.io'
@@ -4194,7 +4196,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T13:00:20.000Z
+              latest_tweet_date: 2020-07-16T13:59:00.000Z
           - item:
             name: Dell Boomi (member)
             homepage_url: 'https://boomi.com/'
@@ -4227,7 +4229,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T21:35:01.000Z
+              latest_tweet_date: 2020-07-16T22:27:16.000Z
           - item:
             name: DeployHub (member)
             homepage_url: 'https://www.deployhub.com'
@@ -4254,7 +4256,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T21:23:21.000Z
+              latest_tweet_date: 2020-07-16T21:10:12.000Z
           - item:
             name: GitLab (member)
             homepage_url: 'https://about.gitlab.com'
@@ -4322,7 +4324,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T20:34:35.000Z
+              latest_tweet_date: 2020-07-16T18:56:37.000Z
           - item:
             name: OpsMX (member)
             homepage_url: 'https://www.opsmx.com'
@@ -4349,7 +4351,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-16T00:20:21.000Z
+              latest_tweet_date: 2020-07-16T19:41:31.000Z
           - item:
             name: Puppet (member)
             homepage_url: 'https://puppet.com'
@@ -4386,7 +4388,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T20:55:01.000Z
+              latest_tweet_date: 2020-07-17T01:00:09.000Z
           - item:
             name: Rancher Labs (member)
             homepage_url: 'https://rancher.com'
@@ -4415,7 +4417,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T20:32:07.000Z
+              latest_tweet_date: 2020-07-16T20:46:09.000Z
           - item:
             name: RedHat (member)
             homepage_url: 'https://www.redhat.com/en'
@@ -4491,7 +4493,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 108403867865
+              market_cap: 110296831580
               effective_ticker: IBM.SW
             image_data:
               fileName: red-hat-member.svg
@@ -4500,7 +4502,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T21:04:25.000Z
+              latest_tweet_date: 2020-07-16T20:30:03.000Z
           - item:
             name: SAP (member)
             homepage_url: 'https://www.sap.com/index.html'
@@ -4627,7 +4629,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 184054333440
+              market_cap: 185272221696
               effective_ticker: SAP
             image_data:
               fileName: sap-member.svg
@@ -4636,7 +4638,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T20:22:16.000Z
+              latest_tweet_date: 2020-07-16T20:21:16.000Z
           - item:
             name: Snyk (member)
             homepage_url: 'https://snyk.io/'
@@ -4667,7 +4669,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T13:54:58.000Z
+              latest_tweet_date: 2020-07-16T12:11:08.000Z
           - item:
             name: Sumo Logic (member)
             homepage_url: 'https://www.sumologic.com/'
@@ -4700,7 +4702,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T23:55:01.000Z
+              latest_tweet_date: 2020-07-17T00:17:00.000Z
           - item:
             name: Sysdig (member)
             homepage_url: 'https://sysdig.com'
@@ -4729,7 +4731,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T21:11:03.000Z
+              latest_tweet_date: 2020-07-16T19:07:03.000Z
           - item:
             name: WhiteSource (member)
             homepage_url: 'https://www.whitesourcesoftware.com/'
@@ -4760,7 +4762,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T16:10:04.000Z
+              latest_tweet_date: 2020-07-16T17:15:09.000Z
       - subcategory:
         name: End User Supporter
         items:
@@ -4937,7 +4939,7 @@ landscape:
               stockExchange: nasdaq
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 51638427648
+              market_cap: 51298672640
               effective_ticker: ADSK
             image_data:
               fileName: autodesk-member.svg
@@ -4946,7 +4948,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T18:26:01.000Z
+              latest_tweet_date: 2020-07-16T19:11:05.000Z
           - item:
             name: eBay (member)
             homepage_url: 'https://www.ebay.com'
@@ -5118,7 +5120,7 @@ landscape:
               stockExchange: nasdaq
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 41029423104
+              market_cap: 41212121088
               effective_ticker: EBAY
             image_data:
               fileName: e-bay-member.svg
@@ -5127,7 +5129,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T18:00:00.000Z
+              latest_tweet_date: 2020-07-16T21:14:00.000Z
           - item:
             name: JP Morgan Chase (member)
             homepage_url: 'https://www.jpmorganchase.com/'
@@ -5175,7 +5177,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 303879323648
+              market_cap: 304790503424
               effective_ticker: JPM
             image_data:
               fileName: jp-morgan-chase-member.svg
@@ -5184,8 +5186,8 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-15T13:18:40.000Z
+              latest_tweet_date: 2020-07-16T13:36:00.000Z
 twitter_options:
   count: 7
   since_id: '1275383403798507525'
-updated_at: 2020-07-16T00:26:43.491Z
+updated_at: 2020-07-17T01:16:52.216Z
