@@ -99,6 +99,11 @@ landscape:
             logo: tekton.svg
             twitter: 'https://twitter.com/tektoncd'
             crunchbase: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
+          - item:
+            name: Travis CI
+            homepage_url: 'https://travis-ci.org/'
+            logo: travis-ci.svg
+            crunchbase: 'https://www.crunchbase.com/organization/travis-ci'
   - category:
     name: Continuous Automation
     subcategories:
@@ -143,6 +148,12 @@ landscape:
             twitter: 'https://twitter.com/ansible'
             crunchbase: 'https://www.crunchbase.com/organization/red-hat'
           - item:
+            name: Chef
+            homepage_url: 'https://www.chef.io/'
+            repo_url: 'https://github.com/chef/chef'
+            logo: chef.svg
+            crunchbase: 'https://www.crunchbase.com/organization/chef'
+          - item:
             name: DeployHub
             homepage_url: 'https://www.deployhub.com/'
             logo: deployhub.svg
@@ -180,7 +191,7 @@ landscape:
         items:
           - item:
             name: Alauda
-            homepage_url: 'http://www.alauda.cn'
+            homepage_url: 'https://www.alauda.cn'
             logo: alauda.svg
             crunchbase: 'https://www.crunchbase.com/organization/alauda'
           - item:
@@ -379,7 +390,7 @@ landscape:
         items:
           - item:
             name: Alauda (member)
-            homepage_url: 'http://www.alauda.cn'
+            homepage_url: 'https://www.alauda.cn'
             logo: alauda.svg
             crunchbase: 'https://www.crunchbase.com/organization/alauda'
           - item:
