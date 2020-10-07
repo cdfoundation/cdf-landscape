@@ -6,6 +6,12 @@ landscape:
         name: Pipeline Orchestration
         items:
           - item:
+            name: Terraform
+            homepage_url: 'https://www.terraform.io'
+            repo_url: 'https://github.com/hashicorp/terraform'
+            logo: terraform.svg
+            crunchbase: 'https://www.crunchbase.com/organization/hashicorp'
+          - item:
             name: Agola
             description: >-
               Open Source CI/CD platform with advanced features and architecture. Powerful, reproducible and containerized workflows (called Runs), git based
