@@ -2,16 +2,16 @@ global:
   name: Continuous Delivery Landscape
   short_name: CDF
   repo: cdfoundation/landscape
-  website: 'https://landscape.cd.foundation'
+  website: https://landscape.cd.foundation
   short_domain: l.cd.foundation
-  company_url: 'https://cd.foundation'
+  company_url: https://cd.foundation
   email: info@cd.foundation
-  self: 'https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf'
+  self: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
   slack_channel: T08PSQ7BQ/BNL6EUY3X/Y1e4mHQl77qnLRi8eQCwtKT0
   meta:
     title: Continuous Delivery Landscape
     fb_admin: alex.contini.94
-    description: 'Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets'
+    description: Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets
     twitter: '@CDeliveryFdn'
     google_site_verification: apI3BLUsW1CCRZpZ6XDsuvJyJSRVc4UZ-yRwbzP3ytk
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
@@ -20,7 +20,7 @@ global:
     companies: CDF Members
 twitter:
   search: landscape.cd.foundation
-  url: 'https://landscape.cd.foundation'
+  url: https://landscape.cd.foundation
   text: CDF Landscape from @CDeliveryFdn
 relation:
   label: CDF Relation
@@ -36,7 +36,7 @@ relation:
           color: '#3570af'
           big_picture_order: 1
           big_picture_label: CDF Graduated
-          big_picture_color: 'rgb(24,54,114)'
+          big_picture_color: rgb(24,54,114)
         - id: incubating
           label: Incubating CDF Projects
           prefix: CDF
@@ -44,7 +44,7 @@ relation:
           color: '#00cbff'
           big_picture_order: 2
           big_picture_label: CDF Incubating
-          big_picture_color: 'rgb(83, 113, 189)'
+          big_picture_color: rgb(83, 113, 189)
     - id: company
       label: CDF Members
       tag: Company
@@ -76,7 +76,7 @@ membership:
     name: LF
     label: Project
     funding: Linux Foundation
-    crunchbase_and_children: 'https://www.crunchbase.com/organization/linux-foundation'
+    crunchbase_and_children: https://www.crunchbase.com/organization/linux-foundation
   cdf:
     name: CDF
     label: Project
@@ -91,7 +91,7 @@ home:
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
 ads:
-  - url: 'https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/?utm_source=cdf_landscape&utm_medium=web&utm_campaign=kccnceu20'
+  - url: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/?utm_source=cdf_landscape&utm_medium=web&utm_campaign=kccnceu20
     image: /images/info1.jpg
     title: Kubecon + CloudNativeCon Europe 2020
 presets:
@@ -122,7 +122,7 @@ big_picture:
         height: 100
         top: 0
         left: 0
-        color: 'rgb(29,119,164)'
+        color: rgb(29,119,164)
       - type: HorizontalCategory
         category: Continuous Automation
         rows: 3
@@ -130,7 +130,7 @@ big_picture:
         height: 100
         top: 0
         left: 620
-        color: 'rgb(19,105,73)'
+        color: rgb(19,105,73)
         fit_width: true
       - type: HorizontalCategory
         category: Config & Library Management
@@ -139,7 +139,7 @@ big_picture:
         height: 120
         top: 120
         left: 0
-        color: 'rgb(79,121,13)'
+        color: rgb(79,121,13)
         fit_width: true
       - type: HorizontalCategory
         category: Infrastructure Deployments
@@ -148,16 +148,16 @@ big_picture:
         height: 120
         top: 120
         left: 300
-        color: 'rgb(126,115,14)'
+        color: rgb(126,115,14)
         fit_width: true
       - type: HorizontalCategory
-        category: 'Container Registry, and Image Build'
+        category: Container Registry, and Image Build
         rows: 3
         width: 180
         height: 140
         top: 260
         left: 0
-        color: 'rgb(87,43,10)'
+        color: rgb(87,43,10)
         fit_width: true
       - type: HorizontalCategory
         category: DevSecOps & Monitoring
@@ -166,7 +166,7 @@ big_picture:
         height: 140
         top: 260
         left: 200
-        color: 'rgb(193,83,21)'
+        color: rgb(193,83,21)
         fit_width: true
       - type: HorizontalCategory
         category: Change and Defect Management
@@ -175,7 +175,7 @@ big_picture:
         height: 140
         top: 260
         left: 520
-        color: 'rgb(185,33,66)'
+        color: rgb(185,33,66)
         fit_width: true
       - type: HorizontalCategory
         category: Protocols and Messaging
@@ -184,7 +184,7 @@ big_picture:
         height: 140
         top: 260
         left: 720
-        color: 'rgb(193, 193, 21)'
+        color: rgb(193, 193, 21)
         fit_width: true
       - type: HorizontalCategory
         category: CDF Members
@@ -193,7 +193,7 @@ big_picture:
         height: 200
         top: 420
         left: 0
-        color: 'rgb(179,60,133)'
+        color: rgb(179,60,133)
         fit_width: true
       - type: LandscapeInfo
         width: 305
