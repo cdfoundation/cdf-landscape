@@ -80,6 +80,14 @@ landscape:
             logo: spinnaker.svg
             twitter: https://twitter.com/spinnakerio
             crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
+          - item:
+            name: Tekton Pipelines
+            homepage_url: https://tekton.dev/
+            project: graduated
+            repo_url: https://github.com/tektoncd/pipeline
+            logo: tekton.svg
+            twitter: https://twitter.com/tektoncd
+            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
       - subcategory:
         name: Continuous Integration
         items:
@@ -96,14 +104,6 @@ landscape:
             repo_url: https://github.com/jenkinsci/jenkins
             logo: jenkins.svg
             twitter: https://twitter.com/jenkinsci
-            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
-          - item:
-            name: Tekton Pipelines
-            homepage_url: https://tekton.dev/
-            project: graduated
-            repo_url: https://github.com/tektoncd/pipeline
-            logo: tekton.svg
-            twitter: https://twitter.com/tektoncd
             crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
           - item:
             name: Travis CI
