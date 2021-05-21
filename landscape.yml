@@ -117,17 +117,16 @@ landscape:
         name: Test Automation
         items:
           - item:
-            name: Selenium
-            homepage_url: https://www.selenium.dev
-            logo: selenium.svg
-            crunchbase: https://www.crunchbase.com/organization/thoughtworks
-          - item:
             name: k6
             homepage_url: https://k6.io
             repo_url: https://github.com/k6io/k6
             logo: k6.svg
-            twitter: https://twitter.com/k6_io
             crunchbase: https://www.crunchbase.com/organization/load-impact
+          - item:
+            name: Selenium
+            homepage_url: https://www.selenium.dev
+            logo: selenium.svg
+            crunchbase: https://www.crunchbase.com/organization/thoughtworks
       - subcategory:
         name: Release Automation
         items:
