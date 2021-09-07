@@ -118,63 +118,64 @@ big_picture:
       - type: HorizontalCategory
         category: CI & Pipeline Orchestration
         rows: 3
-        width: 600
-        height: 100
+        width: 750
+        height: 140
         top: 0
         left: 0
         color: rgb(29,119,164)
+        fit_width: true
       - type: HorizontalCategory
         category: Continuous Automation
         rows: 3
-        width: 280
-        height: 100
+        width: 430
+        height: 140
         top: 0
-        left: 620
+        left: 770
         color: rgb(19,105,73)
         fit_width: true
       - type: HorizontalCategory
         category: Config & Library Management
         rows: 3
-        width: 280
+        width: 460
         height: 120
-        top: 120
+        top: 150
         left: 0
         color: rgb(79,121,13)
         fit_width: true
       - type: HorizontalCategory
         category: Infrastructure Deployments
         rows: 3
-        width: 280
+        width: 400
         height: 120
-        top: 120
-        left: 300
+        top: 150
+        left: 480
         color: rgb(126,115,14)
         fit_width: true
       - type: HorizontalCategory
         category: Container Registry, and Image Build
         rows: 3
-        width: 180
+        width: 300
         height: 140
-        top: 260
+        top: 280
         left: 0
         color: rgb(87,43,10)
         fit_width: true
       - type: HorizontalCategory
         category: DevSecOps & Monitoring
         rows: 3
-        width: 300
+        width: 390
         height: 140
-        top: 260
-        left: 200
+        top: 280
+        left: 320
         color: rgb(193,83,21)
         fit_width: true
       - type: HorizontalCategory
         category: Change and Defect Management
         rows: 3
-        width: 180
+        width: 280
         height: 140
-        top: 260
-        left: 520
+        top: 280
+        left: 730
         color: rgb(185,33,66)
         fit_width: true
       - type: HorizontalCategory
@@ -182,8 +183,8 @@ big_picture:
         rows: 3
         width: 180
         height: 140
-        top: 260
-        left: 720
+        top: 280
+        left: 1020
         color: rgb(193, 193, 21)
         fit_width: true
       - type: HorizontalCategory
@@ -191,39 +192,39 @@ big_picture:
         rows: 8
         width: 900
         height: 200
-        top: 420
+        top: 430
         left: 0
         color: rgb(179,60,133)
         fit_width: true
       - type: LandscapeInfo
         width: 305
         height: 140
-        top: 100
-        left: 595
+        top: 130
+        left: 895
         children:
           - type: text
             text: >
               This landscape is intended as a map to explore the Continuous Delivery community, and also shows the member organizations of the Continous
               Delivery Foundation.
             top: 40
-            left: 110
+            left: 105
             right: 10
-            font_size: 9
+            font_size: 10
           - type: image
             image: qr.svg
-            top: 10
-            left: 10
+            top: 30
+            left: 15
             width: 80
             height: 80
             title: QR Code
           - type: title
             title: l.cd.foundation
-            top: 90
-            left: 10
-            font_size: 21
+            top: 6
+            left: 8
+            font_size: 15
           - type: image
             image: left-logo.svg
-            width: 100
+            width: 85
             right: 105
             top: 5
             title: Landscape Logo
@@ -239,7 +240,7 @@ big_picture:
         title: CNCF Landscape
         layout: subcategory
         left: 920
-        top: 420
+        top: 430
         width: 280
         height: 200
         color: rgb(64,117,191)
