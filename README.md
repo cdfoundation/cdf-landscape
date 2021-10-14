@@ -33,12 +33,12 @@ Please see [landscape.cd.foundation](https://landscape.cd.foundation).
 ## New Entries
 
 * Projects must be hosted on or mirrored to GitHub.
-* CI/CD projects with at least 300 GitHub stars that clearly fit in an existing category are generally included. Put the project in a single category where it best fits.
+* CI/CD projects that clearly fit in an existing landscape category, and with 300+ GitHub stars, are generally included. Put the project in a single category where it best fits.
 * We are unlikely to create a new category for projects as we'd rather find the best home with the current options.
 * Your project or company needs a logo and the logo needs to include the name.
 * Crunchbase organization should be the company or organization that controls the software. That is normally the owner of the trademark, whether or not a trademark has been formally filed.
 
-Please note that these are guidelines and if a project doesn't match every guideline, you may still apply to have the project included in the CDF landscape, but please provide additional information as to why an exception is required.
+ If a project doesn't match the above new entry guidelines, you may still apply to have the project included in the CDF landscape, but please provide additional information as to why an exception is required.
 
 If you think your project should be included, please open a pull request (PR) to add it to [landscape.yml](landscape.yml). It is necessary to include a logo in the PR. For the logo, you can either upload an SVG to the `hosted_logos` directory or put a URL as the value, and it will be fetched.
 
