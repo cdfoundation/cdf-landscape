@@ -32,15 +32,15 @@ Please see [landscape.cd.foundation](https://landscape.cd.foundation).
 
 ## New Entries
 
-* Projects must be hosted on or mirrored to GitHub.
-* CI/CD projects that clearly fit in an existing landscape category, and with 300+ GitHub stars, are generally included. Put the project in a single category where it best fits.
+* We welcome additions for CI/CD projects that clearly fit in an existing landscape category, and that have 300+ GitHub stars. Put the project in the single category where it best fits.
 * We are unlikely to create a new category for projects as we'd rather find the best home with the current options.
+* Projects must be hosted on or mirrored to GitHub.
 * Your project or company needs a logo and the logo needs to include the name.
 * Crunchbase organization should be the company or organization that controls the software. That is normally the owner of the trademark, whether or not a trademark has been formally filed.
 
  If a project doesn't match the above new entry guidelines, you may still apply to have the project included in the CDF landscape, but please provide additional information as to why an exception is required.
 
-If you think your project should be included, please open a pull request (PR) to add it to [landscape.yml](landscape.yml). It is necessary to include a logo in the PR. For the logo, you can either upload an SVG to the `hosted_logos` directory or put a URL as the value, and it will be fetched.
+If you think your project should be included, please open a pull request (PR) to add it to [landscape.yml](landscape.yml). It is necessary to include a logo in the PR. For the logo, upload an SVG to the `hosted_logos` directory and reference it there.
 
 Netlify will generate a staging server for you to preview your updates. Please check that the logo and information appear correctly and then add `LGTM` to the pull request confirming your review and requesting a merge.
 
@@ -54,7 +54,7 @@ The following rules will produce the most readable and attractive logos:
 1. Logos must include the company, product or project name in English. It's fine to also include words from another language. If you don't have a version of your logo with the name in it, please open an issue and we'll create one for you (and please specify the font).
 1. Match the item name to the English words in the logos. So an Acme Rocket logo that shows "Rocket" should have product name "Rocket", while if the logo shows "Acme Rocket", the product name should be "Acme Rocket". Otherwise, logos look out of place when you sort alphabetically.
 1. Google images is often the best way to find a good version of the logo (but ensure it's the up-to-date version). Search for [grpc logo filetype:svg](https://www.google.com/search?q=grpc+logo&tbs=ift:svg,imgo:1&tbm=isch) but substitute your project or product name for grpc.
-1. You can either upload an SVG to the `hosted_logos` directory or put a URL as the value, and it will be fetched.
+1. Upload the SVG to the `hosted_logos` directory.
 
 ## Proper SVGs
 
