@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/38f97d3e-ec09-4de5-aa53-49f9e5c3eabb/deploy-status)](https://app.netlify.com/sites/cdf-landscape/deploys)
 
-![CDF Landscape Logo](https://github.com/cdfoundation/artwork/raw/master/cdf/stacked/color/cdf-stacked-color.png)
+![CDF Landscape Logo](https://github.com/cdfoundation/artwork/blob/main/cdf/other/landscape/cdf-landscape-horizontal-color-logo.svg)
 
 - [CDF Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
