@@ -94,7 +94,7 @@ The interactive landscape displays the status (or non-existence) of a badge for 
 
 ## Non-Updated Items
 
-We generally remove open source projects that have not had a commit in over three months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is the view of projects sorted by the last update: https://landscape.cd.foundation/grouping=no&license=open-source&sort=latest-commit
+We generally remove open source projects that have not had a commit in over three months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is the view of projects sorted by the last update: https://landscape.cd.foundation/?grouping=no&license=open-source&sort=latest-commit
 
 We generally remove closed source products when they have not tweeted in over three months. This doesn't apply to Chinese companies without Twitter accounts, since Twitter is blocked there. Here is a view of products sorted by the last tweet: https://landscape.lfcdai.foundation/grouping=no&license=not-open-source&sort=latest-tweet
 
