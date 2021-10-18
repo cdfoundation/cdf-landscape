@@ -1,12 +1,12 @@
 <!---
 Thank you for your interest in improving the CDF Landscape!
 
-Missing or Incorrect Item on Landscape:
+For Missing or Incorrect Items on Landscape:
 
-If you see an error in the cards, or missing projects, please don't create an issue here.
+If you see an error in the cards, or missing ones, please don't create an issue here.
 Instead, edit landscape.yml and open a pull request.
 Then, review the preview staging server that's posted to your pull request and add a comment if your new or updated card looks correct and is ready to merge.
-Please carefully review the sections of the Readme covering new entries, logos, and corrections.
+Please carefully review the sections of the README covering new entries, logos, and corrections.
 -->
 
 ### Bug report or Feature or Category request:
