@@ -10,8 +10,8 @@
   * [New Entries](#new-entries)
   * [Logos](#logos)
   * [SVGs](#svgs)
-  * [Corrections](#corrections)
   * [Installation](#installation)
+  * [Corrections](#corrections)
   * [External Data](#external-data)
   * [Best Practices Badge](#best-practices-badge)
   * [Non-Updated Items](#non-updated-items)
@@ -61,12 +61,6 @@ The following rules will produce the most readable and attractive logos:
 
 [Directions](https://github.com/cncf/landscapeapp/blob/master/README.md#logos) on how to conform to landscape SVG requirements.
 
-## Corrections
-
-Please open a pull request with edits to [landscape.yml](landscape.yml). The file [processed_landscape.yml](processed_landscape.yml) is generated and so should never be edited directly.
-
-If the error is with data from [Crunchbase](https://www.crunchbase.com/) you should open an account there and edit the data. If you don't like a project description, edit it in GitHub. If your project isn't showing the license correctly, you may need to paste the unmodified text of the license into a LICENSE file at the root of your project in GitHub, in order for GitHub to serve the license information correctly.
-
 ## Installation
 
 To edit the landscape, it's not necessary to install and run the app locally.
@@ -76,6 +70,12 @@ To edit the landscape, it's not necessary to install and run the app locally.
 Netlify will generate a staging server for you to preview your changes. After about 10 minutes, a link will be added to your PR for you to preview your updates. Please check that the logo and information appear correctly.
 
 If desired, you can install and run the landscape app locally with the [install directions](INSTALL.md).
+
+## Corrections
+
+Please open a pull request with edits to [landscape.yml](landscape.yml). The file [processed_landscape.yml](processed_landscape.yml) is generated and so should never be edited directly.
+
+If the error is with data from [Crunchbase](https://www.crunchbase.com/) you should open an account there and edit the data. If you don't like a project description, edit it in GitHub. If your project isn't showing the license correctly, you may need to paste the unmodified text of the license into a LICENSE file at the root of your project in GitHub, in order for GitHub to serve the license information correctly.
 
 ## External Data
 
