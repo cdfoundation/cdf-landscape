@@ -17,7 +17,6 @@
   * [Non-Updated Items](#non-updated-items)
   * [License](#license)
   * [Formats](#formats)
-
   * [Vulnerability reporting](#vulnerability-reporting)
   * [Adjusting the Landscape View](#adjusting-the-landscape-view)
 
@@ -121,15 +120,16 @@ The CDF Landscape is available in these formats:
 Please open an [issue](https://github.com/cdfoundation/cdf-landscape/issues/new) or, for sensitive information, email info@cd.foundation. Original source code inquiries: info@cncf.io
 
 ## Adjusting the Landscape View
-The file src/components/MainContent2.js describes the key elements of a
-landscape big picture. It specifies where to put these sections: App Definition
-and Development, Orchestration & Management, Runtime,  Provisioning, Cloud, 
-Platform, Observability and Analysis, Special. Also it specifies where to
-locate the link to the serverless preview and an info with a QR code.
+The file [settings.yml](settings.yml) describes the key elements of a landscape big picture.
+It specifies where to put these sections: CI & Pipeline Orchestration, Continuous Automation, Config & Library Management, Infrastructure Deployments, Container Registry and Image Build,
+DevSecOps & Monitoring, Change and Defect Management, Protocols and Messaging, CDF Members.
+Also it specifies where to locate the link to the serverless preview and an info with a QR code.
 
 All these elements should have `top`, `left`, `width` and `height` properties to
-position them. `rows` and `cols` specify how much columns or rows we expect in a
+position them.
+Properties `rows` and `cols` specify how many columns or rows we expect in a
 given horizontal or vertical section.
+The `fit_width` property is used to get rid of extra space on the right of a section.
 
 When we see that those elements can not fit the sections, we need to either increase
 the width of all the horizontal sections, or increase height and amount of rows
@@ -141,9 +141,3 @@ Beside that, we have to adjust the width of a parent div (1620), the width in a
 
 Sometimes the total height is changed too, then we need to adjust the height the
 same way as we adjust the width.
-
-We have an experimental `fitWidth` property, it is good when you want to get rid of
-extra space on the right of a section.
-
-The best way to test that layout is ok, is to visit `/landscape`, and if it looks ok, run `PORT=3000 babel-node
-tools/renderLandscape` and see the rendered png files, they are in src/images folder.
