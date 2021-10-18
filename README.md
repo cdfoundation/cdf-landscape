@@ -9,7 +9,7 @@
   * [Interactive Version](#interactive-version)
   * [New Entries](#new-entries)
   * [Logos](#logos)
-  * [Proper SVGs](#proper-svgs)
+  * [SVGs](#svgs)
   * [Corrections](#corrections)
   * [External Data](#external-data)
   * [Best Practices Badge](#best-practices-badge)
@@ -38,9 +38,9 @@ Please see [landscape.cd.foundation](https://landscape.cd.foundation).
 * Your project or company needs a logo and the logo needs to include the name.
 * Crunchbase organization should be the company or organization that controls the software. That is normally the owner of the trademark, whether or not a trademark has been formally filed.
 
- If a project doesn't match the above new entry guidelines, you may still apply to have the project included in the CDF landscape, but please provide additional information as to why an exception is required.
+ If a project doesn't match the above new entry guidelines, you may still open a pull request (PR) to have the project included in the CDF landscape, but please provide additional information as to why an exception is required.
 
-If you think your project should be included, please open a pull request (PR) to add it to [landscape.yml](landscape.yml). It is necessary to include a logo in the PR. For the logo, upload an SVG to the `hosted_logos` directory and reference it there.
+If you think your project should be included, please open a PR to add it to [landscape.yml](landscape.yml). It is necessary to include a logo in the PR. For the logo, upload an SVG to the `hosted_logos` directory and reference it there.
 
 Netlify will generate a staging server for you to preview your updates. Please check that the logo and information appear correctly and then add `LGTM` to the pull request confirming your review and requesting a merge.
 
@@ -48,7 +48,7 @@ Netlify will generate a staging server for you to preview your updates. Please c
 
 The following rules will produce the most readable and attractive logos:
 
-1. We require SVGs, as they are smaller, display correctly at any scale, and work on all modern browsers. If you only have the logo in another vector format (like AI or EPS), please open an issue and we'll convert it to an SVG for you, or you can often do it yourself at https://cloudconvert.com/. Note that you may need to zip your file to attach it to a GitHub issue. Please note that we require pure SVGs and will reject SVGs that contain embedded PNGs since they have the same problems of being bigger and not scaling seamlessly. We also require that SVGs convert fonts to outlines so that they will render correctly whether or not a font is installed. See [Proper SVGs](#proper-svgs) below.
+1. We require SVGs, as they are smaller, display correctly at any scale, and work on all modern browsers. Please note that we require pure SVGs and will reject SVGs that contain embedded PNGs since they have the same problems of being bigger and not scaling seamlessly. We also require that SVGs convert fonts to outlines so that they will render correctly whether or not a font is installed. For additional directions on how to source logo SVGs and how to conform to landscape SVG requirements, please see [SVGs](#svgs) below.
 1. When multiple variants exist, use stacked (not horizontal) logos. For example, we use the second column (stacked), not the first (horizontal), of CDF project [logos](https://github.com/cdfoundation/artwork).
 1. Don't use reversed logos (i.e., with a non-white, non-transparent background color). If you only have a reversed logo, create an issue with it attached and we'll produce a non-reversed version for you.
 1. Logos must include the company, product or project name in English. It's fine to also include words from another language. If you don't have a version of your logo with the name in it, please open an issue and we'll create one for you (and please specify the font).
@@ -56,17 +56,9 @@ The following rules will produce the most readable and attractive logos:
 1. Google images is often the best way to find a good version of the logo (but ensure it's the up-to-date version). Search for [grpc logo filetype:svg](https://www.google.com/search?q=grpc+logo&tbs=ift:svg,imgo:1&tbm=isch) but substitute your project or product name for grpc.
 1. Upload the SVG to the `hosted_logos` directory.
 
-## Proper SVGs
+## SVGs
 
-SVGs need to not rely on external fonts so that they will render correctly in any web browser, whether or not the correct fonts are installed. If you have the original AI file, here are the steps in Illustrator to create a proper SVG:
-
-1. Open file in Illustrator
-1. Select all text
-1. With the text selected, go to Object > Expand in the top menu
-1. Export file by going to File > Export > Export As in top menu
-1. Select SVG from the format drop down and make sure that "Use Artboards" is checked
-1. This will open a SVG options box, make sure to set Decimal to 5 (that is the highest possible, so to ensure that sufficient detail is preserved)
-1. Click Okay to export
+[Directions](https://github.com/cncf/landscapeapp/blob/master/README.md#logos) on how to conform to landscape SVG requirements.
 
 ## Corrections
 
@@ -90,7 +82,7 @@ The update server enhances the source data with the fetched data and saves the r
 As explained at https://bestpractices.coreinfrastructure.org/:
 >The Linux Foundation (LF) Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice. The CII Best Practices Badge is inspired by the many badges available to projects on GitHub. Consumers of the badge can quickly assess which FLOSS projects are following best practices and as a result are more likely to produce higher-quality secure software.
 
-The interactive landscape displays the status (or non-existence) of a badge for each open-source project. There's also a feature not available through the filter bar to see all items [with](https://landscape.cd.foundation/bestpractices=yes) and [without](https://landscape.cd.foundation/bestpractices=no) badges. Note that a passing badge is a requirement for projects to [graduate](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) in the CDF.
+The interactive landscape displays the status (or non-existence) of a badge for each open-source project. There's also a feature not available through the filter bar to see all items [with](https://landscape.cd.foundation/?bestpractices=yes) and [without](https://landscape.cd.foundation/?bestpractices=no) badges. Note that a passing badge is a requirement for projects to [graduate](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) in the CDF.
 
 ## Non-Updated Items
 
