@@ -11,12 +11,13 @@
   * [Logos](#logos)
   * [SVGs](#svgs)
   * [Corrections](#corrections)
+  * [Installation](#installation)
   * [External Data](#external-data)
   * [Best Practices Badge](#best-practices-badge)
   * [Non-Updated Items](#non-updated-items)
   * [License](#license)
   * [Formats](#formats)
-  * [Installation](#installation)
+
   * [Vulnerability reporting](#vulnerability-reporting)
   * [Adjusting the Landscape View](#adjusting-the-landscape-view)
 
@@ -66,6 +67,16 @@ Please open a pull request with edits to [landscape.yml](landscape.yml). The fil
 
 If the error is with data from [Crunchbase](https://www.crunchbase.com/) you should open an account there and edit the data. If you don't like a project description, edit it in GitHub. If your project isn't showing the license correctly, you may need to paste the unmodified text of the license into a LICENSE file at the root of your project in GitHub, in order for GitHub to serve the license information correctly.
 
+## Installation
+
+To edit the landscape, it's not necessary to install and run the app locally.
+
+1. You can edit [landscape.yml](landscape.yml) via the GitHub web interface.
+2. To add a new card, fork and clone this repo to have a local copy, make changes to [landscape.yml](landscape.yml), add the required SVG to the `hosted_logos` directory, and create a PR.
+Netlify will generate a staging server for you to preview your changes. After about 10 minutes, a link will be added to your PR for you to preview your updates. Please check that the logo and information appear correctly.
+
+If desired, you can install and run the landscape app locally with the [install directions](INSTALL.md).
+
 ## External Data
 
 The canonical source for all data is [landscape.yml](landscape.yml). Once a day, we download data for projects and companies from the following sources:
@@ -104,10 +115,6 @@ The CDF Landscape is available in these formats:
 
 * [PNG](https://landscape.cd.foundation/images/landscape.png)
 * [PDF](https://landscape.cd.foundation/images/landscape.pdf)
-
-## Installation
-
-You can install and run locally with the [install directions](INSTALL.md). It's not necessary to install locally if you just want to edit [landscape.yml](landscape.yml). You can do so via the GitHub web interface.
 
 ## Issue and Vulnerability reporting
 
