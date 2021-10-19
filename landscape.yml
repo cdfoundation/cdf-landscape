@@ -189,6 +189,15 @@ landscape:
         name: Build Automation
         items:
           - item:
+            name: Gradle Build Tool
+            description: >-
+              Gradle is a build automation tool for multi-language software development. It controls the development process in the tasks of compilation  and
+              packaging to testing, deployment, and publishing. Supported languages include Java (Kotlin, Groovy, Scala), C/C++, and JavaScript.
+            homepage_url: https://gradle.org
+            repo_url: https://github.com/gradle/gradle
+            logo: gradle.svg
+            crunchbase: https://www.crunchbase.com/organization/gradle
+          - item:
             name: OpenMake Meister
             homepage_url: https://www.openmakesoftware.com/meister-build-automation/
             logo: openmakesoftware.svg
