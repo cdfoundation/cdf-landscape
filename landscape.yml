@@ -414,7 +414,7 @@ landscape:
         items:
           - item:
             name: Anchore
-            homepage_url: https://anchore.com/enterprise/
+            homepage_url: https://anchore.com/
             repo_url: https://github.com/anchore/anchore-engine
             logo: anchore.svg
             crunchbase: https://www.crunchbase.com/organization/anchore-inc
@@ -458,6 +458,13 @@ landscape:
       - subcategory:
         name: Version Control
         items:
+          - item:
+            name: Gitea
+            homepage_url: https://gitea.io/
+            repo_url: https://github.com/go-gitea/gitea
+            logo: gitea.svg
+            organization:
+              name: Gitea
           - item:
             name: GitHub
             homepage_url: https://github.com/
