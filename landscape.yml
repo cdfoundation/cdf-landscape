@@ -161,7 +161,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/travis-ci
           - item:
             name: Woodpecker CI
-            homepage_url: https://woodpecker-ci.github.io/
+            homepage_url: https://woodpecker-ci.org
             repo_url: https://github.com/woodpecker-ci/woodpecker
             logo: woodpecker-ci.svg
             crunchbase: https://www.crunchbase.com/organization/woodpecker-ci
@@ -357,16 +357,16 @@ landscape:
         name: Container Registry
         items:
           - item:
-            name: Docker Hub
-            homepage_url: https://hub.docker.com/
-            logo: docker.svg
-            crunchbase: https://www.crunchbase.com/organization/docker
-          - item:
             name: Distribution
             homepage_url: https://github.com/distribution/distribution
             repo_url: https://github.com/distribution/distribution
             logo: distribution.svg
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          - item:
+            name: Docker Hub
+            homepage_url: https://hub.docker.com/
+            logo: docker.svg
+            crunchbase: https://www.crunchbase.com/organization/docker
           - item:
             name: Harbor
             homepage_url: https://goharbor.io/
@@ -460,7 +460,7 @@ landscape:
         items:
           - item:
             name: Gitea
-            homepage_url: https://gitea.io/
+            homepage_url: https://gitea.io/en-us
             repo_url: https://github.com/go-gitea/gitea
             logo: gitea.svg
             organization:
