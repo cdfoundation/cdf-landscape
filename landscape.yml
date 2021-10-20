@@ -17,7 +17,7 @@ landscape:
             logo: agola.svg
             crunchbase: https://www.crunchbase.com/organization/sorint-lab
           - item:
-            name: Argo
+            name: Argo Workflows
             homepage_url: https://argoproj.github.io/
             repo_url: https://github.com/argoproj/argo-workflows
             logo: argo.svg
@@ -38,6 +38,13 @@ landscape:
             homepage_url: https://www.cloudbees.com/
             logo: cloudbees.svg
             crunchbase: https://www.crunchbase.com/organization/cloudbees
+          - item:
+            name: Codefresh
+            homepage_url: https://codefresh.io
+            repo_url: https://github.com/codefresh-io
+            twitter: https://twitter.com/codefresh
+            logo: codefresh.svg
+            crunchbase: https://www.crunchbase.com/organization/code-fresh
           - item:
             name: Concourse
             homepage_url: https://concourse-ci.org/
@@ -192,6 +199,13 @@ landscape:
       - subcategory:
         name: Release Automation
         items:
+          - item:
+            name: Codefresh
+            homepage_url: https://codefresh.io
+            repo_url: https://github.com/codefresh-io
+            twitter: https://twitter.com/codefresh
+            logo: codefresh.svg
+            crunchbase: https://www.crunchbase.com/organization/code-fresh
           - item:
             name: UrbanCode Velocity
             homepage_url: https://www.urbancode.com/
