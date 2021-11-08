@@ -140,6 +140,21 @@ landscape:
             logo: tekton.svg
             twitter: https://twitter.com/tektoncd
             crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
+          - item:
+            name: Orkestra 
+            description: >-
+              Orkestra is a cloud-native Release Orchestration and Lifecycle Management (LCM) platform for a related group of Helm releases and their subcharts
+              Orkestra is built on top of popular CNCF tools and technologies like,
+              - Helm
+              - Argo Workflows,
+              - Flux Helm Controller,
+              - Chartmuseum
+              - Keptn
+            homepage_url: https://azure.github.io/orkestra/
+            repo_url: https://github.com/Azure/orkestra
+            logo: azure.svg
+            crunchbase: https://www.crunchbase.com/organization/azure
+            twitter: https://twitter.com/Azure
       - subcategory:
         name: Continuous Integration
         items:
