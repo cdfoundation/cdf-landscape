@@ -32,7 +32,8 @@ Please see [landscape.cd.foundation](https://landscape.cd.foundation).
 
 ## New Entries
 
-* We welcome additions for CI/CD projects that clearly fit in an existing landscape category, and that have 300+ GitHub stars. Put the project in the single category where it best fits.
+* We welcome additions for CI/CD projects that clearly fit in an existing landscape category, and that have 300+ GitHub stars. 
+* Put the project in the single category where it best fits.
 * We are unlikely to create a new category for projects as we'd rather find the best home with the current options.
 * Projects must be hosted on or mirrored to GitHub.
 * Your project or company needs a logo and the logo needs to include the name.
