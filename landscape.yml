@@ -435,7 +435,7 @@ landscape:
             twitter: https://twitter.com/shipwrightio
             crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
   - category:
-    name: DevSecOps & Monitoring
+    name: DevSecOps
     subcategories:
       - subcategory:
         name: Container Security
@@ -462,24 +462,6 @@ landscape:
             homepage_url: https://sysdig.com/use-cases/kubernetes-security
             logo: sysdig-secure.svg
             crunchbase: https://www.crunchbase.com/organization/sysdig
-      - subcategory:
-        name: Analytics & Monitoring
-        items:
-          - item:
-            name: Datadog
-            homepage_url: https://www.datadoghq.com/
-            logo: datadog.svg
-            crunchbase: https://www.crunchbase.com/organization/datadog
-          - item:
-            name: New Relic
-            homepage_url: https://newrelic.com/
-            logo: newrelic.svg
-            crunchbase: https://www.crunchbase.com/organization/new-relic
-          - item:
-            name: Sumo Logic
-            homepage_url: https://www.sumologic.com/
-            logo: sumologic.svg
-            crunchbase: https://www.crunchbase.com/organization/sumo-logic
   - category:
     name: Observability and Analysis
     subcategories:
@@ -496,10 +478,28 @@ landscape:
         name: Monitoring
         items:
         - item:
+          name: Datadog
+          homepage_url: https://www.datadoghq.com/
+          logo: datadog.svg
+          crunchbase: https://www.crunchbase.com/organization/datadog
+        - item:
           name: Dynatrace
           homepage_url: https://www.dynatrace.com/
           logo: dynatrace.svg
           crunchbase: https://www.crunchbase.com/organization/dynatrace-software
+        - item:
+          name: New Relic
+          homepage_url: https://newrelic.com/
+          logo: newrelic.svg
+          crunchbase: https://www.crunchbase.com/organization/new-relic
+      - subcategory:
+        name: Logging
+        items:
+          - item:
+            name: Sumo Logic
+            homepage_url: https://www.sumologic.com/
+            logo: sumologic.svg
+            crunchbase: https://www.crunchbase.com/organization/sumo-logic
       - subcategory:
         name: Tracing
         items:
