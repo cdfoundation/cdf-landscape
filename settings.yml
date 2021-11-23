@@ -150,7 +150,7 @@ big_picture:
       - type: HorizontalCategory
         category: Infrastructure Deployments
         rows: 3
-        width: 400
+        width: 370
         height: 120
         top: 170
         left: 480
@@ -202,10 +202,10 @@ big_picture:
         color: rgb(179,60,133)
         fit_width: true
       - type: LandscapeInfo
-        width: 305
+        width: 335
         height: 140
         top: 150
-        left: 895
+        left: 865
         children:
           - type: text
             text: >
@@ -230,7 +230,7 @@ big_picture:
           - type: image
             image: left-logo.svg
             width: 85
-            right: 105
+            right: 130
             top: 5
             title: Landscape Logo
           - type: image
