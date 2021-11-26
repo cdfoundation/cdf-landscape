@@ -366,19 +366,6 @@ landscape:
             logo: puppet.svg
             crunchbase: https://www.crunchbase.com/organization/puppet-labs
   - category:
-    name: Protocols and Messaging
-    subcategories:
-      - subcategory:
-        name: Messaging
-        items:
-          - item:
-            name: Eiffel
-            description: Eiffel is a technology agnostic CI/CD event protocol
-            homepage_url: https://eiffel-community.github.io
-            repo_url: https://github.com/eiffel-community/eiffel
-            logo: eiffel.svg
-            crunchbase: https://www.crunchbase.com/organization/eiffel-community
-  - category:
     name: Container Registry & Build
     subcategories:
       - subcategory:
@@ -475,7 +462,7 @@ landscape:
           logo: key.svg
           crunchbase: https://www.crunchbase.com/organization/google
       - subcategory:
-        name: Monitoring
+        name: Monitoring and Logging
         items:
         - item:
           name: Datadog
@@ -492,17 +479,21 @@ landscape:
           homepage_url: https://newrelic.com/
           logo: newrelic.svg
           crunchbase: https://www.crunchbase.com/organization/new-relic
+        - item:
+          name: Sumo Logic
+          homepage_url: https://www.sumologic.com/
+          logo: sumologic.svg
+          crunchbase: https://www.crunchbase.com/organization/sumo-logic
       - subcategory:
-        name: Logging
+        name: Tracing and Messaging
         items:
-          - item:
-            name: Sumo Logic
-            homepage_url: https://www.sumologic.com/
-            logo: sumologic.svg
-            crunchbase: https://www.crunchbase.com/organization/sumo-logic
-      - subcategory:
-        name: Tracing
-        items:
+        - item:
+          name: Eiffel
+          description: Eiffel is a technology agnostic CI/CD event protocol
+          homepage_url: https://eiffel-community.github.io
+          repo_url: https://github.com/eiffel-community/eiffel
+          logo: eiffel.svg
+          crunchbase: https://www.crunchbase.com/organization/eiffel-community
         - item:
           name: Honeycomb
           homepage_url: https://www.honeycomb.io/
