@@ -373,19 +373,6 @@ landscape:
             logo: terraform.svg
             crunchbase: https://www.crunchbase.com/organization/hashicorp
   - category:
-    name: Protocols and Messaging
-    subcategories:
-      - subcategory:
-        name: Messaging
-        items:
-          - item:
-            name: Eiffel
-            description: Eiffel is a technology agnostic CI/CD event protocol
-            homepage_url: https://eiffel-community.github.io
-            repo_url: https://github.com/eiffel-community/eiffel
-            logo: eiffel.svg
-            crunchbase: https://www.crunchbase.com/organization/eiffel-community
-  - category:
     name: Container Registry & Build
     subcategories:
       - subcategory:
@@ -442,7 +429,7 @@ landscape:
             twitter: https://twitter.com/shipwrightio
             crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
   - category:
-    name: DevSecOps & Monitoring
+    name: DevSecOps
     subcategories:
       - subcategory:
         name: Container Security
@@ -469,62 +456,63 @@ landscape:
             homepage_url: https://sysdig.com/use-cases/kubernetes-security
             logo: sysdig-secure.svg
             crunchbase: https://www.crunchbase.com/organization/sysdig
-      - subcategory:
-        name: Analytics & Monitoring
-        items:
-          - item:
-            name: Datadog
-            homepage_url: https://www.datadoghq.com/
-            logo: datadog.svg
-            crunchbase: https://www.crunchbase.com/organization/datadog
-          - item:
-            name: Dynatrace
-            homepage_url: https://www.dynatrace.com/
-            logo: dynatrace.svg
-            crunchbase: https://www.crunchbase.com/organization/dynatrace-software
-          - item:
-            name: New Relic
-            homepage_url: https://newrelic.com/
-            logo: newrelic.svg
-            crunchbase: https://www.crunchbase.com/organization/new-relic
-          - item:
-            name: Sumo Logic
-            homepage_url: https://www.sumologic.com/
-            logo: sumologic.svg
-            crunchbase: https://www.crunchbase.com/organization/sumo-logic
   - category:
-    name: Change Management
+    name: Observability and Analysis
     subcategories:
       - subcategory:
-        name: Version Control
+        name: DevOps Metrics
         items:
-          - item:
-            name: Git
-            homepage_url: https://git-scm.com/
-            repo_url: https://github.com/git/git
-            logo: git.svg
-            crunchbase: https://www.crunchbase.com/organization/git
-          - item:
-            name: Gitea
-            homepage_url: https://gitea.io/en-us
-            repo_url: https://github.com/go-gitea/gitea
-            logo: gitea.svg
-            twitter: https://twitter.com/giteaio
-            organization:
-              name: Gitea
-          - item:
-            name: GitHub
-            homepage_url: https://github.com/
-            logo: git-hub.svg
-            crunchbase: https://www.crunchbase.com/organization/github
+        - item:
+          name: Four Keys
+          homepage_url: https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance
+          repo_url: https://github.com/GoogleCloudPlatform/fourkeys
+          logo: fourkeys.svg
+          crunchbase: https://www.crunchbase.com/organization/google
       - subcategory:
-        name: Issue Tracking
+        name: Monitoring and Logging
         items:
-          - item:
-            name: Jira
-            homepage_url: https://www.atlassian.com/software/jira
-            logo: jira.svg
-            crunchbase: https://www.crunchbase.com/organization/atlassian
+        - item:
+          name: Datadog
+          homepage_url: https://www.datadoghq.com/
+          logo: datadog.svg
+          crunchbase: https://www.crunchbase.com/organization/datadog
+        - item:
+          name: Dynatrace
+          homepage_url: https://www.dynatrace.com/
+          logo: dynatrace.svg
+          crunchbase: https://www.crunchbase.com/organization/dynatrace-software
+        - item:
+          name: New Relic
+          homepage_url: https://newrelic.com/
+          logo: newrelic.svg
+          crunchbase: https://www.crunchbase.com/organization/new-relic
+        - item:
+          name: Sumo Logic
+          homepage_url: https://www.sumologic.com/
+          logo: sumologic.svg
+          crunchbase: https://www.crunchbase.com/organization/sumo-logic
+      - subcategory:
+        name: Tracing and Messaging
+        items:
+        - item:
+          name: Eiffel
+          description: Eiffel is a technology agnostic CI/CD event protocol
+          homepage_url: https://eiffel-community.github.io
+          repo_url: https://github.com/eiffel-community/eiffel
+          logo: eiffel.svg
+          crunchbase: https://www.crunchbase.com/organization/eiffel-community
+        - item:
+          name: Honeycomb
+          homepage_url: https://www.honeycomb.io/
+          logo: honeycomb.svg
+          crunchbase: https://www.crunchbase.com/organization/honeycombio
+        - item:
+          name: OpenTelemetry
+          homepage_url: https://opentelemetry.io/
+          repo_url: https://github.com/open-telemetry/community
+          logo: open-telemetry.svg
+          twitter: https://twitter.com/opentelemetry
+          crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
   - category:
     name: CDF Members
     subcategories:

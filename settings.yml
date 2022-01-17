@@ -166,31 +166,22 @@ big_picture:
         color: rgb(87,43,10)
         fit_width: true
       - type: HorizontalCategory
-        category: DevSecOps & Monitoring
+        category: DevSecOps
         rows: 3
-        width: 390
+        width: 190
         height: 120
         top: 300
         left: 420
         color: rgb(193,83,21)
         fit_width: true
       - type: HorizontalCategory
-        category: Change Management
+        category: Observability and Analysis
         rows: 3
-        width: 240
+        width: 440
         height: 120
         top: 300
-        left: 830
+        left: 630
         color: rgb(185,33,66)
-        fit_width: true
-      - type: HorizontalCategory
-        category: Protocols and Messaging
-        rows: 3
-        width: 110
-        height: 120
-        top: 300
-        left: 1090
-        color: rgb(193, 193, 21)
         fit_width: true
       - type: HorizontalCategory
         category: CDF Members
