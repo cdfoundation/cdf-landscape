@@ -154,6 +154,12 @@ landscape:
         name: Continuous Integration
         items:
           - item:
+            name: Buildkite
+            description: Buildkite is a platform for running fast, secure, and scalable continuous integration pipelines on your own infrastructure.
+            homepage_url: https://buildkite.com/
+            logo: buildkite.svg
+            crunchbase: https://www.crunchbase.com/organization/buildkite
+          - item:
             name: Drone
             homepage_url: https://drone.io/
             repo_url: https://github.com/harness/drone
@@ -199,6 +205,16 @@ landscape:
             logo: k6.svg
             crunchbase: https://www.crunchbase.com/organization/load-impact
           - item:
+            name: Playwright
+            description: >-
+              Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. Playwright is built to
+              enable cross-browser web automation that is ever-green, capable, reliable and fast.
+            homepage_url: https://playwright.dev
+            repo_url: https://github.com/microsoft/playwright
+            logo: playwright.svg
+            twitter: https://twitter.com/playwrightweb
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
             name: Selenium
             homepage_url: https://www.selenium.dev
             repo_url: https://github.com/SeleniumHQ/selenium
@@ -223,12 +239,6 @@ landscape:
       - subcategory:
         name: Build Automation
         items:
-          - item:
-            name: Buildkite
-            homepage_url: https://buildkite.com/
-            repo_url: https://github.com/buildkite/agent
-            logo: buildkite.svg
-            crunchbase: https://www.crunchbase.com/organization/buildkite
           - item:
             name: Gradle Build Tool
             description: >-
@@ -363,19 +373,6 @@ landscape:
             logo: terraform.svg
             crunchbase: https://www.crunchbase.com/organization/hashicorp
   - category:
-    name: Protocols and Messaging
-    subcategories:
-      - subcategory:
-        name: Messaging
-        items:
-          - item:
-            name: Eiffel
-            description: Eiffel is a technology agnostic CI/CD event protocol
-            homepage_url: https://eiffel-community.github.io
-            repo_url: https://github.com/eiffel-community/eiffel
-            logo: eiffel.svg
-            crunchbase: https://www.crunchbase.com/organization/eiffel-community
-  - category:
     name: Container Registry & Build
     subcategories:
       - subcategory:
@@ -432,7 +429,7 @@ landscape:
             twitter: https://twitter.com/shipwrightio
             crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
   - category:
-    name: DevSecOps & Monitoring
+    name: DevSecOps
     subcategories:
       - subcategory:
         name: Container Security
@@ -459,8 +456,20 @@ landscape:
             homepage_url: https://sysdig.com/use-cases/kubernetes-security
             logo: sysdig-secure.svg
             crunchbase: https://www.crunchbase.com/organization/sysdig
+  - category:
+    name: Observability and Analysis
+    subcategories:
       - subcategory:
-        name: Analytics & Monitoring
+        name: DevOps Metrics
+        items:
+          - item:
+            name: Four Keys
+            homepage_url: https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance
+            repo_url: https://github.com/GoogleCloudPlatform/fourkeys
+            logo: fourkeys.svg
+            crunchbase: https://www.crunchbase.com/organization/google
+      - subcategory:
+        name: Monitoring and Logging
         items:
           - item:
             name: Datadog
@@ -482,39 +491,28 @@ landscape:
             homepage_url: https://www.sumologic.com/
             logo: sumologic.svg
             crunchbase: https://www.crunchbase.com/organization/sumo-logic
-  - category:
-    name: Change Management
-    subcategories:
       - subcategory:
-        name: Version Control
+        name: Tracing and Messaging
         items:
           - item:
-            name: Git
-            homepage_url: https://git-scm.com/
-            repo_url: https://github.com/git/git
-            logo: git.svg
-            crunchbase: https://www.crunchbase.com/organization/git
+            name: Eiffel
+            description: Eiffel is a technology agnostic CI/CD event protocol
+            homepage_url: https://eiffel-community.github.io
+            repo_url: https://github.com/eiffel-community/eiffel
+            logo: eiffel.svg
+            crunchbase: https://www.crunchbase.com/organization/eiffel-community
           - item:
-            name: Gitea
-            homepage_url: https://gitea.io/en-us
-            repo_url: https://github.com/go-gitea/gitea
-            logo: gitea.svg
-            twitter: https://twitter.com/giteaio
-            organization:
-              name: Gitea
+            name: Honeycomb
+            homepage_url: https://www.honeycomb.io/
+            logo: honeycomb.svg
+            crunchbase: https://www.crunchbase.com/organization/honeycombio
           - item:
-            name: GitHub
-            homepage_url: https://github.com/
-            logo: git-hub.svg
-            crunchbase: https://www.crunchbase.com/organization/github
-      - subcategory:
-        name: Issue Tracking
-        items:
-          - item:
-            name: Jira
-            homepage_url: https://www.atlassian.com/software/jira
-            logo: jira.svg
-            crunchbase: https://www.crunchbase.com/organization/atlassian
+            name: OpenTelemetry
+            homepage_url: https://opentelemetry.io/
+            repo_url: https://github.com/open-telemetry/community
+            logo: open-telemetry.svg
+            twitter: https://twitter.com/opentelemetry
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
   - category:
     name: CDF Members
     subcategories:
@@ -621,6 +619,11 @@ landscape:
             homepage_url: https://anchore.com/
             logo: anchore.svg
             crunchbase: https://www.crunchbase.com/organization/anchore-inc
+          - item:
+            name: Aspen Mesh (member)
+            homepage_url: https://aspenmesh.io/
+            logo: aspen-mesh.svg
+            crunchbase: https://www.crunchbase.com/organization/aspen-mesh
           - item:
             name: Codefresh (member)
             homepage_url: https://codefresh.io/
