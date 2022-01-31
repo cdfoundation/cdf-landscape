@@ -495,6 +495,13 @@ landscape:
         name: Tracing and Messaging
         items:
           - item:
+            name: CDEvents
+            description: CDEvents are a common specification for Continuous Delivery events, enabling interoperability in the complete software production ecosystem
+            repo_url: https://github.com/cdevents/spec
+            homepage_url: https://cdevents.dev/
+            logo: cdevents.svg
+            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
+          - item:
             name: Eiffel
             description: Eiffel is a technology agnostic CI/CD event protocol
             homepage_url: https://eiffel-community.github.io
