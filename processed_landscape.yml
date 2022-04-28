@@ -51,7 +51,7 @@ landscape:
                 - name: Shell
                   value: 496
                   color: '#89e051'
-              contributions: 0;0;0;7;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;3;4;2;1;8;17;3;6;3;4;1;1;0;0
+              contributions: 0;0;0;8;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;2;0;0;0;0;0;1;0;0;0;0;0;0;0;2;2;3;2;2;9;17;6;1;4;4;0;1;0;0
               firstWeek: 2021-05-02Z
               stars: 1022
               license: Apache License 2.0
@@ -75,7 +75,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T09:08:59.000Z
+              latest_tweet_date: 2022-04-27T11:00:01.000Z
           - item:
             name: Argo
             homepage_url: https://argoproj.github.io/
@@ -115,13 +115,13 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 3078226
+                  value: 3086467
                   color: '#00ADD8'
                 - name: TypeScript
                   value: 624703
                   color: '#2b7489'
                 - name: Makefile
-                  value: 33161
+                  value: 33390
                   color: '#427819'
                 - name: SCSS
                   value: 28221
@@ -146,20 +146,20 @@ landscape:
                   value: 472
                   color: '#e34c26'
               contributions: >-
-                23;18;23;29;19;24;20;11;13;7;8;17;30;16;21;15;23;19;11;22;13;21;13;14;22;35;29;27;5;19;9;12;14;9;2;5;14;8;29;30;31;24;19;30;23;20;31;25;20;31;20;34
+                25;17;25;30;15;23;19;13;17;1;13;17;27;16;25;15;20;21;7;23;22;12;17;8;29;36;35;14;10;14;13;10;14;6;2;7;13;17;27;26;29;23;21;36;19;18;30;25;18;39;18;37
               firstWeek: 2021-05-02Z
-              stars: 10916
+              stars: 10926
               license: Apache License 2.0
               description: Workflow engine for Kubernetes
-              latest_commit_date: '2022-04-26T23:53:49Z'
-              latest_commit_link: /argoproj/argo-workflows/commit/6769ba7209c1c8ffa6ecd5414d9694e743afe557
+              latest_commit_date: '2022-04-28T00:46:21Z'
+              latest_commit_link: /argoproj/argo-workflows/commit/ecd91b1c4215a2ab8742f7c43eaade98a1d47eba
               release_date: '2022-04-25T23:19:39Z'
               release_link: https://github.com/argoproj/argo-workflows/releases
-              contributors_count: 574
+              contributors_count: 575
               contributors_link: https://github.com/argoproj/argo-workflows/graphs/contributors
             repos:
               - url: https://github.com/argoproj/argo-workflows
-                stars: 10916
+                stars: 10926
             github_start_commit_data:
               start_commit_link: /argoproj/argo-workflows/commit/3ed1dfeb073829d3c4f92b95c9a74118caaec1b4
               start_date: '2017-10-17T21:38:48Z'
@@ -170,7 +170,7 @@ landscape:
               badge: 3830
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2022-04-26T20:00:00.000Z
+              latest_tweet_date: 2022-04-27T16:00:01.000Z
           - item:
             name: Armory Enterprise
             homepage_url: https://www.armory.io/armory-enterprise-spinnaker/
@@ -209,7 +209,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T21:06:26.000Z
+              latest_tweet_date: 2022-04-27T23:38:00.000Z
           - item:
             name: CircleCI
             homepage_url: https://circleci.com/
@@ -253,7 +253,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T22:34:19.000Z
+              latest_tweet_date: 2022-04-27T21:20:02.000Z
           - item:
             name: Cloudbees
             homepage_url: https://www.cloudbees.com/
@@ -302,7 +302,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T18:40:02.000Z
+              latest_tweet_date: 2022-04-27T19:54:01.000Z
           - item:
             name: Codefresh
             description: >-
@@ -347,20 +347,20 @@ landscape:
                   value: 11661
                   color: '#f1e05a'
                 - name: Twig
-                  value: 11525
+                  value: 11552
                 - name: Dockerfile
                   value: 434
                   color: '#384d54'
                 - name: Ruby
                   value: 377
                   color: '#701516'
-              contributions: 6;8;2;19;10;4;8;4;9;9;0;0;2;1;1;7;4;12;1;4;5;9;1;1;0;5;2;2;1;3;0;8;3;2;0;0;0;3;7;11;9;1;6;4;12;12;0;2;18;35;27;32
+              contributions: 6;10;6;16;7;7;5;4;11;7;0;0;2;1;4;4;7;9;3;4;5;7;2;0;3;2;2;3;1;2;2;8;2;1;0;0;0;4;8;17;2;4;2;6;12;10;0;2;26;36;24;42
               firstWeek: 2021-05-02Z
               stars: 19
               license: MIT License
               description: Source for Codefresh documentation
-              latest_commit_date: '2022-04-26T13:15:07Z'
-              latest_commit_link: /codefresh-io/docs.codefresh.io/commit/23c8c98a5019d34fc88c25eeb95fef93e07a9f45
+              latest_commit_date: '2022-04-27T16:18:22Z'
+              latest_commit_link: /codefresh-io/docs.codefresh.io/commit/cfbc499e4a7207daeed859632718ca98ed94146f
               contributors_count: 70
               contributors_link: https://github.com/codefresh-io/docs.codefresh.io/graphs/contributors
             repos:
@@ -376,7 +376,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T20:05:09.000Z
+              latest_tweet_date: 2022-04-27T22:20:04.000Z
           - item:
             name: Concourse
             homepage_url: https://concourse-ci.org/
@@ -555,9 +555,9 @@ landscape:
                   value: 133
                   color: '#427819'
               contributions: >-
-                69;60;53;51;56;55;62;40;39;43;59;49;49;27;47;36;43;36;44;31;29;31;38;26;19;39;33;31;17;19;13;19;15;15;8;5;45;27;24;32;24;35;33;19;26;5;7;42;15;37;22;20
+                65;58;57;45;56;58;54;41;53;46;49;52;49;16;53;38;42;33;49;26;35;26;38;22;24;40;28;31;15;21;17;15;13;15;8;7;42;29;23;36;24;34;32;18;25;4;10;41;21;31;22;18
               firstWeek: 2021-05-02Z
-              stars: 6293
+              stars: 6295
               license: Apache License 2.0
               description: Concourse is a container-based continuous thing-doer written in Go.
               latest_commit_date: '2022-04-26T15:21:07Z'
@@ -568,12 +568,12 @@ landscape:
               contributors_link: https://github.com/concourse/concourse/graphs/contributors
             repos:
               - url: https://github.com/concourse/concourse
-                stars: 6293
+                stars: 6295
             github_start_commit_data:
               start_commit_link: /concourse/concourse/commit/e3cb2182bb1523718f65714d0c20e176572726a9
               start_date: '2014-04-14T00:11:04Z'
             yahoo_finance_data:
-              market_cap: 45065621504
+              market_cap: 45448785920
               effective_ticker: VMW
             image_data:
               fileName: concourse.svg
@@ -637,9 +637,9 @@ landscape:
                 - name: Dockerfile
                   value: 553
                   color: '#384d54'
-              contributions: 19;12;7;10;27;1;9;9;2;0;2;0;7;2;1;6;16;12;3;0;13;2;4;0;3;3;9;4;3;9;5;4;11;20;0;0;7;1;7;0;8;9;8;3;7;18;9;1;5;4;4;0
+              contributions: 14;8;7;14;23;1;11;7;2;0;2;1;6;3;1;5;21;8;2;0;13;2;4;0;3;6;6;6;2;10;6;1;16;15;0;2;5;1;7;0;10;8;8;2;10;17;7;1;7;2;4;0
               firstWeek: 2021-05-02Z
-              stars: 3597
+              stars: 3598
               license: Apache License 2.0
               description: Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
               latest_commit_date: '2022-04-15T10:24:01Z'
@@ -650,7 +650,7 @@ landscape:
               contributors_link: https://github.com/fluxcd/flagger/graphs/contributors
             repos:
               - url: https://github.com/fluxcd/flagger
-                stars: 3597
+                stars: 3598
             github_start_commit_data:
               start_commit_link: /fluxcd/flagger/commit/c1ef44a9b9433dfd44c01d399ea798bba5cd419b
               start_date: '2018-09-19T21:43:47Z'
@@ -714,20 +714,20 @@ landscape:
                 - name: Dockerfile
                   value: 793
                   color: '#384d54'
-              contributions: 11;19;5;1;16;5;6;22;15;11;3;3;5;5;15;7;17;11;5;6;15;5;13;32;19;35;32;16;12;15;16;2;15;7;0;0;11;35;8;14;24;18;12;11;4;5;6;24;14;4;9;14
+              contributions: 10;20;2;6;16;0;7;22;18;8;2;3;6;14;5;12;14;10;4;7;15;5;19;32;15;35;30;16;15;16;13;4;13;5;0;0;19;27;13;11;22;23;14;6;2;5;18;16;10;7;12;10
               firstWeek: 2021-05-02Z
-              stars: 3150
+              stars: 3154
               license: Apache License 2.0
               description: Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
-              latest_commit_date: '2022-04-26T07:51:17Z'
-              latest_commit_link: /fluxcd/flux2/commit/e3e01cb5da3ae248b4e2a1e5a600cfbcb0ad82a3
+              latest_commit_date: '2022-04-27T12:32:19Z'
+              latest_commit_link: /fluxcd/flux2/commit/34330791216a7e8142f2b654857d182a60141a26
               release_date: '2022-04-26T08:10:53Z'
               release_link: https://github.com/fluxcd/flux2/releases
               contributors_count: 106
               contributors_link: https://github.com/fluxcd/flux2/graphs/contributors
             repos:
               - url: https://github.com/fluxcd/flux2
-                stars: 3150
+                stars: 3154
             github_start_commit_data:
               start_commit_link: /fluxcd/flux2/commit/ebdabaf98d8c94092dadcf88a959795d4e06b651
               start_date: '2020-04-24T09:38:22Z'
@@ -789,7 +789,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2025804136448
+              market_cap: 2123263508480
               effective_ticker: MSFT
             image_data:
               fileName: git-hub-actions.svg
@@ -798,7 +798,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T22:00:09.000Z
+              latest_tweet_date: 2022-04-27T21:15:02.000Z
           - item:
             name: GitLab
             homepage_url: https://about.gitlab.com/
@@ -847,31 +847,31 @@ landscape:
             github_data:
               languages:
                 - name: Ruby
-                  value: 51107527
+                  value: 51124447
                   color: '#701516'
                 - name: JavaScript
-                  value: 14138896
+                  value: 14163044
                   color: '#f1e05a'
                 - name: Vue
-                  value: 4763184
+                  value: 4774333
                   color: '#2c3e50'
                 - name: PLpgSQL
-                  value: 2527955
+                  value: 2528104
                 - name: Haml
-                  value: 1565563
+                  value: 1563637
                 - name: SCSS
-                  value: 894133
+                  value: 891956
                 - name: Go
-                  value: 750412
+                  value: 750463
                   color: '#00ADD8'
                 - name: HTML
-                  value: 100166
+                  value: 100661
                   color: '#e34c26'
                 - name: Shell
                   value: 97072
                   color: '#89e051'
                 - name: Makefile
-                  value: 6218
+                  value: 6492
                   color: '#427819'
                 - name: CSS
                   value: 5043
@@ -888,23 +888,23 @@ landscape:
                   value: 79
                   color: '#db5855'
               contributions: >-
-                45;44;43;44;38;46;49;44;42;43;41;42;45;46;43;45;44;42;41;43;42;36;43;40;46;42;45;44;44;45;40;44;45;44;35;27;41;45;45;43;44;45;43;42;48;43;44;39;46;38;43;43
+                45;44;43;44;38;46;49;44;42;43;41;43;44;46;43;45;44;42;41;43;42;36;43;40;46;42;45;44;44;45;40;44;45;44;34;28;41;45;45;43;44;45;43;42;48;43;44;39;46;38;43;43
               firstWeek: 2021-05-02Z
-              stars: 22891
+              stars: 22893
               license: Other
               description: GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-              latest_commit_date: '2022-04-27T03:10:49Z'
-              latest_commit_link: /gitlabhq/gitlabhq/commit/d399afc9469f16074f863043d2e64e12dd6b4a87
+              latest_commit_date: '2022-04-28T03:12:22Z'
+              latest_commit_link: /gitlabhq/gitlabhq/commit/1373f8fe424fdb4df1b92c7436b5907c4b4ab601
               contributors_count: 2997
               contributors_link: https://github.com/gitlabhq/gitlabhq/graphs/contributors
             repos:
               - url: https://github.com/gitlabhq/gitlabhq
-                stars: 22891
+                stars: 22893
             github_start_commit_data:
               start_commit_link: /gitlabhq/gitlabhq/commit/93efff945215a4407afcaf0cba15ac601b56df0d
               start_date: '2011-10-08T21:34:49Z'
             yahoo_finance_data:
-              market_cap: 7523172352
+              market_cap: 7418375680
               effective_ticker: GTLB
             image_data:
               fileName: git-lab.svg
@@ -913,7 +913,7 @@ landscape:
               badge: 42
               percentage: 99
             twitter_data:
-              latest_tweet_date: 2022-04-26T18:54:02.000Z
+              latest_tweet_date: 2022-04-27T23:02:54.000Z
           - item:
             name: Harness.io
             homepage_url: https://harness.io
@@ -921,15 +921,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/harness-512d
             crunchbase_data:
               name: Harness
-              description: Harness is a Continuous Delivery as-a-Service platform for engineering and DevOps teams to release applications into production.
-              num_employees_min: 251
-              num_employees_max: 500
-              homepage: http://harness.io/
+              description: Harness is a Continuous Delivery-as-a-Service platform for engineering and DevOps teams to release applications into production.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: http://harness.io
               city: San Francisco
               region: California
               country: United States
               twitter: https://twitter.com/harnessio
-              linkedin: https://www.linkedin.com/company/harnessinc/
+              linkedin: https://www.linkedin.com/company/harnessinc
               acquisitions:
                 - date: '2020-08-05'
                   acquiree: Drone.io
@@ -941,9 +941,9 @@ landscape:
               company_type: For Profit
               industries:
                 - Artificial Intelligence
-                - Delivery
                 - Developer Tools
                 - Machine Learning
+                - Productivity Tools
                 - SaaS
               kind: funding
             image_data:
@@ -999,20 +999,20 @@ landscape:
                 - name: Dockerfile
                   value: 413
                   color: '#384d54'
-              contributions: 14;29;30;33;24;5;18;22;18;37;18;8;19;14;3;27;2;0;1;9;3;5;5;2;2;10;10;4;5;6;5;14;7;4;2;4;2;8;3;3;1;6;6;6;7;0;6;26;20;2;2;27
+              contributions: 18;24;35;29;22;9;18;23;28;32;10;6;21;12;7;25;0;0;7;3;4;6;3;2;4;8;10;7;2;8;3;14;7;4;2;4;4;6;3;4;0;6;8;4;7;0;16;18;18;2;6;27
               firstWeek: 2021-05-02Z
-              stars: 4136
+              stars: 4139
               license: Apache License 2.0
               description: Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
-              latest_commit_date: '2022-04-27T03:34:50Z'
-              latest_commit_link: /jenkins-x/jx/commit/3c1d9b71331f5b1f25c141b561b131622c7c27b6
-              release_date: '2022-04-27T03:44:50Z'
+              latest_commit_date: '2022-04-28T03:15:24Z'
+              latest_commit_link: /jenkins-x/jx/commit/00badd7aaf77e4713176169233a9e6dcce36e19f
+              release_date: '2022-04-28T03:24:53Z'
               release_link: https://github.com/jenkins-x/jx/releases
               contributors_count: 223
               contributors_link: https://github.com/jenkins-x/jx/graphs/contributors
             repos:
               - url: https://github.com/jenkins-x/jx
-                stars: 4136
+                stars: 4139
             github_start_commit_data:
               start_commit_link: /jenkins-x/jx/commit/e255f7ea050c4a410a21183ec85a510c8e4ca8c6
               start_date: '2018-01-05T15:46:09Z'
@@ -1074,7 +1074,7 @@ landscape:
                   value: 66018
                   color: '#89e051'
                 - name: SCSS
-                  value: 42213
+                  value: 42287
                 - name: Dockerfile
                   value: 42118
                   color: '#384d54'
@@ -1089,27 +1089,27 @@ landscape:
                   value: 411
                   color: '#f1e05a'
               contributions: >-
-                40;69;44;35;57;35;93;84;47;39;26;48;31;7;44;27;32;24;33;20;23;19;31;71;40;37;35;52;32;43;39;28;13;46;9;38;43;28;36;42;29;22;34;29;32;32;28;30;31;27;44;29
+                52;71;37;34;61;34;108;72;35;32;50;44;14;14;44;19;41;29;29;12;26;17;58;57;43;26;37;45;42;39;34;22;36;26;8;50;36;32;30;45;28;22;37;27;34;24;34;27;33;28;40;26
               firstWeek: 2021-05-02Z
-              stars: 1322
+              stars: 1324
               license: Apache License 2.0
               description: >-
                 Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your
                 applications.
-              latest_commit_date: '2022-04-25T08:59:44Z'
-              latest_commit_link: /keptn/keptn/commit/8c9334390a39b02076b07eeff64b75970e8483f5
+              latest_commit_date: '2022-04-27T10:21:00Z'
+              latest_commit_link: /keptn/keptn/commit/f2f236fe963f1d1d664adc69d26c6ac932684ef2
               release_date: '2022-04-22T07:08:01Z'
               release_link: https://github.com/keptn/keptn/releases
               contributors_count: 100
               contributors_link: https://github.com/keptn/keptn/graphs/contributors
             repos:
               - url: https://github.com/keptn/keptn
-                stars: 1322
+                stars: 1324
             github_start_commit_data:
               start_commit_link: /keptn/keptn/commit/c49b4d65d4860fa7a5102093aac2633abdd94cf0
               start_date: '2019-01-21T14:51:49Z'
             yahoo_finance_data:
-              market_cap: 11081190400
+              market_cap: 11109765120
               effective_ticker: DT
             image_data:
               fileName: keptn.svg
@@ -1150,7 +1150,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-22T10:55:46.000Z
+              latest_tweet_date: 2022-04-27T18:10:00.000Z
           - item:
             name: Orkestra
             description: >-
@@ -1204,7 +1204,7 @@ landscape:
                   color: '#384d54'
                 - name: Starlark
                   value: 541
-              contributions: 7;27;7;4;4;8;21;12;5;0;1;1;0;0;1;0;0;5;2;0;0;11;3;5;0;0;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 22;11;7;4;3;11;21;10;4;0;1;1;0;0;1;0;0;6;1;0;0;12;4;3;0;0;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2021-05-02Z
               stars: 84
               license: Other
@@ -1224,7 +1224,7 @@ landscape:
               start_commit_link: /Azure/orkestra/commit/fa25479e3b03c3e80273dca417a2e83849d02d9f
               start_date: '2020-12-04T18:52:23Z'
             yahoo_finance_data:
-              market_cap: 2025804136448
+              market_cap: 2123263508480
               effective_ticker: MSFT
             image_data:
               fileName: orkestra.svg
@@ -1233,7 +1233,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-27T00:00:01.000Z
+              latest_tweet_date: 2022-04-27T21:06:49.000Z
           - item:
             name: Ozone
             homepage_url: https://ozone.one
@@ -1306,7 +1306,7 @@ landscape:
                 - name: Shell
                   value: 81
                   color: '#89e051'
-              contributions: 2;1;0;2;3;1;4;4;3;0;0;0;2;1;0;2;5;1;2;6;0;0;1;1;0;3;2;4;1;1;1;0;3;6;0;1;4;1;3;4;4;0;0;1;4;1;3;0;1;4;3;0
+              contributions: 2;0;0;3;2;1;5;4;2;0;0;1;1;1;1;3;3;1;3;5;0;0;2;0;0;4;2;3;1;1;1;1;4;4;0;2;3;2;3;4;3;0;0;1;4;2;2;0;1;4;3;0
               firstWeek: 2021-05-02Z
               stars: 929
               license: Other
@@ -1380,7 +1380,7 @@ landscape:
                   color: '#3572A5'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2021-05-02Z
-              stars: 8418
+              stars: 8422
               license: Apache License 2.0
               description: Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
               latest_commit_date: '2021-12-09T13:15:16Z'
@@ -1391,7 +1391,7 @@ landscape:
               contributors_link: https://github.com/spinnaker/spinnaker/graphs/contributors
             repos:
               - url: https://github.com/spinnaker/spinnaker
-                stars: 8418
+                stars: 8422
             github_start_commit_data:
               start_commit_link: /spinnaker/spinnaker/commit/2b3fac174db42aa7944d6e606a17d5ca1ae66715
               start_date: '2014-09-07T09:01:23Z'
@@ -1447,9 +1447,9 @@ landscape:
                 - name: Dockerfile
                   value: 465
                   color: '#384d54'
-              contributions: 11;10;7;11;7;5;7;3;3;5;9;4;6;11;7;9;11;7;14;6;16;6;8;11;15;12;6;8;7;4;2;3;8;5;5;5;7;16;9;10;6;11;14;18;7;7;12;13;9;5;13;7
+              contributions: 8;16;3;13;4;5;7;5;1;5;9;5;6;11;6;10;11;10;11;9;11;7;12;16;7;11;7;6;9;3;1;3;9;5;4;5;11;15;10;7;7;14;11;17;7;7;14;11;8;10;10;5
               firstWeek: 2021-05-02Z
-              stars: 7047
+              stars: 7049
               license: Apache License 2.0
               description: A cloud-native Pipeline resource.
               latest_commit_date: '2022-04-26T12:15:21Z'
@@ -1460,7 +1460,7 @@ landscape:
               contributors_link: https://github.com/tektoncd/pipeline/graphs/contributors
             repos:
               - url: https://github.com/tektoncd/pipeline
-                stars: 7047
+                stars: 7049
             github_start_commit_data:
               start_commit_link: /tektoncd/pipeline/commit/301b41380e95382a18b391c2165fa3a6a3de93b0
               start_date: '2018-08-29T18:21:56Z'
@@ -1547,9 +1547,9 @@ landscape:
                 - name: Shell
                   value: 243
                   color: '#89e051'
-              contributions: 4;2;2;15;11;20;1;16;9;7;1;2;5;7;1;10;12;11;5;15;3;8;17;0;2;1;0;0;5;2;2;0;2;9;1;3;6;0;1;6;0;2;0;0;8;5;3;0;2;0;2;2
+              contributions: 6;0;9;8;17;14;4;16;6;8;0;2;5;7;4;8;11;14;5;13;4;15;8;2;0;1;0;0;7;0;2;1;5;5;1;3;6;0;3;4;0;2;0;0;8;6;2;0;2;0;2;2
               firstWeek: 2021-05-02Z
-              stars: 24870
+              stars: 24880
               license: Other
               description: Drone is a Container-Native, Continuous Delivery Platform
               latest_commit_date: '2022-04-22T14:18:53Z'
@@ -1560,7 +1560,7 @@ landscape:
               contributors_link: https://github.com/harness/drone/graphs/contributors
             repos:
               - url: https://github.com/harness/drone
-                stars: 24870
+                stars: 24880
             github_start_commit_data:
               start_commit_link: /drone/drone/commit/d5e5797934b80e0203d0f47b207c4848cfc834bf
               start_date: '2014-02-07T10:10:01Z'
@@ -1603,7 +1603,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 11510090
+                  value: 11521337
                   color: '#b07219'
                 - name: HTML
                   value: 975503
@@ -1642,20 +1642,20 @@ landscape:
                   value: 1023
                   color: '#C1F12E'
               contributions: >-
-                20;23;18;24;28;15;16;20;19;16;13;6;21;12;5;18;21;13;22;11;20;23;18;29;34;26;10;39;22;24;27;50;30;43;27;37;20;13;26;26;18;21;31;19;24;37;19;16;19;24;37;22
+                14;26;21;21;27;14;17;22;16;15;13;6;21;12;6;17;21;17;18;13;25;16;18;34;30;28;7;41;21;24;32;48;32;39;33;33;21;8;31;26;18;19;28;24;27;33;15;18;20;24;38;19
               firstWeek: 2021-05-02Z
-              stars: 18777
+              stars: 18781
               license: MIT License
               description: Jenkins automation server
-              latest_commit_date: '2022-04-26T13:33:26Z'
-              latest_commit_link: /jenkinsci/jenkins/commit/c4d2210d74152c00f9086d776e71e3ef51690c53
+              latest_commit_date: '2022-04-27T19:46:38Z'
+              latest_commit_link: /jenkinsci/jenkins/commit/c350527e9075c820b2cb2821ff04e6347d4f3199
               release_date: '2022-04-26T13:30:53Z'
               release_link: https://github.com/jenkinsci/jenkins/releases
               contributors_count: 1020
               contributors_link: https://github.com/jenkinsci/jenkins/graphs/contributors
             repos:
               - url: https://github.com/jenkinsci/jenkins
-                stars: 18777
+                stars: 18781
             github_start_commit_data:
               start_commit_link: /jenkinsci/jenkins/commit/8a0dc230f44e84e5a7f7920cf9a31f09a54999ac
               start_date: '2006-11-05T21:16:01Z'
@@ -1702,7 +1702,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-13T10:31:41.000Z
+              latest_tweet_date: 2022-04-27T08:32:18.000Z
           - item:
             name: Travis CI
             homepage_url: https://travis-ci.com/
@@ -1756,7 +1756,7 @@ landscape:
                   color: '#384d54'
                 - name: Procfile
                   value: 112
-              contributions: 0;0;0;1;2;1;2;0;1;1;0;0;0;1;1;0;0;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;1;1;0;0;0;0;0;2;0
+              contributions: 0;0;0;1;2;1;2;1;0;1;0;0;0;1;1;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;1;1;0;0;0;0;0;1;1;0
               firstWeek: 2021-05-02Z
               stars: 595
               license: MIT License
@@ -1826,9 +1826,9 @@ landscape:
                 - name: HTML
                   value: 612
                   color: '#e34c26'
-              contributions: 4;2;2;8;16;1;0;5;3;4;2;2;1;1;0;3;1;6;0;7;15;31;17;11;15;5;10;2;6;9;20;11;23;19;1;10;17;10;5;17;9;5;1;20;5;5;2;2;3;5;7;2
+              contributions: 2;2;2;8;16;1;0;5;5;2;2;2;1;1;1;2;1;6;0;7;17;32;14;15;12;6;9;1;6;11;21;17;14;19;1;13;14;10;5;17;10;4;2;21;5;3;3;1;7;4;5;1
               firstWeek: 2021-05-02Z
-              stars: 945
+              stars: 948
               license: Apache License 2.0
               description: Woodpecker is a community fork of the Drone CI system.
               latest_commit_date: '2022-04-23T17:05:11Z'
@@ -1839,7 +1839,7 @@ landscape:
               contributors_link: https://github.com/woodpecker-ci/woodpecker/graphs/contributors
             repos:
               - url: https://github.com/woodpecker-ci/woodpecker
-                stars: 945
+                stars: 948
             github_start_commit_data:
               start_commit_link: /woodpecker-ci/woodpecker/commit/d5e5797934b80e0203d0f47b207c4848cfc834bf
               start_date: '2014-02-07T10:10:01Z'
@@ -1900,20 +1900,20 @@ landscape:
                 - name: Makefile
                   value: 695
                   color: '#427819'
-              contributions: 8;24;23;19;1;16;11;8;5;5;9;9;2;6;7;2;3;6;1;4;3;5;22;19;8;29;8;11;15;12;11;6;10;7;1;0;6;14;6;11;22;4;4;10;29;15;32;23;27;7;7;5
+              contributions: 4;32;19;15;2;15;13;7;4;5;16;2;5;3;9;1;5;3;1;6;1;5;27;17;8;27;10;9;16;12;11;4;13;4;1;1;9;11;10;6;24;2;4;11;33;24;18;26;25;7;6;6
               firstWeek: 2021-05-02Z
-              stars: 16198
+              stars: 16201
               license: GNU Affero General Public License v3.0
               description: A modern load testing tool, using Go and JavaScript - https://k6.io
-              latest_commit_date: '2022-04-26T07:27:01Z'
-              latest_commit_link: /grafana/k6/commit/d105f5474bc342e2e7fc87aadf91a167002e1b5e
+              latest_commit_date: '2022-04-27T12:38:52Z'
+              latest_commit_link: /grafana/k6/commit/bef458906f6884a99843573223028981c0a8b8db
               release_date: '2022-03-15T09:50:17Z'
               release_link: https://github.com/grafana/k6/releases
-              contributors_count: 128
+              contributors_count: 129
               contributors_link: https://github.com/grafana/k6/graphs/contributors
             repos:
               - url: https://github.com/grafana/k6
-                stars: 16198
+                stars: 16201
             github_start_commit_data:
               start_commit_link: /k6io/k6/commit/015166fb7bb4307131157948248cf79ff02c0435
               start_date: '2016-03-21T16:51:46Z'
@@ -1924,7 +1924,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-22T15:00:59.000Z
+              latest_tweet_date: 2022-04-27T15:01:10.000Z
           - item:
             name: Playwright
             description: >-
@@ -2506,7 +2506,7 @@ landscape:
             github_data:
               languages:
                 - name: TypeScript
-                  value: 5055328
+                  value: 5058037
                   color: '#2b7489'
                 - name: HTML
                   value: 333714
@@ -2555,25 +2555,25 @@ landscape:
                   value: 377
                   color: '#427819'
               contributions: >-
-                49;63;93;69;52;99;63;44;50;37;44;67;35;53;72;72;67;97;72;92;57;59;52;67;106;67;113;85;58;57;38;57;70;50;21;19;58;42;48;69;51;64;43;51;57;68;50;66;73;62;50;53
+                61;70;89;66;58;88;64;39;48;38;53;54;45;50;89;56;83;89;74;89;50;51;59;73;113;59;113;79;56;59;41;65;65;44;13;29;59;40;51;67;57;56;42;54;57;67;57;61;72;58;49;58
               firstWeek: 2021-05-02Z
-              stars: 36964
+              stars: 37010
               license: Apache License 2.0
               description: 'Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. '
-              latest_commit_date: '2022-04-27T04:32:38Z'
-              latest_commit_link: /microsoft/playwright/commit/bc6f8e1f208719d1775370d03fcd1fd7c64f0fed
+              latest_commit_date: '2022-04-28T01:52:27Z'
+              latest_commit_link: /microsoft/playwright/commit/0d29d169df0af95628efecbfa0c514ce69b04c44
               release_date: '2022-04-18T20:52:10Z'
               release_link: https://github.com/microsoft/playwright/releases
-              contributors_count: 228
+              contributors_count: 229
               contributors_link: https://github.com/microsoft/playwright/graphs/contributors
             repos:
               - url: https://github.com/microsoft/playwright
-                stars: 36964
+                stars: 37010
             github_start_commit_data:
               start_commit_link: /microsoft/playwright/commit/3261ad74363f6f039fd60ca68abd6eeb73c3f97f
               start_date: '2019-11-15T18:32:44Z'
             yahoo_finance_data:
-              market_cap: 2025804136448
+              market_cap: 2123263508480
               effective_ticker: MSFT
             image_data:
               fileName: playwright.svg
@@ -2606,6 +2606,8 @@ landscape:
                   acquiree: Gemini Solutions
                 - date: '2021-02-01'
                   acquiree: Fourkind
+                - date: '2022-04-27'
+                  acquiree: Connected
               parents: []
               ticker: TWKS
               funding: 748000000
@@ -2620,7 +2622,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 6436905
+                  value: 6437652
                   color: '#b07219'
                 - name: C#
                   value: 3106673
@@ -2635,13 +2637,13 @@ landscape:
                   value: 1364390
                   color: '#e34c26'
                 - name: Ruby
-                  value: 1011171
+                  value: 1011173
                   color: '#701516'
                 - name: Python
                   value: 960237
                   color: '#3572A5'
                 - name: Starlark
-                  value: 391598
+                  value: 392510
                 - name: TypeScript
                   value: 110674
                   color: '#2b7489'
@@ -2672,25 +2674,25 @@ landscape:
                 - name: ASP.NET
                   value: 825
               contributions: >-
-                12;34;19;25;14;39;28;12;15;20;20;17;5;11;27;17;13;21;30;24;32;85;28;45;41;39;9;28;15;48;42;15;19;12;27;30;16;10;27;15;31;13;17;25;19;9;5;31;27;33;26;16
+                16;40;14;23;14;47;22;7;16;20;21;17;6;8;31;17;9;35;21;19;42;86;17;61;38;29;14;21;31;34;46;10;18;11;30;28;17;13;22;21;30;8;21;24;21;4;10;36;26;36;21;17
               firstWeek: 2021-05-02Z
-              stars: 23271
+              stars: 23273
               license: Apache License 2.0
               description: A browser automation framework and ecosystem.
-              latest_commit_date: '2022-04-25T17:20:50Z'
-              latest_commit_link: /SeleniumHQ/selenium/commit/439da14d34e1f2d005b137728e79d57a8aaa8ba9
+              latest_commit_date: '2022-04-27T11:18:28Z'
+              latest_commit_link: /SeleniumHQ/selenium/commit/535d840ee2ed4b6cbe5d00484b9b9681aee75157
               release_date: '2021-11-22T15:30:02Z'
               release_link: https://github.com/SeleniumHQ/selenium/releases
               contributors_count: 733
               contributors_link: https://github.com/SeleniumHQ/selenium/graphs/contributors
             repos:
               - url: https://github.com/SeleniumHQ/selenium
-                stars: 23271
+                stars: 23273
             github_start_commit_data:
               start_commit_link: /SeleniumHQ/selenium/commit/29c4d9c45c3ba49916d3691324ef783e122a8f38
               start_date: '2004-11-03T22:17:13Z'
             yahoo_finance_data:
-              market_cap: 5794456576
+              market_cap: 5849380352
               effective_ticker: TWKS
             image_data:
               fileName: selenium.svg
@@ -2735,7 +2737,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-22T17:30:24.000Z
+              latest_tweet_date: 2022-04-27T19:43:14.000Z
       - subcategory:
         name: Release Automation
         items:
@@ -3233,7 +3235,7 @@ landscape:
               start_commit_link: /UrbanCode/UCADF-Core-Library/commit/6f3d7ce9d04730582304a2e290174929af0e47ba
               start_date: '2019-06-26T18:17:32Z'
             yahoo_finance_data:
-              market_cap: 122069819392
+              market_cap: 121056976896
               effective_ticker: IBM
             image_data:
               fileName: urban-code-velocity.svg
@@ -3283,13 +3285,13 @@ landscape:
             github_data:
               languages:
                 - name: Groovy
-                  value: 29909371
+                  value: 29942112
                   color: '#e69f56'
                 - name: Java
-                  value: 28006958
+                  value: 28053588
                   color: '#b07219'
                 - name: Kotlin
-                  value: 3990562
+                  value: 3991096
                   color: '#F18E33'
                 - name: C++
                   value: 1781062
@@ -3344,20 +3346,20 @@ landscape:
                   value: 16
                   color: '#701516'
               contributions: >-
-                140;181;167;110;123;109;183;116;100;108;127;213;154;102;65;115;95;115;165;174;241;255;173;157;191;182;144;182;245;132;234;136;179;146;131;55;110;148;227;191;123;184;143;130;121;125;140;107;114;146;74;75
+                163;152;171;122;106;163;141;104;101;123;142;217;142;81;74;109;99;109;171;183;250;271;191;120;192;187;148;166;247;160;218;115;188;165;89;67;121;170;221;184;132;154;159;123;129;108;138;109;124;137;79;74
               firstWeek: 2021-05-02Z
-              stars: 13308
+              stars: 13310
               license: Apache License 2.0
               description: Adaptable, fast automation for all
-              latest_commit_date: '2022-04-27T03:18:17Z'
-              latest_commit_link: /gradle/gradle/commit/22a3e7b9a5d693c4d01fe8a6782833f08d1cbea5
+              latest_commit_date: '2022-04-28T01:46:49Z'
+              latest_commit_link: /gradle/gradle/commit/60592147447ae1c2a9065cbf75bd41f6ff01cc58
               release_date: '2022-03-31T15:36:56Z'
               release_link: https://github.com/gradle/gradle/releases
-              contributors_count: 677
+              contributors_count: 678
               contributors_link: https://github.com/gradle/gradle/graphs/contributors
             repos:
               - url: https://github.com/gradle/gradle
-                stars: 13308
+                stars: 13310
             github_start_commit_data:
               start_commit_link: /gradle/gradle/commit/9ddae5aaa1fbaa6ce60bdc0f935887600dc441bf
               start_date: '2008-03-10T06:50:30Z'
@@ -3368,7 +3370,7 @@ landscape:
               badge: 4898
               percentage: 90
             twitter_data:
-              latest_tweet_date: 2022-04-26T18:00:51.000Z
+              latest_tweet_date: 2022-04-27T16:30:09.000Z
           - item:
             name: OpenMake Meister
             homepage_url: https://www.openmakesoftware.com/meister-build-automation/
@@ -3500,13 +3502,13 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 9363941
+                  value: 9387752
                   color: '#3572A5'
                 - name: PowerShell
                   value: 727611
                   color: '#012456'
                 - name: Shell
-                  value: 235037
+                  value: 235099
                   color: '#89e051'
                 - name: C#
                   value: 207973
@@ -3526,28 +3528,28 @@ landscape:
                   value: 144
                   color: '#C1F12E'
               contributions: >-
-                43;49;34;26;24;27;26;33;16;8;8;9;7;16;18;22;12;16;15;14;25;39;23;45;29;15;29;21;18;16;6;20;30;9;4;4;31;20;17;27;37;15;23;30;29;11;11;29;29;18;25;18
+                38;47;32;26;22;29;36;25;14;5;10;11;3;18;22;15;15;21;7;14;29;36;25;44;29;19;26;19;20;13;8;22;26;10;4;4;36;15;26;19;38;15;31;25;26;9;16;28;28;18;21;25
               firstWeek: 2021-05-02Z
-              stars: 52932
+              stars: 52943
               license: GNU General Public License v3.0
               description: >-
                 Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything
                 from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to
                 install on remote systems. https://docs.ansible.com.
-              latest_commit_date: '2022-04-26T18:23:24Z'
-              latest_commit_link: /ansible/ansible/commit/d321fa3f15cefa853d646985b2a201233cdb47c8
+              latest_commit_date: '2022-04-27T23:28:06Z'
+              latest_commit_link: /ansible/ansible/commit/f7c2b1986c5b6afce1d8fe83ce6bf26b535aa617
               release_date: '2018-02-09T06:51:40Z'
               release_link: https://github.com/ansible/ansible/releases
-              contributors_count: 6549
+              contributors_count: 6551
               contributors_link: https://github.com/ansible/ansible/graphs/contributors
             repos:
               - url: https://github.com/ansible/ansible
-                stars: 52932
+                stars: 52943
             github_start_commit_data:
               start_commit_link: /ansible/ansible/commit/f31421576b00f0b167cdbe61217c31c21a41ac02
               start_date: '2012-02-23T19:17:24Z'
             yahoo_finance_data:
-              market_cap: 122069819392
+              market_cap: 121056976896
               effective_ticker: IBM
             image_data:
               fileName: ansible.svg
@@ -3556,7 +3558,7 @@ landscape:
               badge: 2372
               percentage: 66
             twitter_data:
-              latest_tweet_date: 2022-04-26T21:02:01.000Z
+              latest_tweet_date: 2022-04-28T01:05:33.000Z
           - item:
             name: Chef
             homepage_url: https://www.chef.io/
@@ -3616,9 +3618,9 @@ landscape:
                 - name: Raku
                   value: 128
               contributions: >-
-                117;101;37;41;42;71;37;35;15;29;40;60;70;57;11;33;44;53;40;44;40;63;62;29;33;48;43;19;33;23;32;42;36;42;37;36;32;34;33;40;22;29;32;36;15;16;33;40;34;13;0;5
+                108;97;31;39;51;68;36;34;12;29;56;77;55;39;9;34;56;57;29;45;55;47;62;23;35;58;32;29;28;18;43;33;44;40;30;46;26;33;33;36;24;33;31;43;2;16;41;43;24;11;0;5
               firstWeek: 2021-05-02Z
-              stars: 6869
+              stars: 6872
               license: Apache License 2.0
               description: >-
                 Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and
@@ -3631,7 +3633,7 @@ landscape:
               contributors_link: https://github.com/chef/chef/graphs/contributors
             repos:
               - url: https://github.com/chef/chef
-                stars: 6869
+                stars: 6872
             github_start_commit_data:
               start_commit_link: /chef/chef/commit/b5117775e86cff40399187b6292c98fba9dc5034
               start_date: '2008-03-06T07:31:38Z'
@@ -3642,7 +3644,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T20:35:02.000Z
+              latest_tweet_date: 2022-04-27T15:11:02.000Z
           - item:
             name: DeployHub
             homepage_url: https://www.deployhub.com/
@@ -3673,7 +3675,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T15:15:05.000Z
+              latest_tweet_date: 2022-04-27T17:01:20.000Z
           - item:
             name: Ortelius
             homepage_url: https://ortelius.io/
@@ -3757,7 +3759,7 @@ landscape:
                   color: '#384d54'
                 - name: Mustache
                   value: 1039
-              contributions: 1;10;0;2;3;8;1;8;2;0;2;0;0;0;2;0;0;7;0;0;3;1;0;2;4;0;0;1;6;0;1;4;0;0;0;0;1;2;3;0;23;1;0;0;0;11;0;5;1;0;0;0
+              contributions: 1;10;0;2;9;2;1;8;2;0;2;0;0;0;2;0;0;7;0;0;4;0;0;2;4;0;0;1;6;1;0;4;0;0;0;0;2;1;3;1;22;1;0;0;0;11;0;5;1;0;0;0
               firstWeek: 2021-05-02Z
               stars: 225
               license: Other
@@ -3784,7 +3786,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-25T16:00:16.000Z
+              latest_tweet_date: 2022-04-27T16:01:35.000Z
           - item:
             name: Puppet
             homepage_url: https://puppet.com/
@@ -3846,9 +3848,9 @@ landscape:
                 - name: Batchfile
                   value: 594
                   color: '#C1F12E'
-              contributions: 24;17;22;15;11;23;44;27;30;50;25;29;30;29;25;10;18;21;20;28;11;12;27;22;19;11;18;11;17;13;5;18;14;16;0;1;26;8;6;4;3;9;7;13;2;12;7;1;13;4;6;5
+              contributions: 17;21;12;15;15;28;47;25;29;47;23;32;30;32;19;13;17;18;20;28;8;16;30;17;17;19;14;16;13;8;13;10;19;11;0;11;21;5;4;4;4;11;4;13;4;12;5;1;13;5;6;4
               firstWeek: 2021-05-02Z
-              stars: 6531
+              stars: 6532
               license: Apache License 2.0
               description: Server automation framework and application
               latest_commit_date: '2022-04-25T16:52:21Z'
@@ -3857,7 +3859,7 @@ landscape:
               contributors_link: https://github.com/puppetlabs/puppet/graphs/contributors
             repos:
               - url: https://github.com/puppetlabs/puppet
-                stars: 6531
+                stars: 6532
             github_start_commit_data:
               start_commit_link: /puppetlabs/puppet/commit/54e9b5e3561977ea063417da12c46aad2a4c1332
               start_date: '2005-04-13T15:18:05Z'
@@ -3868,7 +3870,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T20:35:01.000Z
+              latest_tweet_date: 2022-04-27T19:13:01.000Z
           - item:
             name: SaltStack
             homepage_url: https://maintenance.vmware.com/maintenance.html
@@ -3953,9 +3955,9 @@ landscape:
                   value: 184
                   color: '#384d54'
               contributions: >-
-                54;37;21;43;35;35;32;34;37;41;36;52;48;23;35;35;25;36;25;24;33;57;35;29;21;18;52;17;20;43;18;14;38;14;10;8;24;38;47;53;51;35;47;57;19;34;30;31;13;29;4;0
+                57;27;28;39;34;30;38;32;40;37;38;58;34;27;34;34;27;31;33;17;44;52;30;33;18;18;52;15;21;45;15;16;40;16;2;11;32;36;47;51;50;34;62;42;18;35;26;31;16;25;4;0
               firstWeek: 2021-05-02Z
-              stars: 12290
+              stars: 12292
               license: Apache License 2.0
               description: >-
                 Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package
@@ -3968,7 +3970,7 @@ landscape:
               contributors_link: https://github.com/saltstack/salt/graphs/contributors
             repos:
               - url: https://github.com/saltstack/salt
-                stars: 12290
+                stars: 12292
             github_start_commit_data:
               start_commit_link: /saltstack/salt/commit/7578c4d9f429b91dd8df553fc6ed78f4c8b76e7c
               start_date: '2011-02-20T20:18:32Z'
@@ -3979,7 +3981,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T20:11:58.000Z
+              latest_tweet_date: 2022-04-27T17:30:08.000Z
       - subcategory:
         name: Library Management
         items:
@@ -4063,7 +4065,7 @@ landscape:
                 - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2185904640
+              market_cap: 2123760256
               effective_ticker: FROG
             image_data:
               fileName: j-frog-artifactory.svg
@@ -4072,7 +4074,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T00:00:14.000Z
+              latest_tweet_date: 2022-04-28T01:29:02.000Z
           - item:
             name: Sonatype Nexus
             homepage_url: https://www.sonatype.com/
@@ -4113,7 +4115,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T21:21:36.000Z
+              latest_tweet_date: 2022-04-27T17:32:53.000Z
           - item:
             name: WhiteSource
             homepage_url: https://www.whitesourcesoftware.com/
@@ -4152,7 +4154,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T13:01:55.000Z
+              latest_tweet_date: 2022-04-27T15:02:07.000Z
   - category:
     name: Infrastructure Deployments
     subcategories:
@@ -4226,7 +4228,7 @@ landscape:
                 - Data Center
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 234154198650
+              market_cap: 236724407005
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-cloud.svg
@@ -4268,7 +4270,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T09:14:42.000Z
+              latest_tweet_date: 2022-04-27T13:07:10.000Z
           - item:
             name: Dell Boomi
             homepage_url: https://boomi.com/
@@ -4306,7 +4308,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T17:00:15.000Z
+              latest_tweet_date: 2022-04-27T21:46:50.000Z
           - item:
             name: Ketch
             homepage_url: https://www.theketch.io/
@@ -4348,22 +4350,22 @@ landscape:
                 - name: Dockerfile
                   value: 1006
                   color: '#384d54'
-              contributions: 0;2;1;3;7;8;0;10;5;4;2;3;4;2;2;1;0;4;9;5;6;2;7;4;8;6;6;8;3;5;3;6;1;4;0;1;4;8;0;3;1;2;0;0;1;2;1;3;2;1;1;1
+              contributions: 0;2;1;10;4;4;6;5;4;5;1;4;4;1;2;1;0;4;10;4;6;3;7;7;6;6;4;9;5;2;5;5;0;4;0;1;4;8;1;2;1;2;0;0;1;2;3;2;1;1;1;2
               firstWeek: 2021-05-02Z
-              stars: 585
+              stars: 584
               license: Apache License 2.0
               description: >-
                 Ketch is an application delivery framework that facilitates the deployment and management of applications on Kubernetes using a simple command
                 line interface
-              latest_commit_date: '2022-04-21T11:21:49Z'
-              latest_commit_link: /theketchio/ketch/commit/e4a950b837d375bb7af1f922b026fd1bdc2e5de9
+              latest_commit_date: '2022-04-27T16:53:55Z'
+              latest_commit_link: /theketchio/ketch/commit/71a7b351adceda1dad615bbdab20b59ee3470a7b
               release_date: '2022-01-26T17:05:25Z'
               release_link: https://github.com/theketchio/ketch/releases
               contributors_count: 14
               contributors_link: https://github.com/theketchio/ketch/graphs/contributors
             repos:
               - url: https://github.com/theketchio/ketch
-                stars: 585
+                stars: 584
             github_start_commit_data:
               start_commit_link: /shipa-corp/ketch/commit/dfee0755c9fe5b3636220e3f4417388d0836478e
               start_date: '2020-10-21T23:28:12Z'
@@ -4374,7 +4376,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T17:46:40.000Z
+              latest_tweet_date: 2022-04-27T18:36:43.000Z
           - item:
             name: Platform9 Systems
             homepage_url: https://platform9.com
@@ -4410,7 +4412,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T13:33:36.000Z
+              latest_tweet_date: 2022-04-27T17:54:34.000Z
           - item:
             name: Pulumi
             homepage_url: https://www.pulumi.com/
@@ -4474,9 +4476,9 @@ landscape:
                   value: 817
                   color: '#6E4C13'
               contributions: >-
-                28;21;19;21;10;18;19;14;11;10;43;32;26;28;7;24;34;55;5;18;19;33;24;25;19;13;14;20;22;25;8;16;14;18;4;16;25;22;39;32;27;9;13;10;38;63;25;22;14;11;23;22
+                27;22;15;22;8;19;20;13;14;15;40;29;29;24;8;21;50;37;10;16;25;31;26;18;21;13;16;16;25;24;8;15;17;12;13;13;22;31;32;32;24;10;12;21;41;57;17;21;14;18;23;14
               firstWeek: 2021-05-02Z
-              stars: 12144
+              stars: 12155
               license: Apache License 2.0
               description: Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
               latest_commit_date: '2022-04-26T18:44:00Z'
@@ -4487,7 +4489,7 @@ landscape:
               contributors_link: https://github.com/pulumi/pulumi/graphs/contributors
             repos:
               - url: https://github.com/pulumi/pulumi
-                stars: 12144
+                stars: 12155
             github_start_commit_data:
               start_commit_link: /pulumi/pulumi/commit/86f6117640ebaaffb8689e241a668218b24f4690
               start_date: '2016-10-08T23:01:25Z'
@@ -4498,7 +4500,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-27T03:03:30.000Z
+              latest_tweet_date: 2022-04-27T22:01:34.000Z
           - item:
             name: Rancher Labs
             homepage_url: https://rancher.com
@@ -4532,7 +4534,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T19:30:02.000Z
+              latest_tweet_date: 2022-04-27T13:26:07.000Z
           - item:
             name: Spacelift
             description: >-
@@ -4569,7 +4571,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T16:20:50.000Z
+              latest_tweet_date: 2022-04-28T01:37:48.000Z
           - item:
             name: Terraform
             homepage_url: https://www.terraform.io
@@ -4605,7 +4607,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 9574642
+                  value: 9599259
                   color: '#00ADD8'
                 - name: HTML
                   value: 52016
@@ -4622,27 +4624,27 @@ landscape:
                 - name: HCL
                   value: 337
               contributions: >-
-                36;35;64;29;20;23;17;20;32;40;65;41;62;71;14;17;55;25;23;38;28;42;26;43;33;34;72;23;33;36;12;24;42;42;11;18;37;6;19;48;40;17;7;10;7;38;17;27;43;37;34;51
+                34;42;64;24;25;16;15;20;48;45;51;49;56;62;14;28;43;31;22;36;38;37;22;49;28;39;73;13;49;21;19;39;27;39;4;32;23;7;46;25;44;8;8;11;9;39;16;37;36;43;46;45
               firstWeek: 2021-05-02Z
-              stars: 32242
+              stars: 32262
               license: Mozilla Public License 2.0
               description: >-
                 Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into
                 declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-              latest_commit_date: '2022-04-27T01:32:41Z'
-              latest_commit_link: /hashicorp/terraform/commit/e217c0c53a5b8706de31dea1bcf7e673ec638a24
-              release_date: '2022-04-20T13:46:32Z'
+              latest_commit_date: '2022-04-28T00:15:21Z'
+              latest_commit_link: /hashicorp/terraform/commit/7e37d486dd960de607b7d0a836c73251aa981049
+              release_date: '2022-04-27T19:29:31Z'
               release_link: https://github.com/hashicorp/terraform/releases
-              contributors_count: 1974
+              contributors_count: 1976
               contributors_link: https://github.com/hashicorp/terraform/graphs/contributors
             repos:
               - url: https://github.com/hashicorp/terraform
-                stars: 32242
+                stars: 32262
             github_start_commit_data:
               start_commit_link: /hashicorp/terraform/commit/649cf336e86da10910f6e50ea3cfaad507a2e336
               start_date: '2014-05-21T23:28:53Z'
             yahoo_finance_data:
-              market_cap: 9129915392
+              market_cap: 9014324224
               effective_ticker: HCP
             image_data:
               fileName: terraform.svg
@@ -4651,7 +4653,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T23:52:00.000Z
+              latest_tweet_date: 2022-04-28T00:10:01.000Z
   - category:
     name: Container Registry & Build
     subcategories:
@@ -4699,30 +4701,30 @@ landscape:
                   value: 1559592
                   color: '#00ADD8'
                 - name: Shell
-                  value: 22801
+                  value: 22443
                   color: '#89e051'
                 - name: Dockerfile
-                  value: 3621
+                  value: 4806
                   color: '#384d54'
                 - name: Makefile
-                  value: 3290
+                  value: 3711
                   color: '#427819'
                 - name: HCL
-                  value: 1163
-              contributions: 1;6;1;5;4;5;4;6;10;7;0;1;0;0;4;12;5;2;3;1;1;1;0;1;0;2;4;0;1;4;1;0;0;9;0;3;2;9;6;6;4;0;0;0;0;2;1;4;4;2;1;5
+                  value: 1761
+              contributions: 2;5;1;5;6;3;6;4;14;3;0;1;0;1;8;7;5;2;3;1;1;1;0;1;0;2;4;0;2;3;1;0;0;9;0;4;4;8;5;5;4;0;0;0;0;2;1;4;4;2;1;9
               firstWeek: 2021-05-02Z
-              stars: 6690
+              stars: 6691
               license: Apache License 2.0
               description: The toolkit to pack, ship, store, and deliver container content
-              latest_commit_date: '2022-04-26T09:23:14Z'
-              latest_commit_link: /distribution/distribution/commit/a7fc49b0679dcd25d2e24524a965dc39e4128a3c
+              latest_commit_date: '2022-04-27T07:49:07Z'
+              latest_commit_link: /distribution/distribution/commit/edf5aa3c399f3c7e9b7250676050e4691846bbaa
               release_date: '2022-03-08T18:19:10Z'
               release_link: https://github.com/distribution/distribution/releases
               contributors_count: 473
               contributors_link: https://github.com/distribution/distribution/graphs/contributors
             repos:
               - url: https://github.com/distribution/distribution
-                stars: 6690
+                stars: 6691
             github_start_commit_data:
               start_commit_link: /distribution/distribution/commit/12e68998e101a43d6616ac950beb6e91e06b57b2
               start_date: '2014-10-21T20:25:04Z'
@@ -4733,7 +4735,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-27T00:03:50.000Z
+              latest_tweet_date: 2022-04-28T04:27:29.000Z
           - item:
             name: Docker Hub
             homepage_url: https://hub.docker.com/
@@ -4783,7 +4785,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-27T02:27:43.000Z
+              latest_tweet_date: 2022-04-28T01:39:41.000Z
           - item:
             name: Harbor
             homepage_url: https://goharbor.io/
@@ -4823,7 +4825,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 5077684
+                  value: 5077511
                   color: '#00ADD8'
                 - name: TypeScript
                   value: 1704159
@@ -4859,20 +4861,20 @@ landscape:
                   color: '#563d7c'
                 - name: Smarty
                   value: 1931
-              contributions: 17;17;36;30;33;17;14;5;15;17;15;14;9;2;8;7;11;10;11;11;14;24;6;7;18;19;10;14;13;7;3;13;13;6;2;2;9;19;18;14;1;14;5;6;16;16;10;19;5;10;16;10
+              contributions: 14;26;33;29;30;23;8;7;15;13;17;12;8;3;9;6;10;12;10;15;15;20;4;11;15;19;12;12;14;5;4;13;14;4;2;5;8;19;18;12;4;12;5;8;16;15;12;18;5;12;15;8
               firstWeek: 2021-05-02Z
-              stars: 17239
+              stars: 17244
               license: Apache License 2.0
               description: An open source trusted cloud native registry project that stores, signs, and scans content.
-              latest_commit_date: '2022-04-26T08:11:43Z'
-              latest_commit_link: /goharbor/harbor/commit/d68b7819ade85f6a50913fdc1348f26f6263f646
+              latest_commit_date: '2022-04-28T05:20:03Z'
+              latest_commit_link: /goharbor/harbor/commit/615a4cbb527eee9180c657144c23d1f5f7d63d30
               release_date: '2022-04-11T03:18:22Z'
               release_link: https://github.com/goharbor/harbor/releases
               contributors_count: 289
               contributors_link: https://github.com/goharbor/harbor/graphs/contributors
             repos:
               - url: https://github.com/goharbor/harbor
-                stars: 17239
+                stars: 17244
             github_start_commit_data:
               start_commit_link: /goharbor/harbor/commit/f859348ac6230bda564f608e934f67359233a4b3
               start_date: '2016-02-01T11:59:10Z'
@@ -4959,7 +4961,7 @@ landscape:
               start_commit_link: /SUSE/Portus/commit/f301fdfc9aff7e9eb220e848d6d6c69f9ab1d75a
               start_date: '2015-04-12T21:58:55Z'
             yahoo_finance_data:
-              market_cap: 5197784857
+              market_cap: 5009260461
               effective_ticker: SUSE.F
             image_data:
               fileName: portus.svg
@@ -4968,7 +4970,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T19:46:02.000Z
+              latest_tweet_date: 2022-04-28T01:00:08.000Z
           - item:
             name: Quay
             homepage_url: https://quay.io/
@@ -5060,10 +5062,10 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 5062439
+                  value: 5064977
                   color: '#3572A5'
                 - name: JavaScript
-                  value: 1014424
+                  value: 1014701
                   color: '#f1e05a'
                 - name: HTML
                   value: 630009
@@ -5087,13 +5089,13 @@ landscape:
                   value: 425
                 - name: Genshi
                   value: 16
-              contributions: 1;2;3;1;1;2;3;1;0;1;10;1;11;7;5;3;0;0;1;4;5;4;2;4;12;6;3;10;11;8;2;10;4;2;2;1;2;2;1;7;12;12;8;18;10;5;6;11;12;9;22;15
+              contributions: 0;4;1;2;0;2;4;0;0;5;6;2;13;4;5;3;0;0;1;5;4;4;2;6;13;3;3;11;12;6;8;6;2;3;1;1;3;1;4;4;15;9;10;17;10;8;6;10;11;9;24;17
               firstWeek: 2021-05-02Z
               stars: 1960
               license: Apache License 2.0
               description: Build, Store, and Distribute your Applications and Containers
-              latest_commit_date: '2022-04-26T22:12:51Z'
-              latest_commit_link: /quay/quay/commit/2d63be373f69ea03e47864f4681d7fb36b3499d1
+              latest_commit_date: '2022-04-27T20:16:53Z'
+              latest_commit_link: /quay/quay/commit/3140a62e017ae2f19995ca94b1bd3f2bd1c36778
               release_date: '2021-12-06T08:18:29Z'
               release_link: https://github.com/quay/quay/releases
               contributors_count: 104
@@ -5105,7 +5107,7 @@ landscape:
               start_commit_link: /quay/quay/commit/0349af754204375d74ac5833713b607398981ff7
               start_date: '2013-09-20T15:55:44Z'
             yahoo_finance_data:
-              market_cap: 122069819392
+              market_cap: 121056976896
               effective_ticker: IBM
             image_data:
               fileName: quay.svg
@@ -5165,20 +5167,20 @@ landscape:
                 - name: Makefile
                   value: 7784
                   color: '#427819'
-              contributions: 3;4;9;8;5;9;8;18;17;9;14;8;8;3;7;3;19;29;4;8;2;1;3;7;3;7;6;8;18;20;11;7;3;10;2;3;34;30;10;8;2;3;5;1;6;14;2;2;4;7;5;0
+              contributions: 1;4;12;6;10;7;6;16;17;13;15;3;9;3;6;7;23;22;3;10;0;1;6;7;0;7;6;8;20;19;10;9;3;8;2;7;45;16;12;5;2;3;5;1;10;10;2;2;4;8;4;4
               firstWeek: 2021-05-02Z
-              stars: 21589
+              stars: 21601
               license: Apache License 2.0
               description: The Kubernetes Package Manager
-              latest_commit_date: '2022-04-15T13:28:13Z'
-              latest_commit_link: /helm/helm/commit/49819b4ef782e80b0c7f78c30bd76b51ebb56dc8
+              latest_commit_date: '2022-04-27T15:59:20Z'
+              latest_commit_link: /helm/helm/commit/442979d6525b8f260567786ae1042c95431c944c
               release_date: '2022-04-13T18:08:14Z'
               release_link: https://github.com/helm/helm/releases
               contributors_count: 673
               contributors_link: https://github.com/helm/helm/graphs/contributors
             repos:
               - url: https://github.com/helm/helm
-                stars: 21589
+                stars: 21601
             github_start_commit_data:
               start_commit_link: /helm/helm/commit/94db53d0803034083a3a9b1c7a9a197c327eb6b0
               start_date: '2015-11-02T23:52:56Z'
@@ -5221,7 +5223,7 @@ landscape:
                 - Software
             github_data:
               languages: []
-              contributions: 0;0;0;2;3;4;0;0;1;0;6;0;2;0;0;0;2;4;3;1;0;0;0;1;4;0;1;1;0;0;1;0;0;0;0;0;0;1;3;0;2;2;0;1;5;3;1;0;1;2;0;0
+              contributions: 0;0;0;4;1;4;0;0;1;1;5;1;1;0;0;1;1;4;3;1;0;0;1;2;2;0;1;1;0;0;1;0;0;0;0;0;1;3;0;0;2;2;0;5;1;3;1;1;0;2;0;0
               firstWeek: 2021-05-02Z
               stars: 7
               license: Apache License 2.0
@@ -5296,9 +5298,9 @@ landscape:
                 - name: C
                   value: 3889
                   color: '#555555'
-              contributions: 12;12;25;30;15;26;22;13;11;1;0;6;7;4;3;15;11;11;12;27;20;39;19;2;6;9;11;11;17;6;6;13;13;6;2;0;3;0;0;2;0;4;0;0;0;0;0;2;1;0;0;0
+              contributions: 13;13;29;25;18;23;20;14;10;1;0;6;10;1;4;18;8;12;17;26;26;35;11;2;6;14;6;15;16;3;6;16;11;5;2;0;3;0;1;1;0;4;0;0;0;0;0;2;1;0;0;0
               firstWeek: 2021-05-02Z
-              stars: 1444
+              stars: 1445
               license: Apache License 2.0
               description: >-
                 A service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and
@@ -5309,7 +5311,7 @@ landscape:
               contributors_link: https://github.com/anchore/anchore-engine/graphs/contributors
             repos:
               - url: https://github.com/anchore/anchore-engine
-                stars: 1444
+                stars: 1445
             github_start_commit_data:
               start_commit_link: /anchore/anchore-engine/commit/28656b6fee1bbdf3d32b1882136df22ddb6ed564
               start_date: '2017-09-06T18:47:21Z'
@@ -5320,7 +5322,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T16:07:12.000Z
+              latest_tweet_date: 2022-04-27T18:39:10.000Z
           - item:
             name: Prisma Cloud by Palo Alto Networks
             homepage_url: https://www.paloaltonetworks.com/prisma/cloud
@@ -5396,7 +5398,7 @@ landscape:
                 - Security
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 57198751744
+              market_cap: 57004740608
               effective_ticker: PANW
             image_data:
               fileName: prisma-cloud-by-palo-alto-networks.svg
@@ -5405,7 +5407,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T16:22:13.000Z
+              latest_tweet_date: 2022-04-27T19:29:48.000Z
           - item:
             name: Snyk
             homepage_url: https://snyk.io/
@@ -5454,7 +5456,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T21:20:01.000Z
+              latest_tweet_date: 2022-04-28T01:44:00.000Z
           - item:
             name: Sysdig Secure
             description: Sysdig Secure embeds security and compliance into the build, run and respond stages of the Kubernetes lifecycle.
@@ -5492,7 +5494,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T19:00:21.000Z
+              latest_tweet_date: 2022-04-27T15:01:09.000Z
   - category:
     name: Observability and Analysis
     subcategories:
@@ -6088,7 +6090,7 @@ landscape:
                   value: 111875
                   color: '#3572A5'
                 - name: HCL
-                  value: 43360
+                  value: 43835
                 - name: Shell
                   value: 34122
                   color: '#89e051'
@@ -6098,16 +6100,16 @@ landscape:
                 - name: Dockerfile
                   value: 20832
                   color: '#384d54'
-              contributions: 1;7;6;32;16;20;51;12;4;2;29;5;0;0;14;7;5;3;24;36;59;18;8;1;2;7;2;1;3;9;1;0;0;0;0;6;11;1;4;1;0;2;0;5;12;8;2;1;0;22;19;14
+              contributions: 1;9;13;34;9;23;48;8;6;5;24;5;0;0;17;6;4;11;32;49;39;13;4;0;4;5;2;1;3;9;1;0;0;0;0;6;11;1;4;1;0;2;0;9;8;8;3;0;3;19;25;11
               firstWeek: 2021-05-02Z
               stars: 883
               license: Apache License 2.0
               description: null
-              latest_commit_date: '2022-04-21T20:14:48Z'
-              latest_commit_link: /GoogleCloudPlatform/fourkeys/commit/7e4dab5898379eed1ab8ec6e06a04ef1813556f2
+              latest_commit_date: '2022-04-27T14:37:57Z'
+              latest_commit_link: /GoogleCloudPlatform/fourkeys/commit/bf6ef79027c90ede5977d82aadc850a332f7ef63
               release_date: '2021-06-03T13:06:07Z'
               release_link: https://github.com/GoogleCloudPlatform/fourkeys/releases
-              contributors_count: 25
+              contributors_count: 26
               contributors_link: https://github.com/GoogleCloudPlatform/fourkeys/graphs/contributors
             repos:
               - url: https://github.com/GoogleCloudPlatform/fourkeys
@@ -6116,7 +6118,7 @@ landscape:
               start_commit_link: /GoogleCloudPlatform/fourkeys/commit/6429c37913f30e7e92238455143c8d55c7d8cca7
               start_date: '2020-07-08T23:16:32Z'
             yahoo_finance_data:
-              market_cap: 1578220257280
+              market_cap: 1518983708672
               effective_ticker: GOOG
             image_data:
               fileName: four-keys.svg
@@ -6125,7 +6127,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-27T05:33:18.000Z
+              latest_tweet_date: 2022-04-27T21:54:58.000Z
       - subcategory:
         name: Monitoring and Logging
         items:
@@ -6179,7 +6181,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 37587251200
+              market_cap: 37930528768
               effective_ticker: DDOG
             image_data:
               fileName: datadog.svg
@@ -6188,7 +6190,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T18:25:02.000Z
+              latest_tweet_date: 2022-04-27T20:30:10.000Z
           - item:
             name: Dynatrace
             homepage_url: https://www.dynatrace.com/
@@ -6223,7 +6225,7 @@ landscape:
                 - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 11081190400
+              market_cap: 11109765120
               effective_ticker: DT
             image_data:
               fileName: dynatrace.svg
@@ -6232,7 +6234,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T23:00:10.000Z
+              latest_tweet_date: 2022-04-27T20:16:59.000Z
           - item:
             name: New Relic
             homepage_url: https://newrelic.com/
@@ -6282,7 +6284,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 4195438080
+              market_cap: 4151101184
               effective_ticker: NEWR
             image_data:
               fileName: new-relic.svg
@@ -6291,7 +6293,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T20:45:00.000Z
+              latest_tweet_date: 2022-04-27T23:57:55.000Z
           - item:
             name: Sumo Logic
             homepage_url: https://www.sumologic.com/
@@ -6329,7 +6331,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1090776960
+              market_cap: 1073662144
               effective_ticker: SUMO
             image_data:
               fileName: sumo-logic.svg
@@ -6338,7 +6340,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T20:17:20.000Z
+              latest_tweet_date: 2022-04-27T23:07:00.000Z
       - subcategory:
         name: Tracing and Messaging
         items:
@@ -6376,7 +6378,7 @@ landscape:
                 - name: Shell
                   value: 1466
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;1;4;0;0;2;0;0;0;2;1;3;1;2;1;0;1;0;0;0;1;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;1;4;0;0;2;0;0;0;3;1;2;2;1;1;0;1;0;0;0;1;0;0;0
               firstWeek: 2021-05-02Z
               stars: 13
               license: Apache License 2.0
@@ -6398,7 +6400,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-25T19:03:30.000Z
+              latest_tweet_date: 2022-04-27T15:20:46.000Z
           - item:
             name: Eiffel
             description: Eiffel is a technology agnostic CI/CD event protocol
@@ -6430,7 +6432,7 @@ landscape:
                 - name: Python
                   value: 2340
                   color: '#3572A5'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;5;1;0;2;0;2;0;0;1;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;6;0;0;2;0;2;0;1;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0
               firstWeek: 2021-05-02Z
               stars: 101
               license: Apache License 2.0
@@ -6488,7 +6490,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T21:09:00.000Z
+              latest_tweet_date: 2022-04-27T18:01:19.000Z
           - item:
             name: OpenTelemetry
             homepage_url: https://opentelemetry.io/
@@ -6530,18 +6532,18 @@ landscape:
                 - name: C#
                   value: 7570
                   color: '#178600'
-              contributions: 0;1;1;0;1;1;0;2;0;2;4;2;2;0;0;0;0;2;1;4;2;3;2;10;8;1;4;3;1;4;3;0;0;0;3;0;1;1;1;1;1;2;2;1;4;1;0;2;2;0;2;5
+              contributions: 0;1;1;0;1;1;2;0;0;5;2;1;2;0;0;0;0;2;1;4;2;4;1;10;8;1;4;3;1;4;3;0;0;3;0;0;1;1;1;1;3;1;1;1;4;1;0;2;2;0;2;6
               firstWeek: 2021-05-02Z
-              stars: 455
+              stars: 459
               license: Apache License 2.0
               description: OpenTelemetry community content
-              latest_commit_date: '2022-04-26T21:19:23Z'
-              latest_commit_link: /open-telemetry/community/commit/f6defe339ad1a4e2f344f20f35e4c25548cc4eeb
+              latest_commit_date: '2022-04-27T16:47:31Z'
+              latest_commit_link: /open-telemetry/community/commit/10b4f88707bc8b9ef6656834b3c42e66a5d9062e
               contributors_count: 88
               contributors_link: https://github.com/open-telemetry/community/graphs/contributors
             repos:
               - url: https://github.com/open-telemetry/community
-                stars: 455
+                stars: 459
             github_start_commit_data:
               start_commit_link: /open-telemetry/community/commit/26ee77202bc76d3611266c4e1ad3ef1749079107
               start_date: '2019-05-02T17:11:36Z'
@@ -6608,7 +6610,7 @@ landscape:
                 - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1417718005760
+              market_cap: 1405268918272
               effective_ticker: AMZN
             image_data:
               fileName: amazon-web-services-member.svg
@@ -6617,7 +6619,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T21:23:29.000Z
+              latest_tweet_date: 2022-04-27T13:47:59.000Z
           - item:
             name: Armory (member)
             homepage_url: https://www.armory.io/
@@ -6656,7 +6658,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T21:06:26.000Z
+              latest_tweet_date: 2022-04-27T23:38:00.000Z
           - item:
             name: CloudBees (member)
             homepage_url: https://www.cloudbees.com/
@@ -6705,7 +6707,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T18:40:02.000Z
+              latest_tweet_date: 2022-04-27T19:54:01.000Z
           - item:
             name: Fujitsu (member)
             homepage_url: https://www.fujitsu.com/global/
@@ -6777,7 +6779,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 29339133506
+              market_cap: 28496397283
               effective_ticker: 6702.T
             image_data:
               fileName: fujitsu-member.svg
@@ -6786,7 +6788,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T12:00:35.000Z
+              latest_tweet_date: 2022-04-28T05:02:10.000Z
           - item:
             name: Google Cloud (member)
             homepage_url: https://cloud.google.com/
@@ -7371,7 +7373,7 @@ landscape:
                 - Search Engine
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1578220257280
+              market_cap: 1518983708672
               effective_ticker: GOOG
             image_data:
               fileName: google-cloud-member.svg
@@ -7481,7 +7483,7 @@ landscape:
                 - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2185904640
+              market_cap: 2123760256
               effective_ticker: FROG
             image_data:
               fileName: j-frog-member.svg
@@ -7490,7 +7492,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T00:00:14.000Z
+              latest_tweet_date: 2022-04-28T01:29:02.000Z
           - item:
             name: Netflix (member)
             homepage_url: https://www.netflix.com/
@@ -7535,7 +7537,7 @@ landscape:
                 - Video Streaming
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 88143953920
+              market_cap: 83763412992
               effective_ticker: NFLX
             image_data:
               fileName: netflix-member.svg
@@ -7544,7 +7546,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T23:23:04.000Z
+              latest_tweet_date: 2022-04-28T03:29:46.000Z
           - item:
             name: RedHat (member)
             homepage_url: https://www.redhat.com/en
@@ -7632,7 +7634,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 122069819392
+              market_cap: 121056976896
               effective_ticker: IBM
             image_data:
               fileName: red-hat-member.svg
@@ -7641,7 +7643,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-27T00:38:04.000Z
+              latest_tweet_date: 2022-04-27T18:41:02.000Z
       - subcategory:
         name: End User
         items:
@@ -7731,7 +7733,7 @@ landscape:
                 - Financial Services
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 53641744384
+              market_cap: 53641728000
               effective_ticker: COF
             image_data:
               fileName: capital-one-member.svg
@@ -7740,7 +7742,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T17:00:00.000Z
+              latest_tweet_date: 2022-04-27T17:32:21.000Z
           - item:
             name: Dell Boomi (member)
             homepage_url: https://boomi.com/
@@ -7779,7 +7781,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T17:00:15.000Z
+              latest_tweet_date: 2022-04-27T21:46:50.000Z
           - item:
             name: eBay (member)
             homepage_url: https://www.ebay.com
@@ -7961,7 +7963,7 @@ landscape:
                 - Search Engine
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 30122887168
+              market_cap: 30122905600
               effective_ticker: EBAY
             image_data:
               fileName: e-bay-member.svg
@@ -7970,7 +7972,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-27T04:05:39.000Z
+              latest_tweet_date: 2022-04-28T02:38:54.000Z
           - item:
             name: Fidelity Investments (member)
             homepage_url: https://www.fidelity.com
@@ -8013,7 +8015,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T23:49:18.000Z
+              latest_tweet_date: 2022-04-28T01:12:43.000Z
           - item:
             name: HSBC (member)
             homepage_url: https://www.hsbc.com
@@ -8052,7 +8054,7 @@ landscape:
                 - Financial Services
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 120085401543
+              market_cap: 122516946911
               effective_ticker: HSBA.L
             image_data:
               fileName: hsbc-member.svg
@@ -8126,7 +8128,7 @@ landscape:
                 - Financial Services
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 361322020864
+              market_cap: 356622696448
               effective_ticker: JPM
             image_data:
               fileName: jp-morgan-chase-member.svg
@@ -8135,7 +8137,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T06:00:12.000Z
+              latest_tweet_date: 2022-04-27T13:41:58.000Z
       - subcategory:
         name: General
         items:
@@ -8215,7 +8217,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T22:34:19.000Z
+              latest_tweet_date: 2022-04-27T21:20:02.000Z
           - item:
             name: Cloudsmith (member)
             homepage_url: https://cloudsmith.com/
@@ -8286,7 +8288,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T20:05:09.000Z
+              latest_tweet_date: 2022-04-27T22:20:04.000Z
           - item:
             name: DevOps Institute (member)
             homepage_url: https://www.devopsinstitute.com/
@@ -8317,7 +8319,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-27T03:00:00.000Z
+              latest_tweet_date: 2022-04-28T01:00:00.000Z
           - item:
             name: Dynatrace (member)
             homepage_url: https://www.dynatrace.com
@@ -8352,7 +8354,7 @@ landscape:
                 - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 11081190400
+              market_cap: 11109765120
               effective_ticker: DT
             image_data:
               fileName: dynatrace-member.svg
@@ -8361,7 +8363,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T23:00:10.000Z
+              latest_tweet_date: 2022-04-27T20:16:59.000Z
           - item:
             name: GitLab (member)
             homepage_url: https://about.gitlab.com
@@ -8406,7 +8408,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 7523172352
+              market_cap: 7418375680
               effective_ticker: GTLB
             image_data:
               fileName: git-lab-member.svg
@@ -8415,7 +8417,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T18:54:02.000Z
+              latest_tweet_date: 2022-04-27T23:02:54.000Z
           - item:
             name: Harness (member)
             homepage_url: https://harness.io
@@ -8423,15 +8425,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/harness-512d
             crunchbase_data:
               name: Harness
-              description: Harness is a Continuous Delivery as-a-Service platform for engineering and DevOps teams to release applications into production.
-              num_employees_min: 251
-              num_employees_max: 500
-              homepage: http://harness.io/
+              description: Harness is a Continuous Delivery-as-a-Service platform for engineering and DevOps teams to release applications into production.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: http://harness.io
               city: San Francisco
               region: California
               country: United States
               twitter: https://twitter.com/harnessio
-              linkedin: https://www.linkedin.com/company/harnessinc/
+              linkedin: https://www.linkedin.com/company/harnessinc
               acquisitions:
                 - date: '2020-08-05'
                   acquiree: Drone.io
@@ -8443,9 +8445,9 @@ landscape:
               company_type: For Profit
               industries:
                 - Artificial Intelligence
-                - Delivery
                 - Developer Tools
                 - Machine Learning
+                - Productivity Tools
                 - SaaS
               kind: funding
             image_data:
@@ -8518,7 +8520,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-22T10:55:46.000Z
+              latest_tweet_date: 2022-04-27T18:10:00.000Z
           - item:
             name: Oracle (member)
             homepage_url: https://www.oracle.com/index.html
@@ -8868,7 +8870,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 198804602880
+              market_cap: 199471644672
               effective_ticker: ORCL
             image_data:
               fileName: oracle-member.svg
@@ -8877,7 +8879,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T21:00:01.000Z
+              latest_tweet_date: 2022-04-28T01:57:04.000Z
           - item:
             name: Ozone (member)
             homepage_url: https://ozone.one
@@ -8983,7 +8985,7 @@ landscape:
                 - Security
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 57198751744
+              market_cap: 57004740608
               effective_ticker: PANW
             image_data:
               fileName: prisma-cloud-by-palo-alto-networks-member.svg
@@ -8992,7 +8994,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T16:22:13.000Z
+              latest_tweet_date: 2022-04-27T19:29:48.000Z
           - item:
             name: Puppet (member)
             homepage_url: https://puppet.com
@@ -9037,7 +9039,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T20:35:01.000Z
+              latest_tweet_date: 2022-04-27T19:13:01.000Z
           - item:
             name: Rancher Labs (member)
             homepage_url: https://rancher.com
@@ -9071,7 +9073,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T19:30:02.000Z
+              latest_tweet_date: 2022-04-27T13:26:07.000Z
           - item:
             name: SAP (member)
             homepage_url: https://www.sap.com/index.html
@@ -9215,7 +9217,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 117710290944
+              market_cap: 117403598848
               effective_ticker: SAP
             image_data:
               fileName: sap-member.svg
@@ -9224,7 +9226,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T20:05:55.000Z
+              latest_tweet_date: 2022-04-27T12:27:07.000Z
           - item:
             name: Shipa (member)
             homepage_url: https://shipa.io/
@@ -9256,7 +9258,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T17:46:40.000Z
+              latest_tweet_date: 2022-04-27T18:36:43.000Z
           - item:
             name: Snyk (member)
             homepage_url: https://snyk.io/
@@ -9305,7 +9307,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T21:20:01.000Z
+              latest_tweet_date: 2022-04-28T01:44:00.000Z
           - item:
             name: Spacelift (member)
             homepage_url: https://spacelift.io
@@ -9339,7 +9341,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T16:20:50.000Z
+              latest_tweet_date: 2022-04-28T01:37:48.000Z
           - item:
             name: Sumo Logic (member)
             homepage_url: https://www.sumologic.com/
@@ -9377,7 +9379,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1090776960
+              market_cap: 1073662144
               effective_ticker: SUMO
             image_data:
               fileName: sumo-logic-member.svg
@@ -9386,7 +9388,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T20:17:20.000Z
+              latest_tweet_date: 2022-04-27T23:07:00.000Z
           - item:
             name: Sysdig (member)
             homepage_url: https://sysdig.com
@@ -9423,7 +9425,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T19:00:21.000Z
+              latest_tweet_date: 2022-04-27T15:01:09.000Z
           - item:
             name: Testlio (member)
             homepage_url: https://testlio.com
@@ -9459,7 +9461,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-22T17:30:24.000Z
+              latest_tweet_date: 2022-04-27T19:43:14.000Z
           - item:
             name: WhiteSource (member)
             homepage_url: https://www.whitesourcesoftware.com/
@@ -9498,7 +9500,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-26T13:01:55.000Z
+              latest_tweet_date: 2022-04-27T15:02:07.000Z
       - subcategory:
         name: Associate
         items:
@@ -9533,4 +9535,4 @@ landscape:
 twitter_options:
   count: 22
   since_id: '1510107369996316680'
-updated_at: 2022-04-27T06:09:33.225Z
+updated_at: 2022-04-28T06:07:43.144Z
