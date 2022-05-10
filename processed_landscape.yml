@@ -211,6 +211,189 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-04-30T19:12:00.000Z
           - item:
+            name: Cartographer
+            description: Cartographer is a Kubernetes-native Choreographer providing higher modularity and scalability for the software supply chain.
+            homepage_url: https://cartographer.sh/
+            repo_url: https://github.com/vmware-tanzu/cartographer
+            logo: cartographer.svg
+            twitter: https://twitter.com/OssCartographer
+            crunchbase: https://www.crunchbase.com/organization/vmware
+            crunchbase_data:
+              name: VMware
+              description: VMware is a software company providing cloud and virtualization services that powers complex digital infrastructure.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.vmware.com
+              city: Palo Alto
+              region: California
+              country: United States
+              twitter: http://twitter.com/VMware
+              linkedin: https://www.linkedin.com/company/vmware
+              acquisitions:
+                - date: '2003-12-16'
+                  acquiree: Emic Networks
+                - date: '2006-06-18'
+                  acquiree: Akimbi Systems
+                - date: '2007-08-06'
+                  acquiree: Determina
+                - date: '2007-09-11'
+                  acquiree: Dunes Technologies
+                - date: '2008-01-15'
+                  acquiree: Thinstall inc
+                - date: '2008-05-28'
+                  acquiree: B-hive Networks
+                - date: '2008-11-30'
+                  acquiree: Blue Lane Technologies
+                - date: '2009-08-10'
+                  acquiree: Spring
+                  price: 362000000
+                - date: '2010-08-31'
+                  acquiree: Integrien
+                - date: '2010-08-31'
+                  acquiree: TriCipher
+                  price: 100000000
+                - date: '2011-03-08'
+                  acquiree: WaveMaker
+                - date: '2011-04-26'
+                  acquiree: SlideRocket
+                - date: '2011-05-16'
+                  acquiree: Shavlik Technologies
+                - date: '2011-05-31'
+                  acquiree: Socialcast
+                - date: '2011-06-13'
+                  acquiree: Digital Fuel
+                - date: '2011-08-01'
+                  acquiree: Packetmotion
+                - date: '2012-05-22'
+                  acquiree: Wanova
+                - date: '2012-07-02'
+                  acquiree: DynamicOps
+                - date: '2012-07-23'
+                  acquiree: Nicira Networks
+                  price: 1260000000
+                - date: '2013-02-11'
+                  acquiree: Virsto Software
+                - date: '2013-10-15'
+                  acquiree: Desktone
+                - date: '2014-01-22'
+                  acquiree: AirWatch
+                  price: 1540000000
+                - date: '2014-08-20'
+                  acquiree: CloudVolumes
+                - date: '2015-02-03'
+                  acquiree: Immidio
+                - date: '2015-10-14'
+                  acquiree: Boxer
+                - date: '2016-06-13'
+                  acquiree: Arkin
+                - date: '2016-12-20'
+                  acquiree: PLUMgrid
+                - date: '2017-04-12'
+                  acquiree: Wavefront
+                  price: 375000000
+                - date: '2017-05-15'
+                  acquiree: Apteligent
+                  price: 50000000
+                - date: '2017-11-02'
+                  acquiree: VeloCloud
+                - date: '2018-02-14'
+                  acquiree: CloudCoreo
+                - date: '2018-02-22'
+                  acquiree: CloudVelox
+                - date: '2018-03-28'
+                  acquiree: E8 Security
+                - date: '2018-08-27'
+                  acquiree: CloudHealth Technologies
+                - date: '2018-11-06'
+                  acquiree: Heptio
+                  price: 550000000
+                - date: '2019-02-05'
+                  acquiree: AetherPal
+                - date: '2019-05-15'
+                  acquiree: Bitnami
+                - date: '2019-06-14'
+                  acquiree: Avi Networks
+                - date: '2019-07-18'
+                  acquiree: Bitfusion.io
+                - date: '2019-07-25'
+                  acquiree: Uhana
+                - date: '2019-08-16'
+                  acquiree: Veriflow
+                - date: '2019-08-20'
+                  acquiree: Intrinsic
+                - date: '2019-08-22'
+                  acquiree: Pivotal
+                  price: 2700000000
+                - date: '2019-10-08'
+                  acquiree: Carbon Black
+                  price: 2100000000
+                - date: '2020-01-21'
+                  acquiree: Nyansa
+                - date: '2020-05-13'
+                  acquiree: Octarine
+                - date: '2020-06-04'
+                  acquiree: Lastline
+                - date: '2020-07-02'
+                  acquiree: Datrium
+                - date: '2020-09-29'
+                  acquiree: SaltStack
+                - date: '2021-03-18'
+                  acquiree: Mesh7
+              parents:
+                - https://www.crunchbase.com/organization/dell-technologies
+              ticker: VMW
+              funding: 393500000
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Cloud Infrastructure
+                - Cloud Management
+                - Enterprise Software
+                - Information Technology
+              kind: market_cap
+            github_data:
+              languages:
+                - name: Go
+                  value: 1056361
+                  color: '#00ADD8'
+                - name: Shell
+                  value: 44581
+                  color: '#89e051'
+                - name: Makefile
+                  value: 5373
+                  color: '#427819'
+                - name: Python
+                  value: 812
+                  color: '#3572A5'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24;34;66;57;57;36;18;22;17;26;32;30;16;11;21;16;0;0;7;2;15;9;3;11;13;14;17;14;13;17;21;7;6;3;2;1
+              firstWeek: 2021-05-16Z
+              stars: 361
+              license: Apache License 2.0
+              description: Cartographer is a Supply Chain Choreographer.
+              latest_commit_date: '2022-05-10T00:54:25Z'
+              latest_commit_link: /vmware-tanzu/cartographer/commit/7619a71339ce744f93430671758ce871c022a061
+              release_date: '2022-04-13T16:50:12Z'
+              release_link: https://github.com/vmware-tanzu/cartographer/releases
+              contributors_count: 27
+              contributors_link: https://github.com/vmware-tanzu/cartographer/graphs/contributors
+            repos:
+              - url: https://github.com/vmware-tanzu/cartographer
+                stars: 361
+            github_start_commit_data:
+              start_commit_link: /vmware-tanzu/cartographer/commit/5027e6bb30643a84231099b7aeae429f2a2eed62
+              start_date: '2021-09-01T15:32:51Z'
+            yahoo_finance_data:
+              market_cap: 45490888704
+              effective_ticker: VMW
+            image_data:
+              fileName: cartographer.svg
+              hash: AyBma/n0NnMNQdf6RItGKqJSb+IdVa0Vrz2lDV4TWNE=
+            best_practice_data:
+              badge: 5329
+              percentage: 100
+            twitter_data:
+              latest_tweet_date: 2022-05-10T16:59:20.000Z
+          - item:
             name: CircleCI
             homepage_url: https://circleci.com/
             logo: circleci.svg
