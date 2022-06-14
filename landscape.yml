@@ -29,6 +29,14 @@ landscape:
             logo: armory.svg
             crunchbase: https://www.crunchbase.com/organization/armory
           - item:
+            name: Cartographer
+            description: Cartographer is a Kubernetes-native Choreographer providing higher modularity and scalability for the software supply chain.
+            homepage_url: https://cartographer.sh/
+            repo_url: https://github.com/vmware-tanzu/cartographer
+            logo: cartographer.svg
+            twitter: https://twitter.com/OssCartographer
+            crunchbase: https://www.crunchbase.com/organization/vmware
+          - item:
             name: CircleCI
             homepage_url: https://circleci.com/
             logo: circleci.svg
@@ -280,6 +288,16 @@ landscape:
             twitter: https://twitter.com/DeployHubProj
             crunchbase: https://www.crunchbase.com/organization/deployhub
           - item:
+            name: Liquibase
+            description: >-
+              Liquibase helps teams release software faster and safer — bringing database changes into existing CI/CD automation. 
+              Without automation, CI/CD fails at the database. 
+            homepage_url: https://www.liquibase.com/
+            repo_url: https://github.com/liquibase/liquibase
+            logo: liquibase.svg
+            twitter: https://twitter.com/liquibase
+            crunchbase: https://www.crunchbase.com/organization/datical
+          - item:
             name: Ortelius
             homepage_url: https://ortelius.io/
             project: incubating
@@ -362,10 +380,24 @@ landscape:
             logo: platform9-systems.svg
             crunchbase: https://www.crunchbase.com/organization/platform9-systems-inc
           - item:
+            name: Pulumi
+            homepage_url: https://www.pulumi.com/
+            repo_url: https://github.com/pulumi/pulumi
+            logo: pulumi.svg
+            crunchbase: https://www.crunchbase.com/organization/pulumi-corporation
+          - item:
             name: Rancher Labs
             homepage_url: https://rancher.com
             logo: rancher.svg
             crunchbase: https://www.crunchbase.com/organization/rancher-labs
+          - item:
+            name: Spacelift
+            description: >-
+              Spacelift is a flexible management platform for Infrastructure as Code. It helps customize your workflows, automate manual tasks, reduce number of
+              errors, improve security and auditability of your infrastructure.
+            homepage_url: https://spacelift.io
+            logo: spacelift.svg
+            crunchbase: https://www.crunchbase.com/organization/spacelift
           - item:
             name: Terraform
             homepage_url: https://www.terraform.io
@@ -497,9 +529,11 @@ landscape:
           - item:
             name: CDEvents
             description: CDEvents are a common specification for Continuous Delivery events, enabling interoperability in the complete software production ecosystem
-            repo_url: https://github.com/cdevents/spec
             homepage_url: https://cdevents.dev/
+            project: incubating
+            repo_url: https://github.com/cdevents/spec
             logo: cdevents.svg
+            twitter: https://twitter.com/_cdevents
             crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
           - item:
             name: Eiffel
@@ -555,7 +589,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/google
           - item:
             name: Huawei (member)
-            homepage_url: https://www.huaweicloud.com/en-us/about/about_us.html
+            homepage_url: https://www.huaweicloud.com/intl/en-us
             logo: huawei.svg
             twitter: https://twitter.com/Huawei_Cloud
             crunchbase: https://www.crunchbase.com/organization/huawei
@@ -707,6 +741,11 @@ landscape:
             homepage_url: https://snyk.io/
             logo: snyk.svg
             crunchbase: https://www.crunchbase.com/organization/snyk
+          - item:
+            name: Spacelift (member)
+            homepage_url: https://spacelift.io
+            logo: spacelift.svg
+            crunchbase: https://www.crunchbase.com/organization/spacelift
           - item:
             name: Sumo Logic (member)
             homepage_url: https://www.sumologic.com/
