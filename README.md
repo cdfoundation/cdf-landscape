@@ -61,6 +61,10 @@ The following rules will produce the most readable and attractive logos:
 
 [Directions](https://github.com/cncf/landscapeapp/blob/master/README.md#logos) on how to conform to landscape SVG requirements.
 
+## Additional Detailed Instructions
+
+The [above directions](https://github.com/cdfoundation/cdf-landscape#new-entries) should cover most cases for new entries. However, if you have errors or complications, such as with the Crunchbase URL, please see [additional detailed instructions here](https://github.com/cncf/landscapeapp/blob/master/README.md).
+
 ## Installation
 
 To edit the landscape, it's not necessary to install and run the app locally.
