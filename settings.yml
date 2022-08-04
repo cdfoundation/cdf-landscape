@@ -96,9 +96,9 @@ home:
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
 ads:
-  - url: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/?utm_source=cdf_landscape&utm_medium=web&utm_campaign=kccncna21
-    image: /images/kubecon_na_21.jpg
-    title: KubeCon + CloudNativeCon NA 2021 Virtual
+  - url: https://events.linuxfoundation.org/spinnaker-summit/
+    image: /images/spinnaker_summit_2022.png
+    title: Spinnaker Summit 2022
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
     label: Open source cards by age
@@ -123,7 +123,7 @@ big_picture:
       - type: HorizontalCategory
         category: CI & Pipeline Orchestration
         rows: 3
-        width: 840
+        width: 870
         height: 160
         top: 0
         left: 0
@@ -132,10 +132,10 @@ big_picture:
       - type: HorizontalCategory
         category: Continuous Automation
         rows: 3
-        width: 340
+        width: 310
         height: 160
         top: 0
-        left: 860
+        left: 890
         color: rgb(19,105,73)
         fit_width: true
       - type: HorizontalCategory
@@ -168,7 +168,7 @@ big_picture:
       - type: HorizontalCategory
         category: DevSecOps
         rows: 3
-        width: 190
+        width: 230
         height: 120
         top: 300
         left: 420
@@ -177,10 +177,10 @@ big_picture:
       - type: HorizontalCategory
         category: Observability and Analysis
         rows: 3
-        width: 440
+        width: 530
         height: 120
         top: 300
-        left: 630
+        left: 670
         color: rgb(185,33,66)
         fit_width: true
       - type: HorizontalCategory
@@ -248,3 +248,6 @@ update_server:
   ip: 147.75.106.211
   update_hour: 0
   update_minute: 0
+prerender:
+  projects: /borderless-mode?organization=continuous-delivery-foundation-cdf&grouping=organization
+export: {}

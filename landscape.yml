@@ -29,6 +29,14 @@ landscape:
             logo: armory.svg
             crunchbase: https://www.crunchbase.com/organization/armory
           - item:
+            name: Cartographer
+            description: Cartographer is a Kubernetes-native Choreographer providing higher modularity and scalability for the software supply chain.
+            homepage_url: https://cartographer.sh/
+            repo_url: https://github.com/vmware-tanzu/cartographer
+            logo: cartographer.svg
+            twitter: https://twitter.com/OssCartographer
+            crunchbase: https://www.crunchbase.com/organization/vmware
+          - item:
             name: CircleCI
             homepage_url: https://circleci.com/
             logo: circleci.svg
@@ -230,6 +238,14 @@ landscape:
         name: Release Automation
         items:
           - item:
+            name: JReleaser
+            homepage_url: https://jreleaser.org
+            repo_url: https://github.com/jreleaser/jreleaser
+            logo: jreleaser.svg
+            twitter: https://twitter.com/jreleaser
+            organization:
+              name: JReleaser
+          - item:
             name: UrbanCode Velocity
             homepage_url: https://www.urbancode.com/
             repo_url: https://github.com/UrbanCode/UCADF-Core-Library
@@ -279,6 +295,15 @@ landscape:
             logo: deployhub.svg
             twitter: https://twitter.com/DeployHubProj
             crunchbase: https://www.crunchbase.com/organization/deployhub
+          - item:
+            name: Liquibase
+            description: >-
+              Liquibase helps teams release software faster and safer — bringing database changes into existing CI/CD automation.  Without automation, CI/CD
+              fails at the database. 
+            homepage_url: https://www.liquibase.com/
+            repo_url: https://github.com/liquibase/liquibase
+            logo: liquibase.svg
+            crunchbase: https://www.crunchbase.com/organization/datical
           - item:
             name: Ortelius
             homepage_url: https://ortelius.io/
@@ -362,10 +387,24 @@ landscape:
             logo: platform9-systems.svg
             crunchbase: https://www.crunchbase.com/organization/platform9-systems-inc
           - item:
+            name: Pulumi
+            homepage_url: https://www.pulumi.com/
+            repo_url: https://github.com/pulumi/pulumi
+            logo: pulumi.svg
+            crunchbase: https://www.crunchbase.com/organization/pulumi-corporation
+          - item:
             name: Rancher Labs
             homepage_url: https://rancher.com
             logo: rancher.svg
             crunchbase: https://www.crunchbase.com/organization/rancher-labs
+          - item:
+            name: Spacelift
+            description: >-
+              Spacelift is a flexible management platform for Infrastructure as Code. It helps customize your workflows, automate manual tasks, reduce number of
+              errors, improve security and auditability of your infrastructure.
+            homepage_url: https://spacelift.io
+            logo: spacelift.svg
+            crunchbase: https://www.crunchbase.com/organization/spacelift
           - item:
             name: Terraform
             homepage_url: https://www.terraform.io
@@ -446,6 +485,14 @@ landscape:
             logo: prismacloud.svg
             crunchbase: https://www.crunchbase.com/organization/palo-alto-networks
           - item:
+            name: sigstore
+            description: sigstore builds open source software to improve supply chain technology for everyone.
+            homepage_url: https://www.sigstore.dev/
+            repo_url: https://github.com/sigstore/sigstore
+            logo: sigstore.svg
+            twitter: https://twitter.com/projectsigstore
+            crunchbase: https://www.crunchbase.com/organization/sigstore
+          - item:
             name: Snyk
             homepage_url: https://snyk.io/
             logo: snyk.svg
@@ -497,9 +544,11 @@ landscape:
           - item:
             name: CDEvents
             description: CDEvents are a common specification for Continuous Delivery events, enabling interoperability in the complete software production ecosystem
-            repo_url: https://github.com/cdevents/spec
             homepage_url: https://cdevents.dev/
+            project: incubating
+            repo_url: https://github.com/cdevents/spec
             logo: cdevents.svg
+            twitter: https://twitter.com/_cdevents
             crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
           - item:
             name: Eiffel
@@ -555,7 +604,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/google
           - item:
             name: Huawei (member)
-            homepage_url: https://www.huaweicloud.com/en-us/about/about_us.html
+            homepage_url: https://www.huaweicloud.com/intl/en-us
             logo: huawei.svg
             twitter: https://twitter.com/Huawei_Cloud
             crunchbase: https://www.crunchbase.com/organization/huawei
@@ -583,12 +632,6 @@ landscape:
             logo: capital-one.svg
             enduser: true
             crunchbase: https://www.crunchbase.com/organization/capital-one
-          - item:
-            name: Dell Boomi (member)
-            homepage_url: https://boomi.com/
-            logo: dellboomi.svg
-            enduser: true
-            crunchbase: https://www.crunchbase.com/organization/boomi
           - item:
             name: eBay (member)
             homepage_url: https://www.ebay.com
@@ -647,6 +690,11 @@ landscape:
             logo: dynatrace-member.svg
             crunchbase: https://www.crunchbase.com/organization/dynatrace-software
           - item:
+            name: env0 (member)
+            homepage_url: https://www.env0.com/
+            logo: env0.svg
+            crunchbase: https://www.crunchbase.com/organization/env0
+          - item:
             name: GitLab (member)
             homepage_url: https://about.gitlab.com
             logo: gitlab.svg
@@ -688,11 +736,6 @@ landscape:
             logo: puppet.svg
             crunchbase: https://www.crunchbase.com/organization/puppet-labs
           - item:
-            name: Rancher Labs (member)
-            homepage_url: https://rancher.com
-            logo: rancher.svg
-            crunchbase: https://www.crunchbase.com/organization/rancher-labs
-          - item:
             name: SAP (member)
             homepage_url: https://www.sap.com/index.html
             logo: sap.svg
@@ -708,6 +751,16 @@ landscape:
             logo: snyk.svg
             crunchbase: https://www.crunchbase.com/organization/snyk
           - item:
+            name: Spacelift (member)
+            homepage_url: https://spacelift.io
+            logo: spacelift.svg
+            crunchbase: https://www.crunchbase.com/organization/spacelift
+          - item:
+            name: StackHawk (member)
+            homepage_url: https://www.stackhawk.com/
+            logo: stack-hawk.svg
+            crunchbase: https://www.crunchbase.com/organization/stackhawk
+          - item:
             name: Sumo Logic (member)
             homepage_url: https://www.sumologic.com/
             logo: sumologic.svg
@@ -717,6 +770,11 @@ landscape:
             homepage_url: https://sysdig.com
             logo: sysdig.svg
             crunchbase: https://www.crunchbase.com/organization/sysdig
+          - item:
+            name: Tenable (member)
+            homepage_url: https://www.tenable.com/
+            logo: tenablenetworksecurityinc.svg
+            crunchbase: https://www.crunchbase.com/organization/tenable-network-security
           - item:
             name: Testlio (member)
             homepage_url: https://testlio.com
