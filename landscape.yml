@@ -468,6 +468,20 @@ landscape:
             twitter: https://twitter.com/shipwrightio
             crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
   - category:
+    name: Abstractions
+    subcategories:
+      - subcategory:
+        name: Interoperable Interfaces
+        items:
+          - item:
+            name: FRSCA
+            description: Factory for Repeatable Secure Creation of Artifacts
+            homepage_url: https://buildsec.github.io/frsca/
+            repo_url: https://github.com/buildsec/frsca
+            logo: tekton.svg
+            organization:
+              name: FRSCA
+  - category:
     name: DevSecOps
     subcategories:
       - subcategory:
