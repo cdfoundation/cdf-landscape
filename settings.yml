@@ -159,28 +159,37 @@ big_picture:
       - type: HorizontalCategory
         category: Container Registry & Build
         rows: 3
-        width: 400
+        width: 390
         height: 120
         top: 300
         left: 0
         color: rgb(87,43,10)
         fit_width: true
       - type: HorizontalCategory
-        category: DevSecOps
-        rows: 3
-        width: 230
+        category: Abstractions
+        rows: 1
+        width: 80
         height: 120
         top: 300
-        left: 420
+        left: 410
+        color: rgb(0,0,139)
+        fit_width: true
+      - type: HorizontalCategory
+        category: DevSecOps
+        rows: 3
+        width: 220
+        height: 120
+        top: 300
+        left: 510
         color: rgb(193,83,21)
         fit_width: true
       - type: HorizontalCategory
         category: Observability and Analysis
         rows: 3
-        width: 530
+        width: 450
         height: 120
         top: 300
-        left: 670
+        left: 750
         color: rgb(185,33,66)
         fit_width: true
       - type: HorizontalCategory
