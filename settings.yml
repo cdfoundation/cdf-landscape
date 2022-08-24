@@ -159,20 +159,11 @@ big_picture:
       - type: HorizontalCategory
         category: Container Registry & Build
         rows: 3
-        width: 390
+        width: 380
         height: 120
         top: 300
         left: 0
         color: rgb(87,43,10)
-        fit_width: true
-      - type: HorizontalCategory
-        category: Abstractions
-        rows: 1
-        width: 80
-        height: 120
-        top: 300
-        left: 410
-        color: rgb(0,0,139)
         fit_width: true
       - type: HorizontalCategory
         category: DevSecOps
@@ -180,7 +171,7 @@ big_picture:
         width: 220
         height: 120
         top: 300
-        left: 510
+        left: 400
         color: rgb(193,83,21)
         fit_width: true
       - type: HorizontalCategory
@@ -189,8 +180,17 @@ big_picture:
         width: 450
         height: 120
         top: 300
-        left: 750
+        left: 640
         color: rgb(185,33,66)
+        fit_width: true
+      - type: HorizontalCategory
+        category: Abstractions
+        rows: 1
+        width: 90
+        height: 120
+        top: 300
+        left: 1110
+        color: rgb(0,0,139)
         fit_width: true
       - type: HorizontalCategory
         category: CDF Members
