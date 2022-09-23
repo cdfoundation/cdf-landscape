@@ -158,6 +158,13 @@ landscape:
             logo: tekton.svg
             twitter: https://twitter.com/tektoncd
             crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
+          - item:
+            name: werf
+            homepage_url: https://werf.io/
+            repo_url: https://github.com/werf/werf
+            logo: werf.svg
+            twitter: https://twitter.com/werf_io
+            crunchbase: https://www.crunchbase.com/organization/flant
       - subcategory:
         name: Continuous Integration
         items:
@@ -503,6 +510,16 @@ landscape:
             homepage_url: https://sysdig.com/use-cases/kubernetes-security
             logo: sysdig-secure.svg
             crunchbase: https://www.crunchbase.com/organization/sysdig
+      - subcategory:
+        name: Policy
+        items:
+          - item:
+            name: Allero
+            description: Policy enforcement tool that protects production CI/CD pipeline
+            homepage_url: https://allero.io
+            repo_url: https://github.com/allero-io/allero
+            logo: allero.svg
+            crunchbase: https://www.crunchbase.com/organization/allero
   - category:
     name: Observability and Analysis
     subcategories:
