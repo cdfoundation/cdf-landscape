@@ -13,8 +13,20 @@ global:
     fb_admin: alex.contini.94
     description: Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets
     twitter: '@CDeliveryFdn'
-    google_site_verification: apI3BLUsW1CCRZpZ6XDsuvJyJSRVc4UZ-yRwbzP3ytk
-    ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
+    extra: >
+      <meta property="og:locale" content="en_US"/>
+      <meta property="og:type" content="website"/>
+      <meta property="og:title" content="Continuous Delivery Landscape"/>
+      <meta property="og:url" content="https://landscape.cd.foundation"/>
+      <meta property="og:site_name" content="Continuous Delivery Landscape"/>
+      <meta property="fb:admins" content="alex.contini.94"/>
+      <meta property="og:image" content="/favicon.png" />
+      <meta property="og:image:secure_url" content="/favicon.png" />
+      <meta name="twitter:card" content="summary"/>
+      <meta name="twitter:site" content="@CDeliveryFdn"/>
+      <meta name="twitter:creator" content="@CDeliveryFdn"/>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-LGEG7N95XC"></script>
+      <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-LGEG7N95XC'); </script>
   membership: CDF Members
   flags:
     companies: CDF Members
