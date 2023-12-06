@@ -33,6 +33,7 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
+                - DevOps
                 - Infrastructure
             github_data:
               languages:
@@ -250,6 +251,8 @@ landscape:
                   acquiree: Integrien
                 - date: '2010-08-31'
                   acquiree: TriCipher
+                - date: '2011-01-18'
+                  acquiree: NeoAccel
                 - date: '2011-03-08'
                   acquiree: WaveMaker
                 - date: '2011-04-26'
@@ -414,9 +417,9 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
-                - Cloud Computing
+                - Delivery
+                - Delivery Service
                 - Developer Tools
-                - Information Technology
                 - PaaS
                 - Productivity Tools
                 - SaaS
@@ -470,6 +473,7 @@ landscape:
                 - Cloud Computing
                 - Cloud Data Services
                 - Delivery
+                - DevOps
                 - SaaS
               kind: funding
             image_data:
@@ -504,11 +508,12 @@ landscape:
               linkedin: https://www.linkedin.com/company/codefresh
               acquisitions: []
               parents: []
-              funding: 43000000
+              funding: 46500000
               stockExchange: null
               company_type: For Profit
               industries:
                 - Apps
+                - DevOps
                 - Developer Tools
                 - Software
                 - Web Development
@@ -599,6 +604,8 @@ landscape:
                   acquiree: Integrien
                 - date: '2010-08-31'
                   acquiree: TriCipher
+                - date: '2011-01-18'
+                  acquiree: NeoAccel
                 - date: '2011-03-08'
                   acquiree: WaveMaker
                 - date: '2011-04-26'
@@ -979,14 +986,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
             crunchbase_data:
               name: GitLab
-              description: GitLab is the most comprehensive DevSecOps platform for software innovation.
+              description: GitLab is a web-based Git repository manager that offers a variety of features for software development teams.
               num_employees_min: 1001
               num_employees_max: 5000
               homepage: http://about.gitlab.com
               city: San Francisco
               region: California
               country: United States
-              twitter: http://twitter.com/gitlab
+              twitter: http://www.twitter.com/gitlab
               linkedin: https://www.linkedin.com/company/gitlab-com
               acquisitions:
                 - date: '2015-03-03'
@@ -1010,6 +1017,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Cloud Security
+                - DevOps
                 - Developer Tools
                 - Open Source
                 - SaaS
@@ -1112,6 +1120,7 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
+                - DevOps
                 - Developer Tools
                 - Productivity Tools
                 - SaaS
@@ -1152,6 +1161,7 @@ landscape:
               company_type: Non Profit
               industries:
                 - Cloud Computing
+                - DevOps
                 - Open Source
                 - Software
             github_data:
@@ -1214,6 +1224,8 @@ landscape:
               twitter: https://twitter.com/Dynatrace
               linkedin: https://www.linkedin.com/company/dynatrace
               acquisitions:
+                - date: '2015-06-01'
+                  acquiree: Keynote Systems
                 - date: '2017-11-09'
                   acquiree: Qumram
                 - date: '2021-09-14'
@@ -1226,6 +1238,7 @@ landscape:
               stockExchange: nyse
               company_type: For Profit
               industries:
+                - Business Process Automation (BPA)
                 - Developer Tools
                 - Enterprise Software
                 - Information Technology
@@ -1319,6 +1332,7 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
+                - DevOps
                 - Developer APIs
                 - Developer Tools
                 - Productivity Tools
@@ -1536,6 +1550,7 @@ landscape:
               company_type: Non Profit
               industries:
                 - Cloud Computing
+                - DevOps
                 - Open Source
                 - Software
             github_data:
@@ -1603,6 +1618,7 @@ landscape:
               company_type: Non Profit
               industries:
                 - Cloud Computing
+                - DevOps
                 - Open Source
                 - Software
             github_data:
@@ -1673,6 +1689,7 @@ landscape:
               company_type: Non Profit
               industries:
                 - Cloud Computing
+                - DevOps
                 - Open Source
                 - Software
             github_data:
@@ -1745,6 +1762,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Consulting
+                - DevOps
                 - Information Technology
                 - Software
             github_data:
@@ -1813,15 +1831,17 @@ landscape:
             crunchbase_data:
               name: Buildkite
               description: Buildkite is a platform for running fast, secure, and scalable continuous integration pipelines on your own infrastructure.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 101
+              num_employees_max: 250
               homepage: https://buildkite.com/
               city: Fitzroy
               region: Victoria
               country: Australia
               twitter: https://twitter.com/buildkite
               linkedin: https://linkedin.com/company/12907204
-              acquisitions: []
+              acquisitions:
+                - date: '2023-09-19'
+                  acquiree: Packagecloud
               parents: []
               funding: 41476109
               stockExchange: null
@@ -1927,6 +1947,7 @@ landscape:
               company_type: Non Profit
               industries:
                 - Cloud Computing
+                - DevOps
                 - Open Source
                 - Software
             github_data:
@@ -2706,6 +2727,8 @@ landscape:
                   acquiree: FlipGrid
                 - date: '2018-06-20'
                   acquiree: Bonsai
+                - date: '2018-07-31'
+                  acquiree: PaperVault
                 - date: '2018-09-13'
                   acquiree: Lobe
                 - date: '2018-11-10'
@@ -2769,7 +2792,7 @@ landscape:
                 - date: '2021-09-10'
                   acquiree: TakeLessons
                 - date: '2021-10-07'
-                  acquiree: Ally.io
+                  acquiree: Ally.io (Acquired)
                 - date: '2021-10-22'
                   acquiree: Clear Software
                 - date: '2021-10-29'
@@ -2792,6 +2815,8 @@ landscape:
               stockExchange: nasdaq
               company_type: For Profit
               industries:
+                - Data Management
+                - DevOps
                 - Developer Tools
                 - Enterprise Software
                 - Operating Systems
@@ -3329,6 +3354,8 @@ landscape:
                   acquiree: Dascom
                 - date: '2001-06-07'
                   acquiree: Mainspring
+                - date: '2002-01-02'
+                  acquiree: Informix
                 - date: '2002-01-14'
                   acquiree: CrossWorlds Software
                 - date: '2002-06-25'
@@ -3380,7 +3407,7 @@ landscape:
                 - date: '2004-12-13'
                   acquiree: KeyMRO
                 - date: '2005-01-07'
-                  acquiree: SRD
+                  acquiree: SRD SASSA Check
                 - date: '2005-01-07'
                   acquiree: Systems Research & Development
                 - date: '2005-01-25'
@@ -3709,6 +3736,8 @@ landscape:
                   acquiree: Neudesic
                 - date: '2022-06-14'
                   acquiree: Randori
+                - date: '2022-07-01'
+                  acquiree: Omnio
                 - date: '2022-07-06'
                   acquiree: Databand
                 - date: '2022-09-22'
@@ -3723,6 +3752,8 @@ landscape:
                   acquiree: Polar Security
                 - date: '2023-06-26'
                   acquiree: Apptio
+                - date: '2023-10-24'
+                  acquiree: Manta
               parents: []
               ticker: IBM
               stockExchange: nyse
@@ -3731,6 +3762,7 @@ landscape:
                 - Business Development
                 - Business Information Systems
                 - CRM
+                - Data Management
                 - Software
             github_data:
               languages:
@@ -3847,7 +3879,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/gradle
             crunchbase_data:
               name: Gradle Inc.
-              description: Gradle provides the most popular open source build tool for the Java ecosystem and the Gradle Enterprise commercial build analytics solution
+              description: Gradle provides the most popular open source build tool for the Java ecosystem and the Develocity commercial build analytics solution
               num_employees_min: 101
               num_employees_max: 250
               homepage: https://gradle.com/
@@ -3984,6 +4016,7 @@ landscape:
               industries:
                 - Computer
                 - Cycling
+                - DevOps
                 - Software
             image_data:
               fileName: open-make-meister.svg
@@ -4008,7 +4041,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/red-hat
             crunchbase_data:
               name: Red Hat
-              description: Red Hat is a multinational software company engaged in providing open-source software products to the enterprise community.
+              description: Red Hat is a software company that offers enterprise open source software solutions.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.redhat.com
@@ -4166,6 +4199,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Cloud Computing
+                - DevOps
                 - Information Technology
                 - Infrastructure
                 - SaaS
@@ -4368,6 +4402,7 @@ landscape:
               company_type: Non Profit
               industries:
                 - Cloud Computing
+                - DevOps
                 - Open Source
                 - Software
             github_data:
@@ -4546,7 +4581,7 @@ landscape:
               description: SaltStack is intelligent automation for a software-defined world.
               num_employees_min: 51
               num_employees_max: 100
-              homepage: https://www.vmware.com
+              homepage: http://www.saltstack.com/
               city: Lehi
               region: Utah
               country: United States
@@ -4661,7 +4696,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/fossa-2
             crunchbase_data:
               name: FOSSA
-              description: FOSSA provides a platform that helps enterprises manage and maximize open source use at scale.
+              description: FOSSA is the developer's choice for managing open source risk and reporting.
               num_employees_min: 51
               num_employees_max: 100
               homepage: http://fossa.com
@@ -4672,7 +4707,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/fossa/
               acquisitions: []
               parents: []
-              funding: 33900000
+              funding: 38399979
               stockExchange: null
               company_type: For Profit
               industries:
@@ -4727,6 +4762,7 @@ landscape:
               stockExchange: nasdaq
               company_type: For Profit
               industries:
+                - DevOps
                 - Developer Tools
                 - Enterprise Software
                 - Software
@@ -4767,6 +4803,7 @@ landscape:
               company_type: Non Profit
               industries:
                 - Cloud Computing
+                - DevOps
                 - Open Source
                 - Software
             github_data:
@@ -4925,6 +4962,7 @@ landscape:
               industries:
                 - Cloud Infrastructure
                 - Computer
+                - DevOps
                 - Software
               kind: funding
             image_data:
@@ -4940,7 +4978,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/alibaba-cloud
             crunchbase_data:
               name: Alibaba Cloud
-              description: Alibaba Cloud develops highly scalable cloud computing and data management services.
+              description: Alibaba Cloud develops cloud computing and data management services.
               num_employees_min: 1001
               num_employees_max: 5000
               homepage: https://in.alibabacloud.com
@@ -4966,6 +5004,7 @@ landscape:
                 - Cloud Data Services
                 - Cloud Management
                 - Data Center
+                - Data Management
                 - Software
             yahoo_finance_data:
               effective_ticker: 9988.HK
@@ -4998,6 +5037,7 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
+                - DevOps
                 - Information Technology
                 - SaaS
                 - Software
@@ -5031,11 +5071,12 @@ landscape:
                 - date: '2019-12-17'
                   acquiree: UNIFi Software
               parents: []
-              funding: 4900000
+              funding: 979900000
               stockExchange: null
               company_type: For Profit
               industries:
                 - Cloud Computing
+                - Data Management
                 - Enterprise Software
                 - SaaS
               kind: funding
@@ -5159,7 +5200,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/pulumi-corporation
             crunchbase_data:
               name: Pulumi
-              description: Pulumi is a  Seattle-based cloud engineering company that offers a way to build, connect, and run modern cloud applications.
+              description: Pulumi is a cloud engineering company that offers a way to build, connect, and run modern cloud applications.
               num_employees_min: 51
               num_employees_max: 100
               homepage: https://www.pulumi.com
@@ -5170,12 +5211,13 @@ landscape:
               linkedin: https://www.linkedin.com/company/pulumi
               acquisitions: []
               parents: []
-              funding: 57500000
+              funding: 98500000
               stockExchange: null
               company_type: For Profit
               industries:
                 - Cloud Computing
                 - Computer
+                - DevOps
                 - SaaS
                 - Software
               kind: funding
@@ -5337,11 +5379,12 @@ landscape:
               parents: []
               ticker: HCP
               funding: 349175000
-              stockExchange: nasdaq
+              stockExchange: bmv
               company_type: For Profit
               industries:
                 - Cloud Infrastructure
                 - Cyber Security
+                - DevOps
                 - Information Technology
                 - Private Cloud
                 - Software
@@ -5721,7 +5764,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/red-hat
             crunchbase_data:
               name: Red Hat
-              description: Red Hat is a multinational software company engaged in providing open-source software products to the enterprise community.
+              description: Red Hat is a software company that offers enterprise open source software solutions.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.redhat.com
@@ -5955,6 +5998,7 @@ landscape:
               company_type: Non Profit
               industries:
                 - Cloud Computing
+                - DevOps
                 - Open Source
                 - Software
             github_data:
@@ -6126,6 +6170,10 @@ landscape:
                   acquiree: Bridgecrew
                 - date: '2022-11-17'
                   acquiree: Cider Security
+                - date: '2023-10-31'
+                  acquiree: Dig Security
+                - date: '2023-11-06'
+                  acquiree: Talon Cyber Security
               parents: []
               ticker: PANW
               funding: 65000000
@@ -6269,7 +6317,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/sysdig
             crunchbase_data:
               name: Sysdig
-              description: Sysdig delivers cloud and container security so you can stop attacks with no wasted time.
+              description: The leader in cloud security powered by runtime insights
               num_employees_min: 501
               num_employees_max: 1000
               homepage: https://www.sysdig.com
@@ -6566,6 +6614,8 @@ landscape:
                   acquiree: Sprinks
                 - date: '2004-05-10'
                   acquiree: Ignite Logic
+                - date: '2004-07-14'
+                  acquiree: Picasa
                 - date: '2004-09-10'
                   acquiree: ZipDash
                 - date: '2004-10-09'
@@ -6868,6 +6918,8 @@ landscape:
                   acquiree: Quest Visual
                 - date: '2014-05-20'
                   acquiree: Divide
+                - date: '2014-05-23'
+                  acquiree: Skybox Imaging
                 - date: '2014-06-10'
                   acquiree: Terra Bella
                 - date: '2014-06-19'
@@ -7046,6 +7098,8 @@ landscape:
                   acquiree: Dysonics
                 - date: '2021-05-07'
                   acquiree: Provino Technologies
+                - date: '2021-10-01'
+                  acquiree: CompilerWorks
                 - date: '2021-11-17'
                   acquiree: Tempow
                 - date: '2022-01-04'
@@ -7069,7 +7123,7 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/alphabet
               ticker: GOOG
-              funding: 36100000
+              funding: 26100000
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -7175,6 +7229,8 @@ landscape:
                 - Cloud Computing
                 - Cloud Data Services
                 - Cloud Infrastructure
+                - Data Management
+                - DevOps
                 - Productivity Tools
                 - SaaS
             yahoo_finance_data:
@@ -7204,6 +7260,8 @@ landscape:
               twitter: https://twitter.com/Dynatrace
               linkedin: https://www.linkedin.com/company/dynatrace
               acquisitions:
+                - date: '2015-06-01'
+                  acquiree: Keynote Systems
                 - date: '2017-11-09'
                   acquiree: Qumram
                 - date: '2021-09-14'
@@ -7216,6 +7274,7 @@ landscape:
               stockExchange: nyse
               company_type: For Profit
               industries:
+                - Business Process Automation (BPA)
                 - Developer Tools
                 - Enterprise Software
                 - Information Technology
@@ -7313,7 +7372,6 @@ landscape:
                 - date: '2021-06-02'
                   acquiree: Sensu
               parents: []
-              ticker: SUMO
               funding: 340000000
               stockExchange: nasdaq
               company_type: For Profit
@@ -7323,8 +7381,7 @@ landscape:
                 - Cloud Data Services
                 - Enterprise Software
                 - SaaS
-            yahoo_finance_data:
-              effective_ticker: SUMO
+              kind: funding
             image_data:
               fileName: sumo-logic.svg
               hash: IDXkWYHd8N+WBeS+fXxdWR76uEmmBUnL1jrTf6pnw9s=
@@ -7363,6 +7420,7 @@ landscape:
               company_type: Non Profit
               industries:
                 - Cloud Computing
+                - DevOps
                 - Open Source
                 - Software
             github_data:
@@ -7478,6 +7536,7 @@ landscape:
               industries:
                 - Cloud Data Services
                 - Data Visualization
+                - DevOps
                 - Developer Tools
                 - Information Technology
                 - Software Engineering
@@ -7596,6 +7655,7 @@ landscape:
                 - Cloud Computing
                 - Cloud Data Services
                 - Delivery
+                - DevOps
                 - SaaS
               kind: funding
             image_data:
@@ -7642,6 +7702,8 @@ landscape:
                   acquiree: Sprinks
                 - date: '2004-05-10'
                   acquiree: Ignite Logic
+                - date: '2004-07-14'
+                  acquiree: Picasa
                 - date: '2004-09-10'
                   acquiree: ZipDash
                 - date: '2004-10-09'
@@ -7944,6 +8006,8 @@ landscape:
                   acquiree: Quest Visual
                 - date: '2014-05-20'
                   acquiree: Divide
+                - date: '2014-05-23'
+                  acquiree: Skybox Imaging
                 - date: '2014-06-10'
                   acquiree: Terra Bella
                 - date: '2014-06-19'
@@ -8122,6 +8186,8 @@ landscape:
                   acquiree: Dysonics
                 - date: '2021-05-07'
                   acquiree: Provino Technologies
+                - date: '2021-10-01'
+                  acquiree: CompilerWorks
                 - date: '2021-11-17'
                   acquiree: Tempow
                 - date: '2022-01-04'
@@ -8145,7 +8211,7 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/alphabet
               ticker: GOOG
-              funding: 36100000
+              funding: 26100000
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -8201,6 +8267,7 @@ landscape:
               stockExchange: nasdaq
               company_type: For Profit
               industries:
+                - DevOps
                 - Developer Tools
                 - Enterprise Software
                 - Software
@@ -8222,7 +8289,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/red-hat
             crunchbase_data:
               name: Red Hat
-              description: Red Hat is a multinational software company engaged in providing open-source software products to the enterprise community.
+              description: Red Hat is a software company that offers enterprise open source software solutions.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.redhat.com
@@ -8552,6 +8619,8 @@ landscape:
                   acquiree: Cox Automotive
                 - date: '2021-11-29'
                   acquiree: Sneaker Con
+                - date: '2022-01-02'
+                  acquiree: Homes Direct
                 - date: '2022-06-22'
                   acquiree: KnownOrigin
                 - date: '2022-08-22'
@@ -8725,6 +8794,7 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
+                - DevOps
                 - Enterprise Applications
                 - Enterprise Software
                 - IT Infrastructure
@@ -8867,6 +8937,8 @@ landscape:
                   acquiree: Datorama
                 - date: '2018-10-05'
                   acquiree: Rebel
+                - date: '2019-01-01'
+                  acquiree: Diffeo
                 - date: '2019-01-28'
                   acquiree: Griddable
                 - date: '2019-04-16'
@@ -8899,6 +8971,8 @@ landscape:
                   acquiree: Troops
                 - date: '2022-04-04'
                   acquiree: Phennecs
+                - date: '2023-09-21'
+                  acquiree: Airkit
               parents: []
               ticker: CRM
               funding: 65375124
@@ -8907,8 +8981,9 @@ landscape:
               industries:
                 - CRM
                 - Cloud Computing
-                - Information Technology
+                - Enterprise Software
                 - SaaS
+                - Sales Enablement
                 - Software
             yahoo_finance_data:
               effective_ticker: CRM
@@ -8990,9 +9065,9 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
-                - Cloud Computing
+                - Delivery
+                - Delivery Service
                 - Developer Tools
-                - Information Technology
                 - PaaS
                 - Productivity Tools
                 - SaaS
@@ -9013,7 +9088,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cloudsmith-io
             crunchbase_data:
               name: Cloudsmith
-              description: Artifact Management and Worldwide Distribution, Made Simple.
+              description: Cloudsmith is a cloud-native platform that serves as a centralized solution for managing and distributing software assets or artifacts.
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://cloudsmith.com
@@ -9024,7 +9099,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/cloudsmith
               acquisitions: []
               parents: []
-              funding: 17896683
+              funding: 29069796
               stockExchange: null
               company_type: For Profit
               industries:
@@ -9062,11 +9137,12 @@ landscape:
               linkedin: https://www.linkedin.com/company/codefresh
               acquisitions: []
               parents: []
-              funding: 43000000
+              funding: 46500000
               stockExchange: null
               company_type: For Profit
               industries:
                 - Apps
+                - DevOps
                 - Developer Tools
                 - Software
                 - Web Development
@@ -9109,6 +9185,7 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
+                - DevOps
                 - Developer Tools
                 - Productivity Tools
                 - SaaS
@@ -9146,6 +9223,7 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
+                - DevOps
                 - Developer APIs
                 - Developer Tools
                 - Productivity Tools
@@ -9244,6 +9322,10 @@ landscape:
                   acquiree: Bridgecrew
                 - date: '2022-11-17'
                   acquiree: Cider Security
+                - date: '2023-10-31'
+                  acquiree: Dig Security
+                - date: '2023-11-06'
+                  acquiree: Talon Cyber Security
               parents: []
               ticker: PANW
               funding: 65000000
@@ -9348,14 +9430,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/sap
             crunchbase_data:
               name: SAP
-              description: SAP is a technology company that develops enterprise application software for companies and industries across diverse sectors.
+              description: SAP provides enterprise application software to various industries, including consumer, discrete manufacturing, public services.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.sap.com
               city: Walldorf
               region: Baden-Wurttemberg
               country: Germany
-              twitter: http://twitter.com/SAP
+              twitter: http://www.twitter.com/SAP
               linkedin: https://www.linkedin.com/company/sap
               acquisitions:
                 - date: '2001-03-30'
@@ -9442,8 +9524,6 @@ landscape:
                   acquiree: Recast.AI
                 - date: '2018-01-29'
                   acquiree: CallidusCloud
-                - date: '2018-06-05'
-                  acquiree: Coresystems
                 - date: '2018-11-10'
                   acquiree: Qualtrics
                 - date: '2018-11-19'
@@ -9460,6 +9540,8 @@ landscape:
                   acquiree: Taulia
                 - date: '2022-07-21'
                   acquiree: Askdata
+                - date: '2023-09-07'
+                  acquiree: LeanIX
               parents: []
               ticker: SAP
               funding: 1301371240
@@ -9468,7 +9550,9 @@ landscape:
               industries:
                 - Analytics
                 - Business Intelligence
+                - Business Process Automation (BPA)
                 - Computer
+                - Data Management
                 - Finance
                 - Software
             yahoo_finance_data:
@@ -9538,6 +9622,7 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
+                - DevOps
                 - Developer Tools
                 - SaaS
                 - Security
@@ -9578,7 +9663,6 @@ landscape:
                 - date: '2021-06-02'
                   acquiree: Sensu
               parents: []
-              ticker: SUMO
               funding: 340000000
               stockExchange: nasdaq
               company_type: For Profit
@@ -9588,8 +9672,7 @@ landscape:
                 - Cloud Data Services
                 - Enterprise Software
                 - SaaS
-            yahoo_finance_data:
-              effective_ticker: SUMO
+              kind: funding
             image_data:
               fileName: sumo-logic-member.svg
               hash: IDXkWYHd8N+WBeS+fXxdWR76uEmmBUnL1jrTf6pnw9s=
@@ -9605,7 +9688,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/sysdig
             crunchbase_data:
               name: Sysdig
-              description: Sysdig delivers cloud and container security so you can stop attacks with no wasted time.
+              description: The leader in cloud security powered by runtime insights
               num_employees_min: 501
               num_employees_max: 1000
               homepage: https://www.sysdig.com
@@ -9666,6 +9749,8 @@ landscape:
                   acquiree: Cymptom
                 - date: '2022-04-26'
                   acquiree: Bit Discovery
+                - date: '2023-09-08'
+                  acquiree: Ermetic - a Tenable company
               parents: []
               ticker: TENB
               funding: 565438430
@@ -9795,4 +9880,4 @@ landscape:
 twitter_options:
   count: 23
   since_id: '1554756092017655810'
-updated_at: 2023-08-14T02:48:58.306Z
+updated_at: 2023-12-06T00:56:38.099Z
