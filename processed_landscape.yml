@@ -279,6 +279,8 @@ landscape:
                   acquiree: AirWatch
                 - date: '2014-08-20'
                   acquiree: CloudVolumes
+                - date: '2015-02-02'
+                  acquiree: MomentumSI
                 - date: '2015-02-03'
                   acquiree: Immidio
                 - date: '2015-10-14'
@@ -635,6 +637,8 @@ landscape:
                   acquiree: AirWatch
                 - date: '2014-08-20'
                   acquiree: CloudVolumes
+                - date: '2015-02-02'
+                  acquiree: MomentumSI
                 - date: '2015-02-03'
                   acquiree: Immidio
                 - date: '2015-10-14'
@@ -3634,8 +3638,6 @@ landscape:
                   acquiree: Aspera
                 - date: '2014-02-24'
                   acquiree: Cloudant
-                - date: '2014-02-24'
-                  acquiree: Cloudant
                 - date: '2014-04-10'
                   acquiree: Silverpop
                 - date: '2014-05-20'
@@ -4273,12 +4275,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/deployhub
             crunchbase_data:
               name: DeployHub
-              description: DeployHub makes it easy for IT Engineers to govern their microservice supply chain and deliver secure, high-quality microservices at scale.
+              description: DeployHub is a software supply chain security platform that allows IT Teams to confidently consume open-source.
               num_employees_min: 1
               num_employees_max: 10
               homepage: https://www.deployhub.com/
-              city: Santa Fe
-              region: New Mexico
+              city: Sheridan
+              region: Montana
               country: United States
               twitter: https://twitter.com/@deployhubproj
               linkedin: https://www.linkedin.com/company/dephub/
@@ -4287,6 +4289,7 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
+                - Information Technology
                 - Software
             image_data:
               fileName: deploy-hub.svg
@@ -4923,6 +4926,8 @@ landscape:
                   acquiree: Renovate
                 - date: '2021-04-20'
                   acquiree: Diffend
+                - date: '2023-12-24'
+                  acquiree: Atom Security
               parents: []
               funding: 121150000
               stockExchange: null
@@ -7624,6 +7629,304 @@ landscape:
         name: Premier
         items:
           - item:
+            name: Apple inc. (member)
+            homepage_url: https://www.apple.com/
+            logo: apple.svg
+            crunchbase: https://www.crunchbase.com/organization/apple
+            crunchbase_data:
+              name: Apple
+              description: Apple is a corporation that designs, manufactures, and markets consumer electronics, personal computers, and software.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.apple.com
+              city: Cupertino
+              region: California
+              country: United States
+              twitter: https://www.twitter.com/apple
+              linkedin: https://www.linkedin.com/company/apple
+              acquisitions:
+                - date: '1988-03-03'
+                  acquiree: Network Innovations
+                - date: '1988-06-08'
+                  acquiree: Orion Network Systems
+                - date: '1988-06-29'
+                  acquiree: Styleware
+                - date: '1988-07-13'
+                  acquiree: Nashoba Systems
+                - date: '1989-04-01'
+                  acquiree: Coral Software
+                - date: '1996-12-20'
+                  acquiree: NeXT
+                - date: '1997-09-02'
+                  acquiree: Power Computing
+                - date: '1999-01-08'
+                  acquiree: Xemplar Education
+                - date: '1999-11-02'
+                  acquiree: Raycer Graphics
+                - date: '2000-01-07'
+                  acquiree: NetSelector
+                - date: '2001-03-13'
+                  acquiree: PowerSchool
+                - date: '2001-04-01'
+                  acquiree: Blue Fish Labs
+                - date: '2001-07-09'
+                  acquiree: Spruce Technologies
+                - date: '2002-02-07'
+                  acquiree: Nothing Real
+                - date: '2002-04-04'
+                  acquiree: Zayante
+                - date: '2002-06-20'
+                  acquiree: Propel Software
+                - date: '2002-06-21'
+                  acquiree: Prismo Graphics
+                - date: '2002-07-01'
+                  acquiree: Emagic
+                - date: '2005-01-22'
+                  acquiree: Fingerworks
+                - date: '2005-03-23'
+                  acquiree: SchemaSoft
+                - date: '2006-10-16'
+                  acquiree: Silicon Color
+                - date: '2006-12-05'
+                  acquiree: Proximity
+                - date: '2008-04-23'
+                  acquiree: PA Semi
+                - date: '2009-07-01'
+                  acquiree: Placebase
+                - date: '2009-12-05'
+                  acquiree: Lala
+                - date: '2010-01-01'
+                  acquiree: RareLight
+                - date: '2010-01-05'
+                  acquiree: Quattro Wireless
+                - date: '2010-04-27'
+                  acquiree: Intrinsity
+                - date: '2010-04-28'
+                  acquiree: Siri
+                - date: '2010-07-01'
+                  acquiree: Poly9
+                - date: '2010-07-01'
+                  acquiree: imsense
+                - date: '2010-09-20'
+                  acquiree: Polar Rose
+                - date: '2011-10-29'
+                  acquiree: C3 Technologies
+                - date: '2011-12-13'
+                  acquiree: Anobit Technologies
+                - date: '2012-02-23'
+                  acquiree: Chomp
+                - date: '2012-05-30'
+                  acquiree: Redmatica
+                - date: '2012-07-02'
+                  acquiree: MOG
+                - date: '2012-07-27'
+                  acquiree: AuthenTec
+                - date: '2012-10-18'
+                  acquiree: Particle
+                - date: '2012-11-12'
+                  acquiree: Color Labs Inc.
+                - date: '2013-03-25'
+                  acquiree: WiFiSLAM
+                - date: '2013-07-01'
+                  acquiree: Catch.com
+                - date: '2013-07-18'
+                  acquiree: PrimeSense
+                - date: '2013-07-19'
+                  acquiree: HopStop.com
+                - date: '2013-07-19'
+                  acquiree: Locationary
+                - date: '2013-08-01'
+                  acquiree: Passif Semiconductor
+                - date: '2013-08-13'
+                  acquiree: Matcha
+                - date: '2013-08-22'
+                  acquiree: Embark
+                - date: '2013-08-28'
+                  acquiree: AlgoTrim
+                - date: '2013-10-04'
+                  acquiree: Cue
+                - date: '2013-12-01'
+                  acquiree: Acunu
+                - date: '2013-12-02'
+                  acquiree: Topsy Labs
+                - date: '2013-12-23'
+                  acquiree: BroadMap
+                - date: '2014-01-04'
+                  acquiree: SnappyLabs
+                - date: '2014-02-21'
+                  acquiree: Burstly
+                - date: '2014-04-04'
+                  acquiree: Novauris
+                - date: '2014-05-02'
+                  acquiree: LuxVue Technology
+                - date: '2014-05-28'
+                  acquiree: Beats Electronics
+                - date: '2014-06-06'
+                  acquiree: Spotsetter
+                - date: '2014-07-25'
+                  acquiree: Booklamp
+                - date: '2014-07-28'
+                  acquiree: Concept.io
+                - date: '2014-09-23'
+                  acquiree: Prss
+                - date: '2014-11-03'
+                  acquiree: Union Bay Networks
+                - date: '2015-01-21'
+                  acquiree: Semetric
+                - date: '2015-02-24'
+                  acquiree: Camel Audio
+                - date: '2015-03-24'
+                  acquiree: FoundationDB
+                - date: '2015-04-07'
+                  acquiree: OttoCat
+                - date: '2015-04-08'
+                  acquiree: Dryft
+                - date: '2015-04-14'
+                  acquiree: Linx Imaging
+                - date: '2015-05-18'
+                  acquiree: Coherent Navigation
+                - date: '2015-05-28'
+                  acquiree: Metaio
+                - date: '2015-06-26'
+                  acquiree: Privaris
+                - date: '2015-09-15'
+                  acquiree: Mapsense
+                - date: '2015-10-02'
+                  acquiree: VocalIQ
+                - date: '2015-10-05'
+                  acquiree: Perceptio
+                - date: '2015-11-24'
+                  acquiree: faceshift
+                - date: '2016-01-07'
+                  acquiree: Emotient
+                - date: '2016-01-28'
+                  acquiree: LearnSprout
+                - date: '2016-01-29'
+                  acquiree: Flyby Media
+                - date: '2016-02-03'
+                  acquiree: LegbaCore
+                - date: '2016-08-05'
+                  acquiree: Turi
+                - date: '2016-08-22'
+                  acquiree: Gliimpse
+                - date: '2016-09-23'
+                  acquiree: tuplejump
+                - date: '2016-12-01'
+                  acquiree: indoor.io
+                - date: '2017-02-19'
+                  acquiree: RealFace
+                - date: '2017-03-23'
+                  acquiree: Workflow
+                - date: '2017-05-09'
+                  acquiree: Beddit
+                - date: '2017-05-14'
+                  acquiree: Lattice
+                - date: '2017-06-26'
+                  acquiree: SensoMotoric Instruments (SMI)
+                - date: '2017-09-29'
+                  acquiree: Regaind
+                - date: '2017-10-24'
+                  acquiree: PowerbyProxi
+                - date: '2017-11-09'
+                  acquiree: InVisage Technologies
+                - date: '2017-11-21'
+                  acquiree: Vrvana
+                - date: '2017-12-01'
+                  acquiree: Spektral
+                - date: '2017-12-05'
+                  acquiree: Pop Up Archive
+                - date: '2017-12-11'
+                  acquiree: Shazam Entertainment
+                - date: '2018-03-12'
+                  acquiree: Next Issue Media
+                - date: '2018-03-13'
+                  acquiree: Texture by Next Issue
+                - date: '2018-08-29'
+                  acquiree: Akonia Holographics
+                - date: '2018-10-11'
+                  acquiree: Dialog Semiconductor
+                - date: '2018-10-14'
+                  acquiree: Asaii
+                - date: '2018-11-20'
+                  acquiree: Silk Labs
+                - date: '2018-12-07'
+                  acquiree: Platoon
+                - date: '2019-01-01'
+                  acquiree: Camerai
+                - date: '2019-02-14'
+                  acquiree: DataTiger
+                - date: '2019-02-15'
+                  acquiree: PullString
+                - date: '2019-03-13'
+                  acquiree: Laserlike
+                - date: '2019-03-21'
+                  acquiree: Stamplay
+                - date: '2019-05-24'
+                  acquiree: Tueo Health
+                - date: '2019-06-06'
+                  acquiree: Drive.ai
+                - date: '2019-08-07'
+                  acquiree: Fashwell
+                - date: '2019-10-04'
+                  acquiree: IKinema
+                - date: '2019-12-12'
+                  acquiree: Spectral Edge
+                - date: '2020-01-15'
+                  acquiree: Xnor.ai
+                - date: '2020-03-31'
+                  acquiree: The Dark Sky Company
+                - date: '2020-04-03'
+                  acquiree: Voysis
+                - date: '2020-04-04'
+                  acquiree: NextVR
+                - date: '2020-05-27'
+                  acquiree: Inductiv
+                - date: '2020-06-24'
+                  acquiree: Fleetsmith
+                - date: '2020-08-01'
+                  acquiree: Mobeewave
+                - date: '2020-08-24'
+                  acquiree: Spaces
+                - date: '2020-08-25'
+                  acquiree: SABH's Big Adventure
+                - date: '2020-09-24'
+                  acquiree: Scout FM
+                - date: '2020-10-27'
+                  acquiree: Vilynx
+                - date: '2021-05-06'
+                  acquiree: SourceDNA
+                - date: '2021-08-30'
+                  acquiree: Paws, Inc
+                - date: '2022-02-07'
+                  acquiree: AI Music
+                - date: '2022-03-23'
+                  acquiree: Credit Kudos
+                - date: '2023-03-27'
+                  acquiree: WaveOne
+                - date: '2023-06-06'
+                  acquiree: Mira
+                - date: '2023-09-05'
+                  acquiree: BIS Records
+              parents: []
+              ticker: AAPL
+              funding: 1170230000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Consumer Electronics
+                - Hardware
+                - Mobile Devices
+                - Operating Systems
+                - Wearables
+            yahoo_finance_data:
+              effective_ticker: AAPL
+            image_data:
+              fileName: apple-inc-member.svg
+              hash: 2Rvu00sfuM9POI+Qu6kdPIEt8PSxNGXtSEptanBe7Ng=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: CloudBees (member)
             homepage_url: https://www.cloudbees.com/
             logo: cloudbees.svg
@@ -7674,710 +7977,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T19:01:01.000Z
-          - item:
-            name: Google Cloud (member)
-            homepage_url: https://cloud.google.com/
-            logo: google-cloud.svg
-            twitter: https://twitter.com/GCPcloud
-            crunchbase: https://www.crunchbase.com/organization/google
-            crunchbase_data:
-              name: Google
-              description: Google is a multinational corporation that specializes in Internet-related services and products.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.google.com
-              city: Mountain View
-              region: California
-              country: United States
-              twitter: https://www.twitter.com/google
-              linkedin: https://www.linkedin.com/company/google
-              acquisitions:
-                - date: '2001-02-12'
-                  acquiree: Deja
-                - date: '2001-09-20'
-                  acquiree: Outride
-                - date: '2003-02-17'
-                  acquiree: Pyra Labs
-                - date: '2003-04-28'
-                  acquiree: Applied Semantics
-                - date: '2003-06-04'
-                  acquiree: Neotonic Software
-                - date: '2003-09-30'
-                  acquiree: Kaltix
-                - date: '2003-10-07'
-                  acquiree: Genius Labs
-                - date: '2003-10-23'
-                  acquiree: Sprinks
-                - date: '2004-05-10'
-                  acquiree: Ignite Logic
-                - date: '2004-07-14'
-                  acquiree: Picasa
-                - date: '2004-09-10'
-                  acquiree: ZipDash
-                - date: '2004-10-09'
-                  acquiree: Where 2 Technologies
-                - date: '2004-10-27'
-                  acquiree: Keyhole Inc.
-                - date: '2005-01-01'
-                  acquiree: Reqwireless
-                - date: '2005-03-28'
-                  acquiree: Urchin Software
-                - date: '2005-05-12'
-                  acquiree: Dodgeball
-                - date: '2005-08-16'
-                  acquiree: Android
-                - date: '2005-09-15'
-                  acquiree: Transformic
-                - date: '2005-11-09'
-                  acquiree: Skia
-                - date: '2005-11-17'
-                  acquiree: Akwan Information Technologies
-                - date: '2005-12-27'
-                  acquiree: Phatbits
-                - date: '2005-12-31'
-                  acquiree: allPAY
-                - date: '2005-12-31'
-                  acquiree: bruNET
-                - date: '2006-01-01'
-                  acquiree: dMarc Broadcasting
-                - date: '2006-02-14'
-                  acquiree: Measure Map
-                - date: '2006-03-09'
-                  acquiree: Upstartle
-                - date: '2006-03-14'
-                  acquiree: SketchUp
-                - date: '2006-04-09'
-                  acquiree: Orion
-                - date: '2006-06-06'
-                  acquiree: 2Web Technologies
-                - date: '2006-08-15'
-                  acquiree: Neven Vision
-                - date: '2006-10-01'
-                  acquiree: YouTube
-                - date: '2006-10-31'
-                  acquiree: JotSpot
-                - date: '2006-12-18'
-                  acquiree: Endoxon
-                - date: '2007-02-16'
-                  acquiree: Adscape
-                - date: '2007-03-16'
-                  acquiree: Trendalyzer
-                - date: '2007-04-17'
-                  acquiree: Tonic Systems
-                - date: '2007-04-19'
-                  acquiree: Marratech
-                - date: '2007-05-23'
-                  acquiree: FeedBurner
-                - date: '2007-05-29'
-                  acquiree: GreenBorder
-                - date: '2007-05-31'
-                  acquiree: Panoramio
-                - date: '2007-06-05'
-                  acquiree: PeakStream
-                - date: '2007-06-19'
-                  acquiree: Zenter
-                - date: '2007-07-01'
-                  acquiree: GrandCentral
-                - date: '2007-07-09'
-                  acquiree: Postini
-                - date: '2007-07-20'
-                  acquiree: Image America, Inc.
-                - date: '2007-08-20'
-                  acquiree: Tianya.cn
-                - date: '2007-09-27'
-                  acquiree: Zingku
-                - date: '2007-10-09'
-                  acquiree: Jaiku
-                - date: '2008-03-11'
-                  acquiree: DoubleClick
-                - date: '2008-07-18'
-                  acquiree: ZAO Begun
-                - date: '2008-07-30'
-                  acquiree: Omnisio
-                - date: '2008-09-12'
-                  acquiree: TNC
-                - date: '2009-02-19'
-                  acquiree: On2 Technologies
-                - date: '2009-09-16'
-                  acquiree: reCAPTCHA
-                - date: '2009-11-09'
-                  acquiree: AdMob
-                - date: '2009-11-09'
-                  acquiree: Gizmofive
-                - date: '2009-11-23'
-                  acquiree: Teracent
-                - date: '2009-12-04'
-                  acquiree: AppJet
-                - date: '2009-12-05'
-                  acquiree: DocVerse
-                - date: '2010-01-25'
-                  acquiree: SayNow
-                - date: '2010-02-11'
-                  acquiree: Aardvark
-                - date: '2010-02-17'
-                  acquiree: reMail
-                - date: '2010-03-01'
-                  acquiree: Picnik
-                - date: '2010-04-02'
-                  acquiree: Episodic
-                - date: '2010-04-12'
-                  acquiree: Plink Search
-                - date: '2010-04-12'
-                  acquiree: Plink Solutions
-                - date: '2010-04-20'
-                  acquiree: Agnilux
-                - date: '2010-04-27'
-                  acquiree: LabPixies
-                - date: '2010-05-02'
-                  acquiree: BumpTop
-                - date: '2010-05-18'
-                  acquiree: Global IP Solutions
-                - date: '2010-05-20'
-                  acquiree: Simplify Media
-                - date: '2010-05-21'
-                  acquiree: Ruba
-                - date: '2010-06-02'
-                  acquiree: Invite Media
-                - date: '2010-07-16'
-                  acquiree: Freebase
-                - date: '2010-07-16'
-                  acquiree: Metaweb Technologies
-                - date: '2010-08-06'
-                  acquiree: Slide
-                - date: '2010-08-09'
-                  acquiree: Jambool
-                - date: '2010-08-13'
-                  acquiree: Zetawire
-                - date: '2010-08-20'
-                  acquiree: Like.com
-                - date: '2010-08-27'
-                  acquiree: Angstro
-                - date: '2010-08-30'
-                  acquiree: SocialDeck
-                - date: '2010-09-12'
-                  acquiree: MentorWave Technologies
-                - date: '2010-09-14'
-                  acquiree: Quiksee
-                - date: '2010-09-28'
-                  acquiree: Plannr
-                - date: '2010-10-01'
-                  acquiree: BlindType
-                - date: '2010-12-03'
-                  acquiree: Phonetic Arts
-                - date: '2010-12-03'
-                  acquiree: Widevine Technologies
-                - date: '2011-01-12'
-                  acquiree: eBook Technologies
-                - date: '2011-01-25'
-                  acquiree: Fflick
-                - date: '2011-03-01'
-                  acquiree: zynamics
-                - date: '2011-03-07'
-                  acquiree: BeatThatQuote.com
-                - date: '2011-03-15'
-                  acquiree: Green Parrot Pictures
-                - date: '2011-04-08'
-                  acquiree: PushLife
-                - date: '2011-04-13'
-                  acquiree: ITA Software
-                - date: '2011-04-25'
-                  acquiree: Numovis Inc
-                - date: '2011-04-25'
-                  acquiree: TalkBin
-                - date: '2011-05-20'
-                  acquiree: modu
-                - date: '2011-05-23'
-                  acquiree: Sparkbuy
-                - date: '2011-06-01'
-                  acquiree: Admeld
-                - date: '2011-06-03'
-                  acquiree: PostRank
-                - date: '2011-06-19'
-                  acquiree: SageTV
-                - date: '2011-07-11'
-                  acquiree: Punchd
-                - date: '2011-07-20'
-                  acquiree: JustSpotted
-                - date: '2011-07-21'
-                  acquiree: Fridge
-                - date: '2011-07-22'
-                  acquiree: PittPatt
-                - date: '2011-08-01'
-                  acquiree: The Dealmap
-                - date: '2011-09-02'
-                  acquiree: Zave Networks
-                - date: '2011-09-19'
-                  acquiree: DailyDeal
-                - date: '2011-10-10'
-                  acquiree: SocialGrapple
-                - date: '2011-10-26'
-                  acquiree: Zagat
-                - date: '2011-11-10'
-                  acquiree: Apture
-                - date: '2011-11-10'
-                  acquiree: Katango
-                - date: '2011-12-09'
-                  acquiree: RightsFlow
-                - date: '2011-12-13'
-                  acquiree: Clever Sense
-                - date: '2012-03-16'
-                  acquiree: Milk
-                - date: '2012-04-02'
-                  acquiree: TxVia
-                - date: '2012-05-22'
-                  acquiree: Motorola Mobility (a Lenovo Company)
-                - date: '2012-06-01'
-                  acquiree: KikScore
-                - date: '2012-06-04'
-                  acquiree: Meebo
-                - date: '2012-06-05'
-                  acquiree: Quickoffice
-                - date: '2012-07-20'
-                  acquiree: Sparrow
-                - date: '2012-07-31'
-                  acquiree: Wildfire
-                - date: '2012-08-13'
-                  acquiree: Frommer's
-                - date: '2012-09-07'
-                  acquiree: VirusTotal
-                - date: '2012-09-18'
-                  acquiree: Nik Software, Inc.
-                - date: '2012-11-28'
-                  acquiree: Incentive Targeting
-                - date: '2012-11-30'
-                  acquiree: BufferBox
-                - date: '2012-12-01'
-                  acquiree: BufferBox
-                - date: '2013-02-06'
-                  acquiree: Channel Intelligence
-                - date: '2013-02-15'
-                  acquiree: Phyzios
-                - date: '2013-03-12'
-                  acquiree: DNNresearch
-                - date: '2013-03-15'
-                  acquiree: Talaria
-                - date: '2013-04-18'
-                  acquiree: Behavio
-                - date: '2013-04-24'
-                  acquiree: Wavii
-                - date: '2013-06-11'
-                  acquiree: Waze
-                - date: '2013-08-31'
-                  acquiree: WIMM Labs
-                - date: '2013-09-16'
-                  acquiree: Bump Technologies
-                - date: '2013-10-02'
-                  acquiree: Flutter
-                - date: '2013-10-22'
-                  acquiree: FlexyCore
-                - date: '2013-12-02'
-                  acquiree: Schaft
-                - date: '2013-12-04'
-                  acquiree: Industrial Pereception Inc.
-                - date: '2013-12-04'
-                  acquiree: Redwood Robotics
-                - date: '2013-12-05'
-                  acquiree: Meka Robotics
-                - date: '2013-12-06'
-                  acquiree: Holomni
-                - date: '2013-12-07'
-                  acquiree: Bot & Dolly
-                - date: '2013-12-08'
-                  acquiree: Autofuss
-                - date: '2013-12-13'
-                  acquiree: Boston Dynamics
-                - date: '2014-01-01'
-                  acquiree: Gridcentric
-                - date: '2014-01-01'
-                  acquiree: Nest Labs
-                - date: '2014-01-16'
-                  acquiree: Impermium
-                - date: '2014-01-26'
-                  acquiree: DeepMind
-                - date: '2014-02-16'
-                  acquiree: SlickLogin
-                - date: '2014-02-21'
-                  acquiree: Spider.io
-                - date: '2014-03-12'
-                  acquiree: Green Throttle Games
-                - date: '2014-04-14'
-                  acquiree: Titan Aerospace
-                - date: '2014-05-02'
-                  acquiree: Rangespan
-                - date: '2014-05-06'
-                  acquiree: Adometry By Google
-                - date: '2014-05-07'
-                  acquiree: Appetas
-                - date: '2014-05-07'
-                  acquiree: Stackdriver
-                - date: '2014-05-16'
-                  acquiree: Quest Visual
-                - date: '2014-05-20'
-                  acquiree: Divide
-                - date: '2014-05-23'
-                  acquiree: Skybox Imaging
-                - date: '2014-06-10'
-                  acquiree: Terra Bella
-                - date: '2014-06-19'
-                  acquiree: Alpental Technologies
-                - date: '2014-06-19'
-                  acquiree: mDialog
-                - date: '2014-06-25'
-                  acquiree: Appurify
-                - date: '2014-07-02'
-                  acquiree: Songza
-                - date: '2014-07-14'
-                  acquiree: CiiNOW
-                - date: '2014-07-23'
-                  acquiree: drawElements
-                - date: '2014-08-01'
-                  acquiree: Directr
-                - date: '2014-08-06'
-                  acquiree: Emu Messenger
-                - date: '2014-08-15'
-                  acquiree: Jetpac
-                - date: '2014-08-22'
-                  acquiree: Gecko Design Inc.
-                - date: '2014-08-26'
-                  acquiree: Zync Render
-                - date: '2014-09-11'
-                  acquiree: Lift Labs
-                - date: '2014-09-11'
-                  acquiree: Polar
-                - date: '2014-09-11'
-                  acquiree: TaggPic (Acquired by Google)
-                - date: '2014-10-21'
-                  acquiree: Firebase
-                - date: '2014-10-23'
-                  acquiree: Dark Blue Labs
-                - date: '2014-10-23'
-                  acquiree: Vision Factory
-                - date: '2014-11-18'
-                  acquiree: RelativeWave
-                - date: '2015-01-23'
-                  acquiree: Granata Decision Systems
-                - date: '2015-02-03'
-                  acquiree: Launchpad Toys
-                - date: '2015-02-08'
-                  acquiree: Odysee
-                - date: '2015-02-24'
-                  acquiree: Toro
-                - date: '2015-03-01'
-                  acquiree: Apportable
-                - date: '2015-03-04'
-                  acquiree: Softcard
-                - date: '2015-04-16'
-                  acquiree: Skillman & Hackett
-                - date: '2015-04-16'
-                  acquiree: Thrive Audio
-                - date: '2015-05-04'
-                  acquiree: Timeful
-                - date: '2015-05-28'
-                  acquiree: Pulse.io
-                - date: '2015-06-18'
-                  acquiree: Agawi Inc
-                - date: '2015-07-21'
-                  acquiree: Pixate
-                - date: '2015-09-21'
-                  acquiree: Oyster
-                - date: '2015-09-30'
-                  acquiree: Jibe Mobile
-                - date: '2015-10-13'
-                  acquiree: Divshot
-                - date: '2015-10-17'
-                  acquiree: Digisfera
-                - date: '2015-11-06'
-                  acquiree: Fly Labs
-                - date: '2015-11-19'
-                  acquiree: Bebop
-                - date: '2016-02-18'
-                  acquiree: Pie
-                - date: '2016-05-01'
-                  acquiree: Synergyse
-                - date: '2016-06-22'
-                  acquiree: Webpass
-                - date: '2016-07-06'
-                  acquiree: Moodstocks
-                - date: '2016-07-07'
-                  acquiree: Anvato
-                - date: '2016-07-12'
-                  acquiree: Kifi
-                - date: '2016-07-27'
-                  acquiree: LaunchKit
-                - date: '2016-08-08'
-                  acquiree: Orbitera
-                - date: '2016-09-08'
-                  acquiree: Apigee
-                - date: '2016-09-15'
-                  acquiree: Urban Engines
-                - date: '2016-09-19'
-                  acquiree: Dialogflow
-                - date: '2016-10-01'
-                  acquiree: Undecidable Labs
-                - date: '2016-10-11'
-                  acquiree: FameBit
-                - date: '2016-10-24'
-                  acquiree: Eyefluence
-                - date: '2016-11-07'
-                  acquiree: LeapDroid
-                - date: '2016-11-21'
-                  acquiree: Qwiklabs
-                - date: '2016-12-12'
-                  acquiree: Cronologics Corporation
-                - date: '2017-01-06'
-                  acquiree: Limes Audio
-                - date: '2017-01-18'
-                  acquiree: Crashlytics
-                - date: '2017-01-18'
-                  acquiree: Fastlane
-                - date: '2017-03-07'
-                  acquiree: Kaggle
-                - date: '2017-03-09'
-                  acquiree: AppBridge
-                - date: '2017-05-10'
-                  acquiree: Owlchemy Labs
-                - date: '2017-07-12'
-                  acquiree: Halli Labs
-                - date: '2017-08-06'
-                  acquiree: Redux ST
-                - date: '2017-08-14'
-                  acquiree: Senosis Health
-                - date: '2017-08-16'
-                  acquiree: AIMatter
-                - date: '2017-09-21'
-                  acquiree: HTC - Pixel Phone Division
-                - date: '2017-10-09'
-                  acquiree: Relay Media
-                - date: '2017-10-11'
-                  acquiree: 60dB
-                - date: '2018-02-15'
-                  acquiree: Xively
-                - date: '2018-03-10'
-                  acquiree: Banter
-                - date: '2018-03-27'
-                  acquiree: Tenor
-                - date: '2018-05-09'
-                  acquiree: Velostrata
-                - date: '2018-05-15'
-                  acquiree: Cask
-                - date: '2018-08-06'
-                  acquiree: GraphicsFuzz
-                - date: '2018-10-02'
-                  acquiree: Onward
-                - date: '2018-11-28'
-                  acquiree: Workbench Platform
-                - date: '2018-12-10'
-                  acquiree: Where Is My Train
-                - date: '2018-12-20'
-                  acquiree: DevOps Research and Assessment
-                - date: '2019-02-19'
-                  acquiree: Alooma
-                - date: '2019-06-06'
-                  acquiree: Looker
-                - date: '2019-07-09'
-                  acquiree: Elastifile
-                - date: '2019-08-17'
-                  acquiree: Socratic
-                - date: '2019-11-01'
-                  acquiree: Fitbit
-                - date: '2019-12-12'
-                  acquiree: Typhoon Studios
-                - date: '2020-01-14'
-                  acquiree: Pointy
-                - date: '2020-01-15'
-                  acquiree: AppSheet
-                - date: '2020-06-29'
-                  acquiree: North
-                - date: '2020-12-15'
-                  acquiree: Neverware
-                - date: '2021-04-05'
-                  acquiree: Dysonics
-                - date: '2021-05-07'
-                  acquiree: Provino Technologies
-                - date: '2021-10-01'
-                  acquiree: CompilerWorks
-                - date: '2021-11-17'
-                  acquiree: Tempow
-                - date: '2022-01-04'
-                  acquiree: Siemplify
-                - date: '2022-03-08'
-                  acquiree: Mandiant
-                - date: '2022-03-17'
-                  acquiree: Raxium
-                - date: '2022-09-20'
-                  acquiree: BreezoMeter
-                - date: '2022-09-20'
-                  acquiree: Phiar Technologies
-                - date: '2022-10-11'
-                  acquiree: BrightBytes
-                - date: '2022-10-26'
-                  acquiree: Sound Life Sciences
-                - date: '2022-10-28'
-                  acquiree: Alter
-                - date: '2023-02-27'
-                  acquiree: Photomath
-              parents:
-                - https://www.crunchbase.com/organization/alphabet
-              ticker: GOOG
-              funding: 26100000
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - Advertising
-                - Collaboration
-                - Enterprise Software
-                - Information Technology
-                - Search Engine
-            yahoo_finance_data:
-              effective_ticker: GOOG
-            image_data:
-              fileName: google-cloud-member.svg
-              hash: E/EmsKBrxtrBLO+kpg+RmE6tFXyWRjW7aAp8aH6FrUc=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-02-24T00:07:00.000Z
-          - item:
-            name: JFrog (member)
-            homepage_url: https://jfrog.com/
-            logo: jfrog.svg
-            crunchbase: https://www.crunchbase.com/organization/jfrog-ltd
-            crunchbase_data:
-              name: JFrog
-              description: JFrog provides software developers with a binary repository management solution.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: http://www.jfrog.com
-              city: Sunnyvale
-              region: California
-              country: United States
-              twitter: http://twitter.com/jfrog
-              linkedin: https://www.linkedin.com/company/455737
-              acquisitions:
-                - date: '2016-11-17'
-                  acquiree: Conan
-                - date: '2017-05-25'
-                  acquiree: Dimon
-                - date: '2017-06-26'
-                  acquiree: CloudMunch
-                - date: '2018-09-26'
-                  acquiree: Trainologic
-                - date: '2019-02-21'
-                  acquiree: Shippable
-                - date: '2021-06-29'
-                  acquiree: Vdoo
-                - date: '2021-09-13'
-                  acquiree: UpSwift.io
-              parents: []
-              ticker: FROG
-              funding: 226500000
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - DevOps
-                - Developer Tools
-                - Enterprise Software
-                - Software
-                - Web Development
-            yahoo_finance_data:
-              effective_ticker: FROG
-            image_data:
-              fileName: j-frog-member.svg
-              hash: 0wPdlXgvFgbTDoEX3uv+QpEcMprR2Yup2xZ1djpHWTI=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T21:59:29.000Z
-          - item:
-            name: RedHat (member)
-            homepage_url: https://www.redhat.com/en
-            logo: redhat.svg
-            crunchbase: https://www.crunchbase.com/organization/red-hat
-            crunchbase_data:
-              name: Red Hat
-              description: Red Hat is a software company that offers enterprise open source software solutions.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.redhat.com
-              city: Raleigh
-              region: North Carolina
-              country: United States
-              twitter: https://www.twitter.com/redhat
-              linkedin: https://www.linkedin.com/company/red-hat
-              acquisitions:
-                - date: '2001-01-31'
-                  acquiree: Akopia
-                - date: '2002-10-07'
-                  acquiree: NOCpulse
-                - date: '2003-12-18'
-                  acquiree: Sistina Software
-                - date: '2004-02-20'
-                  acquiree: JBoss
-                - date: '2007-06-02'
-                  acquiree: MetaMatrix
-                - date: '2008-03-14'
-                  acquiree: Amentra
-                - date: '2008-06-19'
-                  acquiree: Identyx
-                - date: '2008-09-04'
-                  acquiree: Qumranet
-                - date: '2010-11-30'
-                  acquiree: Makara
-                - date: '2011-10-04'
-                  acquiree: Gluster
-                - date: '2012-06-27'
-                  acquiree: FuseSource
-                - date: '2012-08-28'
-                  acquiree: Polymita Technologies
-                - date: '2012-08-29'
-                  acquiree: BPM Technology
-                - date: '2012-12-22'
-                  acquiree: ManageIQ
-                - date: '2014-04-30'
-                  acquiree: Inktank
-                - date: '2014-06-18'
-                  acquiree: eNovance
-                - date: '2014-09-18'
-                  acquiree: FeedHenry
-                - date: '2015-10-16'
-                  acquiree: Red Hat Ansible
-                - date: '2016-06-22'
-                  acquiree: 3scale
-                - date: '2017-05-25'
-                  acquiree: Codenvy
-                - date: '2017-07-31'
-                  acquiree: Permabit Technology Corporation
-                - date: '2018-01-30'
-                  acquiree: CoreOS
-                - date: '2018-11-27'
-                  acquiree: NooBaa
-                - date: '2021-01-07'
-                  acquiree: StackRox
-              parents:
-                - https://www.crunchbase.com/organization/ibm
-              ticker: IBM
-              funding: 0
-              stockExchange: nyse
-              company_type: For Profit
-              industries:
-                - Enterprise Software
-                - InsurTech
-                - Linux
-                - Open Source
-                - Operating Systems
-                - Software
-            yahoo_finance_data:
-              effective_ticker: IBM
-            image_data:
-              fileName: red-hat-member.svg
-              hash: wZPYKhf0RHD7s6Xq8Kpo1nbJe/KeBfTIzaEMCP9svjE=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T18:06:07.000Z
       - subcategory:
         name: End User
         items:
@@ -8687,7 +8286,7 @@ landscape:
                 - date: '2023-01-10'
                   acquiree: Shoobx
               parents: []
-              funding: 134325000
+              funding: 141825000
               stockExchange: null
               company_type: ''
               industries:
@@ -9109,7 +8708,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/cloudsmith
               acquisitions: []
               parents: []
-              funding: 29069796
+              funding: 29084171
               stockExchange: null
               company_type: For Profit
               industries:
@@ -9838,6 +9437,8 @@ landscape:
                   acquiree: Renovate
                 - date: '2021-04-20'
                   acquiree: Diffend
+                - date: '2023-12-24'
+                  acquiree: Atom Security
               parents: []
               funding: 121150000
               stockExchange: null
@@ -9890,4 +9491,4 @@ landscape:
 twitter_options:
   count: 23
   since_id: '1554756092017655810'
-updated_at: 2023-12-21T01:07:18.609Z
+updated_at: 2024-01-09T01:09:03.496Z
