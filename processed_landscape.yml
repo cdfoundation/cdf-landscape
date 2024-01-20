@@ -4792,81 +4792,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T21:59:29.000Z
           - item:
-            name: Pyrsia
-            homepage_url: https://pyrsia.io/
-            project: incubating
-            repo_url: https://github.com/pyrsia/pyrsia
-            logo: pyrsia.svg
-            twitter: https://twitter.com/pyrsiaoss
-            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
-            crunchbase_data:
-              name: Continuous Delivery Foundation (CDF)
-              description: A Neutral Home for the Next Generation of Continuous Delivery Collaboration
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://cd.foundation
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://twitter.com/CDeliveryFdn
-              linkedin: https://www.linkedin.com/company/cdeliveryfdn
-              acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
-              stockExchange: null
-              company_type: Non Profit
-              industries:
-                - Cloud Computing
-                - DevOps
-                - Open Source
-                - Software
-            github_data:
-              languages:
-                - name: Rust
-                  value: 597061
-                  color: '#dea584'
-                - name: PowerShell
-                  value: 7266
-                  color: '#012456'
-                - name: Shell
-                  value: 6549
-                  color: '#89e051'
-                - name: Mustache
-                  value: 6366
-                - name: Dockerfile
-                  value: 5202
-                  color: '#384d54'
-                - name: Batchfile
-                  value: 681
-                  color: '#C1F12E'
-                - name: HCL
-                  value: 285
-              contributions: 13;9;8;14;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2023-01-22Z
-              stars: 294
-              license: Apache License 2.0
-              description: Decentralized Package Network
-              latest_commit_date: '2023-11-03T00:55:44Z'
-              latest_commit_link: /pyrsia/pyrsia/commit/43db0e5241e595086ec84dd61ce45543f6a49e08
-              release_date: '2023-02-13T18:35:51Z'
-              release_link: https://github.com/pyrsia/pyrsia/releases
-              contributors_count: 29
-              contributors_link: https://github.com/pyrsia/pyrsia/graphs/contributors
-            repos:
-              - url: https://github.com/pyrsia/pyrsia
-                stars: 294
-            github_start_commit_data:
-              start_commit_link: /pyrsia/pyrsia/commit/f323c1a3879f40403cccef7b222965ab4d05dec7
-              start_date: '2021-10-28T14:06:22Z'
-            image_data:
-              fileName: pyrsia.svg
-              hash: Si70Rzx02JuspdQyiG7PWIC7zOkg5Xbsh+X8QCfkoco=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-02-17T14:45:23.000Z
-          - item:
             name: Sonatype Nexus
             homepage_url: https://www.sonatype.com/
             logo: sonatype.svg
@@ -8617,45 +8542,6 @@ landscape:
         name: General
         items:
           - item:
-            name: Armory (member)
-            homepage_url: https://www.armory.io/
-            logo: armory.svg
-            crunchbase: https://www.crunchbase.com/organization/armory
-            crunchbase_data:
-              name: Armory
-              description: Armory is an enterprise software company commercializing the open-source continuous delivery platform, Spinnaker.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: http://www.armory.io
-              city: San Mateo
-              region: California
-              country: United States
-              twitter: https://twitter.com/cloudarmory
-              linkedin: https://www.linkedin.com/company/armory.io
-              acquisitions: []
-              parents: []
-              funding: 82000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Cloud Infrastructure
-                - Enterprise Applications
-                - Enterprise Software
-                - Information Technology
-                - Internet
-                - SaaS
-                - Software
-              kind: funding
-            image_data:
-              fileName: armory-member.svg
-              hash: H5lt5bukuvWLjC2hpjRnh3PqMLzSjUSEFYzH6mCoct0=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T18:41:00.000Z
-          - item:
             name: CircleCI (member)
             homepage_url: https://circleci.com/
             logo: circleci.svg
@@ -8999,51 +8885,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Puppet (member)
-            homepage_url: https://puppet.com
-            logo: puppet.svg
-            crunchbase: https://www.crunchbase.com/organization/puppet-labs
-            crunchbase_data:
-              name: Puppet
-              description: Puppet is an information technology automation software company designed for system administrators.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: 'https://www.puppet.com '
-              city: Portland
-              region: Oregon
-              country: United States
-              twitter: https://twitter.com/puppetize
-              linkedin: https://www.linkedin.com/company/puppet
-              acquisitions:
-                - date: '2010-10-07'
-                  acquiree: The Marionette Collective
-                - date: '2013-07-17'
-                  acquiree: Cloudsmith
-                - date: '2017-09-20'
-                  acquiree: Distelli
-                - date: '2018-06-07'
-                  acquiree: Reflect
-              parents: []
-              funding: 189500000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Application Performance Management
-                - Data Center Automation
-                - IT Infrastructure
-                - Information Services
-                - Information Technology
-                - Software
-              kind: funding
-            image_data:
-              fileName: puppet-member.svg
-              hash: Znovog0WY2aZOKG1kkABO8naIc12UOXs/ETAizezdiQ=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-19T14:16:12.000Z
-          - item:
             name: SAP (member)
             homepage_url: https://www.sap.com/index.html
             logo: sap.svg
@@ -9302,45 +9143,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T07:01:59.000Z
           - item:
-            name: Sysdig (member)
-            homepage_url: https://sysdig.com
-            logo: sysdig.svg
-            crunchbase: https://www.crunchbase.com/organization/sysdig
-            crunchbase_data:
-              name: Sysdig
-              description: The leader in cloud security powered by runtime insights
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: https://www.sysdig.com
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: http://twitter.com/sysdig
-              linkedin: https://www.linkedin.com/company/sysdig
-              acquisitions:
-                - date: '2021-07-20'
-                  acquiree: Apolicy
-              parents: []
-              funding: 729500000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Cloud Security
-                - Cyber Security
-                - Open Source
-                - SaaS
-                - Security
-              kind: funding
-            image_data:
-              fileName: sysdig-member.svg
-              hash: KrbSP3zpBVxAESaxgThwX4ys1NN8/nEABi7l8T7RY1E=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T08:15:10.000Z
-          - item:
             name: Tenable (member)
             homepage_url: https://www.tenable.com/
             logo: tenablenetworksecurityinc.svg
@@ -9502,4 +9304,4 @@ landscape:
 twitter_options:
   count: 23
   since_id: '1554756092017655810'
-updated_at: 2024-01-19T02:17:37.081Z
+updated_at: 2024-01-20T02:09:14.462Z
