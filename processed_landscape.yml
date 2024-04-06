@@ -7288,7 +7288,6 @@ landscape:
                 - date: '2021-10-21'
                   acquiree: CodeStream
               parents: []
-              ticker: NEWR
               funding: 214500000
               stockExchange: nyse
               company_type: For Profit
@@ -7300,8 +7299,7 @@ landscape:
                 - Mobile
                 - SaaS
                 - Software
-            yahoo_finance_data:
-              effective_ticker: NEWR
+              kind: funding
             image_data:
               fileName: new-relic.svg
               hash: wo/y9y13cnglgpTLIAv8QfHjLvidN8wddEU3qQTEYds=
@@ -9338,4 +9336,4 @@ landscape:
 twitter_options:
   count: 23
   since_id: '1554756092017655810'
-updated_at: 2024-04-05T04:06:20.953Z
+updated_at: 2024-04-06T03:45:38.521Z
