@@ -2335,7 +2335,7 @@ landscape:
               city: Redmond
               region: Washington
               country: United States
-              twitter: https://www.twitter.com/Microsoft
+              twitter: https://x.com/Microsoft
               linkedin: https://www.linkedin.com/company/microsoft
               acquisitions:
                 - date: '1987-07-30'
@@ -6544,14 +6544,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/google
             crunchbase_data:
               name: Google
-              description: Google is a multinational corporation that specializes in Internet-related services and products.
+              description: Google is a multinational corporation that specializes in Internet-related services and organizes the world’s information.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.google.com
               city: Mountain View
               region: California
               country: United States
-              twitter: https://www.twitter.com/google
+              twitter: https://x.com/google
               linkedin: https://www.linkedin.com/company/google
               acquisitions:
                 - date: '2001-02-12'
@@ -7056,6 +7056,8 @@ landscape:
                   acquiree: Dysonics
                 - date: '2021-05-07'
                   acquiree: Provino Technologies
+                - date: '2021-09-04'
+                  acquiree: Playspace
                 - date: '2021-10-01'
                   acquiree: CompilerWorks
                 - date: '2021-11-17'
@@ -7089,10 +7091,13 @@ landscape:
               stockExchange: nasdaq
               company_type: For Profit
               industries:
+                - Apps
                 - Artificial Intelligence (AI)
-                - Cloud Computing
                 - Cloud Storage
+                - Information Technology
+                - Office Administration
                 - SEO
+                - Search Engine
                 - Software
             github_data:
               languages:
@@ -7135,8 +7140,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T09:54:19.000Z
       - subcategory:
         name: Monitoring and Logging
         items:
@@ -9400,4 +9403,4 @@ landscape:
 twitter_options:
   count: 23
   since_id: '1554756092017655810'
-updated_at: 2024-09-17T04:40:43.789Z
+updated_at: 2024-09-18T04:50:55.663Z
