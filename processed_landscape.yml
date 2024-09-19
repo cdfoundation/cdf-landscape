@@ -340,11 +340,11 @@ landscape:
                   acquiree: Ananda Networks
               parents:
                 - https://www.crunchbase.com/organization/dell-technologies
+              ticker: DELL
               funding: 393500000
               stockExchange: nyse
               company_type: For Profit
               industries: []
-              kind: funding
             github_data:
               languages:
                 - name: Go
@@ -379,6 +379,8 @@ landscape:
             github_start_commit_data:
               start_commit_link: /vmware-tanzu/cartographer/commit/5027e6bb30643a84231099b7aeae429f2a2eed62
               start_date: '2021-09-01T15:32:51Z'
+            yahoo_finance_data:
+              effective_ticker: DELL
             image_data:
               fileName: cartographer.svg
               hash: AyBma/n0NnMNQdf6RItGKqJSb+IdVa0Vrz2lDV4TWNE=
@@ -694,11 +696,11 @@ landscape:
                   acquiree: Ananda Networks
               parents:
                 - https://www.crunchbase.com/organization/dell-technologies
+              ticker: DELL
               funding: 393500000
               stockExchange: nyse
               company_type: For Profit
               industries: []
-              kind: funding
             github_data:
               languages:
                 - name: Go
@@ -753,6 +755,8 @@ landscape:
             github_start_commit_data:
               start_commit_link: /concourse/concourse/commit/e3cb2182bb1523718f65714d0c20e176572726a9
               start_date: '2014-04-14T00:11:04Z'
+            yahoo_finance_data:
+              effective_ticker: DELL
             image_data:
               fileName: concourse.svg
               hash: U4Rjv+N+p79aFDboUV+wBKnBlDwV8ASZs0Md/QiZFnI=
@@ -1105,11 +1109,13 @@ landscape:
               city: San Francisco
               region: California
               country: United States
-              twitter: https://twitter.com/harnessio
+              twitter: https://x.com/harnessio
               linkedin: https://www.linkedin.com/company/harnessinc
               acquisitions:
                 - date: '2020-08-05'
                   acquiree: Drone.io
+                - date: '2021-09-16'
+                  acquiree: Lightwing
                 - date: '2021-11-01'
                   acquiree: ZeroNorth
                 - date: '2022-03-22'
@@ -1139,8 +1145,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T22:10:30.000Z
           - item:
             name: Jenkins X
             homepage_url: https://jenkins.io/
@@ -3796,6 +3800,8 @@ landscape:
                   acquiree: Skyarch Networks
                 - date: '2024-07-09'
                   acquiree: SiXworks
+                - date: '2024-09-17'
+                  acquiree: Kubecost
               parents: []
               ticker: IBM
               stockExchange: nyse
@@ -6221,11 +6227,11 @@ landscape:
               description: Snyk is a cloud native application security provider that enables millions of developers to build software securely.
               num_employees_min: 1001
               num_employees_max: 5000
-              homepage: https://snyk.io
+              homepage: 'https://snyk.io   '
               city: Boston
               region: Massachusetts
               country: United States
-              twitter: https://www.twitter.com/snyksec
+              twitter: https://x.com/snyksec
               linkedin: https://www.linkedin.com/company/snyk
               acquisitions:
                 - date: '2019-07-24'
@@ -6263,8 +6269,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T23:48:18.000Z
           - item:
             name: Sysdig Secure
             description: Sysdig Secure embeds security and compliance into the build, run and respond stages of the Kubernetes lifecycle.
@@ -7602,12 +7606,12 @@ landscape:
               description: Apple is a corporation that designs, manufactures, and markets consumer electronics, personal computers, and software.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.apple.com
+              homepage: https://www.apple.com/
               city: Cupertino
               region: California
               country: United States
-              twitter: https://www.twitter.com/apple
-              linkedin: https://www.linkedin.com/company/apple
+              twitter: https://x.com/apple
+              linkedin: https://www.linkedin.com/company/apple/
               acquisitions:
                 - date: '1988-03-03'
                   acquiree: Network Innovations
@@ -8295,7 +8299,7 @@ landscape:
               city: New York
               region: New York
               country: United States
-              twitter: https://www.twitter.com/jpmorgan
+              twitter: https://x.com/jpmorgan
               linkedin: https://www.linkedin.com/company/jpmorganchase
               acquisitions:
                 - date: '1999-09-28'
@@ -8357,8 +8361,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-17T16:00:13.000Z
           - item:
             name: NGINX (member)
             homepage_url: https://www.nginx.com
@@ -8761,11 +8763,13 @@ landscape:
               city: San Francisco
               region: California
               country: United States
-              twitter: https://twitter.com/harnessio
+              twitter: https://x.com/harnessio
               linkedin: https://www.linkedin.com/company/harnessinc
               acquisitions:
                 - date: '2020-08-05'
                   acquiree: Drone.io
+                - date: '2021-09-16'
+                  acquiree: Lightwing
                 - date: '2021-11-01'
                   acquiree: ZeroNorth
                 - date: '2022-03-22'
@@ -8795,8 +8799,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T22:10:30.000Z
           - item:
             name: Octopus Deploy (member)
             homepage_url: https://octopus.com/
@@ -9403,4 +9405,4 @@ landscape:
 twitter_options:
   count: 23
   since_id: '1554756092017655810'
-updated_at: 2024-09-18T04:50:55.663Z
+updated_at: 2024-09-19T04:48:39.787Z
