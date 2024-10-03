@@ -3803,8 +3803,8 @@ landscape:
                 - date: '2024-09-17'
                   acquiree: Kubecost
               parents: []
-              ticker: IBM
-              stockExchange: nyse
+              ticker: IBM.F
+              stockExchange: fra
               company_type: For Profit
               industries:
                 - Business Development
@@ -3839,7 +3839,7 @@ landscape:
               start_commit_link: /UrbanCode/UCADF-Core-Library/commit/6f3d7ce9d04730582304a2e290174929af0e47ba
               start_date: '2019-06-26T18:17:32Z'
             yahoo_finance_data:
-              effective_ticker: IBM
+              effective_ticker: IBM.F
             image_data:
               fileName: urban-code-velocity.svg
               hash: YB5O0E78YFGNKWp5svAGWvc4vdvqbTNE0z56BgWp13w=
@@ -4134,7 +4134,7 @@ landscape:
                   acquiree: StackRox
               parents:
                 - https://www.crunchbase.com/organization/ibm
-              ticker: IBM
+              ticker: IBM.F
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -4190,7 +4190,7 @@ landscape:
               start_commit_link: /ansible/ansible/commit/f31421576b00f0b167cdbe61217c31c21a41ac02
               start_date: '2012-02-23T19:17:24Z'
             yahoo_finance_data:
-              effective_ticker: IBM
+              effective_ticker: IBM.F
             image_data:
               fileName: ansible.svg
               hash: XHYuAuMuTK2RwU2sPPE/griyO0uifBKF5Dz1ve/alng=
@@ -5780,7 +5780,7 @@ landscape:
                   acquiree: StackRox
               parents:
                 - https://www.crunchbase.com/organization/ibm
-              ticker: IBM
+              ticker: IBM.F
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -5843,7 +5843,7 @@ landscape:
               start_commit_link: /quay/quay/commit/0349af754204375d74ac5833713b607398981ff7
               start_date: '2013-09-20T15:55:44Z'
             yahoo_finance_data:
-              effective_ticker: IBM
+              effective_ticker: IBM.F
             image_data:
               fileName: quay.svg
               hash: fXwScwHT4zsCjnZXBn2KGOw0u1Vnc3Vdyc6r7SFfgcA=
@@ -5926,78 +5926,6 @@ landscape:
               percentage: 100
             twitter_data:
               latest_tweet_date: 2023-04-19T14:42:50.000Z
-          - item:
-            name: Shipwright
-            description: A framework for building container images on Kubernetes.
-            homepage_url: https://shipwright.io
-            project: incubating
-            repo_url: https://github.com/shipwright-io/build
-            logo: shipwright.svg
-            twitter: https://twitter.com/shipwrightio
-            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
-            crunchbase_data:
-              name: Continuous Delivery Foundation (CDF)
-              description: A Neutral Home for the Next Generation of Continuous Delivery Collaboration
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://cd.foundation
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://twitter.com/CDeliveryFdn
-              linkedin: https://www.linkedin.com/company/cdeliveryfdn
-              acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
-              stockExchange: null
-              company_type: Non Profit
-              industries:
-                - Cloud Computing
-                - DevOps
-                - Non Profit
-                - Open Source
-                - Software
-            github_data:
-              languages:
-                - name: Go
-                  value: 1413068
-                  color: '#00ADD8'
-                - name: Shell
-                  value: 33944
-                  color: '#89e051'
-                - name: Makefile
-                  value: 8940
-                  color: '#427819'
-                - name: Dockerfile
-                  value: 1891
-                  color: '#384d54'
-                - name: HCL
-                  value: 266
-              contributions: 11;17;23;4;17;11;2;3;8;8;4;3;4;5;8;17;22;8;16;11;5;38;15;16;20;13;7;12;5;10;9;9;3;4;9;11;19;6;10;3;7;7;6;7;7;9;8;4;1;0;5;5
-              firstWeek: 2023-10-08Z
-              stars: 647
-              license: Apache License 2.0
-              description: Shipwright - a framework for building container images on Kubernetes
-              latest_commit_date: '2024-09-27T10:42:37Z'
-              latest_commit_link: /shipwright-io/build/commit/0fb343cfac2b8fe409d08a50d69e42f1e3964089
-              release_date: '2024-05-06T16:05:07Z'
-              release_link: https://github.com/shipwright-io/build/releases
-              contributors_count: 51
-              contributors_link: https://github.com/shipwright-io/build/graphs/contributors
-            repos:
-              - url: https://github.com/shipwright-io/build
-                stars: 647
-            github_start_commit_data:
-              start_commit_link: /shipwright-io/build/commit/99c4ed356c6e58c6002a9fc4e14fa727e4f36189
-              start_date: '2020-02-06T03:13:03Z'
-            image_data:
-              fileName: shipwright.svg
-              hash: /aqvM8wyfO92HOTFKs/bQwPkaRBvPuswzNCa6XIcCig=
-            best_practice_data:
-              badge: 5315
-              percentage: 96
-            twitter_data:
-              latest_tweet_date: 2023-01-12T03:34:08.000Z
   - category:
     name: DevSecOps
     subcategories:
@@ -9406,4 +9334,4 @@ landscape:
 twitter_options:
   count: 23
   since_id: '1554756092017655810'
-updated_at: 2024-10-02T04:32:42.678Z
+updated_at: 2024-10-03T04:25:04.396Z
