@@ -640,6 +640,20 @@ landscape:
             twitter: https://twitter.com/opentelemetry
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
   - category:
+    name: Abstractions
+    subcategories:
+      - subcategory:
+        name: Interoperable Interfaces
+        items:
+          - item:
+            name: FRSCA
+            description: Factory for Repeatable Secure Creation of Artifacts
+            homepage_url: https://buildsec.github.io/frsca/
+            repo_url: https://github.com/buildsec/frsca
+            logo: tekton.svg
+            organization:
+              name: FRSCA
+  - category:
     name: CDF Members
     subcategories:
       - subcategory:
