@@ -24,7 +24,7 @@ This landscape is intended as a map to explore various tools and services that s
 
 ## Current Version
 
-[![CDF Landscape](https://landscape.cd.foundation/images/landscape.png)](https://landscape.cd.foundation/images/landscape.png)
+[![CDF Landscape](./images/landscape.png)](./images/landscape.png)
 
 ## Interactive Version
 
