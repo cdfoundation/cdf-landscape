@@ -24,11 +24,6 @@ landscape:
             twitter: https://twitter.com/argoproj
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
           - item:
-            name: Armory Enterprise
-            homepage_url: https://www.armory.io/armory-enterprise-spinnaker/
-            logo: armory.svg
-            crunchbase: https://www.crunchbase.com/organization/armory
-          - item:
             name: Cartographer
             description: Cartographer is a Kubernetes-native Choreographer providing higher modularity and scalability for the software supply chain.
             homepage_url: https://cartographer.sh/
@@ -96,6 +91,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
           - item:
             name: Harness.io
+            description: >-
+             Harness is a software delivery platform that provides tools for automating code integration, testing, deployment, and verification across the 
+             full software development lifecycle. It offers continuous integration and continuous delivery pipelines, GitOps support, and AI-driven features 
+             that assist in generating and troubleshooting workflows withoutmanual scripting.
             homepage_url: https://harness.io
             logo: harness.svg
             crunchbase: https://www.crunchbase.com/organization/harness-512d
@@ -381,6 +380,12 @@ landscape:
             logo: salt-stack.svg
             twitter: https://twitter.com/Salt_Project_OS
             crunchbase: https://www.crunchbase.com/organization/saltstack
+          - item:
+            name: Harness Database DevOps
+            description: Harness Database DevOps brings database changes into the CI/CD pipeline with automated schema migrations, drift detection, and rollback capabilities.
+            homepage_url: https://www.harness.io/products/database-devops
+            logo: harness-dbops.svg
+            crunchbase: https://www.crunchbase.com/organization/harness-512d
       - subcategory:
         name: Library Management
         items:
@@ -556,6 +561,19 @@ landscape:
             homepage_url: https://sysdig.com/use-cases/kubernetes-security
             logo: sysdig-secure.svg
             crunchbase: https://www.crunchbase.com/organization/sysdig
+          - item:
+            name: Traceable.io
+            description: Traceable is an API security platform that provides full lifecycle API security including discovery, posture management, and threat protection.
+            homepage_url: https://www.traceable.ai/
+            logo: traceable-by-harness.svg
+            crunchbase: https://www.crunchbase.com/organization/traceable
+          - item:
+            name: SafeDep vet
+            description: vet is an open source tool to identify risks in open source dependencies by analyzing package safety, license compliance, and supply chain threats.
+            homepage_url: https://safedep.io/
+            repo_url: https://github.com/safedep/vet
+            logo: safedep.svg
+            crunchbase: https://www.crunchbase.com/organization/safedep
       - subcategory:
         name: Policy
         items:
