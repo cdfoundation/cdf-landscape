@@ -96,6 +96,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
           - item:
             name: Harness.io
+            description: >-
+             Harness is a software delivery platform that provides tools for automating code integration, testing, deployment, and verification across the 
+             full software development lifecycle. It offers continuous integration and continuous delivery pipelines, GitOps support, and AI-driven features 
+             that assist in generating and troubleshooting workflows without manual scripting.
             homepage_url: https://harness.io
             logo: harness.svg
             crunchbase: https://www.crunchbase.com/organization/harness-512d
@@ -292,6 +296,12 @@ landscape:
             organization:
               name: JReleaser
           - item:
+            name: Release Orchestration Management
+            description: Release Orchestration Management coordinates multi-service releases across environments with approval workflows, release trains, and governance over deployment pipelines.
+            homepage_url: https://www.harness.io/products/continuous-delivery/release-orchestration
+            logo: release-orchestration-management.svg
+            crunchbase: https://www.crunchbase.com/organization/harness-512d
+          - item:
             name: UrbanCode Velocity
             homepage_url: https://www.urbancode.com/
             repo_url: https://github.com/UrbanCode/UCADF-Core-Library
@@ -351,6 +361,12 @@ landscape:
             logo: deployhub.svg
             twitter: https://twitter.com/DeployHubProj
             crunchbase: https://www.crunchbase.com/organization/deployhub
+          - item:
+            name: Harness Database DevOps
+            description: Harness Database DevOps brings database changes into the CI/CD pipeline with automated schema migrations, drift detection, and rollback capabilities.
+            homepage_url: https://www.harness.io/products/database-devops
+            logo: harness-dbdevops.svg
+            crunchbase: https://www.crunchbase.com/organization/harness-512d
           - item:
             name: Liquibase
             description: >-
@@ -538,6 +554,12 @@ landscape:
             logo: prismacloud.svg
             crunchbase: https://www.crunchbase.com/organization/palo-alto-networks
           - item:
+            name: Security Testing Orchestration
+            description: Security Testing Orchestration runs and normalizes SAST, DAST, SCA, and container scans inside CI/CD pipelines, deduplicating findings and gating builds through policy.
+            homepage_url: https://www.harness.io/products/application-security-testing/security-testing-orchestration
+            logo: security-testing-orchestration.svg
+            crunchbase: https://www.crunchbase.com/organization/harness-512d
+          - item:
             name: sigstore
             description: sigstore builds open source software to improve supply chain technology for everyone.
             homepage_url: https://www.sigstore.dev/
@@ -551,11 +573,30 @@ landscape:
             logo: snyk.svg
             crunchbase: https://www.crunchbase.com/organization/snyk
           - item:
+            name: Supply Chain Security
+            description: Supply Chain Security generates and enforces SBOMs, produces SLSA-aligned build attestations, and manages open source dependency risk across the delivery pipeline.
+            homepage_url: https://www.harness.io/products/application-security-testing/supply-chain-security
+            logo: supply-chain-security.svg
+            crunchbase: https://www.crunchbase.com/organization/harness-512d
+          - item:
             name: Sysdig Secure
             description: Sysdig Secure embeds security and compliance into the build, run and respond stages of the Kubernetes lifecycle.
             homepage_url: https://sysdig.com/use-cases/kubernetes-security
             logo: sysdig-secure.svg
             crunchbase: https://www.crunchbase.com/organization/sysdig
+          - item:
+            name: Traceable by Harness
+            description: Traceable is an API security platform that provides full lifecycle API security including discovery, posture management, and threat protection.
+            homepage_url: https://www.traceable.ai/
+            logo: traceable-by-harness.svg
+            crunchbase: https://www.crunchbase.com/organization/traceable
+          - item:
+            name: Vet by SafeDep
+            description: vet is an open source tool to identify risks in open source dependencies by analyzing package safety, license compliance, and supply chain threats.
+            homepage_url: https://safedep.io/
+            repo_url: https://github.com/safedep/vet
+            logo: safedep-vet.svg
+            crunchbase: https://www.crunchbase.com/organization/safedep
       - subcategory:
         name: Policy
         items:
