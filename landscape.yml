@@ -23,6 +23,8 @@ landscape:
             logo: argo.svg
             twitter: https://twitter.com/argoproj
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            second_path:
+              - Data Pipeline Orchestration & CI/CD / Workflow Orchestration
           - item:
             name: Armory Enterprise
             homepage_url: https://docs.armory.io/continuous-deployment/
@@ -356,6 +358,8 @@ landscape:
             repo_url: https://github.com/bytebase/bytebase
             logo: bytebase.svg
             crunchbase: https://www.crunchbase.com/organization/bytebase
+            second_path:
+              - Data Pipeline Orchestration & CI/CD / Schema & Database Change Management
           - item:
             name: Chef
             homepage_url: https://www.chef.io/
@@ -383,6 +387,8 @@ landscape:
             repo_url: https://github.com/liquibase/liquibase
             logo: liquibase.svg
             crunchbase: https://www.crunchbase.com/organization/datical
+            second_path:
+              - Data Pipeline Orchestration & CI/CD / Schema & Database Change Management
           - item:
             name: Ortelius
             homepage_url: https://ortelius.io/
@@ -471,6 +477,8 @@ landscape:
             repo_url: https://github.com/pulumi/pulumi
             logo: pulumi.svg
             crunchbase: https://www.crunchbase.com/organization/pulumi-corporation
+            second_path:
+              - Data Pipeline Orchestration & CI/CD / Infrastructure as Code
           - item:
             name: Rancher Labs
             homepage_url: https://rancher.com
@@ -490,12 +498,16 @@ landscape:
             repo_url: https://github.com/opentofu/opentofu
             logo: opentofu.svg
             twitter: https://x.com/OpenTofuOrg
+            second_path:
+              - Data Pipeline Orchestration & CI/CD / Infrastructure as Code
           - item:
             name: Terraform
             homepage_url: https://www.terraform.io
             repo_url: https://github.com/hashicorp/terraform
             logo: terraform.svg
             crunchbase: https://www.crunchbase.com/organization/hashicorp
+            second_path:
+              - Data Pipeline Orchestration & CI/CD / Infrastructure as Code
   - category:
     name: Container Registry & Build
     subcategories:
@@ -627,6 +639,8 @@ landscape:
             repo_url: https://github.com/open-policy-agent/opa
             logo: open-policy-agent-opa.svg
             crunchbase: https://www.crunchbase.com/organization/open-policy-agent
+            second_path:
+              - Data Quality, Governance & Observability / Access & Policy
   - category:
     name: Observability and Analysis
     subcategories:
@@ -693,6 +707,532 @@ landscape:
             logo: open-telemetry.svg
             twitter: https://twitter.com/opentelemetry
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+  - category:
+    name: Data Integration & Streaming
+    subcategories:
+      - subcategory:
+        name: Data Integration
+        items:
+          - item:
+            name: Airbyte
+            description: "Data integration platform for ELT pipelines from APIs, databases and files to warehouses, lakes and lakehouses."
+            homepage_url: https://airbyte.com/
+            logo: airbyte.svg
+          - item:
+            name: Meltano
+            homepage_url: https://meltano.com/
+            repo_url: https://github.com/meltano/meltano
+            logo: meltano.svg
+          - item:
+            name: Apache NiFi
+            homepage_url: https://nifi.apache.org
+            repo_url: https://github.com/apache/nifi
+            logo: apache-nifi.svg
+            twitter: https://twitter.com/apachenifi
+            crunchbase: https://www.crunchbase.com/organization/apache
+          - item:
+            name: SeaTunnel
+            homepage_url: https://seatunnel.apache.org/
+            repo_url: https://github.com/apache/seatunnel
+            logo: seatunnel.svg
+            twitter: https://twitter.com/ASFSeaTunnel
+            crunchbase: https://www.crunchbase.com/organization/apache
+          - item:
+            name: Vector
+            homepage_url: https://vector.dev/
+            repo_url: https://github.com/vectordotdev/vector
+            logo: vector.svg
+            crunchbase: https://www.crunchbase.com/organization/timber
+      - subcategory:
+        name: Change Data Capture
+        items:
+          - item:
+            name: Debezium
+            homepage_url: https://debezium.io/
+            repo_url: https://github.com/debezium/debezium
+            logo: debezium.svg
+      - subcategory:
+        name: Streaming & Messaging
+        items:
+          - item:
+            name: Kafka
+            homepage_url: https://kafka.apache.org/
+            repo_url: https://github.com/apache/kafka
+            logo: apache-kafka.svg
+            twitter: https://twitter.com/apachekafka
+            crunchbase: https://www.crunchbase.com/organization/apache
+          - item:
+            name: Pulsar
+            homepage_url: https://pulsar.apache.org
+            repo_url: https://github.com/apache/pulsar
+            logo: apache-pulsar.svg
+            crunchbase: https://www.crunchbase.com/organization/apache
+          - item:
+            name: Redpanda
+            description: "Kafka API compatible streaming data platform."
+            homepage_url: https://redpanda.com/platform
+            logo: redpanda.svg
+            crunchbase: https://www.crunchbase.com/organization/vectorized
+      - subcategory:
+        name: Stream Processing
+        items:
+          - item:
+            name: Flink
+            homepage_url: https://flink.apache.org/
+            repo_url: https://github.com/apache/flink
+            logo: apache-flink.svg
+            twitter: https://twitter.com/ApacheFlink
+            crunchbase: https://www.crunchbase.com/organization/apache
+          - item:
+            name: RisingWave
+            homepage_url: https://risingwave.com/
+            repo_url: https://github.com/risingwavelabs/risingwave
+            logo: risingwave.svg
+  - category:
+    name: Data Storage & Query
+    subcategories:
+      - subcategory:
+        name: Object Storage
+        items:
+          - item:
+            name: Ceph
+            homepage_url: https://www.ceph.io/en/
+            repo_url: https://github.com/ceph/ceph
+            logo: ceph.svg
+            twitter: https://twitter.com/Ceph
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+      - subcategory:
+        name: Open Table Formats
+        items:
+          - item:
+            name: Apache Iceberg
+            homepage_url: https://iceberg.apache.org/
+            repo_url: https://github.com/apache/iceberg
+            logo: apache-iceberg.svg
+            crunchbase: https://www.crunchbase.com/organization/apache
+          - item:
+            name: Delta Lake
+            homepage_url: https://delta.io/
+            repo_url: https://github.com/delta-io/delta
+            logo: delta-lake.svg
+            twitter: https://twitter.com/DeltaLakeOSS
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: Hudi
+            homepage_url: https://eng.uber.com/hoodie/
+            repo_url: https://github.com/apache/hudi
+            logo: apache-hudi.svg
+            crunchbase: https://www.crunchbase.com/organization/uber
+      - subcategory:
+        name: Analytical Databases
+        items:
+          - item:
+            name: ClickHouse
+            homepage_url: https://clickhouse.com
+            repo_url: https://github.com/ClickHouse/ClickHouse
+            logo: clickhouse.svg
+            twitter: https://twitter.com/clickhousedb
+            crunchbase: https://www.crunchbase.com/organization/clickhouse
+          - item:
+            name: Doris
+            homepage_url: https://doris.apache.org/
+            repo_url: https://github.com/apache/doris
+            logo: apache-doris.svg
+            twitter: https://twitter.com/doris_apache
+            crunchbase: https://www.crunchbase.com/organization/apache
+          - item:
+            name: Druid
+            homepage_url: https://druid.apache.org/
+            repo_url: https://github.com/apache/druid
+            logo: apache-druid.svg
+            twitter: https://twitter.com/druidio
+            crunchbase: https://www.crunchbase.com/organization/apache
+          - item:
+            name: DuckDB
+            homepage_url: https://duckdb.org/
+            repo_url: https://github.com/duckdb/duckdb
+            logo: duckdb.svg
+          - item:
+            name: Apache Pinot
+            homepage_url: https://pinot.apache.org/
+            repo_url: https://github.com/apache/pinot
+            logo: apache-pinot.svg
+          - item:
+            name: StarRocks
+            homepage_url: https://starrocks.io
+            repo_url: https://github.com/StarRocks/starrocks
+            logo: starrocks.svg
+            crunchbase: https://www.crunchbase.com/organization/celerdata
+      - subcategory:
+        name: Query Engines & Data Access
+        items:
+          - item:
+            name: Alluxio
+            homepage_url: https://www.alluxio.io/
+            repo_url: https://github.com/Alluxio/alluxio
+            logo: alluxio.svg
+            twitter: https://twitter.com/alluxio
+            crunchbase: https://www.crunchbase.com/organization/alluxio
+          - item:
+            name: Trino
+            homepage_url: https://trino.io/
+            repo_url: https://github.com/trinodb/trino
+            logo: trino.svg
+            twitter: https://twitter.com/trinodb
+            crunchbase: https://www.crunchbase.com/organization/starburst
+  - category:
+    name: Data Processing & Analytics
+    subcategories:
+      - subcategory:
+        name: Distributed Processing
+        items:
+          - item:
+            name: Apache Spark
+            homepage_url: https://spark.apache.org
+            repo_url: https://github.com/apache/spark
+            logo: apache-spark.svg
+            twitter: https://twitter.com/apachespark
+            crunchbase: https://www.crunchbase.com/organization/apache
+          - item:
+            name: Beam
+            homepage_url: https://beam.apache.org
+            repo_url: https://github.com/apache/beam
+            logo: apache-beam.svg
+            twitter: https://twitter.com/ApacheBeam
+            crunchbase: https://www.crunchbase.com/organization/apache
+          - item:
+            name: Dask
+            homepage_url: https://docs.dask.org/en/latest/
+            repo_url: https://github.com/dask/dask
+            logo: dask.svg
+            crunchbase: https://www.crunchbase.com/organization/continuum-analytics
+          - item:
+            name: Ray
+            homepage_url: https://bair.berkeley.edu/blog/2018/01/09/ray/
+            repo_url: https://github.com/ray-project/ray
+            logo: ray.svg
+            crunchbase: https://www.crunchbase.com/organization/university-of-california-berkeley
+      - subcategory:
+        name: DataFrames & Columnar
+        items:
+          - item:
+            name: Arrow
+            homepage_url: https://arrow.apache.org/
+            repo_url: https://github.com/apache/arrow
+            logo: apache-arrow.svg
+            twitter: https://twitter.com/ApacheArrow
+            crunchbase: https://www.crunchbase.com/organization/apache
+          - item:
+            name: pandas
+            homepage_url: https://pandas.pydata.org/
+            repo_url: https://github.com/pandas-dev/pandas
+            logo: pandas.svg
+            twitter: https://twitter.com/pandas_dev
+            crunchbase: https://www.crunchbase.com/organization/ursa-computing
+          - item:
+            name: Polars
+            homepage_url: https://pola.rs/
+            repo_url: https://github.com/pola-rs/polars
+            logo: polars.svg
+      - subcategory:
+        name: SQL Transformation
+        items:
+          - item:
+            name: dbt Core
+            homepage_url: https://www.getdbt.com/
+            repo_url: https://github.com/dbt-labs/dbt
+            logo: dbt-core.svg
+          - item:
+            name: SQLMesh
+            homepage_url: https://github.com/SQLMesh
+            repo_url: https://github.com/SQLMesh/sqlmesh
+            logo: sqlmesh.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+      - subcategory:
+        name: Notebooks
+        items:
+          - item:
+            name: JupyterHub
+            homepage_url: https://github.com/jupyterhub
+            repo_url: https://github.com/jupyterhub/jupyterhub
+            logo: jupyterhub.svg
+          - item:
+            name: Apache Zeppelin
+            homepage_url: https://zeppelin.apache.org/
+            repo_url: https://github.com/apache/zeppelin
+            logo: apache-zeppelin.svg
+            twitter: https://twitter.com/ApacheZeppelin
+            crunchbase: https://www.crunchbase.com/organization/apache
+      - subcategory:
+        name: BI & Visualization
+        items:
+          - item:
+            name: Metabase
+            homepage_url: https://metabase.com
+            repo_url: https://github.com/metabase/metabase
+            logo: metabase.svg
+            crunchbase: https://www.crunchbase.com/organization/metabase
+          - item:
+            name: Superset
+            homepage_url: https://superset.apache.org
+            repo_url: https://github.com/apache/superset
+            logo: apache-superset.svg
+            crunchbase: https://www.crunchbase.com/organization/apache
+  - category:
+    name: Data Pipeline Orchestration & CI/CD
+    subcategories:
+      - subcategory:
+        name: Workflow Orchestration
+        items:
+          - item:
+            name: Apache Airflow
+            homepage_url: https://airflow.apache.org/
+            repo_url: https://github.com/apache/airflow
+            logo: apache-airflow.svg
+            twitter: https://twitter.com/ApacheAirflow
+            crunchbase: https://www.crunchbase.com/organization/apache
+          - item:
+            name: Dagster
+            homepage_url: https://dagster.io/
+            repo_url: https://github.com/dagster-io/dagster
+            logo: dagster.svg
+            crunchbase: https://www.crunchbase.com/organization/elementl
+          - item:
+            name: Flyte
+            homepage_url: https://flyte.org
+            repo_url: https://github.com/flyteorg/flyte
+            logo: flyte.svg
+            twitter: https://twitter.com/flyteorg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: Kestra
+            homepage_url: https://kestra.io/
+            repo_url: https://github.com/kestra-io/kestra
+            logo: kestra.svg
+            crunchbase: https://www.crunchbase.com/organization/kestra
+          - item:
+            name: Luigi
+            homepage_url: https://github.com/spotify/luigi
+            repo_url: https://github.com/spotify/luigi
+            logo: luigi.svg
+            crunchbase: https://www.crunchbase.com/organization/spotify
+          - item:
+            name: Mage
+            homepage_url: https://www.mage.ai/
+            repo_url: https://github.com/mage-ai/mage-ai
+            logo: mage.svg
+          - item:
+            name: Prefect
+            homepage_url: https://docs.prefect.io/
+            repo_url: https://github.com/PrefectHQ/prefect
+            logo: prefect.svg
+            crunchbase: https://www.crunchbase.com/organization/prefect-technologies-inc
+          - item:
+            name: Temporal
+            homepage_url: https://temporal.io/
+            repo_url: https://github.com/temporalio/temporal
+            logo: temporal.svg
+      - subcategory:
+        name: Data Versioning
+        items:
+          - item:
+            name: DVC
+            homepage_url: https://dvc.org/
+            repo_url: https://github.com/treeverse/dvc
+            logo: dvc.svg
+            twitter: https://twitter.com/iterativeai
+            crunchbase: https://www.crunchbase.com/organization/iterative
+          - item:
+            name: lakeFS
+            description: "Data version control for object storage, with Git-like branches, commits and merges over data lakes."
+            homepage_url: https://lakefs.io/
+            logo: lakefs.svg
+      - subcategory:
+        name: Schema & Database Change Management
+        items:
+          - item:
+            name: Flyway
+            homepage_url: https://www.red-gate.com/products/flyway/community/
+            repo_url: https://github.com/flyway/flyway
+            logo: flyway.svg
+      - subcategory:
+        name: Data Contracts
+        items:
+          - item:
+            name: Bitol
+            homepage_url: https://bitol.io
+            repo_url: https://github.com/bitol-io/open-data-contract-standard
+            logo: bitol.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: Buf
+            homepage_url: https://buf.build/
+            repo_url: https://github.com/bufbuild/buf
+            logo: buf.svg
+            crunchbase: https://www.crunchbase.com/organization/buf-technologies
+      - subcategory:
+        name: Infrastructure as Code
+        items:
+          - item:
+            name: Crossplane
+            homepage_url: https://crossplane.io/
+            repo_url: https://github.com/crossplane/crossplane
+            logo: crossplane.svg
+            twitter: https://twitter.com/crossplane_io
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+  - category:
+    name: Data Quality, Governance & Observability
+    subcategories:
+      - subcategory:
+        name: Data Quality & Testing
+        items:
+          - item:
+            name: Great Expectations
+            homepage_url: https://greatexpectations.io/
+            repo_url: https://github.com/fivetran/great_expectations
+            logo: great-expectations.svg
+            crunchbase: https://www.crunchbase.com/organization/great-expectations-c89a
+      - subcategory:
+        name: Metadata & Catalogs
+        items:
+          - item:
+            name: Apache Atlas
+            homepage_url: https://atlas.apache.org/
+            repo_url: https://github.com/apache/atlas
+            logo: apache-atlas.svg
+            crunchbase: https://www.crunchbase.com/organization/apache
+          - item:
+            name: DataHub
+            homepage_url: https://github.com/datahub-project/datahub
+            repo_url: https://github.com/datahub-project/datahub
+            logo: datahub.svg
+            crunchbase: https://www.crunchbase.com/organization/linkedin
+          - item:
+            name: Egeria
+            homepage_url: https://egeria-project.org
+            repo_url: https://github.com/odpi/egeria
+            logo: egeria.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: Gravitino
+            homepage_url: https://gravitino.apache.org/
+            repo_url: https://github.com/apache/gravitino
+            logo: apache-gravitino.svg
+            crunchbase: https://www.crunchbase.com/organization/apache-gravitino
+          - item:
+            name: OpenMetadata
+            homepage_url: https://open-metadata.org/
+            repo_url: https://github.com/open-metadata/OpenMetadata
+            logo: openmetadata.svg
+          - item:
+            name: Unity Catalog
+            homepage_url: https://www.unitycatalog.io/
+            repo_url: https://github.com/unitycatalog/unitycatalog
+            logo: unity-catalog.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+      - subcategory:
+        name: Data Lineage
+        items:
+          - item:
+            name: Marquez
+            homepage_url: https://marquezproject.github.io/marquez
+            repo_url: https://github.com/MarquezProject/marquez
+            logo: marquez.svg
+            twitter: https://twitter.com/MarquezProject
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: OpenLineage
+            homepage_url: https://github.com/OpenLineage
+            repo_url: https://github.com/OpenLineage/OpenLineage
+            logo: openlineage.svg
+            twitter: https://twitter.com/OpenLineage
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+      - subcategory:
+        name: Access & Policy
+        items:
+          - item:
+            name: Apache Ranger
+            homepage_url: https://ranger.apache.org
+            repo_url: https://github.com/apache/ranger
+            logo: apache-ranger.svg
+            crunchbase: https://www.crunchbase.com/organization/apache
+      - subcategory:
+        name: Data & Pipeline Observability
+        items:
+          - item:
+            name: Elementary
+            homepage_url: https://www.elementary-data.com/
+            repo_url: https://github.com/elementary-data/elementary
+            logo: elementary.svg
+          - item:
+            name: OpenObserve
+            homepage_url: http://openobserve.ai/
+            repo_url: https://github.com/openobserve/openobserve
+            logo: openobserve.svg
+            twitter: https://twitter.com/OpenObserve
+            crunchbase: https://www.crunchbase.com/organization/zincsearch
+          - item:
+            name: SigNoz
+            homepage_url: https://signoz.io/
+            repo_url: https://github.com/SigNoz/signoz
+            logo: signoz.svg
+            crunchbase: https://www.crunchbase.com/organization/signoz
+  - category:
+    name: Data for AI & ML
+    subcategories:
+      - subcategory:
+        name: Feature Stores
+        items:
+          - item:
+            name: Feast
+            homepage_url: https://feast.dev/
+            repo_url: https://github.com/feast-dev/feast
+            logo: feast.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+      - subcategory:
+        name: ML Lifecycle
+        items:
+          - item:
+            name: Kubeflow
+            homepage_url: https://www.kubeflow.org/
+            repo_url: https://github.com/kubeflow/kubeflow
+            logo: kubeflow.svg
+            twitter: https://twitter.com/kubeflow
+            crunchbase: https://www.crunchbase.com/organization/google
+          - item:
+            name: MLflow
+            homepage_url: https://mlflow.org/
+            repo_url: https://github.com/mlflow/mlflow
+            logo: mlflow.svg
+            twitter: https://twitter.com/MLflow
+            crunchbase: https://www.crunchbase.com/organization/databricks
+      - subcategory:
+        name: Vector Databases
+        items:
+          - item:
+            name: Chroma
+            homepage_url: https://github.com/chroma-core/chroma
+            repo_url: https://github.com/chroma-core/chroma
+            logo: chroma.svg
+          - item:
+            name: Milvus
+            homepage_url: https://milvus.io
+            repo_url: https://github.com/milvus-io/milvus
+            logo: milvus.svg
+            twitter: https://twitter.com/milvusio
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: Qdrant
+            homepage_url: https://qdrant.tech
+            repo_url: https://github.com/qdrant/qdrant
+            logo: qdrant.svg
+            crunchbase: https://www.crunchbase.com/organization/qdrant
+          - item:
+            name: Weaviate
+            homepage_url: https://weaviate.io/developers/weaviate/current/index.html
+            repo_url: https://github.com/weaviate/weaviate
+            logo: weaviate.svg
+            crunchbase: https://www.crunchbase.com/organization/weaviate
   - category:
     name: CDF Members
     subcategories:

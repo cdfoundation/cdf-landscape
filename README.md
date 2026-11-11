@@ -30,6 +30,8 @@ This landscape is intended as a map to explore various tools and services that s
 
 Please see [landscape.cd.foundation](https://landscape.cd.foundation).
 
+The DataOps tools curated by the [CDF DataOps Initiative](https://github.com/cdfoundation/dataops-initiative) are shown in the DataOps group: [landscape.cd.foundation/?group=dataops](https://landscape.cd.foundation/?group=dataops).
+
 ## New Entries
 
 * We welcome additions for CI/CD projects that clearly fit in an existing landscape category, and that have 300+ GitHub stars. 
